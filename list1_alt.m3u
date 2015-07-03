@@ -168,6 +168,8 @@ http://movilstream.digitalproserver.com/tiempotv/tiempotvvivo/tiempotv.smil/play
 http://movilstream.digitalproserver.com/zerotv/zerotvvivo/zerotv.smil/playlist.m3u8
 #EXTINF:-1,Radio la clave
 http://movilstream.digitalproserver.com/laclavetv/laclavetvvivo/laclavetv.smil/playlist.m3u8
+#EXTINF:-1,Adn Stream
+http://movilstream.digitalproserver.com/adn/adnvivo/adn.smil/playlist.m3u8
 #EXTINF:-1,Vevo1 HD
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
 #EXTINF:-1,Vevo2 HD
