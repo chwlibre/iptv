@@ -70,6 +70,10 @@ http://evo.eltelon.com:443/live/independencia-tv/playlist.m3u8?MegaIPTVArgentina
 http://wow2.cl.digitalproserver.com/atv/atvvivo/atv.smil/hasbahca.m3u8
 #EXTINF:0,Canal 9 Bio Bio
 http://wow2.cl.digitalproserver.com/c9//c9.smil/chunklist_w722946044_b1200000.m3u8?MegaIPTVArgentina
+#EXTINF:-1,La Red
+http://movilstream.digitalproserver.com/redtv/redtvvivo/redtv.smil/chunklist-b1564000.m3u8
+#EXTINF:-1,Canal 13
+http://live.hls.http.13.ztreaming.com/13hddesktop/13hd-900.m3u8
 
 
 
