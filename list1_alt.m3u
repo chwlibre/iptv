@@ -7,7 +7,7 @@ http://?
 #EXTINF:-1,La Red
 http://movilstream.digitalproserver.com/redtv/redtvvivo/redtv.smil/chunklist-b1564000.m3u8
 #EXTINF:-1,UCV
-http://wow1.dallas.digitalproserver.com/redtv/redtvvivo/livestream3/master.m3u8
+http://movilstream.digitalproserver.com/ucvtv/_definst_/ucvtv.smil/chunklist-b1248000.m3u8
 #EXTINF:-1,TVN
 http://edge-11-mvstr.edge.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
 #EXTINF:-1,MEGA
