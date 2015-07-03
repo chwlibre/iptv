@@ -13,11 +13,15 @@ http://edge-11-mvstr.edge.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f
 #EXTINF:-1,MEGA
 http://edge-11-mvstr.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist_b1500.m3u8
 #EXTINF:-1,CHV
-http://live.hls.http.chv.ztreaming.com/chvhddesktop/chv-desktop.m3u8
+http://live.hls.http.chv.ztreaming.com/chvhddesktop/chvHi.m3u8
 #EXTINF:-1,Canal 13
-http://live.hls.http.13.ztreaming.com/13hddesktop/13hd-900.m3u8
-#EXTINF:-1,Canal 13C
+http://cluster.13movil.ztreaming.com/13tv2/stream1grpz13t29102012.sdp/playlist.m3u8
+#EXTINF:-1,13C
 http://cluster.13cmovil.ztreaming.com/13cm/grpz13c/playlist.m3u8
+#EXTINF:-1,REC TV
+http://13rec.movil.ztreaming.com:1935/13rec/13rec/playlist.m3u8
+
+#EXTINF:-1 group-title="Chile",.: CHILE REGIONALES :.
 #EXTINF:0,El Pingüino TV
 http://streaming.elpinguino.com:1935/live/pinguinotv_360p/chunklist_w194650448.m3u8?MegaIPTVArgentina
 #EXTINF:0,ATV VALDIVIA
@@ -76,10 +80,6 @@ http://iphone-streaming.ustream.tv/uhls/20663014/streams/live/iphone/playlist.m3
 http://ooyalahd2-f.akamaihd.net/i/americatv_delivery@25405/index_1728_av-p.m3u8
 #EXTINF:0,Universal Movies.mx,Universal Movies
 http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8
-#EXTINF:-1,Tiempo
-http://movilstream.digitalproserver.com/tiempotv/tiempotvvivo/tiempotv.smil/playlist.m3u8
-#EXTINF:-1,Zero
-http://movilstream.digitalproserver.com/zerotv/zerotvvivo/zerotv.smil/playlist.m3u8
 #EXTINF:0,Cesfam TV
 http://evo.eltelon.com:443/live/cesfamtv/playlist.m3u8
 
@@ -137,18 +137,40 @@ http://live.mvdigital.net:1935/live13/livestream1.sdp/playlist.m3u8?
 rtmp://190.107.176.167:1935/live/estudio-tv
 #EXTINF:-1,DANCE TV
 http://87.239.31.232/hls/230.3.4.169.sd.stream.m3u8
+#EXTINF:-1,MTV ROCKS
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVROCKS/variant.m3u8
+#EXTINF:-1,MTV DANCE
+http://92.50.181.6/tv/1280/index.m3u8
+#EXTINF:-1,MTV ROCKS
+http://92.50.181.6/tv/1279/index.m3u8
+#EXTINF:-1,MTV HITS
+http://92.50.181.6/tv/1278/index.m3u8
+#EXTINF:-1,MTV LIVE
+http://78.30.254.43:8989/udp/239.0.0.196:4000
+#EXTINF:-1,MTV
+http://92.50.181.6/tv/1284/index.m3u8
+#EXTINF:-1,VH1 CLASSIC
+http://92.50.181.6/tv/1282/index.m3u8
+#EXTINF:-1,VH1
+http://92.50.181.6/tv/1281/index.m3u8
+#EXTINF:-1,Kiss tv
+rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
+#EXTINF:-1,Q Musica
+mms://200.42.92.6:1755/qmusica
+#EXTINF:-1,Duna
+http://wow1.dallas.digitalproserver.com/dunatv/dunatvvivo/dunatv.smil/playlist.m3u8
+#EXTINF:-1,Freaky
+http://movilstream.digitalproserver.com/freakytv//freakytv.smil/playlist.m3u8
+#EXTINF:-1,Tiempo
+http://movilstream.digitalproserver.com/tiempotv/tiempotvvivo/tiempotv.smil/playlist.m3u8
+#EXTINF:-1,Zero
+http://movilstream.digitalproserver.com/zerotv/zerotvvivo/zerotv.smil/playlist.m3u8
 #EXTINF:-1,Vevo1 HD
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
 #EXTINF:-1,Vevo2 HD
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
 #EXTINF:-1,Vevo3 HD
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
-#EXTINF:-1,MTV ROCKS
-http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVROCKS/variant.m3u8
-#EXTINF:-1,Kiss tv
-rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
-#EXTINF:-1,Q Musica
-mms://200.42.92.6:1755/qmusica
 
 
 
