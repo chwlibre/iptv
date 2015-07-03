@@ -21,7 +21,7 @@ http://cluster.13cmovil.ztreaming.com/13cm/grpz13c/playlist.m3u8
 #EXTINF:-1,REC TV
 http://13rec.movil.ztreaming.com:1935/13rec/13rec/playlist.m3u8
 
-#EXTINF:-1 group-title="Chile",.: CHILE REGIONALES :.
+#EXTINF:-1 group-title="Chile Regionales",.: CHILE REGIONALES :.
 #EXTINF:0,El Pingüino TV
 http://streaming.elpinguino.com:1935/live/pinguinotv_360p/chunklist_w194650448.m3u8?MegaIPTVArgentina
 #EXTINF:0,ATV VALDIVIA
