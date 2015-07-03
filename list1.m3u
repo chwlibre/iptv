@@ -66,3 +66,30 @@ http://movilstream.digitalproserver.com/freakytv//freakytv.smil/playlist.m3u8
 http://movilstream.digitalproserver.com/tiempotv/tiempotvvivo/tiempotv.smil/playlist.m3u8
 #EXTINF:-1,Zero
 http://movilstream.digitalproserver.com/zerotv/zerotvvivo/zerotv.smil/playlist.m3u8
+#EXTINF:-1,Radio La Clave
+http://wow2.cl.digitalproserver.com/laclavetv/laclavetvvivomp4:livestream2/playlist.m3u8
+#EXTINF:0,Cesfam TV
+http://evo.eltelon.com:443/live/cesfamtv/playlist.m3u8
+#EXTINF:0,DCH TV
+http://evo.eltelon.com:443/live/dch-tv/playlist.m3u8?MegaIPTVArgentina
+#EXTINF:0,El Pingüino TV
+http://streaming.elpinguino.com:1935/live/pinguinotv_360p/chunklist_w194650448.m3u8?MegaIPTVArgentina
+#EXTINF:0,ATV VALDIVIA
+http://190.107.176.167:1935/live/atv-valdivia/chunklist_w847189729.m3u8
+#EXTINF:0,Campus TV (señal tvn copa america)
+http://wow2.cl.digitalproserver.com/campustv/campustvvivo/campustv.smil/chunklist_w662421777_b848000.m3u8
+#EXTINF:0,Arica TV
+http://wow2.cl.digitalproserver.com/aricatv/aricatvvivo/aricatv.smil/chunklist_w725671068_b848000.m3u8
+#EXTINF:0,TV Independencia
+http://evo.eltelon.com:443/live/independencia-tv/playlist.m3u8?MegaIPTVArgentina
+#EXTINF:0,ANTOFAGASTA TV
+http://wow2.cl.digitalproserver.com/atv/atvvivo/atv.smil/hasbahca.m3u8
+#EXTINF:0,Canal 9 Bio Bio
+http://wow2.cl.digitalproserver.com/c9//c9.smil/chunklist_w722946044_b1200000.m3u8?MegaIPTVArgentina
+#EXTINF:0,Contivision
+http://wow2.cl.digitalproserver.com/contivisionhd/contivisionhdvivomp4:livestream1/playlist.m3u8
+#EXTINF:0,Teletrak
+http://movilstream.digitalproserver.com/sporting/sportingvivo/livestream1/chunklist.m3u8
+#EXTINF:0,PuraNoticia Tv
+http://wow2.cl.digitalproserver.com/puranoti/puranotivivomp4:livestream1/playlist.m3u8
+
