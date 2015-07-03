@@ -1,0 +1,188 @@
+#EXTM3U
+#EXTINF:-1,La Red
+http://movilstream.digitalproserver.com/redtv/redtvvivo/redtv.smil/chunklist-b1564000.m3u8
+#EXTINF:-1,UCV
+http://movilstream.digitalproserver.com/ucvtv/_definst_/ucvtv.smil/chunklist-b1248000.m3u8
+#EXTINF:-1,TVN
+http://edge-11-mvstr.edge.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
+#EXTINF:-1,MEGA
+http://edge-11-mvstr.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist_b1500.m3u8
+
+#EXTINF:-1,CHV
+http://live.hls.http.chv.ztreaming.com/chvhddesktop/chvHi.m3u8
+
+#EXTINF:-1,Canal 13
+http://cluster.13movil.ztreaming.com/13tv2/stream1grpz13t29102012.sdp/playlist.m3u8
+#EXTINF:-1,13C
+http://cluster.13cmovil.ztreaming.com/13cm/grpz13c/playlist.m3u8
+#EXTINF:-1,REC TV
+http://13rec.movil.ztreaming.com:1935/13rec/13rec/playlist.m3u8
+
+#EXTINF:-1,HBO2
+http://37.130.229.236:1935/live/hbo253/playlist.m3u8?id=39734&wowzasessionid=739802354&pk=470f759e1691d29fb3d873a3de987c206cd2cfa8e2e257c427961d5253a88720
+#EXTINF:-1,Antena 3
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8?
+#EXTINF:-1,ETC TV
+http://movilstream.digitalproserver.com/etctv/etctvvivo/etctv.smil/chunklist-b948000.m3u8
+#EXTINF:-1,FOX SPORTS
+http://cdn5.iviplanet.com:1935/TELEPACIFICO-TO/myStream.sdp/playlist.m3u8
+#EXTINF:-1,ESPN
+http://cdn5.iviplanet.com:1935/CITYTV-TO/myStream.sdp/playlist.m3u8
+#EXTINF:-1,CDF
+http://65.202.39.110:5000/live/cdf_chile_deporte/playlist.m3u8?token=
+#EXTINF:-1,REAL MADRID TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,ESTUDIO TV
+rtmp://190.107.176.167:1935/live/estudio-tv
+#EXTINF:-1,MTV DANCE
+http://92.50.181.6/tv/1280/index.m3u8
+#EXTINF:-1,MTV ROCKS
+http://92.50.181.6/tv/1279/index.m3u8
+#EXTINF:-1,MTV HITS
+http://92.50.181.6/tv/1278/index.m3u8
+#EXTINF:-1,MTV LIVE
+http://78.30.254.43:8989/udp/239.0.0.196:4000
+#EXTINF:-1,MTV
+http://92.50.181.6/tv/1284/index.m3u8
+#EXTINF:-1,VH1 CLASSIC
+http://92.50.181.6/tv/1282/index.m3u8
+#EXTINF:-1,VH1
+http://92.50.181.6/tv/1281/index.m3u8
+#EXTINF:-1,DANCE TV
+http://87.239.31.232/hls/230.3.4.169.sd.stream.m3u8
+#EXTINF:-1,Vevo1 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
+#EXTINF:-1,Vevo2 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
+#EXTINF:-1,Vevo3 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
+#EXTINF:-1,Uoct
+http://mdstrm.com/live-stream-playlist-v/53443c472c6e89675103cc4c.m3u8
+#EXTINF:-1,Duna
+http://wow1.dallas.digitalproserver.com/dunatv/dunatvvivo/dunatv.smil/playlist.m3u8
+#EXTINF:-1,Freaky
+http://movilstream.digitalproserver.com/freakytv//freakytv.smil/playlist.m3u8
+#EXTINF:-1,Tiempo
+http://movilstream.digitalproserver.com/tiempotv/tiempotvvivo/tiempotv.smil/playlist.m3u8
+#EXTINF:-1,Zero
+http://movilstream.digitalproserver.com/zerotv/zerotvvivo/zerotv.smil/playlist.m3u8
+
+#PR0N
+#EXTINF:-1,XXX
+http://188.165.220.116:8081/live/36/playlist.m3u8
+#EXTINF:-1,XXX
+http://188.165.220.116:8081/live2/11/playlist.m3u8
+#EXTINF:-1,PRIVATE
+http://178.33.126.213:1935/leved/privateCom/.m3u8
+#EXTINF:-1,BLAZZERS
+http://212.220.30.219/hls/CH_BRAZZERSTV/bw1500000/variant.m3u8?version=2
+#EXTINF:-1,Russian Night
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_RUSSIANNIGHT/variant.m3u8?version=2
+#EXTINF:-1,O-La-La
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_OLALA/variant.m3u8?version=2
+#EXTINF:-1,XXX
+http://wowza1.videos.movile.com:8080/live/smil:adulto_1.smil/playlist.m3u8
+#EXTINF:-1,XXL
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_XXL/variant.m3u8?version=2
+#EXTINF:-1,BLUE HUSTLER
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_BLUEHUSTLER/variant.m3u8?version=2
+#EXTINF:-1,PlayBoy
+http://hlsstr04.svc.iptv.rt.ru/hls/CH_PLAYBOY/variant.m3u8?version=2
+#EXTINF:-1,JASMIN TV
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/PAZ_Chega_de_Guerras.m3u8
+#EXTINF:-1,xxx
+http://playback.d2see.com:1935/wavemachine-live01/_definst_/mp4:playboytv_channel1/chunklist_w550654983.m3u8
+#EXTINF:-1,LIVE SEX
+http://178.33.126.213:1935/leved/livesexlatinas/chunklist.m3u8?
+#EXTINF:-1,Babestation
+http://46.105.116.159:1935/cellcast/encoder22/.m3u8
+#EXTINF:-1,Babestation Blue
+http://178.33.126.213:1935/cellcast/encoder32/.m3u8
+#EXTINF:-1,Babestation Unleashed
+http://46.105.116.159:1935/iptv_cellcast_24/livestream_three2/.m3u8
+#EXTINF:-1,Babestation Unleashed 2
+http://178.33.126.213:1935/iptv_cellcast_24/livestream_two2/.m3u8
+#EXTINF:-1,BABES SPORTING
+http://stream02.yamgo.com/iPhone/broadcast/babe_spotting-tablet.3gp/babe_spotting-tablet.3gp-mr648k.m3u8
+
+#EXTINF:-1,HOT SHOTS
+http://46.249.213.93/iPhone/HLS_TS/broadcast/hotshots-tablet.3gp/hotshots-tablet.3gp-mr649k.m3u8
+#EXTINF:-1,HOT SHOTS BEACH
+http://stream02.yamgo.com/iPhone/broadcast/hot_shots_beach_babes-tablet.3gp/hot_shots_beach_babes-tablet.3gp-mr646k.m3u8
+#EXTINF:-1,BELLA CLUB
+http://stream01.yamgo.com/iPhone/broadcast/bella_club_luz-tablet.3gp/bella_club_luz-tablet.3gp-mr647k.m3u8
+#EXTINF:-1,DIVA LITE
+http://stream02.yamgo.com/iPhone/broadcast/you_diva_lite-tablet.3gp/you_diva_lite-tablet.3gp-mr657k.m3u8
+#EXTINF:-1,HOT 100
+http://stream02.yamgo.com/iPhone/HLS_TS/broadcast/hot_100-tablet.3gp/hot_100-tablet.3gp-mr647k.m3u8
+#EXTINF:-1,Power Girls TV
+http://46.249.213.93/iPhone/broadcast/powergirls-tablet.3gp/powergirls-tablet.3gp-mr648k.m3u8
+#EXTINF:-1,ASIA1
+http://59.120.43.181:8081
+#EXTINF:-1,ASIA2
+http://59.120.43.181:8082
+#EXTINF:-1,ASIA3
+http://59.120.43.181:8083
+#EXTINF:-1,ASIA4
+http://59.120.43.181:8084
+
+
+#VIDEOS x
+#EXTINF:-1,VOD1
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloeamour022714/content/vid01.mp4
+#EXTINF:-1,VOD2
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_sabrinabanks071414/content/vid01.mp4
+#EXTINF:-1,VOD3
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_tiffanyfox030514/content/vid01.mp4
+#EXTINF:-1,VOD4
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_kaceyjordan061914/content/vid01.mp4
+#EXTINF:-1,VOD5
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_jennaross040414/content/vid01.mp4
+#EXTINF:-1,VOD6
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_kaceyjordan031914/content/vid01.mp4
+#EXTINF:-1,VOD7
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloefoster021214/content/vid01.mp4
+#EXTINF:-1,VOD8
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dillionharper030614/content/vid01.mp4
+#EXTINF:-1,VOD9
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_emmastoned03414/content/vid01.mp4
+#EXTINF:-1,VOD10
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_avataylor_emmastoned032514/content/vid01.mp4
+#EXTINF:-1,VOD11
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dakotaskye040314/content/vid01.mp4
+#EXTINF:-1,VID
+http://videos-porno8.petardashd.com/archivos3/hd/hd-169784-9ddd444.mp4
+#EXTINF:-1,VID
+http://www.pornoid.com/get_file/1/97d87ea457fd5fe1344898ca9f39e656/11000/11231/11231.mp4
+#EXTINF:-1,VID
+http://videos-porno5.petardashd.com/archivos3/hd/hd-169871-9830686.mp4
+#EXTINF:-1,VID
+http://videos-porno5.petardashd.com/archivos3/hd/hd-171599-0327123.mp4
+#EXTINF:-1,VID
+http://videos-porno2.petardashd.com/archivos3/hd/hd-169902-98710ed.mp4
+#EXTINF:-1,VID
+http://videos-porno1.petardashd.com/archivos3/hd/hd-169826-9ef34cc.mp4
+#EXTINF:-1,VID
+http://videos-porno5.petardashd.com/archivos3/hd/hd-167129-cb87d4c.mp4
+#EXTINF:-1,VID
+http://videos-porno1.petardashd.com/archivos3/hd/hd-167337-ca5a5f9.mp4
+#EXTINF:-1,VID
+http://videos-porno5.petardashd.com/archivos3/hd/hd-166446-cac0bc8.mp4
+#EXTINF:-1,VID
+http://videos-porno5.petardashd.com/archivos3/hd/hd-168818-cb39265.mp4
+#EXTINF:-1,VID
+http://videos-porno1.petardashd.com/archivos3/hd/hd-171174-25eabfb.mp4
+#EXTINF:-1,VID
+http://videos-porno5.petardashd.com/archivos3/hd/hd-167704-cb3bbf3.mp4
+#EXTINF:-1,VID
+http://videos-porno5.petardashd.com/archivos3/hd/hd-166393-c7b993b.mp4
+#EXTINF:-1,VID
+http://videos-porno2.petardashd.com/archivos3/hd/hd-167775-c7bfee1.mp4
+#EXTINF:-1,VID
+http://videos-porno2.petardashd.com/archivos3/hd/hd-171326-20b3d23.mp4
+#EXTINF:-1,VID
+http://videos-porno2.petardashd.com/archivos3/hd/hd-167362-c7c997c.mp4
+#EXTINF:-1,VID
+http://videos-porno8.petardashd.com/archivos3/hd/hd-167593-cb7cb5e.mp4
+#EXTINF:-1,VID
+http://videos-porno2.petardashd.com/archivos3/hd/hd-171088-269e957.mp4
