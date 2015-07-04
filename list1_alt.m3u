@@ -51,6 +51,8 @@ rtmp://c5n.stweb.tv:1935/c5n/live
 http://iphone-streaming.ustream.tv/ustreamVideo/10923213/streams/live/playlist.m3u8
 #EXTINF:-1,Colombia - Señal Colombia
 http://cdns840stu1010.multistream.net/rtvc2live/amlst:scolombia/chunklist_b500000.m3u8
+#EXTINF:-1,Colombia - Caracol
+http://caracoltvlivehds-lh.akamaihd.net/i/caracol02_1@126280/index_1028_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1,España - TVE 24h
 http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8?
 #EXTINF:-1,Mexico - Foro TV
@@ -65,8 +67,6 @@ http://187.237.253.94:8134/hls-live/livepkgr/_definst_/liveevent.m3u8
 http://www.oncetvmexicolive.tv:1935/livepkgr2/smil:int.smil/playlist.m3u8
 #EXTINF:-1 ,Mexico - Ocho TV
 http://201.130.193.150:1935/codecsys/smil:ocho.smil/master.m3u8
-#EXTINF:-1,Mexico - Caracol
-http://caracoltvlivehds-lh.akamaihd.net/i/caracol02_1@126280/index_1028_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1,Mexico - UNOTV HD
 http://ooyalahd2-f.akamaihd.net/i/UnoTV02_delivery@122617/master.m3u8
 #EXTINF:-1,Mexico - Univision
