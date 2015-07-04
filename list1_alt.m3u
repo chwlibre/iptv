@@ -55,9 +55,9 @@ http://cdns840stu1010.multistream.net/rtvc2live/amlst:scolombia/chunklist_b50000
 http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8?
 #EXTINF:-1,Mexico - Foro TV
 http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/index_1200_av-b.m3u8
-#EXTINF:-1 tvg-id="Canal DE LAS ESTRELLAS" tvg-name="Mexico - Canal DE LAS ESTRELLAS" tvg-logo="canal 2.png" group-title="Variedades - Latinos",Canal DE LAS ESTRELLAS
+#EXTINF:-1,Mexico - Canal de las Estrellas
 http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8
-#EXTINF:-1 tvg-id="Azteca 7" tvg-name="Mexico - Azteca_7" tvg-logo="azteca 7.png" group-title="Variedades - Latinos",Azteca 7 Monterrey México
+#EXTINF:-1,Mexico - Azteca 7 Monterrey
 http://38.104.228.230:1938/info7/info7_512/playlist.m3u8
 #EXTINF:-1,Mexico - Capital 21
 http://187.237.253.94:8134/hls-live/livepkgr/_definst_/liveevent.m3u8
@@ -71,17 +71,20 @@ http://caracoltvlivehds-lh.akamaihd.net/i/caracol02_1@126280/index_1028_av-p.m3u
 http://ooyalahd2-f.akamaihd.net/i/UnoTV02_delivery@122617/master.m3u8
 #EXTINF:-1,Mexico - Univision
 http://iphone-streaming.ustream.tv/uhls/20663014/streams/live/iphone/playlist.m3u8#GerardoLoyolaIPTV
-#EXTINF:0,Mexico - Universal Movies.mx,Universal Movies
-http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,Miami - Telemundo 001
 http://iphone-streaming.ustream.tv/uhls/20487775/streams/live/iphone/playlist.m3u8#GerardoLoyolaIPTV
 #EXTINF:-1,Miami - Telemundo 002
 http://iphone-streaming.ustream.tv/ustreamVideo/20720323/streams/live/playlist.m3u8#GerardoLoyolaIPTV
-#EXTINF:0,Peru - America TV HD
+#EXTINF:-1,Peru - America TV HD
 http://ooyalahd2-f.akamaihd.net/i/americatv_delivery@25405/index_1728_av-p.m3u8
 #EXTINF:-1,Venezuela - Venezolana TV
 http://cast.streamingconnect.tv:1935/vtvweb2/vtvweb2/playlist.m3u8
 
+#EXTINF:-1 group-title="Peliculas",.: PELICULAS :.
+http://?
+
+#EXTINF:-1,Universal Movies.mx,Universal Movies
+http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8
 
 #EXTINF:-1 group-title="Infantil",.: INFANTILES :.
 http://?
