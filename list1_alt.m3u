@@ -4,6 +4,8 @@ http://?
 
 #EXTINF:-1 group-title="Chile",.: CHILE :.
 http://?
+#EXTINF:-1,TELECANAL SANTIAGO CHILE
+http://movilstream.digitalproserver.com/tcsc/tcscvivo/livestream2/playlist.m3u8
 #EXTINF:-1,La Red
 http://movilstream.digitalproserver.com/redtv/redtvvivo/redtv.smil/chunklist-b1564000.m3u8
 #EXTINF:-1,UCV
@@ -115,6 +117,8 @@ http://93.174.95.125:1935/edge/_definst_/rgyus7ao2ullmbt/playlist.m3u8?wowzasess
 http://93.174.95.125:1935/edge/_definst_/5hd19kwxef5b59o/playlist.m3u8?wowzasessionid=1420123722
 #EXTINF:-1,CDF
 http://65.202.39.110:5000/live/cdf_chile_deporte/playlist.m3u8?token=
+#EXTINF:-1,VIVE DEPORTES SANTIAGO CHILE
+http://200.104.250.182:1935/vtr_vivedeportes_online/vivedeportes-ipad/playlist.m3u8?wowzasessionid=1070247734
 #EXTINF:0,RealMadridTV.sp,Real Madrid TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-b.m3u8?sd=10&rebase;=on.
 #EXTINF:-1 tvg-id="CNOPT1" tvg-logo="cnopt1.png" group-title="Deportes",CNOPT 1
