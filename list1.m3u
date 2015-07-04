@@ -1,15 +1,30 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="updt" tvg-logo="upd.png",actualizada en foro CHW.net por los propios usuarios **  
 http://?
+#EXTINF:-1 group-title="Nacionales",.: NACIONALES :.
+#EXTINF:-1,La Red
+http://movilstream.digitalproserver.com/redtv/redtvvivo/redtv.smil/chunklist-b1564000.m3u8
+#EXTINF:-1,UCV
+http://movilstream.digitalproserver.com/ucvtv/_definst_/ucvtv.smil/chunklist-b1248000.m3u8
+#EXTINF:-1,TVN
+http://edge-11-mvstr.edge.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
+#EXTINF:-1,MEGA
+http://edge-11-mvstr.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist_b1500.m3u8
+#EXTINF:-1,CHV
+http://live.hls.http.chv.ztreaming.com/chvhddesktop/chvHi.m3u8
+#EXTINF:-1,Canal 13
+http://cluster.13movil.ztreaming.com/13tv2/stream1grpz13t29102012.sdp/playlist.m3u8
+#EXTINF:-1,13C
+http://cluster.13cmovil.ztreaming.com/13cm/grpz13c/playlist.m3u8
+#EXTINF:-1,REC TV
+http://13rec.movil.ztreaming.com:1935/13rec/13rec/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="Entretenimiento",.: ENTRETENIMIENTO :.
+#EXTINF:-1 group-title="TV Extranjera",.: TV EXTRANJERA :.
 http://?
 #EXTINF:-1, Adn Stream
 http://movilstream.digitalproserver.com/adn/adnvivo/adn.smil/playlist.m3u8
-#EXTINF:-1,TVN
-http://edge-11-mvstr.edge.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
 #EXTINF:-1,Foro TV
 http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/index_1200_av-b.m3u8
 #EXTINF:-1,TV Nuevo León
@@ -30,8 +45,6 @@ http://caracoltvlivehds-lh.akamaihd.net/i/caracol02_1@126280/index_1028_av-p.m3u
 http://cdns840stu1010.multistream.net/rtvc2live/amlst:scolombia/chunklist_b500000.m3u8
 #EXTINF:-1,C5N
 rtmp://c5n.stweb.tv:1935/c5n/live
-#EXTINF:-1,MEGA
-http://edge-11-mvstr.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist_b1500.m3u8
 #EXTINF:-1,Canal 12 Cordoba
 http://iphone-streaming.ustream.tv/ustreamVideo/10923213/streams/live/playlist.m3u8
 #EXTINF:-1,UNOTV HD
@@ -72,10 +85,6 @@ http://evo.eltelon.com:443/live/independencia-tv/playlist.m3u8?MegaIPTVArgentina
 http://wow2.cl.digitalproserver.com/atv/atvvivo/atv.smil/hasbahca.m3u8
 #EXTINF:0,Canal 9 Bio Bio
 http://wow2.cl.digitalproserver.com/c9//c9.smil/chunklist_w722946044_b1200000.m3u8?MegaIPTVArgentina
-#EXTINF:-1,La Red
-http://movilstream.digitalproserver.com/redtv/redtvvivo/redtv.smil/chunklist-b1564000.m3u8
-#EXTINF:-1,Canal 13
-http://live.hls.http.13.ztreaming.com/13hddesktop/13hd-900.m3u8
 
 
 #EXTINF:-1 group-title="Infantil",.: INFANTILES :.
