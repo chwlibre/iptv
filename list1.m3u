@@ -100,6 +100,378 @@ http://4BA9EBDB07C05883:@5.159.96.170:8000/sport1
 http://185.56.30.127:8082/TV4251
 #EXTINF:-1, Sky Movies Comedy
 http://185.56.30.127:8082/TV4246
+#EXTINF:0,El trece
+rtsp://stream.eltrecetv.com.ar:554/live13/13tv/13tv1
+#EXTINF:0,MAGAZINE
+rtsp://stream.mgzn.tv:554/live/mgzntv/mgzntv
+#EXTINF:0,AMERICA
+http://live-edge01.telecentro.net.ar/live/amrchd-360/playlist.m3u8?
+#EXTINF:0,TELEFE
+http://live-edge01.telecentro.net.ar/live/tlfhd-360/playlist.m3u8?
+#EXTINF:0,TVP CANAL 7
+rtsp://live-edge01.telecentro.net.ar:80/live/26hd-360
+#EXTINF:0,CANAL26
+http://live-edge01.telecentro.net.ar:1935/live/tvphd-360/playlist.m3u8
+#EXTINF:0,UNIVERSAL
+http://31.220.40.108:80/LiveEdge/UniversalLASD/playlist.m3u8?token=03a3a7ec7b0911e78087ff3bcb6e6b33
+ 
+#EXTINF:0,AXN
+http://31.220.41.103:80/LiveEdge/AXNLA/playlist.m3u8?token=03a3a7ec7b0911e78087ff3bcb6e6b33
+ 
+#EXTINF:0,CASA CLUB
+http://31.220.41.103:80/LiveEdge/CasaClubLA/playlist.m3u8?token=03a3a7ec7b0911e78087ff3bcb6e6b33
+ 
+#EXTINF:0,CINE DINAMITA
+http://31.220.40.119:80/LiveEdge/CineDinamitaLA/playlist.m3u8?token=03a3a7ec7b0911e78087ff3bcb6e6b33
+ 
+#EXTINF:0,MULTIMPREMIER
+http://31.220.40.108:80/LiveEdge/MultiPremierLA/playlist.m3u8?token=03a3a7ec7b0911e78087ff3bcb6e6b33
+ 
+#EXTINF:0,GOLDEN MULTIPLEX
+http://31.220.40.121:80/LiveEdge/GoldenMPLXLA/playlist.m3u8?token=03a3a7ec7b0911e78087ff3bcb6e6b33
+ 
+#EXTINF:0,PARAMOUNT
+http://31.220.40.123:80/LiveEdge/ParamountChannelLatinAmericaHD/playlist.m3u8?token=03a3a7ec7b0911e78087ff3bcb6e6b33
+ 
+#EXTINF:0,FILM ARTS
+http://31.220.40.116:80/LiveEdge/FilmArtsLA/playlist.m3u8?token=03a3a7ec7b0911e78087ff3bcb6e6b33
+ 
+#EXTINF:0,EUROPA EUROPA
+http://31.220.40.119:80/LiveEdge/EuropaEuropaLA/playlist.m3u8?token=03a3a7ec7b0911e78087ff3bcb6e6b33
+ 
+#EXTINF:0,CINEMAX
+http://31.220.40.123:80/LiveEdge/CinemaxLASD/playlist.m3u8?token=03a3a7ec7b0911e78087ff3bcb6e6b33
+ 
+#EXTINF:0,cinecanal
+http://31.220.40.123:80/LiveEdge/CineCanalLA/playlist.m3u8?token=03a3a7ec7b0911e78087ff3bcb6e6b33
+ 
+#EXTINF:0,golden
+http://31.220.40.123:80/LiveEdge/GoldenHD/playlist.m3u8?token=03a3a7ec7b0911e78087ff3bcb6e6b33
+ 
+#EXTINF:0,cinelatino
+http://31.220.40.123:80/LiveEdge/CineLatinoSD/playlist.m3u8?token=03a3a7ec7b0911e78087ff3bcb6e6b33
+ 
+#EXTINF:0,tnt
+http://31.220.40.123:80/LiveEdge/TNTAmericaLatinaHD/playlist.m3u8?token=03a3a7ec7b0911e78087ff3bcb6e6b33
+ 
+#EXTINF:0,tbs
+http://31.220.40.123:80/LiveEdge/TBSLASD/playlist.m3u8?token=03a3a7ec7b0911e78087ff3bcb6e6b33
+ 
+#EXTINF:0,axn
+http://31.220.40.123:80/LiveEdge/AXNLA/playlist.m3u8?token=03a3a7ec7b0911e78087ff3bcb6e6b33
+#EXTINF:0,syfy
+http://31.220.40.123:80/LiveEdge/SyFyLASD/playlist.m3u8?token=03a3a7ec7b0911e78087ff3bcb6e6b33
+ 
+#EXTINF:0,warner
+http://31.220.40.123:80/LiveEdge/WarnerLA/playlist.m3u8?token=03a3a7ec7b0911e78087ff3bcb6e6b33
+ 
+ 
+#EXTINF:-1 ,HBO
+http://31.220.40.123:80/LiveEdge/HBOLASD/playlist.m3u8?token=03a3a7ec7b0911e78087ff3bcb6e6b33
+ 
+ 
+#EXTINF:-1 ,HBO Plus
+http://31.220.40.123:80/LiveEdge/HBOPlusLASD/playlist.m3u8?token=03a3a7ec7b0911e78087ff3bcb6e6b33
+ 
+ 
+#EXTINF:-1 ,HBO 2
+http://31.220.40.123:80/LiveEdge/HBODosLASD/playlist.m3u8?token=03a3a7ec7b0911e78087ff3bcb6e6b33
+ 
+ 
+#EXTINF:-1 ,HBO Signature
+http://31.220.40.123:80/LiveEdge/HBOSignatureLASD/playlist.m3u8?token=03a3a7ec7b0911e78087ff3bcb6e6b33
+ 
+ 
+#EXTINF:-1 ,HBO Family
+http://31.220.40.123:80/LiveEdge/HBOFamilyLASD/playlist.m3u8?token=03a3a7ec7b0911e78087ff3bcb6e6b33
+ 
+ 
+#EXTINF:-1 ,space
+http://31.220.40.123:80/LiveEdge/SpaceLA/playlist.m3u8?token=03a3a7ec7b0911e78087ff3bcb6e6b33
+ 
+ 
+#EXTINF:-1 ,Cinemax
+http://31.220.40.123:80/LiveEdge/CinemaxLA/playlist.m3u8?token=03a3a7ec7b0911e78087ff3bcb6e6b33
+ 
+ 
+#EXTINF:-1 ,Cinecanal
+http://31.220.40.123:80/LiveEdge/CinecanalLA/playlist.m3u8?token=03a3a7ec7b0911e78087ff3bcb6e6b33
+ 
+ 
+#EXTINF:-1 ,FX
+http://31.220.40.123:80/LiveEdge/FXLASD/playlist.m3u8?token=03a3a7ec7b0911e78087ff3bcb6e6b33
+ 
+ 
+#EXTINF:-1 ,SyFy
+http://31.220.40.123:80/LiveEdge/SyFyLASD/playlist.m3u8?token=03a3a7ec7b0911e78087ff3bcb6e6b33
+ 
+ 
+#EXTINF:-1 ,Mundo Fox
+http://31.220.40.123:80/LiveEdge/MundoFoxSD/playlist.m3u8?token=03a3a7ec7b0911e78087ff3bcb6e6b33
+ 
+ 
+#EXTINF:-1 ,max
+http://31.220.40.123:80/LiveEdge/MAXLASD/playlist.m3u8?token=03a3a7ec7b0911e78087ff3bcb6e6b33
+ 
+ 
+#EXTINF:-1 ,max up
+http://31.220.40.123:80/LiveEdge/MaxUPSD/playlist.m3u8?token=03a3a7ec7b0911e78087ff3bcb6e6b33
+ 
+ 
+#EXTINF:-1 ,Max Prime
+http://31.220.40.123:80/LiveEdge/MaxPrimeLASD/playlist.m3u8?token=03a3a7ec7b0911e78087ff3bcb6e6b33
+ 
+ 
+#EXTINF:-1 ,Max Prime 2
+http://31.220.40.123:80/LiveEdge/MaxPrime2LASD/playlist.m3u8?token=03a3a7ec7b0911e78087ff3bcb6e6b33
+ 
+ 
+#EXTINF:-1 ,FOX Family
+http://31.220.40.123:80/LiveEdge/FOXFamilyLASD/playlist.m3u8?token=03a3a7ec7b0911e78087ff3bcb6e6b33
+ 
+ 
+#EXTINF:-1 ,Fox Cinema
+http://31.220.40.123:80/LiveEdge/FoxCinemaSD/playlist.m3u8?token=03a3a7ec7b0911e78087ff3bcb6e6b33
+ 
+ 
+#EXTINF:-1 ,FOX Comedy
+http://31.220.40.123:80/LiveEdge/FOXComedyLASD/playlist.m3u8?token=03a3a7ec7b0911e78087ff3bcb6e6b33
+ 
+ 
+#EXTINF:-1 ,FOX ACTION
+http://31.220.40.123:80/LiveEdge/FOXACTIONLASD/playlist.m3u8?token=03a3a7ec7b0911e78087ff3bcb6e6b33
+ 
+ 
+#EXTINF:-1 ,FOX 1
+http://31.220.40.123:80/LiveEdge/FOX1LASD/playlist.m3u8?token=03a3a7ec7b0911e78087ff3bcb6e6b33
+ 
+ 
+#EXTINF:-1 ,FOX HD
+http://31.220.40.123:80/LiveEdge/FOXHDLA/playlist.m3u8?token=03a3a7ec7b0911e78087ff3bcb6e6b33
+ 
+ 
+#EXTINF:-1 ,Film Zone
+http://31.220.40.123:80/LiveEdge/FilmZoneLASD/playlist.m3u8?token=03a3a7ec7b0911e78087ff3bcb6e6b33
+ 
+ 
+#EXTINF:-1 ,TNT HD
+http://31.220.40.123:80/LiveEdge/TNTAmericaLatinaHD/playlist.m3u8?token=03a3a7ec7b0911e78087ff3bcb6e6b33
+ 
+ 
+#EXTINF:-1 ,Cine Latino
+http://31.220.40.123:80/LiveEdge/CineLatinoSD/playlist.m3u8?token=03a3a7ec7b0911e78087ff3bcb6e6b33
+ 
+ 
+#EXTINF:-1 ,Golden HD
+http://31.220.40.123:80/LiveEdge/GoldenHD/playlist.m3u8?token=03a3a7ec7b0911e78087ff3bcb6e6b33
+ 
+ 
+#EXTINF:-1 ,canal de las estrellas
+http://31.220.40.123:80/LiveEdge/EstrellasLA/playlist.m3u8?token=03a3a7ec7b0911e78087ff3bcb6e6b33
+ 
+ 
+#EXTINF:-1 ,Univision
+http://31.220.40.123:80/LiveEdge/UnivisionEastUS/playlist.m3u8?token=03a3a7ec7b0911e78087ff3bcb6e6b33
+ 
+ 
+#EXTINF:-1 ,unimas
+http://31.220.40.123:80/LiveEdge/UniMasUS/playlist.m3u8?token=03a3a7ec7b0911e78087ff3bcb6e6b33
+ 
+ 
+#EXTINF:-1 ,Pasiones
+http://31.220.40.123:80/LiveEdge/PasionesSD/playlist.m3u8?token=03a3a7ec7b0911e78087ff3bcb6e6b33
+ 
+ 
+#EXTINF:-1 ,Telemundo
+http://31.220.40.123:80/LiveEdge/TelemundoUS/playlist.m3u8?token=03a3a7ec7b0911e78087ff3bcb6e6b33
+ 
+ 
+#EXTINF:-1 ,Telemundo
+http://31.220.40.123:80/LiveEdge/TelemundoSD/playlist.m3u8?token=03a3a7ec7b0911e78087ff3bcb6e6b33
+ 
+ 
+#EXTINF:-1 ,RCN novelas
+http://31.220.40.123:80/LiveEdge/RCNnovelasLA/playlist.m3u8?token=03a3a7ec7b0911e78087ff3bcb6e6b33
+ 
+ 
+#EXTINF:-1 ,Telenovelas
+http://31.220.40.123:80/LiveEdge/TlnovelasLA/playlist.m3u8?token=03a3a7ec7b0911e78087ff3bcb6e6b33
+ 
+ 
+#EXTINF:-1 ,Telecentro
+http://31.220.40.123:80/LiveEdge/Telecentro13LA/playlist.m3u8?token=03a3a7ec7b0911e78087ff3bcb6e6b33
+ 
+ 
+#EXTINF:-1 ,Caracol internacional
+http://31.220.40.123:80/LiveEdge/CaracolIntSD/playlist.m3u8?token=03a3a7ec7b0911e78087ff3bcb6e6b33
+ 
+ 
+#EXTINF:-1 ,Tv Globo Internacional
+http://31.220.40.123:80/LiveEdge/TVGloboLA/playlist.m3u8?token=03a3a7ec7b0911e78087ff3bcb6e6b33
+ 
+ 
+#EXTINF:-1 ,Discovery
+http://31.220.40.123:80/LiveEdge/DiscoveryChLA/playlist.m3u8?token=03a3a7ec7b0911e78087ff3bcb6e6b33
+ 
+ 
+#EXTINF:-1 ,Discovery Theater
+http://31.220.40.123:80/LiveEdge/DiscoveryenEspanolHD/playlist.m3u8?token=03a3a7ec7b0911e78087ff3bcb6e6b33
+ 
+ 
+#EXTINF:-1 ,Discovery World
+http://31.220.40.123:80/LiveEdge/DiscoveryWorldLA/playlist.m3u8?token=03a3a7ec7b0911e78087ff3bcb6e6b33
+ 
+ 
+#EXTINF:-1 ,Discovery Home & Health
+http://31.220.40.123:80/LiveEdge/DiscoveryHomeHealthLAHD/playlist.m3u8?token=03a3a7ec7b0911e78087ff3bcb6e6b33
+ 
+ 
+#EXTINF:-1 ,History 2
+http://31.220.40.123:80/LiveEdge/H2LASD/playlist.m3u8?token=03a3a7ec7b0911e78087ff3bcb6e6b33
+ 
+ 
+#EXTINF:-1 ,History
+http://31.220.40.123:80/LiveEdge/HistoryLA/playlist.m3u8?token=03a3a7ec7b0911e78087ff3bcb6e6b33
+ 
+ 
+#EXTINF:-1 ,Nat Geo
+http://31.220.40.123:80/LiveEdge/NatGeoLASD/playlist.m3u8?token=03a3a7ec7b0911e78087ff3bcb6e6b33
+ 
+ 
+#EXTINF:-1 ,Nat Geo Wild
+http://31.220.40.123:80/LiveEdge/NatGeoWildLAHD/playlist.m3u8?token=03a3a7ec7b0911e78087ff3bcb6e6b33
+ 
+ 
+#EXTINF:-1 ,Animal Planet
+http://31.220.40.123:80/LiveEdge/AnimalPlanetLASD/playlist.m3u8?token=03a3a7ec7b0911e78087ff3bcb6e6b33
+ 
+ 
+#EXTINF:-1 ,ESPN
+http://31.220.40.123:80/LiveEdge/ESPNLA/playlist.m3u8?token=03a3a7ec7b0911e78087ff3bcb6e6b33
+ 
+ 
+#EXTINF:-1 ,ESPN 2
+http://31.220.40.123:80/LiveEdge/ESPN2LASD/playlist.m3u8?token=03a3a7ec7b0911e78087ff3bcb6e6b33
+ 
+ 
+#EXTINF:-1 ,ESPN 3
+http://31.220.40.123:80/LiveEdge/ESPN3LASD/playlist.m3u8?token=03a3a7ec7b0911e78087ff3bcb6e6b33
+ 
+ 
+#EXTINF:-1 ,Fox Sports
+http://31.220.40.123:80/LiveEdge/FoxSportsLA/playlist.m3u8?token=03a3a7ec7b0911e78087ff3bcb6e6b33
+ 
+ 
+#EXTINF:-1 ,Fox Sports 2
+http://31.220.40.123:80/LiveEdge/FoxSports2SD/playlist.m3u8?token=03a3a7ec7b0911e78087ff3bcb6e6b33
+ 
+ 
+#EXTINF:-1 ,Fox Sports 3
+http://31.220.40.123:80/LiveEdge/FoxSports3SD/playlist.m3u8?token=03a3a7ec7b0911e78087ff3bcb6e6b33
+ 
+ 
+#EXTINF:-1 ,Bein Sports
+http://31.220.40.123:80/LiveEdge/BeinSportsLA/playlist.m3u8?token=03a3a7ec7b0911e78087ff3bcb6e6b33
+ 
+ 
+#EXTINF:-1 ,UFC Network
+http://31.220.40.123:80/LiveEdge/UFCNetworkLA/playlist.m3u8?token=03a3a7ec7b0911e78087ff3bcb6e6b33
+ 
+ 
+#EXTINF:-1 ,F1
+http://31.220.40.123:80/LiveEdge/F1LA/playlist.m3u8?token=03a3a7ec7b0911e78087ff3bcb6e6b33
+ 
+ 
+#EXTINF:-1 ,Planeta Futbol
+http://31.220.40.123:80/LiveEdge/PlanetaFutbolLA/playlist.m3u8?token=03a3a7ec7b0911e78087ff3bcb6e6b33
+ 
+ 
+#EXTINF:-1 ,Planeta Futbol
+http://31.220.40.123:80/LiveEdge/PlanetaFutbolEnglish/playlist.m3u8?token=03a3a7ec7b0911e78087ff3bcb6e6b33
+ 
+ 
+#EXTINF:-1 ,TDN
+http://31.220.40.123:80/LiveEdge/TDNMXLA/playlist.m3u8?token=03a3a7ec7b0911e78087ff3bcb6e6b33
+ 
+ 
+#EXTINF:-1 ,Univision TDN
+http://31.220.40.123:80/LiveEdge/UnivisionTDNLA/playlist.m3u8?token=03a3a7ec7b0911e78087ff3bcb6e6b33
+ 
+ 
+#EXTINF:-1 ,Disney Channel
+http://31.220.40.123:80/LiveEdge/DisneyChannelNorteHD/playlist.m3u8?token=03a3a7ec7b0911e78087ff3bcb6e6b33
+ 
+ 
+#EXTINF:-1 ,DisneyXD
+http://31.220.40.123:80/LiveEdge/DisneyXDSD/playlist.m3u8?token=03a3a7ec7b0911e78087ff3bcb6e6b33
+ 
+ 
+#EXTINF:-1 ,Disney Jr
+http://31.220.40.123:80/LiveEdge/DisneyJrLASD/playlist.m3u8?token=03a3a7ec7b0911e78087ff3bcb6e6b33
+ 
+ 
+#EXTINF:-1 ,Nickelodeon
+http://31.220.40.123:80/LiveEdge/NickelodeonLA/playlist.m3u8?token=03a3a7ec7b0911e78087ff3bcb6e6b33
+ 
+ 
+#EXTINF:-1 ,Nick Jr
+http://31.220.40.123:80/LiveEdge/NickJrLASD/playlist.m3u8?token=03a3a7ec7b0911e78087ff3bcb6e6b33
+ 
+ 
+#EXTINF:-1 ,Discovery Kids
+http://31.220.40.123:80/LiveEdge/DiscoveryKidsSD/playlist.m3u8?token=03a3a7ec7b0911e78087ff3bcb6e6b33
+ 
+ 
+#EXTINF:-1 ,Cartoon Network
+http://31.220.40.123:80/LiveEdge/CartoonNetworkLASD/playlist.m3u8?token=03a3a7ec7b0911e78087ff3bcb6e6b33
+ 
+ 
+#EXTINF:-1 ,Boomerang
+http://31.220.40.123:80/LiveEdge/BoomerangLA/playlist.m3u8?token=03a3a7ec7b0911e78087ff3bcb6e6b33
+ 
+ 
+#EXTINF:-1 ,Tooncast
+http://31.220.40.123:80/LiveEdge/TooncastSD/playlist.m3u8?token=03a3a7ec7b0911e78087ff3bcb6e6b33
+ 
+ 
+#EXTINF:-1 ,Baby First
+http://31.220.40.123:80/LiveEdge/BabyFirstLA/playlist.m3u8?token=03a3a7ec7b0911e78087ff3bcb6e6b33
+ 
+ 
+#EXTINF:-1 ,Baby TV
+http://31.220.40.123:80/LiveEdge/BabyTVLASD/playlist.m3u8?token=03a3a7ec7b0911e78087ff3bcb6e6b33
+ 
+ 
+#EXTINF:-1 ,Cbeebies
+http://31.220.40.123:80/LiveEdge/CbeebiesLA/playlist.m3u8?token=03a3a7ec7b0911e78087ff3bcb6e6b33
+ 
+ 
+#EXTINF:-1 ,Sony
+http://31.220.40.123:80/LiveEdge/SonyLA/playlist.m3u8?token=03a3a7ec7b0911e78087ff3bcb6e6b33
+ 
+ 
+#EXTINF:-1 ,Glitz
+http://31.220.40.123:80/LiveEdge/GlitzLA/playlist.m3u8?token=03a3a7ec7b0911e78087ff3bcb6e6b33
+ 
+ 
+#EXTINF:-1 ,Fox Life
+http://31.220.40.123:80/LiveEdge/FoxLifeSD/playlist.m3u8?token=03a3a7ec7b0911e78087ff3bcb6e6b33
+ 
+ 
+#EXTINF:-1 ,E!
+http://31.220.40.123:80/LiveEdge/EentertaimentSD/playlist.m3u8?token=03a3a7ec7b0911e78087ff3bcb6e6b33
+ 
+ 
+#EXTINF:-1 ,Life time
+http://31.220.40.123:80/LiveEdge/LifetimeLASD/playlist.m3u8?token=03a3a7ec7b0911e78087ff3bcb6e6b33
+ 
+ 
+#EXTINF:-1 ,Comedy Central
+http://31.220.40.123:80/LiveEdge/ComedyCentralLA/playlist.m3u8?token=03a3a7ec7b0911e78087ff3bcb6e6b33
+ 
+ 
+#EXTINF:-1 ,Distrito Comedia
+http://31.220.40.123:80/LiveEdge/DistritoComediaLA/playlist.m3u8?token=03a3a7ec7b0911e78087ff3bcb6e6b33
 
 
 
