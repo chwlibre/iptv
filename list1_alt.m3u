@@ -90,12 +90,13 @@ http://evo.eltelon.com:443/live/cesfamtv/playlist.m3u8
 #EXTINF:-1 group-title="Infantil",.: INFANTILES :.
 http://?
 
-
+#EXTINF:-1,Disney XD
+http://live.mvdigital.net:1935/live11/livestream1.sdp/playlist.m3u8
 
 #EXTINF:-1 group-title="Documental",.: DOCUMENTALES :.
 http://?
-
-
+#EXTINF:-1,discovery channel 
+http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
 
 #EXTINF:-1 group-title="Noticias",.: NOTICIAS :.
 http://?
