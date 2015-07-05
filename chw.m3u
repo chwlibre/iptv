@@ -1,0 +1,225 @@
+#EXTM3U
+#EXTINF:0, RedTV HD
+http://movilstream.digitalproserver.com:443/redtv/redtvvivo/livestream1/playlist.m3u8
+#EXTINF:0, RedTV
+http://movilstream.digitalproserver.com:443/redtv/redtvvivo/livestream2/playlist.m3u8
+#EXTINF:0, UCV HD
+http://movilstream.digitalproserver.com/ucvtv/ucvtv.smil/chunklist-b1248000.m3u8
+#EXTINF:0, UCV
+http://movilstream.digitalproserver.com/ucvtv/ucvtv.smil/chunklist-b848000.m3u8
+#EXTINF:0, TVN HD
+http://wow3.tvn.cl:1935/liveedge/tvnelemental.smil/chunklist-b1431000.m3u8
+#EXTINF:0, TVN
+http://wow3.tvn.cl:1935/liveedge/tvnelemental.smil/chunklist-b981000.m3u8
+#EXTINF:0, TVN HD-2
+http://tvn-vod.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
+#EXTINF:0, TVN-2
+http://tvn-vod.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b950000.m3u8
+#EXTINF:0, TVN HD-TDT
+http://wow1.tvn.cl:1935/tvn-live/b26226ff4616997e7921be49f3cddbe8_720p/chunklist.m3u8
+#EXTINF:0, TVN-TDT
+http://wow1.tvn.cl:1935/tvn-live/b26226ff4616997e7921be49f3cddbe8_480p/chunklist.m3u8
+#EXTINF:0, TVN HD-CopaAmerica
+http://edge-11-mvstr.edge.mdstrm.com/live/smil:0ad762deac92abed0fbc9170216c59bb/playlist_b1500.m3u8
+#EXTINF:0, TVN-CopaAmerica
+http://edge-11-mvstr.edge.mdstrm.com/live/smil:0ad762deac92abed0fbc9170216c59bb/playlist_b900.m3u8
+#EXTINF:0, Mega HD
+http://edge-12-cl.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist_b1500.m3u8
+#EXTINF:0, Mega
+http://edge-12-cl.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist_b900.m3u8
+#EXTINF:0, CHV HD
+http://mi.chv.cl/playlist/stream.m3u8?s=hd
+#EXTINF:0, CHV
+http://live.hls.http.chv.ztreaming.com/chvhd/chvHi.m3u8
+#EXTINF:0, CHV-2
+http://mi.chv.cl/playlist/stream.m3u8?s=sd
+#EXTINF:0, C13 HD
+http://live.hls.http.13.ztreaming.com/13hddesktop/13hd-1250.m3u8
+#EXTINF:0, C13-2
+http://live.hls.http.13.ztreaming.com/13hddesktop/13hd-900.m3u8
+#EXTINF:0, C13-3
+http://cluster.13movil.ztreaming.com/13tv2/stream1grpz13t29102012.sdp/playlist.m3u8
+#EXTINF:0, C13 Cable
+http://cluster.13cmovil.ztreaming.com/13cm/grpz13c/playlist.m3u8
+#EXTINF:0, RecTV
+http://13rec.movil.ztreaming.com/13rec/13rec/playlist.m3u8
+#EXTINF:0, ETC TV
+http://movilstream.digitalproserver.com/etctv/etctvvivo/livestream1/playlist.m3u8
+#EXTINF:0, ETC TV-2
+http://movilstream.digitalproserver.com/etctv/etctvvivo/livestream2/playlist.m3u8
+#EXTINF:0, AntofagastaTV HD
+http://wow2.cl.digitalproserver.com/atv/atvvivo/atv.smil/chunklist_w949479730_b2200000.m3u8
+#EXTINF:0, AntofagastaTV
+http://wow2.cl.digitalproserver.com/atv/atvvivo/atv.smil/chunklist_w2082040148_b796000.m3u8
+#EXTINF:0, Canal 9 BioBioTV HD
+http://wow2.cl.digitalproserver.com/c9/livestream1/chunklist_w983075885.m3u8
+#EXTINF:0, Canal 9 BioBioTV
+http://wow2.cl.digitalproserver.com/c9/livestream2/chunklist_w1784656167.m3u8
+#EXTINF:0, TVU Concepcion HD
+http://movilstream.digitalproserver.com/tvu/tvuvivo/livestream1/playlist.m3u8
+#EXTINF:0, TVU Concepcion
+http://movilstream.digitalproserver.com/tvu/tvuvivo/livestream2/playlist.m3u8
+#EXTINF:0, ITV HD Punta Arenas
+http://wow2.cl.digitalproserver.com/itv/itvvivo/livestream1/playlist.m3u8
+#EXTINF:0, ITV Punta Arenas
+http://wow2.cl.digitalproserver.com/itv/itvvivo/livestream2/playlist.m3u8
+#EXTINF:0, PinguinoTV HD Punta Arenas 
+http://streaming.elpinguino.com:1935/live/pinguinotv_720p/playlist.m3u8
+#EXTINF:0, PinguinoTV Punta Arenas 
+http://streaming.elpinguino.com:1935/live/pinguinotv_360p/playlist.m3u8
+#EXTINF:0, Holvoet HD Copiapo
+http://movilstream.digitalproserver.com/holvoet/holvoetvivo/holvoet.smil/chunklist-b1248000.m3u8
+#EXTINF:0, Holvoet Copiapo
+http://movilstream.digitalproserver.com/holvoet/holvoetvivo/holvoet.smil/chunklist-b848000.m3u8
+#EXTINF:0, Contivision HD
+http://wow2.cl.digitalproserver.com/contivisionhd/contivisionhdvivo/contivisionhd.smil/chunklist_w1162159593_b1496000.m3u8
+#EXTINF:0, Contivision
+http://wow2.cl.digitalproserver.com/contivisionhd/contivisionhdvivo/contivisionhd.smil/chunklist_w1162159593_b796000.m3u8
+#EXTINF:0, CampusTV HD U.Talca
+http://movilstream.digitalproserver.com/campustv/campustvvivo/livestream1/playlist.m3u8
+#EXTINF:0, CampusTV U.Talca
+http://movilstream.digitalproserver.com/campustv/campustvvivo/livestream2/playlist.m3u8
+#EXTINF:0, Ufrovision HD
+http://movilstream.digitalproserver.com/ufro/ufrovivo/ufro.smil/chunklist-b1564000.m3u8
+#EXTINF:0, Ufrovision
+http://movilstream.digitalproserver.com/ufro/ufrovivo/ufro.smil/chunklist-b764000.m3u8
+#EXTINF:0, NHK World
+http://nhkwglobal-i.akamaihd.net/hls/live/222714/nhkwglobal/index_1180.m3u8
+#EXTINF:0, NHK World-2
+http://nhkwglobal-i.akamaihd.net/hls/live/222714/nhkwglobal/index_600.m3u8
+#EXTINF:0, Arirang World HD
+http://worldlive.arirang.co.kr/cdnlive-hls/arirangwlive/_definst_/liveevent/tvworld4.m3u8
+#EXTINF:0, Arirang World SD
+http://worldlive.arirang.co.kr/cdnlive-hls/arirangwlive/_definst_/liveevent/tvworld3.m3u8
+#EXTINF:0, Arirang World SD 360p
+http://worldlive.arirang.co.kr/cdnlive-hls/arirangwlive/_definst_/liveevent/tvworld2.m3u8
+#EXTINF:0, Arirang Korea HD
+http://korealive.arirang.co.kr/cdnlive-hls/arirangklive/_definst_/liveevent/tvkorea4.m3u8
+#EXTINF:0, Arirang Korea SD
+http://korealive.arirang.co.kr/cdnlive-hls/arirangklive/_definst_/liveevent/tvkorea3.m3u8
+#EXTINF:0, Arirang Korea SD 360p
+http://korealive.arirang.co.kr/cdnlive-hls/arirangklive/_definst_/liveevent/tvkorea2.m3u8
+#EXTINF:0, Arirang Radio StudioTV 
+http://fmlive2.arirang.co.kr/cdnlive-hls/arirangfmlive2/_definst_/liveevent/fmlive2.m3u8
+#EXTINF:0, NASATV HD
+http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_1000_av-p.m3u8
+#EXTINF:0, NASATV
+http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_700_av-p.m3u8
+#EXTINF:0, NASATV Educational HD
+http://nasatv-lh.akamaihd.net/i/NASA_102@319272/index_1000_av-p.m3u8
+#EXTINF:0, NASATV Educational
+http://nasatv-lh.akamaihd.net/i/NASA_102@319272/index_700_av-p.m3u8
+#EXTINF:0, NASA Media Channel HD
+http://nasatv-lh.akamaihd.net/i/NASA_103@319271/index_1000_av-p.m3u8
+#EXTINF:0, NASA Media Channel
+http://nasatv-lh.akamaihd.net/i/NASA_103@319271/index_700_av-p.m3u8
+#EXTINF:0, RT Espanol HD
+http://rt-a.akamaihd.net/ch_02@325606/720p.m3u8
+#EXTINF:0, RT Espanol
+http://rt-a.akamaihd.net/ch_02@325606/480p.m3u8
+#EXTINF:0, RT Global HD
+http://rt-a.akamaihd.net/ch_01@325605/720p.m3u8
+#EXTINF:0, RT Global
+http://rt-a.akamaihd.net/ch_01@325605/480p.m3u8
+#EXTINF:0, RT America HD
+http://rt-a.akamaihd.net/ch_04@325608/720p.m3u8
+#EXTINF:0, RT America
+http://rt-a.akamaihd.net/ch_04@325608/480p.m3u8
+#EXTINF:0, RT UK HD
+http://rt-a.akamaihd.net/ch_06@325610/720p.m3u8
+#EXTINF:0, RT UK
+http://rt-a.akamaihd.net/ch_06@325610/480p.m3u8
+#EXTINF:0, RT Documentary HD
+http://rt-a.akamaihd.net/ch_05@325609/720p.m3u8
+#EXTINF:0, RT Documentary
+http://rt-a.akamaihd.net/ch_05@325609/480p.m3u8
+#EXTINF:0, RT Arabic  HD
+http://rt-a.akamaihd.net/ch_03@325607/720p.m3u8
+#EXTINF:0, RT Arabic 
+http://rt-a.akamaihd.net/ch_03@325607/480p.m3u8
+#EXTINF:0, DW Europe
+http://dwschiene1-i.akamaihd.net/hls/live/221758-b/dwschiene1/x6x/playlist6x.m3u8
+#EXTINF:0, DW Arabia
+http://dwschiene2-i.akamaihd.net/hls/live/221759-b/dwschiene2/x6x/playlist6x.m3u8
+#EXTINF:0, DW Latino
+http://dwschiene3-i.akamaihd.net/hls/live/221760-b/dwschiene3/x6x/playlist6x.m3u8
+#EXTINF:0, DW Asia
+http://dwschiene4-i.akamaihd.net/hls/live/221761-b/dwschiene4/x6x/playlist6x.m3u8
+#EXTINF:0, DW America
+http://dwschiene5-i.akamaihd.net/hls/live/221762-b/dwschiene5/x6x/playlist6x.m3u8
+#EXTINF:0, DW Germany
+http://dwschiene6-i.akamaihd.net/hls/live/221763-b/dwschiene6/x6x/playlist6x.m3u8
+#EXTINF:0, Aljazeera English
+http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/800.m3u8
+#EXTINF:0, Aljazeera English-2
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/aljazeera_en/ls_satlink/b_828.m3u8
+#EXTINF:0, Aljazeera America
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/aljazeera_america/ls_satlink/b_828.m3u8
+#EXTINF:0, Aljazeera America-2
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/aljazeera_america/ls_satlink/b_528.m3u8
+#EXTINF:0, Aljazeera Arabic
+http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/arabic/800.m3u8
+#EXTINF:0, Aljazeera Arabic-2
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/aljazeera_ar/ls_satlink/b_828.m3u8
+#EXTINF:0, Antena 3 HD
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8
+#EXTINF:0, Antena 3
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_940K_768x432_baseline.m3u8
+#EXTINF:0, La Sexta HD
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel02/la_sexta_hd_1548K_1280x720_main.m3u8
+#EXTINF:0, La Sexta 
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel02/la_sexta_hd_940K_768x432_baseline.m3u8
+#EXTINF:0, TVE 2
+http://iphonelive.rtve.es/LA2_LV3_IPH/bitrate_2.m3u8
+#EXTINF:0, RTVE 24H
+http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
+#EXTINF:0, TeleCinco
+http://mdsios2-lh.akamaihd.net/i/mitele/esmediaset_21@168473/index_0_av-p.m3u8
+#EXTINF:0, HispanTV HD
+http://ptv04.level3.hls.live.cdn.overon.es/01.m3u8
+#EXTINF:0, HispanTV
+http://ptv04.level3.hls.live.cdn.overon.es/02.m3u8
+#EXTINF:0, PressTV HD
+http://ptv03.level3.hls.live.cdn.overon.es/01.m3u8
+#EXTINF:0, PressTV
+http://ptv03.level3.hls.live.cdn.overon.es/02.m3u8
+#EXTINF:0, CNN International
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_828.m3u8
+#EXTINF:0, CNN Int-2
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_528.m3u8
+#EXTINF:0, BBC World News
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8
+#EXTINF:0, BBC World News-2
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/bbc_world/ls_satlink/b_528.m3u8
+#EXTINF:0, SkyNews International
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/skynews/ls_satlink/b_828.m3u8
+#EXTINF:0, SkyNews Int-2
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/skynews/ls_satlink/b_528.m3u8
+#EXTINF:0, CCTV News
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cctv_news/ls_satlink/b_828.m3u8
+#EXTINF:0, CCTV News-2
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cctv_news/ls_satlink/b_528.m3u8
+#EXTINF:0, Reuters Live Stream
+http://live.reuters.miisolutions.net/rlo247/ngrp:rlo001.stream_all/24578/chunklist_w1145961705_b1056000.m3u8
+#EXTINF:0, Reuters Live Stream-2
+http://live.reuters.miisolutions.net/rlo247/ngrp:rlo001.stream_all/24578/chunklist_w711673891_b856000.m3u8
+#EXTINF:0, Reuters Live 2 Stream
+http://37.58.85.156/rlo001/ngrp:rlo001.stream_all/chunklist_b1056000.m3u8
+#EXTINF:0, Reuters Live 2 Stream-2
+http://37.58.85.156/rlo001/ngrp:rlo001.stream_all/chunklist_b856000.m3u8
+#EXTINF:0, France24 English
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/france24_en/ls_satlink/b_828.m3u8
+#EXTINF:0, France24 Arabia
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/france24_ar/ls_satlink/b_828.m3u8
+#EXTINF:0, First Music HD 1080p
+http://109.239.142.62:1935/live/livestream1/playlist.m3u8
+#EXTINF:0, First Music HD 720p
+http://109.239.142.62:1935/live/hlsstream/playlist2.m3u8
+#EXTINF:0, First Music HD 480p
+http://109.239.142.62:1935/live/livestream3/playlist.m3u8
+#EXTINF:0, VEVO 1
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
+#EXTINF:0, VEVO 2
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
+#EXTINF:0, VEVO 3
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
