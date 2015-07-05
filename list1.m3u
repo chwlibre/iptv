@@ -500,7 +500,7 @@ http://cdn5.iviplanet.com:1935/TELEPACIFICO-TO/myStream.sdp/playlist.m3u8
 #EXTINF:-1,ESPIN
 http://cdn5.iviplanet.com:1935/CITYTV-TO/myStream.sdp/playlist.m3u8
 #EXTINF:-1,GOL TV
-http://tvguia%2Ega@ak-goltv-us-en-stream.fubo.tv/UT-Origin/ngrp:golTV_all/tvguia.ga.m3u8
+http://live.mvdigital.net:1935/live12/livestream1.sdp/playlist.m3u8
 #EXTINF:-1,AZTECA 7
 http://38.104.228.230:1938/info7/info7_512/playlist.m3u8
 #EXTINF:-1,RaiSport+ live streaming
