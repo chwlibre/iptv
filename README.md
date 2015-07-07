@@ -16,7 +16,7 @@ Repositorio de listas de canales abierto, colaborativo y buena onda creado en el
 
 * lista 3 chw:
 
-    https://raw.githubusercontent.com/chwlibre/iptv/master/chw.m3u
+    `https://raw.githubusercontent.com/chwlibre/iptv/master/chw.m3u`
 
 ### ¿Quieres cooperar en los listados existentes? ¿Agregar uno nuevo?
 ¡Puedes hacerlo!, sólo deja tu nombre de usuario de Github en el thread del foro (ver más arriba el link). Aquí nadie es dueño del trabajo de nadie, todo aporte es valioso, la idea es colaborar entre todos.
