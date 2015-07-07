@@ -621,24 +621,9 @@ http://45.55.247.223:8080/h905d/index.m3u8
 http://live.mvdigital.net:1935/live11/livestream1.sdp/playlist.m3u8
 #EXTINF:-1,FOX SPORT
 http://cdn5.iviplanet.com:1935/TELEPACIFICO-TO/myStream.sdp/playlist.m3u8
-#EXTINF:-1,ESPIN
-http://cdn5.iviplanet.com:1935/CITYTV-TO/myStream.sdp/playlist.m3u8
-#EXTINF:-1,GOL TV
-http://tvguia%2Ega@ak-goltv-us-en-stream.fubo.tv/UT-Origin/ngrp:golTV_all/tvguia.ga.m3u8
-#EXTINF:-1,AZTECA 7
-http://38.104.228.230:1938/info7/info7_512/playlist.m3u8
-#EXTINF:-1,WARNER
-http://31.220.40.116:80/LiveEdge/WarnerLA/chunklist_w787897620_b1000000.m3u8?token=fcf897faf7fc6e75538e13287019ad78
-#EXTINF:-1,E ENTRETENIENT
-http://31.220.41.102:80/LiveEdge/EentertaimentSD/chunklist_w1700783015_b1000000.m3u8?token=8d340c7e1b18aec6165aadfed12811ab
-#EXTINF:-1,D & H 
-http://31.220.40.116:80/LiveEdge/DiscoveryHomeHealthLAHD/chunklist_w553479422_b1000000.m3u8?token=56e9ad35b2852e6492854cbff8b2f8b0
-#EXTINF:-1,cine latino
-http://31.220.41.110:80/LiveEdge/CineLatinoSD/chunklist_w1178644242_b1000000.m3u8?token=2bae158fdd566473abe7bca9bf58dde8
-#EXTINF:-1,universal
-http://31.220.40.108:80/LiveEdge/UniversalLASD/chunklist_w822283731_b1000000.m3u8?token=d20cb5f62e74befc565ea89effe574c3
-#EXTINF:-1,golden
-http://vaughnlive.tv/embed/video/mega_extremo
+#EXTINF:-1,cine
+http://vaughnlive.tv/embed/video/cinescape
+
 
 #EXTINF:-1 group-title="Deportes",.: DEPORTES :.
 http://?
