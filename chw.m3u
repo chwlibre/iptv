@@ -45,6 +45,12 @@ http://13rec.movil.ztreaming.com/13rec/13rec/playlist.m3u8
 http://movilstream.digitalproserver.com/etctv/etctvvivo/livestream1/playlist.m3u8
 #EXTINF:0, ETC TV-2
 http://movilstream.digitalproserver.com/etctv/etctvvivo/livestream2/playlist.m3u8
+#EXTINF:0, CDF Premium
+http://65.202.39.110:5000/live/cdf_chile_deporte/playlist.m3u8
+#EXTINF:0, CDO Premium
+http://wow2.cl.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist_w913906597_b1064000.m3u8
+#EXTINF:0, TV Chile
+http://edge-20-mvstr.edge.mdstrm.com/tvn-live/smil:285a5c6dade574d5f111419c85c6cf17/chunklist_b800000.m3u8
 #EXTINF:0,-Regiones Chile-
 http://separador.m3u
 #EXTINF:0, AntofagastaTV HD
@@ -89,6 +95,53 @@ http://separador.m3u
 http://edge-41-us.edge.mdstrm.com/live/smil:c23b8a0a21d215482b4c2703e47f675a/playlist_b1500.m3u8
 #EXTINF:0, ATV
 http://edge-41-us.edge.mdstrm.com/live/smil:c23b8a0a21d215482b4c2703e47f675a/playlist_b950.m3u8
+#EXTINF:0, AmericaTV
+http://ooyalahd2-f.akamaihd.net/i/americatv_delivery@25405/index_1728_av-b.m3u8
+#EXTINF:0, LatinaTV
+http://ooyalahd2-f.akamaihd.net/i/latinalim_delivery@128959/index_282_av-p.m3u8
+#EXTINF:0, PanamericanaTV
+http://m.iblups.com:1935/lives/ptv1/playlist.m3u8
+#EXTINF:0, BethelTV HD
+http://streamtv.betheltv.pe:1935/bethelgospelhd/mp4:streamingbethel25hd_source/playlist.m3u8
+#EXTINF:0, RBC Satelital
+http://184.154.28.210:1935/rbcsatelital-hd/rbcsatelital-hd/playlist.m3u8
+#EXTINF:0, BethelTV
+http://streamtv.betheltv.pe:1935/bethelgospelhd/mp4:streamingbethel25hd_480p/playlist.m3u8
+#EXTINF:0,-Argentina-
+#EXTINF:0, ElTrece HD
+http://live-edge01.telecentro.net.ar/live/13hd-720/playlist.m3u8
+#EXTINF:0, ElTrece
+http://live-edge01.telecentro.net.ar/live/13hd-360/playlist.m3u8
+#EXTINF:0, Telefe HD
+http://live-edge01.telecentro.net.ar/live/tlfhd-720/playlist.m3u8
+#EXTINF:0, Telefe
+http://live-edge01.telecentro.net.ar/live/tlfhd-360/playlist.m3u8
+#EXTINF:0, TV Publica HD
+http://live-edge01.telecentro.net.ar/live/tvphd-720/playlist.m3u8
+#EXTINF:0, TV Publica
+http://live-edge01.telecentro.net.ar/live/tvphd-360/playlist.m3u8
+#EXTINF:0, Canal 26 HD
+http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
+#EXTINF:0, Canal 26
+http://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8
+#EXTINF:0, AmericaTV HD
+http://live-edge01.telecentro.net.ar/live/amrchd-720/playlist.m3u8
+#EXTINF:0, AmericaTV 
+http://live-edge01.telecentro.net.ar/live/amrchd-360/playlist.m3u8
+#EXTINF:0, C5N
+http://c5n.stweb.tv/c5n/live/playlist.m3u8
+#EXTINF:0, Telemax
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w60428252_b1028000_sleng.m3u8
+#EXTINF:0, PakaPaka
+http://lsdencuentrohls-lh.akamaihd.net/i/PKPKHLS_1@198010/index_1_av-p.m3u8
+#EXTINF:0, TaTeTi
+http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/index_724_av-b.m3u8
+#EXTINF:0, Orbe 21
+http://urtmpkal-f.akamaihd.net/i/1b6mj17sk_1@308700/index_1_av-p.m3u8
+#EXTINF:0, DiputadosTV
+http://lsdhcdnhls-lh.akamaihd.net/i/hcdnarsatHLS_1@301805/index_2_av-b.m3u8
+#EXTINF:0, TecTV
+http://lsdencuentrohls-lh.akamaihd.net/i/TECTVHLS_1@198012/index_200_av-b.m3u8
 #EXTINF:0,-Mexico-
 http://separador.m3u
 #EXTINF:0, Canal de las Estrellas
@@ -135,6 +188,12 @@ http://iphonelive.rtve.es/LA2_LV3_IPH/bitrate_2.m3u8
 http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
 #EXTINF:0, TeleCinco
 http://mdsios2-lh.akamaihd.net/i/mitele/esmediaset_21@168473/index_0_av-p.m3u8
+#EXTINF:0,-Republica Dominicana-
+#EXTINF:0, Telesistema
+http://mek4.mekstream.com/telesistema/smil:telesistema.smil/chunklist_w1839003835_b764000.m3u8
+#EXTINF:0,-Honduras
+#EXTINF:0, Ten HD
+http://hd.worldkast.com/8378/smil:8378.smil/playlist.m3u8
 #EXTINF:0,-Asia-
 http://separador.m3u
 #EXTINF:0, NHK World
