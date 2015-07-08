@@ -101,10 +101,10 @@ http://ooyalahd2-f.akamaihd.net/i/americatv_delivery@25405/index_1728_av-b.m3u8
 http://ooyalahd2-f.akamaihd.net/i/latinalim_delivery@128959/index_282_av-p.m3u8
 #EXTINF:0, PanamericanaTV
 http://m.iblups.com:1935/lives/ptv1/playlist.m3u8
-#EXTINF:0, BethelTV HD
-http://streamtv.betheltv.pe:1935/bethelgospelhd/mp4:streamingbethel25hd_source/playlist.m3u8
 #EXTINF:0, RBC Satelital
 http://184.154.28.210:1935/rbcsatelital-hd/rbcsatelital-hd/playlist.m3u8
+#EXTINF:0, BethelTV HD
+http://streamtv.betheltv.pe:1935/bethelgospelhd/mp4:streamingbethel25hd_source/playlist.m3u8
 #EXTINF:0, BethelTV
 http://streamtv.betheltv.pe:1935/bethelgospelhd/mp4:streamingbethel25hd_480p/playlist.m3u8
 #EXTINF:0,-Argentina-
