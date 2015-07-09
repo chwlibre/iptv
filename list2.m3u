@@ -4,43 +4,23 @@ http://?
 
 #EXTINF:-1 group-title="Chile",.: CHILE :.
 http://?
-#EXTINF:-1,La Red
-http://movilstream.digitalproserver.com/redtv/redtvvivo/redtv.smil/chunklist-b1564000.m3u8
-#EXTINF:-1,UCV
-http://movilstream.digitalproserver.com/ucvtv/_definst_/ucvtv.smil/chunklist-b1248000.m3u8
 #EXTINF:-1,TVN
 http://edge-11-mvstr.edge.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
 #EXTINF:-1,MEGA
 http://edge-11-mvstr.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist_b1500.m3u8
-#EXTINF:-1,CHV
-http://live.hls.http.chv.ztreaming.com/chvhddesktop/chvHi.m3u8
-#EXTINF:-1,Canal 13
-http://cluster.13movil.ztreaming.com/13tv2/stream1grpz13t29102012.sdp/playlist.m3u8
-#EXTINF:-1,13C
-http://cluster.13cmovil.ztreaming.com/13cm/grpz13c/playlist.m3u8
-#EXTINF:-1,REC TV
-http://13rec.movil.ztreaming.com:1935/13rec/13rec/playlist.m3u8
+
 
 #EXTINF:-1 group-title="Chile Regionales",.: CHILE REGIONALES :.
 http://?
 #EXTINF:0,El Pingüino TV
 http://streaming.elpinguino.com:1935/live/pinguinotv_360p/chunklist_w194650448.m3u8?MegaIPTVArgentina
-#EXTINF:0,ATV VALDIVIA
-http://190.107.176.167:1935/live/atv-valdivia/chunklist_w847189729.m3u8
 #EXTINF:0,Campus TV (señal tvn copa america)
 http://wow2.cl.digitalproserver.com/campustv/campustvvivo/campustv.smil/chunklist_w662421777_b848000.m3u8
 #EXTINF:0,Arica TV
 http://wow2.cl.digitalproserver.com/aricatv/aricatvvivo/aricatv.smil/chunklist_w725671068_b848000.m3u8
-#EXTINF:0,TV Independencia
-http://evo.eltelon.com:443/live/independencia-tv/playlist.m3u8?MegaIPTVArgentina
-#EXTINF:0,ANTOFAGASTA TV
-http://wow2.cl.digitalproserver.com/atv/atvvivo/atv.smil/hasbahca.m3u8
-#EXTINF:0,Canal 9 Bio Bio
-http://wow2.cl.digitalproserver.com/c9//c9.smil/chunklist_w722946044_b1200000.m3u8?MegaIPTVArgentina
 #EXTINF:-1,Uoct
 http://mdstrm.com/live-stream-playlist-v/53443c472c6e89675103cc4c.m3u8
-#EXTINF:0,Cesfam TV
-http://evo.eltelon.com:443/live/cesfamtv/playlist.m3u8
+
 
 
 #EXTINF:-1 group-title="Paises",.: PAISES :.
@@ -51,8 +31,6 @@ rtmp://c5n.stweb.tv:1935/c5n/live
 http://iphone-streaming.ustream.tv/ustreamVideo/10923213/streams/live/playlist.m3u8
 #EXTINF:-1,Colombia - Señal Colombia
 http://cdns840stu1010.multistream.net/rtvc2live/amlst:scolombia/chunklist_b500000.m3u8
-#EXTINF:-1,Colombia - Caracol
-http://caracoltvlivehds-lh.akamaihd.net/i/caracol02_1@126280/index_1028_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1,España - TVE 24h
 http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8?
 #EXTINF:-1,Mexico - Foro TV
@@ -79,8 +57,7 @@ http://iphone-streaming.ustream.tv/ustreamVideo/20720323/streams/live/playlist.m
 http://ooyalahd2-f.akamaihd.net/i/americatv_delivery@25405/index_1728_av-p.m3u8
 #EXTINF:-1,Venezuela - Venezolana TV
 http://cast.streamingconnect.tv:1935/vtvweb2/vtvweb2/playlist.m3u8
-#EXTINF:-1,Paraguay - Telefuturo
-http://ss7.domint.net:1950/tf_str/futu/hasbahca.m3u8 
+
 
 #EXTINF:-1 group-title="Peliculas",.: PELICULAS :.
 http://?
@@ -91,8 +68,7 @@ http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3
 #EXTINF:-1 group-title="Infantil",.: INFANTILES :.
 http://?
 
-#EXTINF:-1,Disney XD
-http://live.mvdigital.net:1935/live11/livestream1.sdp/playlist.m3u8
+
 
 #EXTINF:-1 group-title="Documental",.: DOCUMENTALES :.
 http://?
@@ -108,10 +84,6 @@ http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
 
 #EXTINF:-1 group-title="Deportes",.: DEPORTES :.
 http://?
-#EXTINF:0,ESPN HD
-http://93.174.95.125:1935/edge/_definst_/xoaaohmeuajfeyf/playlist.m3u8?wowzasessionid=1419879934
-#EXTINF:0,ESPN 2 HD
-http://93.174.95.125:1935/edge/_definst_/rgyus7ao2ullmbt/playlist.m3u8?wowzasessionid=1419906325
 #EXTINF:0,ESPN 2 SD
 http://93.174.95.125:1935/edge/_definst_/5hd19kwxef5b59o/playlist.m3u8?wowzasessionid=1420123722
 #EXTINF:-1,CDF
@@ -134,44 +106,24 @@ http://xrxs.net/video/live-p12netw-2328.m3u8
 http://?
 #EXTINF:-1,Canal 12 Valledupar
 http://panelhdstream.com:1935/8022/8022/playlist.m3u8#GerardoLoyolaIPTV
-#EXTINF:-1,Latina
-http://live.mvdigital.net:1935/live13/livestream1.sdp/playlist.m3u8?
 #EXTINF:-1,ESTUDIO TV
 rtmp://190.107.176.167:1935/live/estudio-tv
 #EXTINF:-1,DANCE TV
 http://87.239.31.232/hls/230.3.4.169.sd.stream.m3u8
 #EXTINF:-1,MTV ROCKS
 http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVROCKS/variant.m3u8
-#EXTINF:-1,MTV DANCE
-http://92.50.181.6/tv/1280/index.m3u8
-#EXTINF:-1,MTV ROCKS
-http://92.50.181.6/tv/1279/index.m3u8
-#EXTINF:-1,MTV HITS
-http://92.50.181.6/tv/1278/index.m3u8
-#EXTINF:-1,MTV LIVE
-http://78.30.254.43:8989/udp/239.0.0.196:4000
-#EXTINF:-1,MTV
-http://92.50.181.6/tv/1284/index.m3u8
-#EXTINF:-1,VH1 CLASSIC
-http://92.50.181.6/tv/1282/index.m3u8
-#EXTINF:-1,VH1
-http://92.50.181.6/tv/1281/index.m3u8
 #EXTINF:-1,Kiss tv
 rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
 #EXTINF:-1,Q Musica
 mms://200.42.92.6:1755/qmusica
 #EXTINF:-1,Duna
 http://wow1.dallas.digitalproserver.com/dunatv/dunatvvivo/dunatv.smil/playlist.m3u8
-#EXTINF:-1,Freaky
-http://movilstream.digitalproserver.com/freakytv//freakytv.smil/playlist.m3u8
 #EXTINF:-1,Tiempo
 http://movilstream.digitalproserver.com/tiempotv/tiempotvvivo/tiempotv.smil/playlist.m3u8
 #EXTINF:-1,Zero
 http://movilstream.digitalproserver.com/zerotv/zerotvvivo/zerotv.smil/playlist.m3u8
 #EXTINF:-1,Radio la clave
 http://movilstream.digitalproserver.com/laclavetv/laclavetvvivo/laclavetv.smil/playlist.m3u8
-#EXTINF:-1,Adn Stream
-http://movilstream.digitalproserver.com/adn/adnvivo/adn.smil/playlist.m3u8
 #EXTINF:-1,Vevo1 HD
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
 #EXTINF:-1,Vevo2 HD
@@ -185,8 +137,6 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
 http://?
 #EXTINF:-1,PRIVATE
 http://178.33.126.213:1935/leved/privateCom/.m3u8
-#EXTINF:-1,BLAZZERS
-http://212.220.30.219/hls/CH_BRAZZERSTV/bw1500000/variant.m3u8?version=2
 #EXTINF:-1,Russian Night
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_RUSSIANNIGHT/variant.m3u8?version=2
 #EXTINF:-1,O-La-La
@@ -227,12 +177,7 @@ http://stream02.yamgo.com/iPhone/HLS_TS/broadcast/hot_100-tablet.3gp/hot_100-tab
 http://46.249.213.93/iPhone/broadcast/powergirls-tablet.3gp/powergirls-tablet.3gp-mr648k.m3u8
 #EXTINF:-1,ASIA1
 http://59.120.43.181:8081
-#EXTINF:-1,ASIA2
-http://59.120.43.181:8082
-#EXTINF:-1,ASIA3
-http://59.120.43.181:8083
-#EXTINF:-1,ASIA4
-http://59.120.43.181:8084
+
 
 
 
@@ -273,6 +218,9 @@ http://videos-porno8.petardashd.com/archivos3/hd/hd-167593-cb7cb5e.mp4
 #EXTINF:-1 group-title="A prueba",.: POR REVISAR :.
 http://?
 
+
+
+#EXTINF:-,...
 
 
 #EXTINF:-,...
