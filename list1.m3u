@@ -473,11 +473,16 @@ http://31.220.40.123:80/LiveEdge/ComedyCentralLA/playlist.m3u8?token=03a3a7ec7b0
 #EXTINF:-1 ,Distrito Comedia
 http://31.220.40.123:80/LiveEdge/DistritoComediaLA/playlist.m3u8?token=03a3a7ec7b0911e78087ff3bcb6e6b33
 
-#EXTINF:-1 group-title="miercoles 8 de julio",.: 8 DE JULIO :.
+#EXTINF:-1 group-title="miercoles 10 de julio",.: 8 DE JULIO :.
 http://?
 
-
-#EXTINF:-1 group-title=”LATINOS”,HBOPlusLASD
+#EXTINF:-1,Discovery Channel
+http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,ESPN HD
+http://cdn5.iviplanet.com:1935/CITYTV-TO/myStream.sdp/playlist.m3u8
+#EXTINF:-1,Fox Sports HD
+http://cdn5.iviplanet.com:1935/TELEPACIFICO-TO/myStream.sdp/playlist.m3u8
+#EXTINF:-1 HBOPlusLASD
 http://31.220.40.123:80/LiveEdge/HBOPlusLASD/playlist.m3u8?token=3881297ada75c1bf7fcd5b3c3a3948f3
 #EXTINF:-1 group-title=”LATINOS”,space
 http://31.220.40.123:80/LiveEdge/SpaceLA/playlist.m3u8?token=3881297ada75c1bf7fcd5b3c3a3948f3
@@ -611,10 +616,17 @@ http://31.220.40.123:80/LiveEdge/BabyTVLASD/playlist.m3u8?token=3881297ada75c1bf
 http://31.220.40.123:80/LiveEdge/CbeebiesLA/playlist.m3u8?token=3881297ada75c1bf7fcd5b3c3a3948f3
 #EXTINF:-1 group-title=”LATINOS”,Sony
 http://31.220.40.123:80/LiveEdge/SonyLA/playlist.m3u8?token=3881297ada75c1bf7fcd5b3c3a3948f3
+
 #EXTINF:-1 group-title="hjoge",.: HJORGE :.
 
 #EXTINF:-1,pelis
 http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8?
+#EXTINF:-1,Discovery Channel
+http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,ESPN HD
+http://cdn5.iviplanet.com:1935/CITYTV-TO/myStream.sdp/playlist.m3u8
+#EXTINF:-1,Fox Sports HD
+http://cdn5.iviplanet.com:1935/TELEPACIFICO-TO/myStream.sdp/playlist.m3u8
 #EXTINF:-1,Mex:AZTECA NOTICIAS HD By Compus1286
 http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
 #EXTINF:-1,Mex:AZTECA 13 HD By Compus1286
