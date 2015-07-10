@@ -475,87 +475,6 @@ http://31.220.40.123:80/LiveEdge/DistritoComediaLA/playlist.m3u8?token=03a3a7ec7
 
 #EXTINF:-1 group-title="miercoles 10 de julio",.: 8 DE JULIO :.
 http://?
-#EXTINF:-1, Latino Movies
-rtmp://50.7.78.138:443/live/live_latinomovies
-#EXTINF:-1, Mega Movies HD
-rtmp://50.7.78.138:443/live/live_megamovieshd
-#EXTINF:-1, Mega Movies HD
-rtmp://50.7.78.138:443/live/live_mega_movieshd
-#EXTINF:-1, Cinema Latino HD
-rtmp://50.7.78.138:443/live/live_cinemalatinohd01
-#EXTINF:-1, Live Broad Movies
-rtmp://50.7.78.138:443/live/live_broadmovies
-#EXTINF:-1, Live Cine Star
-rtmp://50.7.78.138:443/live/live_cine_star
-#EXTINF:-1, Live Club Terror
-rtmp://50.7.78.138:443/live/live_club_terror
-#EXTINF:-1, Live CineAccion
-rtmp://50.7.78.138:443/live/live_cineaccion_terror
-#EXTINF:-1, Mega Extremo
-rtmp://50.7.78.138:443/live/live_mega_extremo
-#EXTINF:-1, Live Movies Apocalipsis
-rtmp://50.7.78.138:443/live/live_movies_apocalipsis
-#EXTINF:-1, Peliculasinfantil
-rtmp://50.7.78.138:443/live/live_peliculasinfantil
-#EXTINF:-1, Cinema Series HD
-rtmp://50.7.78.138:443/live/live_cinema_serieshd
-
-#EXTINF:-1, Mega movies HD
-rtmp://50.7.78.138:443/live/live_megamovieshd
-
-#EXTINF:-1, Mega Movies
-rtmp://50.7.78.138:443/live/live_mega_movieshd
-
-#EXTINF:-1, Cinema Latino
-rtmp://50.7.78.138:443/live/live_cinemalatinohd01
-
-#EXTINF:-1, Broad Movies
-rtmp://50.7.78.138:443/live/live_broadmovies
-
-#EXTINF:-1, Cine Star
-rtmp://50.7.78.138:443/live/live_cine_star
-
-#EXTINF:-1, Club Terror
-rtmp://50.7.78.138:443/live/live_club_terror
-
-#EXTINF:-1, CineAccion Terror
-rtmp://50.7.78.138:443/live/live_cineaccion_terror
-
-#EXTINF:-1, Mega Extremo
-rtmp://50.7.78.138:443/live/live_mega_extremo
-
-#EXTINF:-1, Movies Apocalipsis
-rtmp://50.7.78.138:443/live/live_movies_apocalipsis
-
-#EXTINF:-1, Peliculasinfantil
-rtmp://50.7.78.138:443/live/live_peliculasinfantil
-
-#EXTINF:-1, Cinema Series HD
-rtmp://50.7.78.138:443/live/live_cinema_serieshd
-
-#EXTINF:-1, Latino Movies
-rtmp://50.7.78.138:443/live/live_latinomovies 
-
-
-#EXTINF:-1,RTS2
-
-http://91.187.113.203:10041/
-
-#EXTINF:-1,B92
-
-http://91.187.113.203:10101/
-
-#EXTINF:-1,FEN
-
-http://91.187.113.203:10024/
-
-#EXTINF:-1,BALKANIKA
-
-http://91.187.113.203:10026/
-
-#EXTINF:-1,ALJAZEERA
-
-http://91.187.113.203:10051/
 
 #EXTINF:-1,Discovery Channel
 http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
@@ -563,7 +482,7 @@ http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3
 http://cdn5.iviplanet.com:1935/CITYTV-TO/myStream.sdp/playlist.m3u8
 #EXTINF:-1,Fox Sports HD
 http://cdn5.iviplanet.com:1935/TELEPACIFICO-TO/myStream.sdp/playlist.m3u8
-#EXTINF:-1 HBOPlusLASD
+#EXTINF:-1  HBOPlusLASD
 http://31.220.40.123:80/LiveEdge/HBOPlusLASD/playlist.m3u8?token=3881297ada75c1bf7fcd5b3c3a3948f3
 #EXTINF:-1 group-title=”LATINOS”,space
 http://31.220.40.123:80/LiveEdge/SpaceLA/playlist.m3u8?token=3881297ada75c1bf7fcd5b3c3a3948f3
