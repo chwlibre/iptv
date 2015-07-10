@@ -39,6 +39,8 @@ http://live.hls.http.13.ztreaming.com/13hddesktop/13hd-900.m3u8
 http://cluster.13movil.ztreaming.com/13tv2/stream1grpz13t29102012.sdp/playlist.m3u8
 #EXTINF:0, C13 Cable
 http://cluster.13cmovil.ztreaming.com/13cm/grpz13c/playlist.m3u8
+#EXTINF:-1,Discovery Channel
+http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
 #EXTINF:0, RecTV
 http://13rec.movil.ztreaming.com/13rec/13rec/playlist.m3u8
 #EXTINF:0, ETC TV
@@ -49,6 +51,10 @@ http://movilstream.digitalproserver.com/etctv/etctvvivo/livestream2/playlist.m3u
 http://65.202.39.110:5000/live/cdf_chile_deporte/playlist.m3u8
 #EXTINF:0, CDO Premium
 http://wow2.cl.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist_w913906597_b1064000.m3u8
+#EXTINF:-1,ESPN HD
+http://cdn5.iviplanet.com:1935/CITYTV-TO/myStream.sdp/playlist.m3u8
+#EXTINF:-1,Fox Sports HD
+http://cdn5.iviplanet.com:1935/TELEPACIFICO-TO/myStream.sdp/playlist.m3u8
 #EXTINF:0, TV Chile
 http://edge-20-mvstr.edge.mdstrm.com/tvn-live/smil:285a5c6dade574d5f111419c85c6cf17/chunklist_b800000.m3u8
 #EXTINF:0,-Regiones Chile-
