@@ -622,12 +622,10 @@ http://31.220.40.123:80/LiveEdge/SonyLA/playlist.m3u8?token=3881297ada75c1bf7fcd
 #EXTINF:-1,pelis
 http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8?
 #EXTINF:-1,universal 2
-rtmp://$OPT:rtmp-raw=rtmp://50.7.28.98/app playpath=16042?MTQzNjU0Njc0NDs0Nzk4ZTE1N2MxZmJjYWQxZDVkNjhiMDlhM2E3NTdlNg== 
-
+rtmp://50.7.28.98/app playpath=16042?MTQzNjU0Njc0NDs0Nzk4ZTE1N2MxZmJjYWQxZDVkNjhiMDlhM2E3NTdlNg== 
 swfUrl=http://cdn.shidurlive.com/player.swf live=1 pageUrl=http://www.shidurlive.com/stream/4e6d51334e5459334e7a49325a6a597a4e6a6b334e445a6d/146cddcae5a2
 #EXTINF:-1,universal 3
-rtmp://$OPT:rtmp-raw=rtmp://50.7.28.234/app playpath=16042?MTQzNjU0NzcxMjs2ZTJiOWFkNjU0ODU4NjUwMWU5ZDRhZjg3MjU0NWY1NQ== 
-
+rtmp://50.7.28.234/app playpath=16042?MTQzNjU0NzcxMjs2ZTJiOWFkNjU0ODU4NjUwMWU5ZDRhZjg3MjU0NWY1NQ== 
 swfUrl=http://cdn.shidurlive.com/player.swf live=1 pageUrl=http://www.shidurlive.com/stream/4e6d51334e5459334e7a49325a6a597a4e6a6b334e445a6d/7821d716ed7d
 
 #EXTINF:-1,Discovery Channel
