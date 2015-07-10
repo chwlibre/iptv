@@ -625,9 +625,7 @@ http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3
 rtmp://50.7.28.98/app playpath=16042?MTQzNjU0Njc0NDs0Nzk4ZTE1N2MxZmJjYWQxZDVkNjhiMDlhM2E3NTdlNg== 
 swfUrl=http://cdn.shidurlive.com/player.swf live=1 pageUrl=http://www.shidurlive.com/stream/4e6d51334e5459334e7a49325a6a597a4e6a6b334e445a6d/146cddcae5a2
 #EXTINF:-1,universal 3
-rtmp://50.7.28.234/app playpath=16042?MTQzNjU0NzcxMjs2ZTJiOWFkNjU0ODU4NjUwMWU5ZDRhZjg3MjU0NWY1NQ== 
-swfUrl=http://cdn.shidurlive.com/player.swf live=1 pageUrl=http://www.shidurlive.com/stream/4e6d51334e5459334e7a49325a6a597a4e6a6b334e445a6d/7821d716ed7d
-
+http://$OPT:rtmp-raw=http://50.7.28.98/app/16042?MTQzNjU0Njc0NDs0Nzk4ZTE1N2MxZmJjYWQxZDVkNjhiMDlhM2E3NTdlNg/playlist.m3u8
 #EXTINF:-1,Discovery Channel
 http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,ESPN HD
