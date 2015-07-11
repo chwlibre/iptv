@@ -433,10 +433,6 @@ http://31.220.40.123:80/LiveEdge/BoomerangLA/playlist.m3u8?token=03a3a7ec7b0911e
 #EXTINF:-1 ,Tooncast
 http://31.220.40.123:80/LiveEdge/TooncastSD/playlist.m3u8?token=03a3a7ec7b0911e78087ff3bcb6e6b33
  
- 
-#EXTINF:-1,ETC TV
-http://movilstream.digitalproserver.com/etctv/etctvvivo/etctv.smil/chunklist-b948000.m3u8
-
 
 #EXTINF:-1 ,Baby First
 http://31.220.40.123:80/LiveEdge/BabyFirstLA/playlist.m3u8?token=03a3a7ec7b0911e78087ff3bcb6e6b33
