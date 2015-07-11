@@ -482,7 +482,7 @@ http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3
 http://cdn5.iviplanet.com:1935/CITYTV-TO/myStream.sdp/playlist.m3u8
 #EXTINF:-1,Fox Sports HD
 http://cdn5.iviplanet.com:1935/TELEPACIFICO-TO/myStream.sdp/playlist.m3u8
-#EXTINF:-1 group-title=”LATINOS”,HBOPlusLASD
+#EXTINF:-1,HBOPlusLASD
 http://31.220.40.100:80/LiveEdge/HBOPlusLASD/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e
 #EXTINF:-1 group-title=”LATINOS”,space
 http://31.220.40.100:80/LiveEdge/SpaceLA/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e
