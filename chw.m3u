@@ -65,7 +65,7 @@ http://wow2.cl.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist_w913906597_b1
 http://streamindo.ddns.net/jhos/beib1_3/streamindo/playlist.m3u8
 #EXTINF:-1 tvg-id="MC2xml_I728.217704455.microsoft.com" tvg-name="VH1CL728_VH1CL728vh1_classicCable" tvg-logo="vh1-classisc.png" group-title="Español",RedTV
 http://live.mvdigital.net:1935/live9/livestream1.sdp/playlist.m3u8
-#EXTINF:-1,ESPN
+#EXTINF:-1,HISTORY
 http://live.mvdigital.net:1935/live10/livestream1.sdp/playlist.m3u8
 #EXTINF:-1,Gol TV
 http://live.mvdigital.net:1935/live12/livestream1.sdp/playlist.m3u8
