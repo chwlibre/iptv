@@ -734,6 +734,122 @@ http://31.220.40.123:80/LiveEdge/MaxLASD/playlist.m3u8?token=c248d9f7a7f60f468fa
 http://31.220.40.123:80/LiveEdge/GoldenPremier1LA/playlist.m3u8?token=c248d9f7a7f60f468fa6da6671eef4dd
 #EXTINF:-1,Golden Premiere2
 http://31.220.40.123:80/LiveEdge/GoldenPremiere2LA/playlist.m3u8?token=c248d9f7a7f60f468fa6da6671eef4dd
+
+#EXTINF:-1 group-title="cable español",.: CABLE ESPAÑOL :.
+http://?
+
+#EXTINF:-1,Disney Junior (EN)
+http://80.29.8.59:4022/udp/239.0.0.10:8208
+#EXTINF:-1,Disney XD (EN)
+http://80.29.8.59:4022/udp/239.0.0.11:8208
+#EXTINF:-1,40 TV
+http://80.29.8.59:4022/udp/239.0.0.12:8208
+#EXTINF:-1,Calle 13 (EN)
+http://80.29.8.59:4022/udp/239.0.0.13:8208
+#EXTINF:-1,AXN (EN)
+http://80.29.8.59:4022/udp/239.0.0.14:8208
+#EXTINF:-1,Cosmo (EN)
+http://80.29.8.59:4022/udp/239.0.0.15:8208
+#EXTINF:-1,Hollywoood (EN)
+http://80.29.8.59:4022/udp/239.0.0.16:8208
+#EXTINF:-1,Canal Cocina
+http://80.29.8.59:4022/udp/239.0.0.27:8208
+#EXTINF:-1,Euronews (EN)
+http://80.29.8.59:4022/udp/239.0.0.28:8208
+#EXTINF:-1,Bloomberg TV
+http://80.29.8.59:4022/udp/239.0.0.29:8208
+#EXTINF:-1,BBC World
+http://80.29.8.59:4022/udp/239.0.0.30:8208
+#EXTINF:-1,TV5 Monde Europe
+http://80.29.8.59:4022/udp/239.0.0.31:8208
+#EXTINF:-1,Discovery MAX (EN)
+http://80.29.8.59:4022/udp/239.0.0.32:8208
+#EXTINF:-1,Eurosport 2 (EN)
+http://80.29.8.59:4022/udp/239.0.0.37:8208
+#EXTINF:-1,A&E (EN)
+http://80.29.8.59:4022/udp/239.0.0.38:8208
+#EXTINF:-1,Sol Musica
+http://80.29.8.59:4022/udp/239.0.0.39:8208
+#EXTINF:-1,CNN Int.
+http://80.29.8.59:4022/udp/239.0.0.40:8208
+#EXTINF:-1,Canal + Liga –
+http://80.29.8.59:4022/udp/239.0.0.42:8208
+#EXTINF:-1,TNT (EN)
+http://80.29.8.59:4022/udp/239.0.0.44:8208
+#EXTINF:-1,AXN White (EN)
+http://80.29.8.59:4022/udp/239.0.0.62:8208
+#EXTINF:-1,Intereconomia TV
+http://80.29.8.59:4022/udp/239.0.0.63:8208
+#EXTINF:-1,Disney Ch. (EN)
+http://80.29.8.59:4022/udp/239.0.0.64:8208
+#EXTINF:-1,CCTV Espanol
+http://80.29.8.59:4022/udp/239.0.0.65:8208
+#EXTINF:-1,Boing (EN)
+http://80.29.8.59:4022/udp/239.0.0.66:8208
+#EXTINF:-1,Comedy Central (EN)
+http://80.29.8.59:4022/udp/239.0.0.68:8208
+#EXTINF:-1,Nickelodeon (EN)
+http://80.29.8.59:4022/udp/239.0.0.69:8208
+#EXTINF:-1,Decasa
+http://80.29.8.59:4022/udp/239.0.0.71:8208
+#EXTINF:-1,FOX (EN)
+http://80.29.8.59:4022/udp/239.0.0.74:8208
+#EXTINF:-1,Syfy (EN)
+http://80.29.8.59:4022/udp/239.0.0.111:8208
+#EXTINF:-1,FOX Life (EN)
+http://80.29.8.59:4022/udp/239.0.0.112:8208
+#EXTINF:-1,Baby TV (EN)
+http://80.29.8.59:4022/udp/239.0.0.113:8208
+#EXTINF:-1,Panda (orig.)
+http://80.29.8.59:4022/udp/239.0.0.117:8208
+#EXTINF:-1,Canal+ Liga Multi –
+http://80.29.8.59:4022/udp/239.0.0.119:8208
+#EXTINF:-1,AXN HD (EN)
+http://80.29.8.59:4022/udp/239.0.9.131:8208
+#EXTINF:-1,Syfy HD –
+http://80.29.8.59:4022/udp/239.0.0.164:8208
+#EXTINF:-1,Disney Ch. HD (EN)
+http://80.29.8.59:4022/udp/239.0.0.173:8208
+#EXTINF:-1,Movistar F1 HD
+http://80.29.8.59:4022/udp/239.0.0.175:8208
+#EXTINF:-1,Comedy Central HD (EN)
+http://80.29.8.59:4022/udp/239.0.0.174:8208
+#EXTINF:-1,Cuatro HD
+http://80.29.8.59:4022/udp/239.0.0.177:8208
+#EXTINF:-1,Movistar F1
+http://80.29.8.59:4022/udp/239.0.0.210:8208
+#EXTINF:-1,MTV (EN)
+http://80.29.8.59:4022/udp/239.0.0.211:8208
+#EXTINF:-1,Calle13 HD
+http://80.29.8.59:4022/udp/239.0.5.74:8208
+#EXTINF:-1,Syfy HD (EN)
+http://80.29.8.59:4022/udp/239.0.5.75:8208
+#EXTINF:-1,Holywood HD (EN)
+http://80.29.8.59:4022/udp/239.0.5.76:8208
+#EXTINF:-1,Discovery HD (EN)
+http://80.29.8.59:4022/udp/239.0.5.77:8208
+#EXTINF:-1,AXN White HD (EN)
+http://80.29.8.59:4022/udp/239.0.5.79:8208
+#EXTINF:-1,Odisea HD (EN)
+http://80.29.8.59:4022/udp/239.0.5.82:8208
+#EXTINF:-1,FOX Life HD (EN)
+http://80.29.8.59:4022/udp/239.0.5.86:8208
+#EXTINF:-1,TNT HD (EN)
+http://80.29.8.59:4022/udp/239.0.5.87:8208
+#EXTINF:-1,TCM HD (EN)
+http://80.29.8.59:4022/udp/239.0.5.89:8208
+#EXTINF:-1,AMC HD (EN)
+http://80.29.8.59:4022/udp/239.0.9.132:8208
+#EXTINF:-1,FOX HD (EN)
+http://80.29.8.59:4022/udp/239.0.9.134:8208
+#EXTINF:-1,Eurosport HD (EN)
+http://80.29.8.59:4022/udp/239.0.9.135:8208
+#EXTINF:-1,Nat Geo Wild HD (EN)
+http://80.29.8.59:4022/udp/239.0.9.136:8208
+#EXTINF:-1,Unitel Clasica HD
+http://80.29.8.59:4022/udp/239.0.9.137:8208
+#EXTINF:-1,FOX News
+http://80.29.8.59:4022/udp/239.0.7.65:8208
 #EXTINF:-1 group-title="hjoge",.: HJORGE :.
 
 #EXTINF:-1,pelis
