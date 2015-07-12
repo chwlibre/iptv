@@ -369,7 +369,7 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
 #EXTINF:0, VEVO 3
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
 #EXTINF:1,sulavision
-http://162.212.176.83:8080/sulavision.
+http://162.212.176.83:8080/sulavision.m3u8
 #EXTINF:-1,Kiss
 http://llnw.live.simplestream.com/coder9/coder.channels.channel14/hls/3/playlist.m3u8
 #EXTINF:-1 tvg-id="Heart TV" tvg-logo="hearttv.png" group-title="Musical",HEART TV [COLOR green]--ON LINE--[/COLOR]
