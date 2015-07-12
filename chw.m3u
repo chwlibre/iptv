@@ -186,8 +186,6 @@ http://lsdhcdnhls-lh.akamaihd.net/i/hcdnarsatHLS_1@301805/index_2_av-b.m3u8
 http://lsdencuentrohls-lh.akamaihd.net/i/TECTVHLS_1@198012/index_200_av-b.m3u8
 #EXTINF:0,-Mexico-
 http://separador.m3u
-#EXTINF:0, Canal de las Estrellas
-http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-b.m3u8
 #EXTINF:0, Proyecto 40
 http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/index_3_av-p.m3u8
 #EXTINF:0, ForoTV
