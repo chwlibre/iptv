@@ -737,7 +737,62 @@ http://31.220.40.121:80/LiveEdge/GoldenPremier1LA/playlist.m3u8?token=5f4ed1dd00
 http://31.220.40.121:80/LiveEdge/GoldenPremiere2LA/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e
 #EXTINF:-1 group-title="cable español",.: CABLE ESPAÑOL :.
 http://?
-
+#EXTINF:-1,-------- SPAIN ---------
+http://s1.iptv-cccam.com:80/live/NewJmyZero/P0utLbVoOC/1922.ts
+#EXTINF:-1,SPAIN: SPORT Mania
+http://s1.iptv-cccam.com:80/live/NewJmyZero/P0utLbVoOC/1877.ts
+#EXTINF:-1,SPAIN: Nova Spain
+http://s1.iptv-cccam.com:80/live/NewJmyZero/P0utLbVoOC/1878.ts
+#EXTINF:-1,SPAIN: National Geographic Wild Spain
+http://s1.iptv-cccam.com:80/live/NewJmyZero/P0utLbVoOC/1879.ts
+#EXTINF:-1,SPAIN: National Geographic Spain
+http://s1.iptv-cccam.com:80/live/NewJmyZero/P0utLbVoOC/1880.ts
+#EXTINF:-1,SPAIN: MTV Spain
+http://s1.iptv-cccam.com:80/live/NewJmyZero/P0utLbVoOC/1881.ts
+#EXTINF:-1,SPAIN: Hollywood Spain
+http://s1.iptv-cccam.com:80/live/NewJmyZero/P0utLbVoOC/1882.ts
+#EXTINF:-1,SPAIN: History
+http://s1.iptv-cccam.com:80/live/NewJmyZero/P0utLbVoOC/1883.ts
+#EXTINF:-1,SPAIN: GOL TV
+http://s1.iptv-cccam.com:80/live/NewJmyZero/P0utLbVoOC/1907.ts
+#EXTINF:-1,SPAIN: Fox Spain
+http://s1.iptv-cccam.com:80/live/NewJmyZero/P0utLbVoOC/1884.ts
+#EXTINF:-1,SPAIN: Fox Crime Spain
+http://s1.iptv-cccam.com:80/live/NewJmyZero/P0utLbVoOC/1885.ts
+#EXTINF:-1,SPAIN: FDF Spain
+http://s1.iptv-cccam.com:80/live/NewJmyZero/P0utLbVoOC/1886.ts
+#EXTINF:-1,SPAIN: Energy Spain
+http://s1.iptv-cccam.com:80/live/NewJmyZero/P0utLbVoOC/1887.ts
+#EXTINF:-1,SPAIN: Disney XD
+http://s1.iptv-cccam.com:80/live/NewJmyZero/P0utLbVoOC/1888.ts
+#EXTINF:-1,SPAIN: Disney Channel
+http://s1.iptv-cccam.com:80/live/NewJmyZero/P0utLbVoOC/1889.ts
+#EXTINF:-1,SPAIN: Canal   Toros
+http://s1.iptv-cccam.com:80/live/NewJmyZero/P0utLbVoOC/1891.ts
+#EXTINF:-1,SPAIN: Canal   Liga Campeons
+http://s1.iptv-cccam.com:80/live/NewJmyZero/P0utLbVoOC/1892.ts
+#EXTINF:-1,SPAIN: Canal   Liga
+http://s1.iptv-cccam.com:80/live/NewJmyZero/P0utLbVoOC/1893.ts
+#EXTINF:-1,SPAIN: Canal   Golf
+http://s1.iptv-cccam.com:80/live/NewJmyZero/P0utLbVoOC/1894.ts
+#EXTINF:-1,SPAIN: Canal   Futbol
+http://s1.iptv-cccam.com:80/live/NewJmyZero/P0utLbVoOC/1895.ts
+#EXTINF:-1,SPAIN: Canal   Dcine
+http://s1.iptv-cccam.com:80/live/NewJmyZero/P0utLbVoOC/1896.ts
+#EXTINF:-1,SPAIN: Canal   Comedia
+http://s1.iptv-cccam.com:80/live/NewJmyZero/P0utLbVoOC/1897.ts
+#EXTINF:-1,SPAIN: Canal   1
+http://s1.iptv-cccam.com:80/live/NewJmyZero/P0utLbVoOC/1900.ts
+#EXTINF:-1,SPAIN: Boing Spain
+http://s1.iptv-cccam.com:80/live/NewJmyZero/P0utLbVoOC/1901.ts
+#EXTINF:-1,SPAIN: Barca TV
+http://s1.iptv-cccam.com:80/live/NewJmyZero/P0utLbVoOC/1902.ts
+#EXTINF:-1,SPAIN: AXN White Spain
+http://s1.iptv-cccam.com:80/live/NewJmyZero/P0utLbVoOC/1903.ts
+#EXTINF:-1,SPAIN: AXN Spain
+http://s1.iptv-cccam.com:80/live/NewJmyZero/P0utLbVoOC/1904.ts
+#EXTINF:-1,SPAIN: A&E Spain
+http://s1.iptv-cccam.com:80/live/NewJmyZero/P0utLbVoOC/1905.ts
 #EXTINF:-1,Disney Junior (EN)
 http://80.29.8.59:4022/udp/239.0.0.10:8208
 #EXTINF:-1,Disney XD (EN)
