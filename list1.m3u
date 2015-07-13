@@ -736,7 +736,8 @@ http://31.220.40.121:80/LiveEdge/GoldenPremier1LA/playlist.m3u8?token=5f4ed1dd00
 #EXTINF:-1,Golden Premiere2
 http://31.220.40.121:80/LiveEdge/GoldenPremiere2LA/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e
 
-# EXTM3U
+#EXTINF:-1 group-title="latino: latino
+http://?
 #EXTINF: -1 Grupo-title = "latinos", HBOPlusLASD
 http://31.220.40.123:80/LiveEdge/HBOPlusLASD/playlist.m3u8?token=5f4ed1dd00640c4e3c63b3249891b70e
 #EXTINF: -1 Grupo-title = "latinos", el espacio
