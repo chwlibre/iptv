@@ -39,44 +39,16 @@ http://live.hls.http.13.ztreaming.com/13hddesktop/13hd-900.m3u8
 http://cluster.13movil.ztreaming.com/13tv2/stream1grpz13t29102012.sdp/playlist.m3u8
 #EXTINF:0, C13 Cable
 http://cluster.13cmovil.ztreaming.com/13cm/grpz13c/playlist.m3u8
-#EXTINF:-1,Discovery Channel
-http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
-#EXTINF:-1,Capital TV
-http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?
-#EXTINF:-1, AMERICA TV HD
-http://live-edge01.telecentro.net.ar/live/amrchd-360/playlist.m3u8
-#EXTINF:0,Disney Channel
-http://live.mvdigital.net:1935/live11/livestream1.sdp/playlist.m3u8#MegaIPTVArgentina
-#EXTINF:0,discovery
-http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
-#EXTINF:-1,1HD
-http://109.239.142.62:1935/live/livestream3/playlist.m3u8
 #EXTINF:0, RecTV
 http://13rec.movil.ztreaming.com/13rec/13rec/playlist.m3u8
 #EXTINF:0, ETC TV
 http://movilstream.digitalproserver.com/etctv/etctvvivo/livestream1/playlist.m3u8
 #EXTINF:0, ETC TV-2
 http://movilstream.digitalproserver.com/etctv/etctvvivo/livestream2/playlist.m3u8
-#EXTINF:0, CDF Premium
+#EXTINF:-1, CDF Premium
 http://65.202.39.110:5000/live/cdf_chile_deporte/playlist.m3u8
-#EXTINF:0, CDO Premium
+#EXTINF:-1, CDO Premium
 http://wow2.cl.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist_w913906597_b1064000.m3u8
-#EXTINF:-1, BeIN Sport 1
-http://streamindo.ddns.net/jhos/beib1_3/streamindo/playlist.m3u8
-#EXTINF:-1 tvg-id="MC2xml_I728.217704455.microsoft.com" tvg-name="VH1CL728_VH1CL728vh1_classicCable" tvg-logo="vh1-classisc.png" group-title="Español",RedTV
-http://live.mvdigital.net:1935/live9/livestream1.sdp/playlist.m3u8
-#EXTINF:-1,HISTORY
-http://live.mvdigital.net:1935/live10/livestream1.sdp/playlist.m3u8
-#EXTINF:-1,Gol TV
-http://live.mvdigital.net:1935/live12/livestream1.sdp/playlist.m3u8
-#EXTINF:-1, BeIN Sport 2 
-http://streamindo.ddns.net/jhos/beib2_3/streamindo/playlist.m3u8
-#EXTINF:-1,GOLTV AMERICA
-http://goltv-stream.fubotv.com.global.prod.fastly.net/UT-Origin/ngrp:golTV_all/chunklist_b1096000.m3u8
-#EXTINF:-1,ESPN HD
-http://cdn5.iviplanet.com:1935/CITYTV-TO/myStream.sdp/playlist.m3u8
-#EXTINF:-1,Fox Sports HD
-http://cdn5.iviplanet.com:1935/TELEPACIFICO-TO/myStream.sdp/playlist.m3u8
 #EXTINF:0, TV Chile
 http://edge-20-mvstr.edge.mdstrm.com/tvn-live/smil:285a5c6dade574d5f111419c85c6cf17/chunklist_b800000.m3u8
 #EXTINF:0,-Regiones Chile-
@@ -117,6 +89,24 @@ http://movilstream.digitalproserver.com/campustv/campustvvivo/livestream2/playli
 http://movilstream.digitalproserver.com/ufro/ufrovivo/ufro.smil/chunklist-b1564000.m3u8
 #EXTINF:0, Ufrovision
 http://movilstream.digitalproserver.com/ufro/ufrovivo/ufro.smil/chunklist-b764000.m3u8
+#EXTINF:0,-Cable-
+http://separador.m3u
+#EXTINF:0, Discovery Channel
+http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
+#EXTINF:0, ESPN
+http://cdn5.iviplanet.com:1935/CITYTV-TO/myStream.sdp/playlist.m3u8
+#EXTINF:0, Fox Sports
+http://cdn5.iviplanet.com:1935/TELEPACIFICO-TO/myStream.sdp/playlist.m3u8
+#EXTINF:0, GolTV USA 1080p
+http://goltv-stream.fubotv.com.global.prod.fastly.net/UT-Origin/ngrp:golTV_all/chunklist_b3596000.m3u8
+#EXTINF:0, GolTV USA 720p
+http://goltv-stream.fubotv.com.global.prod.fastly.net/UT-Origin/ngrp:golTV_all/chunklist_b1596000.m3u8
+#EXTINF:0, GolTV USA 480p
+http://goltv-stream.fubotv.com.global.prod.fastly.net/UT-Origin/ngrp:golTV_all/chunklist_b596000.m3u8
+#EXTINF:0, BeIN Sport 1
+http://streamindo.ddns.net/jhos/beib1_3/streamindo/playlist.m3u8
+#EXTINF:0, BeIN Sport 2 
+http://streamindo.ddns.net/jhos/beib2_3/streamindo/playlist.m3u8
 #EXTINF:0,-Peru-
 http://separador.m3u
 #EXTINF:0, ATV HD
@@ -128,14 +118,6 @@ http://ooyalahd2-f.akamaihd.net/i/americatv_delivery@25405/index_1728_av-b.m3u8
 #EXTINF:0, LatinaTV
 http://ooyalahd2-f.akamaihd.net/i/latinalim_delivery@128959/index_282_av-p.m3u8
 #EXTINF:0, PanamericanaTV
-http://m.iblups.com:1935/lives/ptv1/playlist.m3u8
-#EXTINF:-1, UCV Satelital
-http://wowzacontrol.net:1935/8050/8050/playlist.m3u8
-#EXTINF:-1 tvg-logo="guiatv-prueba.png",ATV-HD
-http://edge-31-us.edge.mdstrm.com/l...215482b4c2703e47f675a/chunklist_b1500000.m3u8
-#EXTINF: -1, América TV (Perú)
-http://ooyalahd2-f.akamaihd.net/i/atv02_delivery@25405/index_1728_av-p.m3u8
-#EXTINF:-1,Panamericana Perú
 http://m.iblups.com:1935/lives/ptv1/playlist.m3u8
 #EXTINF:0, RBC Satelital
 http://184.154.28.210:1935/rbcsatelital-hd/rbcsatelital-hd/playlist.m3u8
@@ -152,12 +134,6 @@ http://live-edge01.telecentro.net.ar/live/13hd-360/playlist.m3u8
 http://live-edge01.telecentro.net.ar/live/tlfhd-720/playlist.m3u8
 #EXTINF:0, Telefe
 http://live-edge01.telecentro.net.ar/live/tlfhd-360/playlist.m3u8
-#EXTINF:-1,América Argentina
-http://iphone-streaming.ustream.tv/uhls/17916700/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 tvg-logo="telemax.png" tvg-id="" tvg-logo="http://updroids.qlix.com.br/logos/telemax.png" group-title="IPTV ARGENTINA", TELEMAX (480p)
-http://live-edge01.telecentro.net.a...st_w2068408818_b1360000_sleng.m3u8?BRASILIPTV
-#EXTINF:-1 tvg-logo="tve 24h.png",Tve 24h HD
-http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
 #EXTINF:0, TV Publica HD
 http://live-edge01.telecentro.net.ar/live/tvphd-720/playlist.m3u8
 #EXTINF:0, TV Publica
@@ -186,6 +162,8 @@ http://lsdhcdnhls-lh.akamaihd.net/i/hcdnarsatHLS_1@301805/index_2_av-b.m3u8
 http://lsdencuentrohls-lh.akamaihd.net/i/TECTVHLS_1@198012/index_200_av-b.m3u8
 #EXTINF:0,-Mexico-
 http://separador.m3u
+#EXTINF:0, Canal de las Estrellas
+http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-b.m3u8
 #EXTINF:0, Proyecto 40
 http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/index_3_av-p.m3u8
 #EXTINF:0, ForoTV
@@ -234,6 +212,8 @@ http://mek4.mekstream.com/telesistema/smil:telesistema.smil/chunklist_w183900383
 #EXTINF:0,-Honduras-
 #EXTINF:0, Ten HD
 http://hd.worldkast.com/8378/smil:8378.smil/playlist.m3u8
+#EXTINF:0, Sulavision
+http://162.212.176.83:8080/sulavision.m3u8
 #EXTINF:0,-Asia-
 http://separador.m3u
 #EXTINF:0, NHK World
@@ -354,6 +334,8 @@ http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/france24_en/ls_satlink/b_828.m3u
 http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/france24_ar/ls_satlink/b_828.m3u8
 #EXTINF:0,-Musica-
 http://separador.m3u
+#EXTINF:0, CapitalTV
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8
 #EXTINF:0, First Music HD 1080p
 http://109.239.142.62:1935/live/livestream1/playlist.m3u8
 #EXTINF:0, First Music HD 720p
@@ -366,13 +348,3 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
 #EXTINF:0, VEVO 3
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
-#EXTINF:1,sulavision
-http://162.212.176.83:8080/sulavision.m3u8
-#EXTINF:-1,Kiss
-http://llnw.live.simplestream.com/coder9/coder.channels.channel14/hls/3/playlist.m3u8
-#EXTINF:-1 tvg-id="Heart TV" tvg-logo="hearttv.png" group-title="Musical",HEART TV [COLOR green]--ON LINE--[/COLOR]
-http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8#MegaIPTVArgentina
-#EXTINF:0,Azteca Deportes
-http://aztecalive-lh.akamaihd.net/i/0sa0dg2r9_1@167681/index_2_av-p.m3u8
-
-
