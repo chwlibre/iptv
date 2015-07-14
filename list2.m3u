@@ -74,8 +74,8 @@ http://?
 #EXTINF:-1,Discovery Channel SD 
 http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
 
-#EXTINF:-1 tvg-id="History" tvg-name="History" tvg-logo="history.png" group-title="Documental",History Sur
-http://live.mvdigital.net:1935/live1...aIPTVArgentina
+#EXTINF:-1,History
+http://live.mvdigital.net:1935/live1...aIPTVArgentina.m3u8
 
 #EXTINF:-1 group-title="Noticias",.: NOTICIAS :.
 http://?
