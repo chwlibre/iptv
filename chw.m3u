@@ -160,6 +160,10 @@ http://urtmpkal-f.akamaihd.net/i/1b6mj17sk_1@308700/index_1_av-p.m3u8
 http://lsdhcdnhls-lh.akamaihd.net/i/hcdnarsatHLS_1@301805/index_2_av-b.m3u8
 #EXTINF:0, TecTV
 http://lsdencuentrohls-lh.akamaihd.net/i/TECTVHLS_1@198012/index_200_av-b.m3u8
+#EXTINF:0,-Colombia-
+http://separador.m3u
+#EXTINF:0, CaracolTV
+http://caracoltvlivehds-lh.akamaihd.net/i/wowzalive_1@126280/index_300_av-b.m3u8
 #EXTINF:0,-Mexico-
 http://separador.m3u
 #EXTINF:0, Canal de las Estrellas
@@ -178,6 +182,8 @@ http://aztecalive-lh.akamaihd.net/i/0pd7p6ys0_1@175672/index_3_av-b.m3u8
 http://aztecalive-lh.akamaihd.net/i/0sa0dg2r9_1@167681/index_3_av-b.m3u8
 #EXTINF:0, Azteca 7 Deportes
 http://aztecalive-lh.akamaihd.net/i/0sa0dg2r9_1@167681/index_2_av-b.m3u8
+#EXTINF:0, Multimedios TV
+http://brightcove03-f.akamaihd.net/multimedios_tv_612k@55732
 #EXTINF:0,-Spain-
 http://separador.m3u
 #EXTINF:0, Antena 3 HD
@@ -210,10 +216,14 @@ http://mdsios2-lh.akamaihd.net/i/mitele/esmediaset_21@168473/index_0_av-p.m3u8
 #EXTINF:0, Telesistema
 http://mek4.mekstream.com/telesistema/smil:telesistema.smil/chunklist_w1839003835_b764000.m3u8
 #EXTINF:0,-Honduras-
+#EXTINF:0, Azteca Honduras
+http://aztecalive-lh.akamaihd.net/i/142kvpq0l_1@67741/index_1_av-p.m3u8
 #EXTINF:0, Ten HD
 http://hd.worldkast.com/8378/smil:8378.smil/playlist.m3u8
 #EXTINF:0, Sulavision
 http://162.212.176.83:8080/sulavision.m3u8
+#EXTINF:0, Azteca Guatemala
+http://aztecalive-lh.akamaihd.net/i/1ym9yab3c_1@66742/index_1_av-b.m3u8
 #EXTINF:0,-Asia-
 http://separador.m3u
 #EXTINF:0, NHK World
@@ -348,12 +358,34 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
 #EXTINF:0, VEVO 3
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
+#EXTINF:0,-Religion-
+#EXTINF:0, BYU Latino
+http://byuhd2-lh.akamaihd.net/i/byutvintspanhd2_live@103133/index_1240_av-b.m3u8
+#EXTINF:0, BYU Latino-2
+http://byuhd2-lh.akamaihd.net/i/byutvintspanhd2_live@103133/index_840_av-b.m3u8
+#EXTINF:0, BYU USA HD
+http://byuhd2-lh.akamaihd.net/i/byutvglobalhd2_live@103134/index_2540_av-b.m3u8
+#EXTINF:0, BYU USA
+http://byuhd2-lh.akamaihd.net/i/byutvglobalhd2_live@103134/index_840_av-b.m3u8
+#EXTINF:0, TBN Enlace
+http://acaooyalahd2-lh.akamaihd.net/i/TBN07_delivery@186245/index_1728_av-b.m3u8
+#EXTINF:0, TBN Enlace-2
+http://acaooyalahd2-lh.akamaihd.net/i/TBN07_delivery@186245/index_1164_av-b.m3u8
+#EXTINF:0, TBN Enlace-3
+http://livestream-f.akamaihd.net/2675843_1839332_3798b35c_1_678@77359
+#EXTINF:0, Enlace Juvenil
+http://acaooyalahd2-lh.akamaihd.net/i/TBN08_delivery@186246/index_1728_av-b.m3u8
+#EXTINF:0, Enlace Juvenil-2
+http://acaooyalahd2-lh.akamaihd.net/i/TBN08_delivery@186246/index_1164_av-b.m3u8
+#EXTINF:0, TBN USA HD
+http://acaooyalahd2-lh.akamaihd.net/i/TBN01_delivery@186239/index_2528_av-b.m3u8
+#EXTINF:0, TBN USA
+http://acaooyalahd2-lh.akamaihd.net/i/TBN01_delivery@186239/index_1164_av-b.m3u8
 #EXTINF:0,-Adultos-
 http://separador.m3u
-#EXTINF:0,Playboy TV
+#EXTINF:0, Playboy TV
 http://46.61.226.21/hls/CH_PLAYBOY/variant.m3u8?version=2
-#EXTINF:0,Oh La La
+#EXTINF:0, Oh La La
 http://hlsstr04.svc.iptv.rt.ru/hls/CH_OLALA/variant.m3u8?version=2
-#EXTINF:0,Blue Hustler
+#EXTINF:0, Blue Hustler
 http://hlsstr04.svc.iptv.rt.ru/hls/CH_BLUEHUSTLER/variant.m3u8?version=2
-
