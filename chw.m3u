@@ -385,6 +385,8 @@ http://acaooyalahd2-lh.akamaihd.net/i/TBN01_delivery@186239/index_1164_av-b.m3u8
 http://separador.m3u
 #EXTINF:0, Playboy TV
 http://46.61.226.21/hls/CH_PLAYBOY/variant.m3u8?version=2
+#EXTINF:0, PRIVATE
+http://178.33.126.213:1935/leved/privateCom/.m3u8
 #EXTINF:0, Oh La La
 http://hlsstr04.svc.iptv.rt.ru/hls/CH_OLALA/variant.m3u8?version=2
 #EXTINF:0, Blue Hustler
