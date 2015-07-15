@@ -358,6 +358,15 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
 #EXTINF:0, VEVO 3
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
+#EXTINF:0,-Radios-
+#EXTINF:-1,Duna
+http://wow1.dallas.digitalproserver.com/dunatv/dunatvvivo/dunatv.smil/playlist.m3u8
+#EXTINF:-1,Tiempo
+http://movilstream.digitalproserver.com/tiempotv/tiempotvvivo/tiempotv.smil/playlist.m3u8
+#EXTINF:-1,Zero
+http://movilstream.digitalproserver.com/zerotv/zerotvvivo/zerotv.smil/playlist.m3u8
+#EXTINF:-1,Radio la clave
+http://movilstream.digitalproserver.com/laclavetv/laclavetvvivo/laclavetv.smil/playlist.m3u8
 #EXTINF:0,-Religion-
 #EXTINF:0, BYU Latino
 http://byuhd2-lh.akamaihd.net/i/byutvintspanhd2_live@103133/index_1240_av-b.m3u8
@@ -385,7 +394,7 @@ http://acaooyalahd2-lh.akamaihd.net/i/TBN01_delivery@186239/index_1164_av-b.m3u8
 http://separador.m3u
 #EXTINF:0, Playboy TV
 http://46.61.226.21/hls/CH_PLAYBOY/variant.m3u8?version=2
-#EXTINF:0, PRIVATE
+#EXTINF:0, Private
 http://178.33.126.213:1935/leved/privateCom/.m3u8
 #EXTINF:0, Oh La La
 http://hlsstr04.svc.iptv.rt.ru/hls/CH_OLALA/variant.m3u8?version=2
