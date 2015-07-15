@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0,-Chile-
+#EXTINF:0,--Chile--
 http://separador.m3u
 #EXTINF:0, RedTV HD
 http://movilstream.digitalproserver.com:443/redtv/redtvvivo/livestream1/playlist.m3u8
@@ -51,7 +51,7 @@ http://65.202.39.110:5000/live/cdf_chile_deporte/playlist.m3u8
 http://wow2.cl.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist_w913906597_b1064000.m3u8
 #EXTINF:0, TV Chile
 http://edge-20-mvstr.edge.mdstrm.com/tvn-live/smil:285a5c6dade574d5f111419c85c6cf17/chunklist_b800000.m3u8
-#EXTINF:0,-Regiones Chile-
+#EXTINF:0,--Regiones Chile--
 http://separador.m3u
 #EXTINF:0, AntofagastaTV HD
 http://wow2.cl.digitalproserver.com/atv/atvvivo/atv.smil/chunklist_w949479730_b2200000.m3u8
@@ -89,7 +89,7 @@ http://movilstream.digitalproserver.com/campustv/campustvvivo/livestream2/playli
 http://movilstream.digitalproserver.com/ufro/ufrovivo/ufro.smil/chunklist-b1564000.m3u8
 #EXTINF:0, Ufrovision
 http://movilstream.digitalproserver.com/ufro/ufrovivo/ufro.smil/chunklist-b764000.m3u8
-#EXTINF:0,-Cable-
+#EXTINF:0,--Cable--
 http://separador.m3u
 #EXTINF:0, Discovery Channel
 http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
@@ -107,7 +107,7 @@ http://goltv-stream.fubotv.com.global.prod.fastly.net/UT-Origin/ngrp:golTV_all/c
 http://streamindo.ddns.net/jhos/beib1_3/streamindo/playlist.m3u8
 #EXTINF:0, BeIN Sport 2 
 http://streamindo.ddns.net/jhos/beib2_3/streamindo/playlist.m3u8
-#EXTINF:0,-Peru-
+#EXTINF:0,--Peru--
 http://separador.m3u
 #EXTINF:0, ATV HD
 http://edge-41-us.edge.mdstrm.com/live/smil:c23b8a0a21d215482b4c2703e47f675a/playlist_b1500.m3u8
@@ -125,7 +125,7 @@ http://184.154.28.210:1935/rbcsatelital-hd/rbcsatelital-hd/playlist.m3u8
 http://streamtv.betheltv.pe:1935/bethelgospelhd/streamingbethel25hd_source/playlist.m3u8
 #EXTINF:0, BethelTV
 http://streamtv.betheltv.pe:1935/bethelgospelhd/streamingbethel25hd_480p/playlist.m3u8
-#EXTINF:0,-Argentina-
+#EXTINF:0,--Argentina--
 #EXTINF:0, ElTrece HD
 http://live-edge01.telecentro.net.ar/live/13hd-720/playlist.m3u8
 #EXTINF:0, ElTrece
@@ -160,11 +160,11 @@ http://urtmpkal-f.akamaihd.net/i/1b6mj17sk_1@308700/index_1_av-p.m3u8
 http://lsdhcdnhls-lh.akamaihd.net/i/hcdnarsatHLS_1@301805/index_2_av-b.m3u8
 #EXTINF:0, TecTV
 http://lsdencuentrohls-lh.akamaihd.net/i/TECTVHLS_1@198012/index_200_av-b.m3u8
-#EXTINF:0,-Colombia-
+#EXTINF:0,--Colombia--
 http://separador.m3u
 #EXTINF:0, CaracolTV
 http://caracoltvlivehds-lh.akamaihd.net/i/wowzalive_1@126280/index_300_av-b.m3u8
-#EXTINF:0,-Mexico-
+#EXTINF:0,--Mexico--
 http://separador.m3u
 #EXTINF:0, Canal de las Estrellas
 http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-b.m3u8
@@ -184,7 +184,7 @@ http://aztecalive-lh.akamaihd.net/i/0sa0dg2r9_1@167681/index_3_av-b.m3u8
 http://aztecalive-lh.akamaihd.net/i/0sa0dg2r9_1@167681/index_2_av-b.m3u8
 #EXTINF:0, Multimedios TV
 http://brightcove03-f.akamaihd.net/multimedios_tv_612k@55732
-#EXTINF:0,-Spain-
+#EXTINF:0,--Spain--
 http://separador.m3u
 #EXTINF:0, Antena 3 HD
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8
@@ -215,7 +215,7 @@ http://mdsios2-lh.akamaihd.net/i/mitele/esmediaset_21@168473/index_0_av-p.m3u8
 #EXTINF:0,-Republica Dominicana-
 #EXTINF:0, Telesistema
 http://mek4.mekstream.com/telesistema/smil:telesistema.smil/chunklist_w1839003835_b764000.m3u8
-#EXTINF:0,-Honduras-
+#EXTINF:0,--Honduras--
 #EXTINF:0, Azteca Honduras
 http://aztecalive-lh.akamaihd.net/i/142kvpq0l_1@67741/index_1_av-p.m3u8
 #EXTINF:0, Ten HD
@@ -224,7 +224,7 @@ http://hd.worldkast.com/8378/smil:8378.smil/playlist.m3u8
 http://162.212.176.83:8080/sulavision.m3u8
 #EXTINF:0, Azteca Guatemala
 http://aztecalive-lh.akamaihd.net/i/1ym9yab3c_1@66742/index_1_av-b.m3u8
-#EXTINF:0,-Asia-
+#EXTINF:0,--Asia--
 http://separador.m3u
 #EXTINF:0, NHK World
 http://nhkwglobal-i.akamaihd.net/hls/live/222714/nhkwglobal/index_1180.m3u8
@@ -244,7 +244,7 @@ http://korealive.arirang.co.kr/cdnlive-hls/arirangklive/_definst_/liveevent/tvko
 http://korealive.arirang.co.kr/cdnlive-hls/arirangklive/_definst_/liveevent/tvkorea2.m3u8
 #EXTINF:0, Arirang Radio StudioTV 
 http://fmlive2.arirang.co.kr/cdnlive-hls/arirangfmlive2/_definst_/liveevent/fmlive2.m3u8
-#EXTINF:0,-Internacionales-
+#EXTINF:0,--Internacionales--
 http://separador.m3u
 #EXTINF:0, RT Espanol HD
 http://rt-a.akamaihd.net/ch_02@325606/720p.m3u8
@@ -342,7 +342,7 @@ http://37.58.85.156/rlo001/ngrp:rlo001.stream_all/chunklist_b856000.m3u8
 http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/france24_en/ls_satlink/b_828.m3u8
 #EXTINF:0, France24 Arabia
 http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/france24_ar/ls_satlink/b_828.m3u8
-#EXTINF:0,-Musica-
+#EXTINF:0,--Musica--
 http://separador.m3u
 #EXTINF:0, CapitalTV
 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8
@@ -358,7 +358,8 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
 #EXTINF:0, VEVO 3
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
-#EXTINF:0,-Radios-
+#EXTINF:0,--Radios--
+http://separador.m3u
 #EXTINF:-1,Duna
 http://wow1.dallas.digitalproserver.com/dunatv/dunatvvivo/dunatv.smil/playlist.m3u8
 #EXTINF:-1,Tiempo
@@ -367,7 +368,8 @@ http://movilstream.digitalproserver.com/tiempotv/tiempotvvivo/tiempotv.smil/play
 http://movilstream.digitalproserver.com/zerotv/zerotvvivo/zerotv.smil/playlist.m3u8
 #EXTINF:-1,Radio la clave
 http://movilstream.digitalproserver.com/laclavetv/laclavetvvivo/laclavetv.smil/playlist.m3u8
-#EXTINF:0,-Religion-
+#EXTINF:0,--Religion--
+http://separador.m3u
 #EXTINF:0, BYU Latino
 http://byuhd2-lh.akamaihd.net/i/byutvintspanhd2_live@103133/index_1240_av-b.m3u8
 #EXTINF:0, BYU Latino-2
@@ -390,7 +392,7 @@ http://acaooyalahd2-lh.akamaihd.net/i/TBN08_delivery@186246/index_1164_av-b.m3u8
 http://acaooyalahd2-lh.akamaihd.net/i/TBN01_delivery@186239/index_2528_av-b.m3u8
 #EXTINF:0, TBN USA
 http://acaooyalahd2-lh.akamaihd.net/i/TBN01_delivery@186239/index_1164_av-b.m3u8
-#EXTINF:0,-Adultos-
+#EXTINF:0,--Adultos--
 http://separador.m3u
 #EXTINF:0, Playboy TV
 http://46.61.226.21/hls/CH_PLAYBOY/variant.m3u8?version=2
