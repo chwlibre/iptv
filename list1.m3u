@@ -19,8 +19,16 @@ http://cluster.13movil.ztreaming.com/13tv2/stream1grpz13t29102012.sdp/playlist.m
 http://cluster.13cmovil.ztreaming.com/13cm/grpz13c/playlist.m3u8
 #EXTINF:-1,REC TV
 http://13rec.movil.ztreaming.com:1935/13rec/13rec/playlist.m3u8
-
-
+#EXTINF:-1,ETC TV
+http://movilstream.digitalproserver.com/etctv/etctvvivo/etctv.smil/chunklist-b948000.m3u8
+#EXTINF:0, CHV HD
+http://mi.chv.cl/playlist/stream.m3u8?s=hd
+#EXTINF:0, La Red HD
+http://movilstream.digitalproserver.com:443/redtv/redtvvivo/livestream1/playlist.m3u8
+#EXTINF:0, Canal 13 HD
+http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8
+#EXTINF:0, TV Chile
+http://edge-20-mvstr.edge.mdstrm.com/tvn-live/smil:285a5c6dade574d5f111419c85c6cf17/chunklist_b800000.m3u8
 
 
 #EXTINF:-1 group-title="Cine",.: CINE
