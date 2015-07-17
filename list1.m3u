@@ -24,6 +24,20 @@ http://edge-20-mvstr.edge.mdstrm.com/tvn-live/smil:285a5c6dade574d5f111419c85c6c
 #EXTINF:-1,ETC TV
 http://movilstream.digitalproserver.com/etctv/etctvvivo/etctv.smil/chunklist-b948000.m3u8
 
+
+#EXTINF:-1 tvg-id="TATETI" tvg-name="TATETI" tvg-logo="tateti.png" group-title="Infantil",Ta Te Ti (OFFLINE)
+http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/index_724_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="Anime TV" tvg-name="Anime TV" tvg-logo="animetv.png" group-title="Infantil",Anime TV
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8#MegaIPTVArgentina
+
+
+#EXTINF:-1 tvg-id="Discovery-es" tvg-logo="Discovery.png" group-title="Documental",Discovery en español
+http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8#MegaIPTVArgentina
+#EXTINF:-1 tvg-id="History" tvg-name="History" tvg-logo="history.png" group-title="Documental",History Sur
+http://live.mvdigital.net:1935/live10/livestream1.sdp/playlist.m3u8#MegaIPTVArgentina
+#EXTINF:-1 tvg-id="Indagando TV" tvg-logo="indagandotv.png"group-title="Documental",Indagando TV
+http://streaming.enetres.net/B7456E01B090498DAF2F191C36DF29DC024/smil:live.smil/playlist.m3u8#MegaIPTVArgentina
+
 #EXTINF:-1 group-title="Cine",.: CINE
 #EXTINF:-1,HBo
 http://113.160.49.34/lives/origin03/hbohd.isml/hbohd-2096k.m3u8
