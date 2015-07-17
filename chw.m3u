@@ -160,9 +160,14 @@ http://urtmpkal-f.akamaihd.net/i/1b6mj17sk_1@308700/index_1_av-p.m3u8
 http://lsdhcdnhls-lh.akamaihd.net/i/hcdnarsatHLS_1@301805/index_2_av-b.m3u8
 #EXTINF:0, TecTV
 http://lsdencuentrohls-lh.akamaihd.net/i/TECTVHLS_1@198012/index_200_av-b.m3u8
+#EXTINF:0,--Nicaragua--
+#EXTINF:0, TN8
+http://cdn5.iviplanet.com:1935/TN8MBR/myStream.sdp_source/playlist.m3u8
 #EXTINF:0,--Colombia--
 http://separador.m3u
 #EXTINF:0, CaracolTV
+http://caracoltvlivehds-lh.akamaihd.net/i/caracol02_1@126280/index_2128_av-b.m3u8
+#EXTINF:0, CaracolTV-2
 http://caracoltvlivehds-lh.akamaihd.net/i/wowzalive_1@126280/index_300_av-b.m3u8
 #EXTINF:0,--Mexico--
 http://separador.m3u
@@ -212,6 +217,8 @@ http://iphonelive.rtve.es/LA2_LV3_IPH/bitrate_2.m3u8
 http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
 #EXTINF:0, TeleCinco
 http://mdsios2-lh.akamaihd.net/i/mitele/esmediaset_21@168473/index_0_av-p.m3u8
+#EXTINF:0, RealMadrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-b.m3u8
 #EXTINF:0,-Republica Dominicana-
 #EXTINF:0, Telesistema
 http://mek4.mekstream.com/telesistema/smil:telesistema.smil/chunklist_w1839003835_b764000.m3u8
