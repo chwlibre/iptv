@@ -109,6 +109,12 @@ http://streamindo.ddns.net/jhos/beib1_3/streamindo/playlist.m3u8
 http://streamindo.ddns.net/jhos/beib2_3/streamindo/playlist.m3u8
 #EXTINF:-1,DIRECT TV sports
 http://live.mvdigital.net:1935/live10/livestream1.sdp/playlist.m3u8
+#EXTINF:-1,CANAL+LIGAHD
+http://tinyurl.com/o4agwml
+#EXTINF:0,Sport 1 HD (RU) Op. 01
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_C04_SPORT1HD/variant.m3u8?version=2
+#EXTINF:0,Sport 1 HD (RU) Op. 02
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_SPORT1/variant.m3u8?version=2
 #EXTINF:0,--Peru--
 http://separador.m3u
 #EXTINF:0, ATV HD
