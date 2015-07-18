@@ -264,8 +264,6 @@ http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
 #EXTINF:-1 tvg-id=,CanalExtremadura.es,EXTREMADURA TV
 http://corporacionextremena-live.hls.adaptive.level3.net/hls-live/corporacionextremena-channel02/_definst_/live.m3u8
-#EXTINF:-1,tv MAS
-http://50.7.98.234:1935/rtv/videortv/playlist.m3u8
 #EXTINF:0, RT Espanol HD
 http://rt-a.akamaihd.net/ch_02@325606/720p.m3u8
 #EXTINF:0, RT Espanol
@@ -378,12 +376,6 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
 #EXTINF:0, VEVO 3
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
-#EXTINF:-1,VEVO MUSIC 4 
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
-#EXTINF:-1,VEVO MUSIC 5 
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
-#EXTINF:-1,VEVO MUSIC 6 
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
 #EXTINF:0,Heart TV
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8#MegaIPTVArgentina
 #EXTINF:0,--Radios--
