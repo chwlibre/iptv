@@ -1371,7 +1371,7 @@ http://88.11.225.211:4022/udp/239.0.9.146:8208
 
 #EXTINF:-1,pelis
 http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8?
-#EXTINF:4.004 group-title="C-Alta JLX Tutoriales",Canal 2 HD 
+#EXTINF:4.004,Canal 2 HD 
 http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0wMzQmbGFuPTImcm93cz00MCZzZXNzaW9uPTlkNWxocTFhc2VhZ3BwaiZsYW49Mg==&f=.m3u8
 #EXTINF:4.004,Foro tv HD
 http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00NiZsYW49MiZyb3dzPTQwJnNlc3Npb249OWQ1bGhxMWFzZWFncHBqJmxhbj0y&f=.m3u8
