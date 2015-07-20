@@ -1421,7 +1421,8 @@ http://premium.tutvgratis.tv:8000/live/youtvplayer/app/290.m3u8
 http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0wMzQmbGFuPTImcm93cz00MCZzZXNzaW9uPTlkNWxocTFhc2VhZ3BwaiZsYW49Mg==&f=.m3u8
 #EXTINF:4.004,Foro tv HD
 http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00NiZsYW49MiZyb3dzPTQwJnNlc3Npb249OWQ1bGhxMWFzZWFncHBqJmxhbj0y&f=.m3u8
-
+#EXTINF:-1,pelis
+http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8?
 #EXTINF:4.004,Canal 5 HD
 http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT01MCZsYW49MiZyb3dzPTQwJnNlc3Npb249OWQ1bGhxMWFzZWFncHBqJmxhbj0y&f=.m3u8
 #EXTINF:4.004,Azteca 7 HD
