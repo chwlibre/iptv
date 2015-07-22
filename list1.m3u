@@ -2065,6 +2065,23 @@ http://www.spruto.tv/get_file/5/593ab7a4e734a6ec09e5cabf06798aeb/110000/110201/1
 #EXTINF:0 group-title="Infantil",LA PRINCESA SOFIA: UN PALACIO EN EL AGUA
 http://www.spruto.tv/get_file/5/27ffbde5055018126b083d4eb4f2eb3a/110000/110203/110203.?start=0
 
+#EXTINF:-1 group-title="El Salvador",.: El salvador :.
+http://?
+
+#EXTINF:-1 tvg-id="Megavision El Salvador" tvg-logo="megavision-elsalvador.png" group-title="El Salvador",Megavision Canal 21 El Salvador
+http://xgrupomegavisionx.api.channel.livestream.com/3.0/playlist.m3u8#MegaIPTVArgentina
+
+#EXTINF:-1 tvg-id="TVX-ElSalvador" tvg-logo="tvxcanal23.jpg" group-title="El Salvador",TVX Canal 23 El Salvador
+rtmp://panel.elsalvadordigital.com:1935/canal23/canal23
+
+#EXTINF:-1 tvg-id="Canal33-ElSalvador" tvg-logo="canal33-elsalvador.png" group-title="El Salvador",Canal 33 El Salvador
+http://iphone-streaming.ustream.tv/ustreamVideo/4811076/streams/live/playlist.m3u8#MegaIPTVArgentina
+
+#EXTINF:-1 tvg-id="Canal33-ElSalvador" tvg-logo="canal33-elsalvador.png" group-title="El Salvador",Canal 33 El Salvador (Opc.2)
+http://iphone-streaming.ustream.tv/uhls/4811076/streams/live/iphone/playlist.m3u8#MegaIPTVArgentina
+
+#EXTINF:-1 tvg-id="TVO" tvg-logo="tvo23.png" group-title="El Salvador",TVO Canal 23 El Salvador
+http://xtvocanal23x.api.channel.livestream.com/3.0/playlist.m3u8#MegaIPTVArgentina
 
 
 #EXTINF:-1 group-title="A prueba",.: POR REVISAR :.
