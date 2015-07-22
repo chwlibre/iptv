@@ -4,17 +4,25 @@ http://?
 
 #EXTINF:-1 group-title="Nacionales",.: NACIONALES :.
 
+#EXTINF:0,UCV HD
+http://movilstream.digitalproserver.com/ucvtv/_definst_/ucvtv.smil/chunklist-b1248000.m3u8
 #EXTINF:-1,TVN HD
 http://edge-11-mvstr.edge.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
 #EXTINF:-1,MEGA HD
 http://edge-11-mvstr.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist_b1500.m3u8
 #EXTINF:0, CHV HD
 http://mi.chv.cl/playlist/stream.m3u8?s=hd
-
-#EXTINF:-1,REC TV
-http://13rec.movil.ztreaming.com:1935/13rec/13rec/playlist.m3u8
+#EXTINF:0, La Red HD
+http://movilstream.digitalproserver.com:443/redtv/redtvvivo/livestream1/playlist.m3u8
+#EXTINF:0, Canal 13 HD
+http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8
 #EXTINF:0, TV Chile
 http://edge-20-mvstr.edge.mdstrm.com/tvn-live/smil:285a5c6dade574d5f111419c85c6cf17/chunklist_b800000.m3u8
+#EXTINF:0,Canal 13C
+http://cluster.13cmovil.ztreaming.com/13cm/grpz13c/playlist.m3u8
+#EXTINF:0,Rec TV
+http://13rec.movil.ztreaming.com:1935/13rec/13rec/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-id="TATETI" tvg-name="TATETI" tvg-logo="tateti.png" group-title="Infantil",Ta Te Ti (OFFLINE)
