@@ -224,6 +224,8 @@ http://31.220.40.123:80/LiveEdge/SonyLA/playlist.m3u8?token=d673c3b8ed1ef92b69b1
 #EXTINF:-1 group-title="hjoge",.: HJORGE :.
 #EXTINF:-1,pelis
 http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8?
+#EXTINF:-1,DRAGON BOOL Y PELICULAS
+http://iphone-streaming.ustream.tv/uhls/20634165/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,El canal de las estrellas (TV Abierta)
 #EXTVLCOPT:http-user-agent=Lavf/55.19.104
 http://premium.tutvgratis.tv:8000/live/youtvplayer/app/36.m3u8
