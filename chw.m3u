@@ -402,6 +402,8 @@ http://wow1.dallas.digitalproserver.com/dunatv/dunatvvivo/dunatv.smil/playlist.m
 http://movilstream.digitalproserver.com/zerotv/zerotvvivo/zerotv.smil/playlist.m3u8
 #EXTINF:-1,Radio la clave
 http://movilstream.digitalproserver.com/laclavetv/laclavetvvivo/laclavetv.smil/playlist.m3u8
+#EXTINF:-1,radio adn stream
+http://movilstream.digitalproserver.com/adn/adnvivo/adn.smil/playlist.m3u8
 #EXTINF:-1,Uoct
 http://mdstrm.com/live-stream-playlist-v/53443c472c6e89675103cc4c.m3u8
 #EXTINF:0,--Religion--
