@@ -386,14 +386,18 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8#MegaIPTVArgentina
 #EXTINF:0,--Radios--
 http://separador.m3u
-#EXTINF:-1,Duna
-http://wow1.dallas.digitalproserver.com/dunatv/dunatvvivo/dunatv.smil/playlist.m3u8
+#EXTINF:-1,Freaky channel radio carolina
+http://movilstream.digitalproserver.com/freakytv//freakytv.smil/playlist.m3u8
 #EXTINF:-1,Tiempo
 http://movilstream.digitalproserver.com/tiempotv/tiempotvvivo/tiempotv.smil/playlist.m3u8
+#EXTINF:-1,Duna
+http://wow1.dallas.digitalproserver.com/dunatv/dunatvvivo/dunatv.smil/playlist.m3u8
 #EXTINF:-1,Zero
 http://movilstream.digitalproserver.com/zerotv/zerotvvivo/zerotv.smil/playlist.m3u8
 #EXTINF:-1,Radio la clave
 http://movilstream.digitalproserver.com/laclavetv/laclavetvvivo/laclavetv.smil/playlist.m3u8
+#EXTINF:-1,Uoct
+http://mdstrm.com/live-stream-playlist-v/53443c472c6e89675103cc4c.m3u8
 #EXTINF:0,--Religion--
 http://separador.m3u
 #EXTINF:0, BYU Latino
