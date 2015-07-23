@@ -706,8 +706,6 @@ http://tinyurl.com/oxtz6so
 
 #EXTINF:-1 group-title="TV Extranjera",.: TV EXTRANJERA :.
 http://?
-#EXTINF:-1, Adn Stream
-http://movilstream.digitalproserver.com/adn/adnvivo/adn.smil/playlist.m3u8
 #EXTINF:-1,Foro TV
 http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/index_1200_av-b.m3u8
 #EXTINF:-1,TV Nuevo León
@@ -752,7 +750,9 @@ http://mdstrm.com/live-stream-playlist-v/53443c472c6e89675103cc4c.m3u8
 http://movilstream.digitalproserver.com/tiempotv/tiempotvvivo/tiempotv.smil/playlist.m3u8
 #EXTINF:-1,Zero
 http://movilstream.digitalproserver.com/zerotv/zerotvvivo/zerotv.smil/playlist.m3u8
-#EXTINF:0,Cesfam TV
+#EXTINF:-1, Adn Stream
+http://movilstream.digitalproserver.com/adn/adnvivo/adn.smil/playlist.m3u8
+XTINF:0,Cesfam TV
 http://evo.eltelon.com:443/live/cesfamtv/playlist.m3u8
 #EXTINF:0,El Pingüino TV
 http://streaming.elpinguino.com:1935/live/pinguinotv_360p/chunklist_w194650448.m3u8?MegaIPTVArgentina
@@ -878,40 +878,40 @@ https://onedrive.live.com/download.aspx?resid=586ec193eb89f537!162&authkey=!AGLx
 https://onedrive.live.com/download.aspx?resid=ddd89122e94140c5!227&authkey=!AIilksgTxykonvY&ithint=file%2cmkv
 #EXTINF:-1 group-title="Peliculas en Español Latino" tvg-logo="malefica.jpg" ,[COLOR blue]MALEFICA[/COLOR]
 https://onedrive.live.com/download.aspx?resid=ddd89122e94140c5!223&authkey=!AK_xPvm1-tWDv5k&ithint=file%2cmkv
-#EXTINF:-1 group-title="Peliculas en Español Latino" tvg-logo="rp6.jpg" ,[COLOR blue]RAPIDO Y FURIOSO 6[/COLOR]
-https://onedrive.live.com/download.aspx?resid=69d62cd6432c26e1!140&authkey=!AEQRR6DGLgqf4eI&ithint=video%2cavi
-#EXTINF:-1 group-title="Peliculas en Español Latino" tvg-logo="rp5.jpg" ,[COLOR blue]RAPIDO Y FURIOSO 5[/COLOR]
-https://onedrive.live.com/download.aspx?resid=69d62cd6432c26e1!139&authkey=!ALRsDwdtDd3WuT0&ithint=video%2cavi
-#EXTINF:-1 group-title="Peliculas en Español Latino" tvg-logo="rp4.jpg" ,[COLOR blue]RAPIDO Y FURIOSO 4[/COLOR]
-https://onedrive.live.com/download.aspx?resid=69d62cd6432c26e1!138&authkey=!AEEStnEowGFLEUY&ithint=video%2cavi
-#EXTINF:-1 group-title="Peliculas en Español Latino" tvg-logo="rp3.jpg" ,[COLOR blue]RAPIDO Y FURIOSO 3[/COLOR]
-https://onedrive.live.com/download.aspx?resid=69d62cd6432c26e1!137&authkey=!APVeVaQtsJlH58U&ithint=video%2cavi
-#EXTINF:-1 group-title="Peliculas en Español Latino" tvg-logo="rp2.jpg" ,[COLOR blue]RAPIDO Y FURIOSO 2[/COLOR]
-https://onedrive.live.com/download.aspx?resid=69d62cd6432c26e1!136&authkey=!AFpA8UCewIxKB44&ithint=video%2cavi
-#EXTINF:-1 group-title="Peliculas en Español Latino" tvg-logo="rp1.jpg" ,[COLOR blue]RAPIDO Y FURIOSO 1[/COLOR]
+#EXTINF:-1 group-title="Peliculas en Español Latino" tvg-logo="rp1.jpg" ,]RAPIDO Y FURIOSO 1
 https://onedrive.live.com/download.aspx?resid=69d62cd6432c26e1!135&authkey=!AEPEVsCxHYrJuJk&ithint=video%2cavi
-#EXTINF:-1 group-title="Peliculas en Español Latino" tvg-logo="francotirador.jpg" ,[COLOR blue]FRANCOTIRADOR 2014[/COLOR]
+#EXTINF:-1 group-title="Peliculas en Español Latino" tvg-logo="rp2.jpg" ,]RAPIDO Y FURIOSO 2
+https://onedrive.live.com/download.aspx?resid=69d62cd6432c26e1!136&authkey=!AFpA8UCewIxKB44&ithint=video%2cavi
+#EXTINF:-1 group-title="Peliculas en Español Latino" tvg-logo="rp3.jpg" ,RAPIDO Y FURIOSO 3
+https://onedrive.live.com/download.aspx?resid=69d62cd6432c26e1!137&authkey=!APVeVaQtsJlH58U&ithint=video%2cavi
+#EXTINF:-1 group-title="Peliculas en Español Latino" tvg-logo="rp4.jpg" ,RAPIDO Y FURIOSO 4
+https://onedrive.live.com/download.aspx?resid=69d62cd6432c26e1!138&authkey=!AEEStnEowGFLEUY&ithint=video%2cavi
+#EXTINF:-1 group-title="Peliculas en Español Latino" tvg-logo="rp5.jpg" ,RAPIDO Y FURIOSO 5
+https://onedrive.live.com/download.aspx?resid=69d62cd6432c26e1!139&authkey=!ALRsDwdtDd3WuT0&ithint=video%2cavi
+#EXTINF:-1 group-title="Peliculas en Español Latino" tvg-logo="rp6.jpg" ,RAPIDO Y FURIOSO 6
+https://onedrive.live.com/download.aspx?resid=69d62cd6432c26e1!140&authkey=!AEQRR6DGLgqf4eI&ithint=video%2cavi
+#EXTINF:-1 group-title="Peliculas en Español Latino" tvg-logo="francotirador.jpg" ,FRANCOTIRADOR 2014
 https://onedrive.live.com/download.aspx?resid=69d62cd6432c26e1!133&authkey=!AI8AZ4SBKHms-AY&ithint=video%2cmp4
-#EXTINF:-1 group-title="Peliculas en Español Latino" tvg-logo="cercanaobsesion.jpg",[COLOR blue]CERCANA OBSESION [/COLOR]
+#EXTINF:-1 group-title="Peliculas en Español Latino" tvg-logo="cercanaobsesion.jpg",CERCANA OBSESION 
 https://onedrive.live.com/download.aspx?resid=69d62cd6432c26e1!115&authkey=!AFcURIAaITWRrGI&ithint=video%2cavi
-#EXTINF:-1 group-title="Peliculas en Español Latino" tvg-logo="intrusos.jpg",[COLOR blue]INTRUSOS [/COLOR]
+#EXTINF:-1 group-title="Peliculas en Español Latino" tvg-logo="intrusos.jpg",INTRUSOS 
 https://onedrive.live.com/download.aspx?resid=69d62cd6432c26e1!113&authkey=!AJmQ6ABSiAnTNVk&ithint=video%2cavi
-#EXTINF:-1 group-title="Peliculas en Español Latino" tvg-logo="alquilerdepadrinos.jpg" ,[COLOR blue]ALQUILER DE PADRINOS [/COLOR]
+#EXTINF:-1 group-title="Peliculas en Español Latino" tvg-logo="alquilerdepadrinos.jpg" ,ALQUILER DE PADRINOS
 https://onedrive.live.com/download.aspx?resid=9caf247c0ad78cb5!73727&authkey=!AMUxFf8m6pkCPnA&ithint=file%2cmkv
-#EXTINF:-1 group-title="Peliculas en Español Latino" tvg-logo="grey.jpg" ,[COLOR blue]50 SOMBRAS DE GRAY[/COLOR]
+#EXTINF:-1 group-title="Peliculas en Español Latino" tvg-logo="grey.jpg" ,50 SOMBRAS DE GRAY
 https://onedrive.live.com/download.aspx?resid=9caf247c0ad78cb5!73652&authkey=!AOOliN6j1rYX-Ec&ithint=file%2cmkv
-#EXTINF:-1 group-title="Peliculas en Español Latino" tvg-logo="elseptimohijo.jpg" ,[COLOR blue]EL SEPTIMO HIJO[/COLOR]
+#EXTINF:-1 group-title="Peliculas en Español Latino" tvg-logo="elseptimohijo.jpg" ,EL SEPTIMO HIJO
 https://onedrive.live.com/download.aspx?resid=69d62cd6432c26e1!116&authkey=!AALBgGqd1MyixpE&ithint=file%2cmkv
-#EXTINF:-1 group-title="Peliculas en Español Latino" tvg-logo="elmarino4.jpg" ,[COLOR blue]EL MARINO 4 [/COLOR]
+#EXTINF:-1 group-title="Peliculas en Español Latino" tvg-logo="elmarino4.jpg" ,EL MARINO 4 
 https://onedrive.live.com/download.aspx?resid=69d62cd6432c26e1!114&authkey=!ANn_mNMIQUNHBaA&ithint=file%2cmkv
-#EXTINF:-1 group-title="Peliculas en Español Latino" tvg-logo="interestelar.jpg" ,[COLOR blue]INTERESTELAR 2015 [/COLOR]
+#EXTINF:-1 group-title="Peliculas en Español Latino" tvg-logo="interestelar.jpg" ,INTERESTELAR 2015
 https://onedrive.live.com/download.aspx?resid=bbc1d5e9f7f2ac26!108&authkey=!AOH1NR5IV8rGDSA&ithint=file%2cmkv
-#EXTINF:-1 group-title="Peliculas en Español Latino" tvg-logo="taken3.jpg" ,[COLOR blue]BUSQUEDA IMPLACABLE 3[/COLOR]
-https://onedrive.live.com/download.aspx?resid=69d62cd6432c26e1!131&authkey=!AJZfzHpXQB2Md50&ithint=file%2cmkv
-#EXTINF:-1 group-title="Peliculas en Español Latino" tvg-logo="taken2.jpg" ,[COLOR blue]BUSQUEDA IMPLACABLE 2[/COLOR]
-https://onedrive.live.com/download.aspx?resid=69d62cd6432c26e1!132&authkey=!AAUCbt9O9zS0hUg&ithint=file%2cmkv
-#EXTINF:-1 group-title="Peliculas en Español Latino" tvg-logo="taken1.jpg" ,[COLOR blue]BUSQUEDA IMPLACABLE 1[/COLOR]
+#EXTINF:-1 group-title="Peliculas en Español Latino" tvg-logo="taken1.jpg" ,BUSQUEDA IMPLACABLE 1
 https://onedrive.live.com/download.aspx?resid=69d62cd6432c26e1!134&authkey=!ABSd0nYndLF1SFA&ithint=file%2cmkv
+#EXTINF:-1 group-title="Peliculas en Español Latino" tvg-logo="taken2.jpg" ,BUSQUEDA IMPLACABLE 2
+https://onedrive.live.com/download.aspx?resid=69d62cd6432c26e1!132&authkey=!AAUCbt9O9zS0hUg&ithint=file%2cmkv
+#EXTINF:-1 group-title="Peliculas en Español Latino" tvg-logo="taken3.jpg" ,BUSQUEDA IMPLACABLE 3
+https://onedrive.live.com/download.aspx?resid=69d62cd6432c26e1!131&authkey=!AJZfzHpXQB2Md50&ithint=file%2cmkv
 #EXTINF:0,MENTES PELIGROSAS
 https://ia600309.us.archive.org/34/items/b1fb1b3745.360/b1fb1b3745.360.mp4
 #EXTINF:0,INTRUSOS
