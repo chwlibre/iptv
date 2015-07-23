@@ -374,6 +374,8 @@ http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&pr
 http://rrr.sz.xlcdn.com/?account=AATW&file=nowmusic&type=live&service=wowza&protocol=http&output=playlist.m3u8
 #EXTINF:0,kiss tv
 rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
+#EXTINF:0,hip hop channel 
+http://hlsstr03.svc.iptv.rt.ru/hls/CH_AONE/variant.m3u8?version=2
 #EXTINF:0, CapitalTV
 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8
 #EXTINF:0, First Music HD 1080p
