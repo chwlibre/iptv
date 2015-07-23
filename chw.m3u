@@ -261,6 +261,8 @@ http://korealive.arirang.co.kr/cdnlive-hls/arirangklive/_definst_/liveevent/tvko
 http://fmlive2.arirang.co.kr/cdnlive-hls/arirangfmlive2/_definst_/liveevent/fmlive2.m3u8
 #EXTINF:0,--Internacionales--
 http://separador.m3u
+#EXTINF:-1,Miami - Telemundo 002
+http://iphone-streaming.ustream.tv/ustreamVideo/20720323/streams/live/playlist.m3u8
 #EXTINF:-1,Miami TV
 http://k4.usastreams.com:1935/miamitv/smile:miamitv/chunklist_w667654953_b1550000.m3u8
 #EXTINF:1,cdn
