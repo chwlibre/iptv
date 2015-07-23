@@ -368,6 +368,8 @@ http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/france24_en/ls_satlink/b_828.m3u
 http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/france24_ar/ls_satlink/b_828.m3u8
 #EXTINF:0,--Musica--
 http://separador.m3u
+#EXTINF:0,clublandtv
+http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8
 #EXTINF:0, CapitalTV
 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8
 #EXTINF:0, First Music HD 1080p
