@@ -45,6 +45,8 @@ http://13rec.movil.ztreaming.com/13rec/13rec/playlist.m3u8
 http://movilstream.digitalproserver.com/etctv/etctvvivo/livestream1/playlist.m3u8
 #EXTINF:0, ETC TV-2
 http://movilstream.digitalproserver.com/etctv/etctvvivo/livestream2/playlist.m3u8
+#EXTINF:-1 Anime TV
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8#MegaIPTVArgentina
 #EXTINF:-1, CDF Premium
 http://65.202.39.110:5000/live/cdf_chile_deporte/playlist.m3u8
 #EXTINF:-1, CDO Premium
