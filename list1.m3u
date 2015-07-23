@@ -279,8 +279,6 @@ http://iptv.klfree.cz:8020
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-b.m3u8?sd=10&rebase;=on.
 #EXTINF:0,Sevilla fc.sp,Sevilla FC
 rtmp://flash0.80137-live0.dna.qbrick.com/80137-live0/sevillafc
-#EXTINF:0,tvg-logo="people.png",News People TV
-http://149.11.34.78:1935/live/newspeopletv.stream/hasbahca.m3u8
 #EXTINF:0,radiohuesca.com,Huesca TV
 rtmp://streaming2.radiohuesca.com/live/huescatv
 #EXTINF:0,Yes.sp,Yes
@@ -294,27 +292,11 @@ http://mek4.mekstream.com/telesistema/smil:telesistema.smil/chunklist_w965232534
 http://mek4.mekstream.com/teleantillas/live3/playlist.m3u8
 #EXTINF:0,Telefutura 23
 http://ss7.domint.net:1950/tf_str/futu/hasbahca.m3u8
-#EXTINF:0,America TV HD (Per)
-http://ooyalahd2-f.akamaihd.net/i/americatv_delivery@25405/index_1728_av-p.m3u8
 #EXTINF:0,Universal Movies.mx,Universal Movies
 http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8 
 
-#EXTINF:4.004 group-title="C-Baja JLX Tutoriales",Canal 2 HD 
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00MSZsYW49MiZyb3dzPTQwJnNlc3Npb249mI0d2N0MnRoNWNhbGNpJmxhbj0y&f=.m3u8
-#EXTINF:4.004,Foro tv HD
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00NSZsYW49MiZyb3dzPTQwJnNlc3Npb249mI0d2N0MnRoNWNhbGNpJmxhbj0y&f=.m3u8
-#EXTINF:4.004,Canal 5 HD
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zNyZsYW49MiZyb3dzPTQwJnNlc3Npb249mI0d2N0MnRoNWNhbGNpJmxhbj0y&f=.m3u8
-#EXTINF:4.004,Azteca 7 HD
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0wNyZsYW49MiZyb3dzPTQwJnNlc3Npb249mI0d2N0MnRoNWNhbGNpJmxhbj0y&f=.m3u8
-#EXTINF:4.004,Gala TV HD
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0wNTcmbGFuPTImcm93cz00MCZzZXNzaW9uPTlkNWxocTFhc2VhZ3BwaiZsYW49Mg==&f=.m3u8
-#EXTINF:4.004,Once TV HD
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT02MSZsYW49MiZyb3dzPTQwJnNlc3Npb249mI0d2N0MnRoNWNhbGNpJmxhbj0y&f=.m3u8
 #EXTINF:0,OnceTV.mx,Canal Once
 http://www.oncetvmexicolive.tv:1935/livepkgr2/smil:int.smil/playlist.m3u8
-#EXTINF:4.004,El trece HD
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT02NSZsYW49MiZyb3dzPTQwJnNlc3Npb249mI0d2N0MnRoNWNhbGNpJmxhbj0y&f=.m3u8
 #EXTINF:-1,Capital 21 México
 http://187.237.253.94:8134/hls-live/livepkgr/_definst_/liveevent.m3u8
 #EXTINF:-1,Canal22.mx,Canal 22
@@ -389,88 +371,6 @@ http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0wMDMmb
 http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00NzkmbGFuPTImcm93cz00MCZzZXNzaW9uPTlkNWxocTFhc2VhZ3BwaiZsYW49Mg==&f=.m3u8 
 
 
-#EXTINF:4.004,A&E
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMDUmbGFuPTImcm93cz00MCZzZXNzaW9uPTlkNWxocTFhc2VhZ3BwaiZsYW49Mg==&f=.m3u8
-#EXTINF:4.004,AMC
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zNjYmbGFuPTImcm93cz00MCZzZXNzaW9uPTlkNWxocTFhc2VhZ3BwaiZsYW49Mg==&f=.m3u8
-#EXTINF:4.004,Animal Planet
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yNjImbGFuPTImcm93cz00MCZzZXNzaW9uPTlkNWxocTFhc2VhZ3BwaiZsYW49Mg==&f=.m3u8
-#EXTINF:4.004,Axn
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMDkmbGFuPTImcm93cz00MCZzZXNzaW9uPTlkNWxocTFhc2VhZ3BwaiZsYW49Mg==&f=.m3u8
-#EXTINF:-1,AyM Sports
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00NjUmbGFuPTImcm93cz00MCZzZXNzaW9uPTlkNWxocTFhc2VhZ3BwaiZsYW49Mg==&f=.m3u8
-#EXTINF:4.004,Bandamax	
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00NTAmbGFuPTImcm93cz00MCZzZXNzaW9uPTlkNWxocTFhc2VhZ3BwaiZsYW49Mg==&f=.m3u8 
-#EXTINF:4.004,Boomerang
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yMzAmbGFuPTImcm93cz00MCZzZXNzaW9uPTlkNWxocTFhc2VhZ3BwaiZsYW49Mg==&f=.m3u8
-#EXTINF:4.004,Bloomberg
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00NjImbGFuPTImcm93cz00MCZzZXNzaW9uPTlkNWxocTFhc2VhZ3BwaiZsYW49Mg==&f=.m3u8
-#EXTINF:4.004,BBC Entertainment
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMzAmbGFuPTImcm93cz00MCZzZXNzaW9uPTlkNWxocTFhc2VhZ3BwaiZsYW49Mg==&f=.m3u8
-#EXTINF:-1,Casa Club
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xODImbGFuPTImcm93cz00MCZzZXNzaW9uPTlkNWxocTFhc2VhZ3BwaiZsYW49Mg==&f=.m3u8
-#EXTINF:4.004,Cinecanal
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zNTAmbGFuPTImcm93cz00MCZzZXNzaW9uPTlkNWxocTFhc2VhZ3BwaiZsYW49Mg==&f=.m3u8
-#EXTINF:4.004,Cinecanal +
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zMDkmbGFuPTImcm93cz00MCZzZXNzaW9uPTlkNWxocTFhc2VhZ3BwaiZsYW49Mg==&f=.m3u8
-#EXTINF:4.004,Cinemax
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zNTQmbGFuPTImcm93cz00MCZzZXNzaW9uPTlkNWxocTFhc2VhZ3BwaiZsYW49Mg==&f=.m3u8
-#EXTINF:4.004,Comedy Central
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMTcmbGFuPTImcm93cz00MCZzZXNzaW9uPTlkNWxocTFhc2VhZ3BwaiZsYW49Mg==&f=.m3u8
-#EXTINF:4.004,Cartoon Network 
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yMjImbGFuPTImcm93cz00MCZzZXNzaW9uPTlkNWxocTFhc2VhZ3BwaiZsYW49Mg==&f=.m3u8
-#EXTINF:4.004,Cbeebies
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xOTgmbGFuPTImcm93cz00MCZzZXNzaW9uPTlkNWxocTFhc2VhZ3BwaiZsYW49Mg==&f=.m3u8
-#EXTINF:-1,CNN Español
-http://187.247.255.139/Apple/CNNEspanol.m3u8
-#EXTINF:4.004,De Pelicula
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zMjUmbGFuPTImcm93cz00MCZzZXNzaW9uPTlkNWxocTFhc2VhZ3BwaiZsYW49Mg==&f=.m3u8
-#EXTINF:4.004,Discovery Channel
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yNTgmbGFuPTImcm93cz00MCZzZXNzaW9uPTlkNWxocTFhc2VhZ3BwaiZsYW49Mg==&f=.m3u8
-#EXTINF:-1,Discovery Civilization
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yODImbGFuPTImcm93cz00MCZzZXNzaW9uPTlkNWxocTFhc2VhZ3BwaiZsYW49Mg==&f=.m3u8
-#EXTINF:4.004,Discovery Science
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yNzgmbGFuPTImcm93cz00MCZzZXNzaW9uPTlkNWxocTFhc2VhZ3BwaiZsYW49Mg==&f=.m3u8
-#EXTINF:4.004,Discovery Turbo
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yODYmbGFuPTImcm93cz00MCZzZXNzaW9uPTlkNWxocTFhc2VhZ3BwaiZsYW49Mg==&f=.m3u8
-#EXTINF:4.004,Discovery HD Theater
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yNDEmbGFuPTImcm93cz00MCZzZXNzaW9uPTlkNWxocTFhc2VhZ3BwaiZsYW49Mg==&f=.m3u8
-#EXTINF:4.004,Discovery World
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yNTMmbGFuPTImcm93cz00MCZzZXNzaW9uPTlkNWxocTFhc2VhZ3BwaiZsYW49Mg==&f=.m3u8
-#EXTINF:4.004,Discovery Kids
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xOTQmbGFuPTImcm93cz00MCZzZXNzaW9uPTlkNWxocTFhc2VhZ3BwaiZsYW49Mg==&f=.m3u8
-#EXTINF:4.004,Disney Channel
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yMTAmbGFuPTImcm93cz00MCZzZXNzaW9uPTlkNWxocTFhc2VhZ3BwaiZsYW49Mg==&f=.m3u8
-#EXTINF:-1,Disney Jr.
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yMDImbGFuPTImcm93cz00MCZzZXNzaW9uPTlkNWxocTFhc2VhZ3BwaiZsYW49Mg==&f=.m3u8
-#EXTINF:4.004,Disney XD
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0yMjYmbGFuPTImcm93cz00MCZzZXNzaW9uPTlkNWxocTFhc2VhZ3BwaiZsYW49Mg==&f=.m3u8
-#EXTINF:4.004,Distrito Comedia
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNzQmbGFuPTImcm93cz00MCZzZXNzaW9uPTlkNWxocTFhc2VhZ3BwaiZsYW49Mg==&f=.m3u8 
-#EXTINF:4.004,E entertainment
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMzQmbGFuPTImcm93cz00MCZzZXNzaW9uPTlkNWxocTFhc2VhZ3BwaiZsYW49Mg==&f=.m3u8
-#EXTINF:4.004,http://imagenes.gatotv.com/logos/canales/oscuros/efekto_tv-mediano.png,Efekto TV
-http://grupomac-lh.akamaihd.net/i/004rss0k8_1@301782/index_3_av-b.m3u8?sd=10&rebase=on
-#EXTINF:4.004,El Gourmet
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNjImbGFuPTImcm93cz00MCZzZXNzaW9uPTlkNWxocTFhc2VhZ3BwaiZsYW49Mg==&f=.m3u8
-#EXTINF:4.004,Golden Edge
-http://200.38.126.38:8081/TPMHLSWeb/M3U8AdaptiveLiveFile?a=c2Vzc2lvbj02YnczN2RsdndobWFtYjgmY2hhbm5lbD00ODQ=&f=.m3u8 
-#EXTINF:4.004,ESPN HD
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zODkmbGFuPTImcm93cz00MCZzZXNzaW9uPTlkNWxocTFhc2VhZ3BwaiZsYW49Mg==&f=.m3u8
-#EXTINF:-1,ESPN
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00MDYmbGFuPTImcm93cz00MCZzZXNzaW9uPTlkNWxocTFhc2VhZ3BwaiZsYW49Mg==&f=.m3u8
-#EXTINF:4.004,ESPN 2
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00MTAmbGFuPTImcm93cz00MCZzZXNzaW9uPTlkNWxocTFhc2VhZ3BwaiZsYW49Mg==&f=.m3u8
-#EXTINF:4.004,ESPN 3
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zOTMmbGFuPTImcm93cz00MCZzZXNzaW9uPTlkNWxocTFhc2VhZ3BwaiZsYW49Mg==&f=.m3u8
-#EXTINF:4.004,Fox
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMjYmbGFuPTImcm93cz00MCZzZXNzaW9uPTlkNWxocTFhc2VhZ3BwaiZsYW49Mg==&f=.m3u8
-#EXTINF:4.004,Fox life
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xNzAmbGFuPTImcm93cz00MCZzZXNzaW9uPTlkNWxocTFhc2VhZ3BwaiZsYW49Mg==&f=.m3u8
-#EXTINF:4.004,Fox Sports
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0zOTcmbGFuPTImcm93cz00MCZzZXNzaW9uPTlkNWxocTFhc2VhZ3BwaiZsYW49Mg==&f=.m3u8
-#EXTINF:-1,Fox Sports 2
-http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT00MDEmbGFuPTImcm93cz00MCZzZXNzaW9uPTlkNWxocTFhc2VhZ3BwaiZsYW49Mg==&f=.m3u8
 #EXTINF:-1,GolTV.es,GolTV HD
 http://tvguia.ga@ak-goltv-us-en-stream.fubo.tv/UT-Origin/ngrp:golTV_all/tvguia.ga.m3u8
 #EXTINF:0,beINSPORTS.us,beIN SPORTS
