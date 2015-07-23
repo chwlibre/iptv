@@ -209,15 +209,12 @@ http://iphone-streaming.ustream.tv/uhls/17916700/streams/live/iphone/playlist.m3
 rtsp://live-edge01.telecentro.net.ar:80/live/26hd-360
 #EXTINF:4.004,Telemax
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
-#EXTINF:-1,PAKA.ar,Paka Paka
-http://lsdencuentrohls-lh.akamaihd.net/i/PKPKHLS_1@198010/master.m3u8
-#EXTINF:-1,RT
-http://odna.octoshape.net/f3f5m2v4/cds/ch2_720p/master.m3u8
+
 #EXTINF:-1,TaTeTi
 http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/master.m3u8
 
 #EXTINF:-1,Tango City
-mms://stream.tangocity.com.ar/tangocity
+http://stream.tangocity.com.ar/tangocity
 
 #EXTINF:-1,TECtv
 http://lsdencuentrohls-lh.akamaihd.net/i/TECTVHLS_1@198012/master.m3u8
