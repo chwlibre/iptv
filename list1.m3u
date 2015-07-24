@@ -80,6 +80,261 @@ rtsp://live-edge01.telecentro.net.ar:80/live/26hd-360
 #EXTINF:0,CANAL26
 http://live-edge01.telecentro.net.ar:1935/live/tvphd-360/playlist.m3u8
 
+#EXTINF:-1 group-title="lista 24 julio",.: lista 24 julio :.
+
+#EXTINF:-1,NFL Network
+http://31.220.40.121:80/LiveEdge/NFLNetworkUS/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
+#EXTINF:-1,EstrellasMX
+http://31.220.40.121:80/LiveEdge/EstrellasLA/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
+#EXTINF:-1,AzMundo
+http://31.220.40.121:80/LiveEdge/AzMundoLA/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
+#EXTINF:-1,Univision
+http://31.220.40.121:80/LiveEdge/UnivisionEastUS/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
+#EXTINF:-1,UniMas
+http://31.220.40.121:80/LiveEdge/UniMasUS/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
+#EXTINF:-1,TVE Internacional America
+http://31.220.40.121:80/LiveEdge/TVELASD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
+#EXTINF:-1,GalaTv
+http://31.220.40.121:80/LiveEdge/GalaTVLA/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
+#EXTINF:-1,Pasiones
+http://31.220.40.121:80/LiveEdge/PasionesSD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
+#EXTINF:-1,Telemundo
+http://31.220.40.121:80/LiveEdge/TMNDO/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
+#EXTINF:-1,Telemundo Internacional
+http://31.220.40.121:80/LiveEdge/TelemundoSD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
+#EXTINF:-1,RCNNovelas
+http://31.220.40.121:80/LiveEdge/RCNnovelasLA/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
+#EXTINF:-1,TlnovelasAmerica
+http://31.220.40.121:80/LiveEdge/TlnovelasLA/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
+#EXTINF:-1,TeleCentro
+http://31.220.40.121:80/LiveEdge/Telecentro13LA/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
+#EXTINF:-1,CaracolInternacional
+http://31.220.40.121:80/LiveEdge/CaracolIntSD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
+#EXTINF:-1,TVGloboInternacional
+http://31.220.40.121:80/LiveEdge/TVGloboLA/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
+#EXTINF:-1,Discoveryen Español
+http://31.220.40.121:80/LiveEdge/DiscoveryChLA/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
+#EXTINF:-1,Discovery Theater
+http://31.220.40.121:80/LiveEdge/DiscoveryenEspanolHD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
+#EXTINF:-1,DiscoveryWorld
+http://31.220.40.121:80/LiveEdge/DiscoveryWorldLA/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
+#EXTINF:-1,Discovery HomeHealthLatinoamerica
+http://31.220.40.121:80/LiveEdge/DiscoveryHomeHealthLAHD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
+#EXTINF:-1,H2 Latinoamerica
+http://31.220.40.121:80/LiveEdge/H2LASD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
+#EXTINF:-1,HistoryenEspañol
+http://31.220.40.121:80/LiveEdge/HistoryLA/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
+#EXTINF:-1,NationalGeographicLatinoamerica
+http://31.220.40.121:80/LiveEdge/NatGeoLASD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
+#EXTINF:-1,NatGeoWildLatinoAmerica
+http://31.220.40.121:80/LiveEdge/NatGeoWildLAHD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
+#EXTINF:-1,AnimalPlanetLatinoamerica
+http://31.220.40.121:80/LiveEdge/AnimalPlanetLASD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
+#EXTINF:-1,ESPN Latinoamerica
+http://31.220.40.121:80/LiveEdge/ESPNLA/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
+#EXTINF:-1,ESPN2Latinoamerica
+http://31.220.40.121:80/LiveEdge/ESPN2LASD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
+#EXTINF:-1,ESPN3 Latinoamerica
+http://31.220.40.121:80/LiveEdge/ESPN3LASD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
+#EXTINF:-1,Fox Sports Latinoamerica
+http://31.220.40.121:80/LiveEdge/FoxSportsLA/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
+#EXTINF:-1,Fox Sports2 Latinoamerica
+http://31.220.40.121:80/LiveEdge/FoxSports2SD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
+#EXTINF:-1,Fox Sports3 Latinoamerica
+http://31.220.40.121:80/LiveEdge/FoxSports3SD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
+#EXTINF:-1,Bein Sportsen Español
+http://31.220.40.121:80/LiveEdge/BeinSportsLA/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
+#EXTINF:-1,UFC Network Latino america
+http://31.220.40.121:80/LiveEdge/UFCNetworkLA/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
+#EXTINF:-1,Planeta Futbol
+http://31.220.40.121:80/LiveEdge/PlanetaFutbolLA/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
+#EXTINF:-1,Planeta Futbol English Soccer
+http://31.220.40.121:80/LiveEdge/PlanetaFutbolEnglish/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
+#EXTINF:-1,TDN Mexico
+http://31.220.40.121:80/LiveEdge/TDNMXLA/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
+#EXTINF:-1,UnivisionTDN
+http://31.220.40.121:80/LiveEdge/UnivisionEastUS/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
+#EXTINF:-1,DisneyChannelNorte
+http://31.220.40.121:80/LiveEdge/DisneyChannelNorteHD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
+#EXTINF:-1,DisneyXDNorte
+http://31.220.40.121:80/LiveEdge/DisneyXDSD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
+#EXTINF:-1,DisneyJuniorNorte
+http://31.220.40.121:80/LiveEdge/DisneyJrLASD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
+#EXTINF:-1,NickelodeonLatinoamerica
+http://31.220.40.121:80/LiveEdge/NickelodeonLA/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
+#EXTINF:-1,NickJrLatinoamerica
+http://31.220.40.121:80/LiveEdge/NickJrLASD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
+#EXTINF:-1,DiscoveryKidsAmericaLatina
+http://31.220.40.121:80/LiveEdge/DiscoveryKidsSD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
+#EXTINF:-1,CartoonNetworkLatinoamerica
+http://31.220.40.121:80/LiveEdge/CartoonNetworkLASD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
+#EXTINF:-1,BoomerangLatinoamerica
+http://31.220.40.121:80/LiveEdge/BoomerangLA/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
+#EXTINF:-1,Tooncast
+http://31.220.40.121:80/LiveEdge/TooncastSD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
+#EXTINF:-1,BabyFirstTVLatinoamerica
+http://31.220.40.121:80/LiveEdge/BabyFirstLA/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
+#EXTINF:-1,BabyTVLatinoamerica
+http://31.220.40.121:80/LiveEdge/BabyTVLASD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
+#EXTINF:-1,CanalSony
+http://31.220.40.121:80/LiveEdge/SonyLA/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
+#EXTINF:-1,BBCEntertainmentLatinoamerica
+http://31.220.40.121:80/LiveEdge/BBCEntLA/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
+#EXTINF:-1,Unicable
+http://31.220.40.121:80/LiveEdge/UnicableLA/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
+#EXTINF:-1,WarnerChannelLatinoamerica
+http://31.220.40.121:80/LiveEdge/WarnerLA/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
+#EXTINF:-1,ELatinoamerica
+http://31.220.40.121:80/LiveEdge/EentertaimentSD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
+#EXTINF:-1,FXLatino
+http://31.220.40.121:80/LiveEdge/FXLASD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
+#EXTINF:-1,UniversalChannelAmericaLatina
+http://31.220.40.121:80/LiveEdge/UniversalLASD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
+#EXTINF:-1,FoxLatinoamerica
+http://31.220.40.121:80/LiveEdge/FOXHDLA/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
+#EXTINF:-1,SyfyLatinoamerica
+http://31.220.40.121:80/LiveEdge/SyFyLASD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
+#EXTINF:-1,AyELatinoamerica
+http://31.220.40.121:80/LiveEdge/AELatinoamericaHD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
+#EXTINF:-1,InvestigationDiscoveryLatinoamerica
+http://31.220.40.121:80/LiveEdge/InvDiscoverySD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
+#EXTINF:-1,TLCLatinoamerica
+http://31.220.40.121:80/LiveEdge/TLCLASD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
+#EXTINF:-1,TLCLatinoamerica
+http://31.220.40.121:80/LiveEdge/TLCLASD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
+#EXTINF:-1,AXNLatinoamerica
+http://31.220.40.121:80/LiveEdge/AXNLA/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
+#EXTINF:-1,Eurochannel
+http://31.220.40.121:80/LiveEdge/EurochannelLA/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
+#EXTINF:-1,MundoFox
+http://31.220.40.121:80/LiveEdge/MundoFoxSD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
+#EXTINF:-1,TNTSeriesLatinoamerica
+http://31.220.40.121:80/LiveEdge/infinitoSD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
+#EXTINF:-1,Elgourmet
+http://31.220.40.121:80/LiveEdge/ElgourmetLA/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
+#EXTINF:-1,CasaClubTV
+http://31.220.40.121:80/LiveEdge/CasaClubLA/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
+#EXTINF:-1,TBSAmericaLatina
+http://31.220.40.121:80/LiveEdge/TBSLASD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
+#EXTINF:-1,GlitzLatinoamerica
+http://31.220.40.121:80/LiveEdge/GlitzLA/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
+#EXTINF:-1,FOXLife
+http://31.220.40.121:80/LiveEdge/FoxLifeSD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
+#EXTINF:-1,DistritoComedia
+http://31.220.40.121:80/LiveEdge/DistritoComediaLA/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
+#EXTINF:-1,ComedyCentralLatinoamerica
+http://31.220.40.121:80/LiveEdge/ComedyCentralLA/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
+#EXTINF:-1,TruTVAmericaLatina
+http://31.220.40.121:80/LiveEdge/TruTVSD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
+#EXTINF:-1,EfektoTV
+http://31.220.40.121:80/LiveEdge/EfektoTVLA/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
+#EXTINF:-1,MultimediosPlus
+http://31.220.40.121:80/LiveEdge/MultimediosLA /playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
+#EXTINF:-1,LifetimeLatinoamerica
+http://31.220.40.121:80/LiveEdge/LifetimeLASD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
+#EXTINF:-1,CNNEnEspañol
+http://31.220.40.121:80/LiveEdge/CNNLASD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
+#EXTINF:-1,ElFinancieroBloomberg
+http://31.220.40.121:80/LiveEdge/ElFinancieroBLA/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
+#EXTINF:-1,NTN24
+http://31.220.40.121:80/LiveEdge/NTN24LA/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
+#EXTINF:-1,MTVLatinoamerica
+http://31.220.40.121:80/LiveEdge/MTVLA/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
+#EXTINF:-1,MTVHitsLatinoamerica
+http://31.220.40.121:80/LiveEdge/MTVHitsLA/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
+#EXTINF:-1,VH1ClassicEurope
+http://31.220.40.121:80/LiveEdge/VH1ClassicLASD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
+#EXTINF:-1,VH1LatinoNorte
+http://31.220.40.121:80/LiveEdge/VH1LatinoSD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
+#EXTINF:-1,KMusic
+http://31.220.40.121:80/LiveEdge/KMusicLA/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
+#EXTINF:-1,ConcertChannel
+http://31.220.40.121:80/LiveEdge/ConcertChannelSD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
+#EXTINF:-1,HTV
+http://31.220.40.121:80/LiveEdge/HTVSD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
+#EXTINF:-1,Bandamax
+http://31.220.40.121:80/LiveEdge/BandamaxLA/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
+#EXTINF:-1,RegionalMusic
+http://31.220.40.121:80/LiveEdge/RegionalMusicLA/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
+#EXTINF:-1,CineDinamita
+http://31.220.40.121:80/LiveEdge/CineDinamitaLA/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
+#EXTINF:-1,MultiPremier
+http://31.220.40.121:80/LiveEdge/MultiPremierLA/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
+#EXTINF:-1,CineLatino
+http://31.220.40.121:80/LiveEdge/CineLatinoSD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
+#EXTINF:-1,Golden
+http://31.220.40.121:80/LiveEdge/GoldenHD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
+#EXTINF:-1,GoldenEdge
+http://31.220.40.121:80/LiveEdge/GoldenEdgeLA/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
+#EXTINF:-1,ParamountChannelLatinoamerica
+http://31.220.40.121:80/LiveEdge/ParamountChannelLatinAmericaHD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
+#EXTINF:-1,SundanceChannelLatinoamerica
+http://31.220.40.121:80/LiveEdge/SundanceLA/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
+#EXTINF:-1,TNTAmericaLatina
+http://31.220.40.121:80/LiveEdge/TNTAmericaLatinaHD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
+#EXTINF:-1,CineCanal
+http://31.220.40.121:80/LiveEdge/CineCanalLA/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
+#EXTINF:-1,Cinemax
+http://31.220.40.121:80/LiveEdge/CinemaxLASD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
+#EXTINF:-1,Space
+http://31.220.40.121:80/LiveEdge/SpaceLA/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
+#EXTINF:-1,AMC
+http://31.220.40.121:80/LiveEdge/AMCLASD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
+#EXTINF:-1,StudioUniversal
+http://31.220.40.121:80/LiveEdge/StudioUniversalSD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
+#EXTINF:-1,TCM
+http://31.220.40.121:80/LiveEdge/TCMSD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
+#EXTINF:-1,ISat
+http://31.220.40.121:80/LiveEdge/ISATLA/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
+#EXTINF:-1,Europ Europa
+http://31.220.40.121:80/LiveEdge/EuropaEuropaLA/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
+#EXTINF:-1,Film Arts Latinoamerica
+http://31.220.40.121:80/LiveEdge/FilmArtsLA/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
+#EXTINF:-1,Film Zone
+http://31.220.40.121:80/LiveEdge/FilmZoneLASD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
+#EXTINF:-1,FOX 1
+http://31.220.40.121:80/LiveEdge/FOX1LASD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
+#EXTINF:-1,FOX 1O
+http://31.220.40.121:80/LiveEdge/FOX1OesteLASD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
+#EXTINF:-1,FOX Family
+http://31.220.40.121:80/LiveEdge/FOXFamilyLASD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
+#EXTINF:-1,FOX Comedy
+http://31.220.40.121:80/LiveEdge/FOXComedyLASD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
+#EXTINF:-1,Fox Cinema
+http://31.220.40.121:80/LiveEdge/FoxCinemaSD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
+#EXTINF:-1,FOXACTION
+http://31.220.40.121:80/LiveEdge/FOXACTIONLASD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
+#EXTINF:-1,FOX ActionOeste
+http://31.220.40.121:80/LiveEdge/FOXActionOesteLASD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
+#EXTINF:-1,FOX Movies
+http://31.220.40.121:80/LiveEdge/FOXMoviesLASD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
+#EXTINF:-1,Fox ClassicsLatinoamerica
+http://31.220.40.121:80/LiveEdge/FOXClassicsLASD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
+#EXTINF:-1,HBO
+http://31.220.40.121:80/LiveEdge/HBOLASD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
+#EXTINF:-1,HBO2
+http://31.220.40.121:80/LiveEdge/HBO2SD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
+#EXTINF:-1,HBO Plus
+http://31.220.40.121:80/LiveEdge/HBOPlusLASD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
+#EXTINF:-1,HBOPus2
+http://31.220.40.121:80/LiveEdge/HBOPus2LASD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
+#EXTINF:-1,HBOFamily
+http://31.220.40.121:80/LiveEdge/HBOFamilyLASD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
+#EXTINF:-1,HBOSignature
+http://31.220.40.121:80/LiveEdge/HBOSignatureLASD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
+#EXTINF:-1,MaxUPLatinoamerica
+http://31.220.40.121:80/LiveEdge/MaxUPSD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
+#EXTINF:-1,Max Prime
+http://31.220.40.121:80/LiveEdge/MaxPrimeLASD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
+#EXTINF:-1,Max Prime2
+http://31.220.40.121:80/LiveEdge/MaxPrime2LASD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
+#EXTINF:-1,Max
+http://31.220.40.121:80/LiveEdge/MaxLASD/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
+#EXTINF:-1,Golden Premier1
+http://31.220.40.121:80/LiveEdge/GoldenPremier1LA/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
+#EXTINF:-1,Golden Premiere2
+http://31.220.40.121:80/LiveEdge/GoldenPremiere2LA/playlist.m3u8?token=744eb5176cca5787b5b1a664d06b0d25
+
  
 
 #EXTINF:-1 group-title="hjoge",.: HJORGE :.
