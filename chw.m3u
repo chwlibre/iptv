@@ -91,6 +91,8 @@ http://movilstream.digitalproserver.com/campustv/campustvvivo/livestream2/playli
 http://movilstream.digitalproserver.com/ufro/ufrovivo/ufro.smil/chunklist-b1564000.m3u8
 #EXTINF:0, Ufrovision
 http://movilstream.digitalproserver.com/ufro/ufrovivo/ufro.smil/chunklist-b764000.m3u8
+#EXTINF:-1, UOCT Santiago
+http://mdstrm.com/live-stream-playlist-v/53443c472c6e89675103cc4c.m3u8
 #EXTINF:0,--Cable--
 http://separador.m3u
 #EXTINF:0, Discovery Channel
@@ -99,23 +101,23 @@ http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3
 http://cdn5.iviplanet.com:1935/CITYTV-TO/myStream.sdp/playlist.m3u8
 #EXTINF:0, Fox Sports
 http://cdn5.iviplanet.com:1935/TELEPACIFICO-TO/myStream.sdp/playlist.m3u8
+#EXTINF:-1, CableTV
+http://live.mvdigital.net:1935/live10/livestream1.sdp/playlist.m3u8
+#EXTINF:0, Caricaturas RaxaTV
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
 #EXTINF:0, GolTV USA 1080p
 http://goltv-stream.fubotv.com.global.prod.fastly.net/UT-Origin/ngrp:golTV_all/chunklist_b3596000.m3u8
 #EXTINF:0, GolTV USA 720p
 http://goltv-stream.fubotv.com.global.prod.fastly.net/UT-Origin/ngrp:golTV_all/chunklist_b1596000.m3u8
 #EXTINF:0, GolTV USA 480p
 http://goltv-stream.fubotv.com.global.prod.fastly.net/UT-Origin/ngrp:golTV_all/chunklist_b596000.m3u8
-#EXTINF:0, BeIN Sport 1
-http://streamindo.ddns.net/jhos/beib1_3/streamindo/playlist.m3u8
-#EXTINF:0, BeIN Sport 2 
-http://streamindo.ddns.net/jhos/beib2_3/streamindo/playlist.m3u8
-#EXTINF:-1,DIRECT TV sports
-http://live.mvdigital.net:1935/live10/livestream1.sdp/playlist.m3u8
-#EXTINF:-1,CANAL+LIGAHD
-http://tinyurl.com/o4agwml
-#EXTINF:0,Sport 1 HD (RU) Op. 01
+#EXTINF:-1, CANAL+LIGA
+http://185.74.221.94:15020/udp/239.10.10.26:13713
+#EXTINF:1, CDN Sport Max
+http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
+#EXTINF:0, Sport 1 HD 1080p
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_C04_SPORT1HD/variant.m3u8?version=2
-#EXTINF:0,Sport 1 HD (RU) Op. 02
+#EXTINF:0, Sport 1
 http://hlsstr02.svc.iptv.rt.ru/hls/CH_SPORT1/variant.m3u8?version=2
 #EXTINF:0,--Peru--
 http://separador.m3u
@@ -136,6 +138,7 @@ http://streamtv.betheltv.pe:1935/bethelgospelhd/streamingbethel25hd_source/playl
 #EXTINF:0, BethelTV
 http://streamtv.betheltv.pe:1935/bethelgospelhd/streamingbethel25hd_480p/playlist.m3u8
 #EXTINF:0,--Argentina--
+http://separador.m3u
 #EXTINF:0, ElTrece HD
 http://live-edge01.telecentro.net.ar/live/13hd-720/playlist.m3u8
 #EXTINF:0, ElTrece
@@ -171,13 +174,12 @@ http://lsdhcdnhls-lh.akamaihd.net/i/hcdnarsatHLS_1@301805/index_2_av-b.m3u8
 #EXTINF:0, TecTV
 http://lsdencuentrohls-lh.akamaihd.net/i/TECTVHLS_1@198012/index_200_av-b.m3u8
 #EXTINF:0,--Nicaragua--
+http://separador.m3u
 #EXTINF:0, TN8
 http://cdn5.iviplanet.com:1935/TN8MBR/myStream.sdp_source/playlist.m3u8
 #EXTINF:0,--Colombia--
 http://separador.m3u
 #EXTINF:0, CaracolTV
-http://caracoltvlivehds-lh.akamaihd.net/i/caracol02_1@126280/index_2128_av-b.m3u8
-#EXTINF:0, CaracolTV-2
 http://caracoltvlivehds-lh.akamaihd.net/i/wowzalive_1@126280/index_300_av-b.m3u8
 #EXTINF:0,--Mexico--
 http://separador.m3u
@@ -229,10 +231,12 @@ http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
 http://mdsios2-lh.akamaihd.net/i/mitele/esmediaset_21@168473/index_0_av-p.m3u8
 #EXTINF:0, RealMadrid TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-b.m3u8
-#EXTINF:0,-Republica Dominicana-
+#EXTINF:0,--Republica Dominicana--
+http://separador.m3u
 #EXTINF:0, Telesistema
 http://mek4.mekstream.com/telesistema/smil:telesistema.smil/chunklist_w1839003835_b764000.m3u8
 #EXTINF:0,--Honduras--
+http://separador.m3u
 #EXTINF:0, Azteca Honduras
 http://aztecalive-lh.akamaihd.net/i/142kvpq0l_1@67741/index_1_av-p.m3u8
 #EXTINF:0, Ten HD
@@ -263,18 +267,6 @@ http://korealive.arirang.co.kr/cdnlive-hls/arirangklive/_definst_/liveevent/tvko
 http://fmlive2.arirang.co.kr/cdnlive-hls/arirangfmlive2/_definst_/liveevent/fmlive2.m3u8
 #EXTINF:0,--Internacionales--
 http://separador.m3u
-
-#EXTINF:-1,Telemundo
-http://iphone-streaming.ustream.tv/ustreamVideo/20720323/streams/live/playlist.m3u8
-#EXTINF:-1,Miami TV
-http://k4.usastreams.com:1935/miamitv/smile:miamitv/chunklist_w667654953_b1550000.m3u8
-#EXTINF:1,cdn
-http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
-#EXTINF:-1 tvg-id=,TV Mas
-#EXTINF:1,caricaturas
-http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
-#EXTINF:-1 tvg-id=,CanalExtremadura.es,EXTREMADURA TV
-http://corporacionextremena-live.hls.adaptive.level3.net/hls-live/corporacionextremena-channel02/_definst_/live.m3u8
 #EXTINF:0, RT Espanol HD
 http://rt-a.akamaihd.net/ch_02@325606/720p.m3u8
 #EXTINF:0, RT Espanol
@@ -315,6 +307,8 @@ http://dwschiene6-i.akamaihd.net/hls/live/221763-b/dwschiene6/x6x/playlist6x.m3u
 http://ptv04.level3.hls.live.cdn.overon.es/01.m3u8
 #EXTINF:0, HispanTV
 http://ptv04.level3.hls.live.cdn.overon.es/02.m3u8
+#EXTINF:0, Telemundo
+http://iphone-streaming.ustream.tv/ustreamVideo/20720323/streams/live/playlist.m3u8
 #EXTINF:0, NASATV HD
 http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_1000_av-p.m3u8
 #EXTINF:0, NASATV
@@ -373,13 +367,13 @@ http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/france24_en/ls_satlink/b_828.m3u
 http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/france24_ar/ls_satlink/b_828.m3u8
 #EXTINF:0,--Musica--
 http://separador.m3u
-#EXTINF:0,clublandtv
+#EXTINF:0, ClubLandTV
 http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8
-#EXTINF:0,nowmusic
+#EXTINF:0, NowMusic
 http://rrr.sz.xlcdn.com/?account=AATW&file=nowmusic&type=live&service=wowza&protocol=http&output=playlist.m3u8
-#EXTINF:0,kiss tv
-rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
-#EXTINF:0,hip hop channel 
+#EXTINF:0, Heart TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
+#EXTINF:0, Hip Hop TV
 http://hlsstr03.svc.iptv.rt.ru/hls/CH_AONE/variant.m3u8?version=2
 #EXTINF:0, CapitalTV
 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8
@@ -395,24 +389,22 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
 #EXTINF:0, VEVO 3
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
-#EXTINF:0,Heart TV
-http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8#MegaIPTVArgentina
-#EXTINF:0,--Radios--
+#EXTINF:0, MiamiTV HD
+http://k4.usastreams.com:1935/miamitv/smile:miamitv/chunklist_w667654953_b1550000.m3u8
+#EXTINF:0,--Radios TV Studio Chile--
 http://separador.m3u
-#EXTINF:-1,Freaky channel radio carolina
+#EXTINF:-1, Radio Carolina
 http://movilstream.digitalproserver.com/freakytv//freakytv.smil/playlist.m3u8
-#EXTINF:-1,Tiempo
+#EXTINF:-1, Tiempo
 http://movilstream.digitalproserver.com/tiempotv/tiempotvvivo/tiempotv.smil/playlist.m3u8
-#EXTINF:-1,Duna
+#EXTINF:-1, Duna
 http://wow1.dallas.digitalproserver.com/dunatv/dunatvvivo/dunatv.smil/playlist.m3u8
-#EXTINF:-1,Zero
+#EXTINF:-1, Zero
 http://movilstream.digitalproserver.com/zerotv/zerotvvivo/zerotv.smil/playlist.m3u8
-#EXTINF:-1,Radio la clave
+#EXTINF:-1, La Clave
 http://movilstream.digitalproserver.com/laclavetv/laclavetvvivo/laclavetv.smil/playlist.m3u8
-#EXTINF:-1,radio adn stream
+#EXTINF:-1, ADN 
 http://movilstream.digitalproserver.com/adn/adnvivo/adn.smil/playlist.m3u8
-#EXTINF:-1,Uoct
-http://mdstrm.com/live-stream-playlist-v/53443c472c6e89675103cc4c.m3u8
 #EXTINF:0,--Religion--
 http://separador.m3u
 #EXTINF:0, BYU Latino
