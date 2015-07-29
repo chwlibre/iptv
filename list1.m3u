@@ -83,7 +83,6 @@ http://live-edge01.telecentro.net.ar:1935/live/tvphd-360/playlist.m3u8
 
 #EXTINF:-1 group-title="lsta 29 julio",.: lista 29 julio :.
 
-#EXTM3U
 #EXTINF:-1 tvg-logo="az-mundo.png" group-title="information",Az Mundo
 http://localhost:8899/live.m3u?tmp=1&portal=1&channel=ffrt2+http%3A%2F%2Flocalhost%2Fch%2F1999
 #EXTINF:-1 tvg-logo="Canal-de-las-estrellas.png" group-title="information",Canal De Las Estrellas
