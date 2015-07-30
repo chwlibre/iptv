@@ -307,7 +307,7 @@ http://dwschiene6-i.akamaihd.net/hls/live/221763-b/dwschiene6/x6x/playlist6x.m3u
 http://ptv04.level3.hls.live.cdn.overon.es/01.m3u8
 #EXTINF:0, HispanTV
 http://ptv04.level3.hls.live.cdn.overon.es/02.m3u8
-#EXTINF:0, Telemundo
+#EXTINF:0, TELEMUNDO
 http://iphone-streaming.ustream.tv/ustreamVideo/20720323/streams/live/playlist.m3u8
 #EXTINF:0, NASATV HD
 http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_1000_av-p.m3u8
