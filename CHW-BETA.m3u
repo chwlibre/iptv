@@ -4,7 +4,7 @@ http://0.0.0.0:1234
 
 
 
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR]  [COLOR orange][B]Actualizado: [/B][/COLOR][COLOR green]30/07/2015 10:50 P.M GMT-3[/COLOR]
+#EXTINF:-0, [COLOR green]Nuevo:[/COLOR]  [COLOR orange][B]Actualizado: [/B][/COLOR][COLOR green]30/07/2015 11:35 P.M GMT-3[/COLOR]
 http://0.0.0.0:1234
 
 
@@ -118,45 +118,7 @@ http://evo.eltelon.com:443/live/cesfamtv/playlist.m3u8
 
 
 
-#EXTINF:0, [B][COLOR yellow]/// TV CABLE/SATELITE/INTERNACIONAL (BETA) ///[/COLOR][/B]
-#EXTINF:0, FOX Sports (Argentina) 192p
-http://live.mvdigital.net:1935/live7/livestream1.sdp/playlist.m3u8#MegaIPTVArgentina
-#EXTINF:0, RPCTV (Panama) 540p
-http://live.rpctv.com/rpctv/tm.smil/playlist.m3u8
-#EXTINF:0, EWTN (Argentina) 480p
-http://ewtn.mpl.miisolutions.net:1935/ewtn-live-5/900.mp4/playlinst.m3u8#MegaIPTVArgentina
-#EXTINF:0, Discovery Channel (Latino) 240p
-http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] NFL Network
-http://kcurth.zz.mu/ch/carga.php?canal=1
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] EstrellasMX
-http://kcurth.zz.mu/ch/carga.php?canal=2
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] AzMundo
-http://kcurth.zz.mu/ch/carga.php?canal=3
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] Univision
-http://kcurth.zz.mu/ch/carga.php?canal=4
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] UniMas
-http://kcurth.zz.mu/ch/carga.php?canal=5
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] TVE Internacional America
-http://kcurth.zz.mu/ch/carga.php?canal=6
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] GalaTv
-http://kcurth.zz.mu/ch/carga.php?canal=7
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] Pasiones
-http://kcurth.zz.mu/ch/carga.php?canal=8
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] Telemundo
-http://kcurth.zz.mu/ch/carga.php?canal=9
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] Telemundo Internacional
-http://kcurth.zz.mu/ch/carga.php?canal=10
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] RCNNovelas
-http://kcurth.zz.mu/ch/carga.php?canal=11
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] TlnovelasAmerica
-http://kcurth.zz.mu/ch/carga.php?canal=12
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] TeleCentro
-http://kcurth.zz.mu/ch/carga.php?canal=13
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] CaracolInternacional
-http://kcurth.zz.mu/ch/carga.php?canal=14
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] TVGloboInternacional
-http://kcurth.zz.mu/ch/carga.php?canal=15
+#EXTINF:0, [B][COLOR yellow]/// TV CABLE/SATELITE (BETA) ///[/COLOR][/B]
 #EXTINF:-0, [COLOR green]Nuevo:[/COLOR] Discoveryen Español
 http://kcurth.zz.mu/ch/carga.php?canal=16
 #EXTINF:-0, [COLOR green]Nuevo:[/COLOR] Discovery Theater
@@ -379,6 +341,42 @@ http://kcurth.zz.mu/ch/carga.php?canal=124
 http://kcurth.zz.mu/ch/carga.php?canal=125
 #EXTINF:-0, [COLOR green]Nuevo:[/COLOR] Golden Premiere2
 http://kcurth.zz.mu/ch/carga.php?canal=126
+#EXTINF:0, FOX Sports (Latino-Argentina) 192p
+http://live.mvdigital.net:1935/live7/livestream1.sdp/playlist.m3u8#MegaIPTVArgentina
+#EXTINF:0, EWTN (Latino-Argentina) 480p
+http://ewtn.mpl.miisolutions.net:1935/ewtn-live-5/900.mp4/playlinst.m3u8#MegaIPTVArgentina
+#EXTINF:0, Discovery Channel (Latino) 240p
+http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
+
+
+
+#EXTINF:0, [B][COLOR yellow]/// TV CABLE/SATELITE INTERNACIONAL (BETA) ///[/COLOR][/B]
+#EXTINF:0, RPCTV (Panama) 540p
+http://live.rpctv.com/rpctv/tm.smil/playlist.m3u8
+#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] NFL Network (USA Ingles) 360p
+http://kcurth.zz.mu/ch/carga.php?canal=1
+#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] AzMundo (Mexico) 480p
+http://kcurth.zz.mu/ch/carga.php?canal=3
+#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] Univision (USA Latino) 576p
+http://kcurth.zz.mu/ch/carga.php?canal=4
+#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] UniMas (USA Latino) 576p
+http://kcurth.zz.mu/ch/carga.php?canal=5
+#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] TVE Internacional (Spain) 480p
+http://kcurth.zz.mu/ch/carga.php?canal=6
+#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] Pasiones (USA Latino) 480p
+http://kcurth.zz.mu/ch/carga.php?canal=8
+#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] Telemundo Internacional (USA Latino) 480p
+http://kcurth.zz.mu/ch/carga.php?canal=10
+#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] RCN Novelas (Colombia) 480p
+http://kcurth.zz.mu/ch/carga.php?canal=11
+#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] TlnovelasAmerica
+http://kcurth.zz.mu/ch/carga.php?canal=12
+#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] TeleCentro
+http://kcurth.zz.mu/ch/carga.php?canal=13
+#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] CaracolInternacional
+http://kcurth.zz.mu/ch/carga.php?canal=14
+#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] TVGloboInternacional
+http://kcurth.zz.mu/ch/carga.php?canal=15
 
 
 
