@@ -97,11 +97,7 @@ http://mdstrm.com/live-stream-playlist-v/53443c472c6e89675103cc4c.m3u8
 http://separador.m3u
 #EXTINF:0, Discovery Channel
 http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
-#EXTINF:0, ESPN
-http://cdn5.iviplanet.com:1935/CITYTV-TO/myStream.sdp/playlist.m3u8
-#EXTINF:0, Fox Sports
-http://cdn5.iviplanet.com:1935/TELEPACIFICO-TO/myStream.sdp/playlist.m3u8
-#EXTINF:-1, CableTV
+#EXTINF:-1, History
 http://live.mvdigital.net:1935/live10/livestream1.sdp/playlist.m3u8
 #EXTINF:0, Caricaturas RaxaTV
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
@@ -111,8 +107,6 @@ http://goltv-stream.fubotv.com.global.prod.fastly.net/UT-Origin/ngrp:golTV_all/c
 http://goltv-stream.fubotv.com.global.prod.fastly.net/UT-Origin/ngrp:golTV_all/chunklist_b1596000.m3u8
 #EXTINF:0, GolTV USA 480p
 http://goltv-stream.fubotv.com.global.prod.fastly.net/UT-Origin/ngrp:golTV_all/chunklist_b596000.m3u8
-#EXTINF:-1, CANAL+LIGA
-http://185.74.221.94:15020/udp/239.10.10.26:13713
 #EXTINF:1, CDN Sport Max
 http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
 #EXTINF:0, Sport 1 HD 1080p
