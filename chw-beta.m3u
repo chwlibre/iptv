@@ -11,29 +11,30 @@ http://0.0.0.0:1234
 
 #EXTINF:0, [B][COLOR white]/// [COLOR blue]CH[/COLOR][COLOR white]I[/COLOR][COLOR red]LE[/COLOR]: NACIONALES HD ///[/COLOR][/B]
 http://0.0.0.0:1234
+#EXTINF:0, La Red 720p
+http://movilstream.digitalproserver.com:443/redtv/redtvvivo/livestream1/playlist.m3u8
 #EXTINF:0, TVN 720p
 http://tvn-vod.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
 #EXTINF:0, Mega 720p
 http://edge-12-cl.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist_b1500.m3u8
-#EXTINF:0, La Red 720p
-http://movilstream.digitalproserver.com:443/redtv/redtvvivo/livestream1/playlist.m3u8
 
 
 
 #EXTINF:0, [B][COLOR white]/// [COLOR blue]CH[/COLOR][COLOR white]I[/COLOR][COLOR red]LE[/COLOR]: NACIONALES SD ///[/COLOR][/B]
 http://separador.m3u
+#EXTINF:0, Telecanal 268p
+http://movilstream.digitalproserver.com/tcsc/tcscvivo/livestream2/playlist.m3u8
 #EXTINF:0, La Red 480p
 http://movilstream.digitalproserver.com:443/redtv/redtvvivo/livestream2/playlist.m3u8
 #EXTINF:0, TVN 360p
 http://wow3.tvn.cl:1935/liveedge/tvnelemental.smil/chunklist-b981000.m3u8
 #EXTINF:0, Mega 480p
 http://edge-12-cl.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist_b900.m3u8
-#EXTINF:0, Canal 13 Internet 540p
-http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8
 #EXTINF:0, Chilevision Internet 432p
 http://live.hls.http.chv.ztreaming.com/chvhddesktop/chv-desktop.m3u8
-#EXTINF:0, Telecanal 268p
-http://movilstream.digitalproserver.com/tcsc/tcscvivo/livestream2/playlist.m3u8
+#EXTINF:0, Canal 13 Internet 540p
+http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8
+
 
 
 
