@@ -1214,15 +1214,14 @@ https://ia800309.us.archive.org/21/items/1esucitados./1esucitados..mp4
 #EXTINF:0,ROBOCOP
 https://ia601507.us.archive.org/33/items/4obocop./4obocop..mp4
 #EXTINF:0,DESTINO JUPITER
-https://ia600309.us.archive.org/17/items/D3T1N0JUT3R/D3T1N0%20JUT3R.mp4
-
+https://ia600309.us.archive.org/17/items/D3T1N0JUT3R/D3T1N0%20JU
 #EXTINF:-1 group-title="Infantil",.: ON DEMAND KIDS:.
 http://?
 
 #EXTINF:0 group-title="Infantil",ALADDIN
 http://www.spruto.tv/get_file/1/38577f19393369cb2c5d785beb3c3ffc/80000/80730/80730.mp4
-
-#EXTINF:0 group-title="Infantil",ALADDIN 2 EL RETORNO DE JAFAR
+#EXTINF:0 group-title="Infantil",HOME
+http://stor33.streamcloud.eu:8080/23v75g3qp6oax3ptxztyfwhew7lxxi6vgp5fx4imhgi7ohfhaxsihqgi6u/video.mphttp://stor33.streamcloud.eu:8080/23v75g3qp6oax3ptxztyfwhew7lxxi6vgp5fx4imhgi7ohfhaxsihqgi6u/video.mp44#EXTINF:0 group-title="Infantil",ALADDIN 2 EL RETORNO DE JAFAR
 http://www.spruto.tv/get_file/5/b66d5c46890169c4100a2d1efdc8c45c/110000/110198/110198.mp4
 
 #EXTINF:0 group-title="Infantil",ALADDIN Y EL REY DE LOS LADRONES
@@ -1350,6 +1349,9 @@ http://www.spruto.tv/get_file/5/593ab7a4e734a6ec09e5cabf06798aeb/110000/110201/1
 
 #EXTINF:0 group-title="Infantil",LA PRINCESA SOFIA: UN PALACIO EN EL AGUA
 http://www.spruto.tv/get_file/5/27ffbde5055018126b083d4eb4f2eb3a/110000/110203/110203.?start=0
+
+#EXTINF:0 group-title="Infantil",HOME
+http://stor33.streamcloud.eu:8080/23v75g3qp6oax3ptxztyfwhew7lxxi6vgp5fx4imhgi7ohfhaxsihqgi6u/video.mp4
 
 #EXTINF:-1 group-title="El Salvador",.: El salvador :.
 http://?
