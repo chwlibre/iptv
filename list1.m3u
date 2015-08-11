@@ -356,12 +356,7 @@ http://31.220.41.111/LiveEdgeTesting/_definst_/CaracolIntSD/chunklist_w179821401
  http://mek4.mekstream.com/teleantillas/live3/playlist.m3u8
 #EXTINF:-0,TELESISTEMA 11 (REPUBLICA DOMINICANA)
 http://mek4.mekstream.com:1935/telesistema/live3/playlist.m3u8
-#EXTINF:-0,VENUS
-http://31.220.41.111:1935/LiveEdgeTesting/_definst_/VENUSSD/chunklist_w468401834.m3u8?token=
-#EXTINF:-0,SEX XTREME
-http://31.220.41.111:1935/LiveEdgeTesting/_definst_/SextremeSD/chunklist_w143111261.m3u8?token=
-#EXTINF:-0,HUSTLER
-http://31.220.41.111:1935/LiveEdgeTesting/_definst_/hustlerLA/chunklist_w1277853955.m3u8?token=
+
 #EXTINF:-0,AZTECA DEPORTES (EVENTOS)
 http://aztecalive-lh.akamaihd.net/i/0sa0dg2r9_1@167681/index_2_av-p.m3u8
 #EXTINF:-0,???
