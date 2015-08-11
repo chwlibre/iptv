@@ -136,6 +136,12 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
 http://?
 #EXTINF:-1,PRIVATE
 http://178.33.126.213:1935/leved/privateCom/.m3u8
+#EXTINF:-0,VENUS
+http://31.220.41.111:1935/LiveEdgeTesting/_definst_/VENUSSD/chunklist_w468401834.m3u8?token=
+#EXTINF:-0,SEX XTREME
+http://31.220.41.111:1935/LiveEdgeTesting/_definst_/SextremeSD/chunklist_w143111261.m3u8?token=
+#EXTINF:-0,HUSTLER
+http://31.220.41.111:1935/LiveEdgeTesting/_definst_/hustlerLA/chunklist_w1277853955.m3u8?token=
 #EXTINF:-1,Russian Night
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_RUSSIANNIGHT/variant.m3u8?version=2
 #EXTINF:-1,O-La-La
