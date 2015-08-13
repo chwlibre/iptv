@@ -1,6 +1,0 @@
-#EXTM3U
-#EXTINF:-1
-#EXTINF:-1, TelefeHD
-http://live-edge01.telecentro.net.ar/live/tlfhd-360/playlist.m3u8
-#EXTINF:-1,TVPublicaHD
-http://live-edge01.telecentro.net.ar:1935/live/tvphd-360/playlist.m3u8?#by-xickoAB1
