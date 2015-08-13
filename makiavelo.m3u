@@ -1,0 +1,328 @@
+#EXTM3U
+#EXTINF:-1 group-title="Canales Chile", .: Canales Chile :.
+
+#EXTINF:-1 group-title="Canales Chile", RedTV HD
+http://movilstream.digitalproserver.com:443/redtv/redtvvivo/livestream1/playlist.m3u8
+#EXTINF:-1 group-title="Canales Chile", UCV HD
+http://movilstream.digitalproserver.com/ucvtv/ucvtv.smil/chunklist-b1248000.m3u8
+#EXTINF:-1 group-title="Canales Chile", TVN HD
+http://wow3.tvn.cl:1935/liveedge/tvnelemental.smil/chunklist-b1431000.m3u8
+#EXTINF:-1 group-title="Canales Chile", Mega HD
+http://edge-12-cl.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist_b1500.m3u8
+#EXTINF:-1 group-title="Canales Chile", CHV HD
+http://live.hls.http.chv.ztreaming.com/chvhd/chvHi.m3u8
+#EXTINF:-1 group-title="Canales Chile", C13 HD
+http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8
+#EXTINF:-1 group-title="Canales Chile", C13 Cable
+http://cluster.13cmovil.ztreaming.com/13cm/grpz13c/playlist.m3u8
+#EXTINF:-1 group-title="Canales Chile", RecTV
+http://13rec.movil.ztreaming.com/13rec/13rec/playlist.m3u8
+#EXTINF:-1 group-title="Canales Chile", ETC TV
+http://movilstream.digitalproserver.com/etctv/etctvvivo/livestream1/playlist.m3u8
+#EXTINF:-1 group-title="Canales Chile", CDO Premium
+http://wow2.cl.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist_w913906597_b1064000.m3u8
+#EXTINF:-1 group-title="Canales Chile", TV Chile
+http://edge-20-mvstr.edge.mdstrm.com/tvn-live/smil:285a5c6dade574d5f111419c85c6cf17/chunklist_b800000.m3u8
+#EXTINF:-1 group-title="Canales Chile", AntofagastaTV HD
+http://wow2.cl.digitalproserver.com/atv/atvvivo/atv.smil/chunklist_w949479730_b2200000.m3u8
+#EXTINF:-1 group-title="Canales Chile", BioBioTV HD
+http://wow2.cl.digitalproserver.com/c9/livestream1/chunklist_w983075885.m3u8
+#EXTINF:-1 group-title="Canales Chile", TVU Concepcion HD
+http://movilstream.digitalproserver.com/tvu/tvuvivo/livestream1/playlist.m3u8
+#EXTINF:-1 group-title="Canales Chile", ITV HD
+http://wow2.cl.digitalproserver.com/itv/itvvivo/livestream1/playlist.m3u8
+#EXTINF:-1 group-title="Canales Chile", PinguinoTV HD
+http://streaming.elpinguino.com:1935/live/pinguinotv_720p/playlist.m3u8
+#EXTINF:-1 group-title="Canales Chile", Holvoet HD
+http://movilstream.digitalproserver.com/holvoet/holvoetvivo/holvoet.smil/chunklist-b1248000.m3u8
+#EXTINF:-1 group-title="Canales Chile", Contivision HD
+http://wow2.cl.digitalproserver.com/contivisionhd/contivisionhdvivo/contivisionhd.smil/chunklist_w1162159593_b1496000.m3u8
+#EXTINF:-1 group-title="Canales Chile", CampusTV HD
+http://movilstream.digitalproserver.com/campustv/campustvvivo/livestream1/playlist.m3u8
+#EXTINF:-1 group-title="Canales Chile", Ufrovision HD
+http://movilstream.digitalproserver.com/ufro/ufrovivo/ufro.smil/chunklist-b1564000.m3u8
+#EXTINF:-1 group-title="Canales Chile", UOCT Santiago
+http://mdstrm.com/live-stream-playlist-v/53443c472c6e89675103cc4c.m3u8
+
+
+
+#EXTINF:-1 group-title="Cultura", .: Cultura :.
+
+#EXTINF:-1 group-title="Cultura", History
+http://live.mvdigital.net:1935/live10/livestream1.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Cultura", History HD
+http://31.220.41.111:80/LiveEdgeTesting/HistoryLA/playlist.m3u8?token=
+#EXTINF:-1 group-title="Cultura", H2
+http://31.220.41.111:80/LiveEdgeTesting/H2LASD/playlist.m3u8?token=
+#EXTINF:-1 group-title="Cultura", Discovery Channel
+http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 group-title="Cultura", Discovery Channel 2
+http://31.220.40.105/LiveEdgeTesting/DiscoveryChLA/playlist.m3u8?token=
+#EXTINF:-1 group-title="Cultura", Discovery Theather
+http://31.220.41.111:80/LiveEdgeTesting/DiscoveryenEspanolHD/playlist.m3u8?token=
+#EXTINF:-1 group-title="Cultura", Discovery World
+http://31.220.40.108/LiveEdgeTesting/DiscoveryWorldLA/playlist.m3u8?token=
+#EXTINF:-1 group-title="Cultura", Discovery H&H
+http://31.220.41.111:80/LiveEdgeTesting/DiscoveryHomeHealthLAHD/playlist.m3u8?token=
+#EXTINF:-1 group-title="Cultura", Investigation Discovery
+http://31.220.41.111:80/LiveEdgeTesting/InvDiscoverySD/playlist.m3u8?token=
+#EXTINF:-1 group-title="Cultura", NatGeo
+http://31.220.41.111:80/LiveEdgeTesting/NatGeoLASD/playlist.m3u8?token=
+#EXTINF:-1 group-title="Cultura", Animal Planet A
+http://31.220.41.111:80/LiveEdgeTesting/AnimalPlanetLASD/playlist.m3u8?token=
+#EXTINF:-1 group-title="Cultura", RT Documentary HD
+http://rt-a.akamaihd.net/ch_05@325609/720p.m3u8
+#EXTINF:-1 group-title="Cultura", Nasa HD
+http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_1000_av-p.m3u8
+#EXTINF:-1 group-title="Cultura", Wobi
+http://201.161.59.4/wobi.isml/manifest(format=m3u8-aapl).m3u8
+
+
+
+#EXTINF:-1 group-title="Kids", .: Kids :.
+
+#EXTINF:-1 group-title="Kids", Disney Channel
+http://31.220.41.111:/LiveEdgeTesting/DisneyChannelNorteHD/playlist.m3u8?token=
+#EXTINF:-1 group-title="Kids", Cartoon Network
+http://31.220.41.111:80/LiveEdgeTesting/CartoonNetworkLASD/playlist.m3u8?token=
+#EXTINF:-1 group-title="Kids", Nick
+http://31.220.41.111:80/LiveEdgeTesting/NickelodeonLA/playlist.m3u8?token=
+#EXTINF:-1 group-title="Kids", Discovery Kids
+http://31.220.41.111:80/LiveEdgeTesting/DiscoveryKidsSD/playlist.m3u8?token=
+#EXTINF:-1 group-title="Kids", Boomerang
+http://31.220.41.111/LiveEdgeTesting/BoomerangLA/playlist.m3u8?token=
+#EXTINF:-1 group-title="Kids", Disney JR
+http://31.220.41.111:80/LiveEdgeTesting/DisneyJrLASD/playlist.m3u8?token=
+#EXTINF:-1 group-title="Kids", Baby TV
+http://31.220.41.111/LiveEdgeTesting/BabyTVLASD/playlist.m3u8?token=
+#EXTINF:-1 group-title="Kids", Nick JR
+http://31.220.41.111:80/LiveEdgeTesting/NickJrLASD/playlist.m3u8?token=
+#EXTINF:-1 group-title="Kids", Cbeebies
+http://31.220.41.111:80/LiveEdgeTesting/CbeebiesLA/playlist.m3u8?token=
+#EXTINF:-1 group-title="Kids", Tooncast
+http://31.220.41.111/LiveEdgeTesting/TooncastSD/playlist.m3u8?token=
+
+
+
+#EXTINF:-1 group-title="Cable", .: Cable :.
+
+#EXTINF:-1 group-title="Cable", Fox HD
+http://31.220.41.111:80/LiveEdgeTesting/FOXHDLA/playlist.m3u8?token=
+#EXTINF:-1 group-title="Cable", Mundo Fox
+http://31.220.41.111:80/LiveEdgeTesting/_definst_/MundoFoxSD/playlist.m3u8?token=
+#EXTINF:-1 group-title="Cable", Fox life
+http://31.220.41.111:80/LiveEdgeTesting/FoxLifeSD/playlist.m3u8?token=
+#EXTINF:-1 group-title="Cable", TruTV
+http://31.220.41.111:80/LiveEdgeTesting/TruTVSD/playlist.m3u8?token=
+#EXTINF:-1 group-title="Cable", Universal
+http://31.220.41.111:80/LiveEdgeTesting/UniversalLASD/playlist.m3u8?token=
+#EXTINF:-1 group-title="Cable", Sony
+http://31.220.41.111:80/LiveEdgeTesting/SonyLA/playlist.m3u8?token=
+#EXTINF:-1 group-title="Cable", Warner
+http://31.220.40.105/LiveEdgeTesting/WarnerLA/playlist.m3u8?token=
+#EXTINF:-1 group-title="Cable", Axn
+http://31.220.41.111:80/LiveEdgeTesting/AXNLA/playlist.m3u8?token=
+#EXTINF:-1 group-title="Cable", E!
+http://31.220.41.111:80/LiveEdgeTesting/EentertaimentSD/playlist.m3u8?token=
+#EXTINF:-1 group-title="Cable", Fx
+http://31.220.41.111:80/LiveEdgeTesting/FXLASD/playlist.m3u8?token=
+#EXTINF:-1 group-title="Cable", ISat
+http://31.220.41.111/LiveEdgeTesting/ISATLA/playlist.m3u8?token=
+#EXTINF:-1 group-title="Cable", SyFy
+http://31.220.41.111:80/LiveEdgeTesting/SyFyLASD/playlist.m3u8?token=
+#EXTINF:-1 group-title="Cable", TNT Series
+http://31.220.41.111:80/LiveEdgeTesting/infinitoSD/playlist.m3u8?token=
+#EXTINF:-1 group-title="Cable", Glitz
+http://31.220.41.111:80/LiveEdgeTesting/GlitzLA/playlist.m3u8?token=
+#EXTINF:-1 group-title="Cable", Film&Arts
+http://31.220.41.111:1935/LiveEdgeTesting/FilmArtsLA/playlist.m3u8?token=
+#EXTINF:-1 group-title="Cable", Studio Universal
+http://31.220.41.111:80/LiveEdgeTesting/StudioUniversalSD/playlist.m3u8?token=
+#EXTINF:-1 group-title="Cable", Golden Multiplex
+http://31.220.41.111:80/LiveEdgeTesting/GoldenMPLXLA/playlist.m3u8?token=
+#EXTINF:-1 group-title="Cable", Golden HD
+http://31.220.41.111:80/LiveEdgeTesting/GoldenHD/playlist.m3u8?token=
+#EXTINF:-1 group-title="Cable", Golden Edge
+http://31.220.41.111:80/LiveEdgeTesting/GoldenEdgeLA/playlist.m3u8?token=
+#EXTINF:-1 group-title="Cable", Film Zone
+http://31.220.41.111:80/LiveEdgeTesting/FilmZoneLASD/playlist.m3u8?token=
+#EXTINF:-1 group-title="Cable", TCM
+http://31.220.41.111:80/LiveEdgeTesting/TCMSD/playlist.m3u8?token=
+#EXTINF:-1 group-title="Cable", Space
+http://31.220.41.111:80/LiveEdgeTesting/SpaceLA/playlist.m3u8?token=
+#EXTINF:-1 group-title="Cable", Cinecanal
+http://31.220.41.111:80/LiveEdgeTesting/CineCanalLA/playlist.m3u8?token=
+#EXTINF:-1 group-title="Cable", Cinemax
+http://31.220.41.111:80/LiveEdgeTesting/CinemaxLASD/playlist.m3u8?token=
+#EXTINF:-1 group-title="Cable", Paramound
+http://31.220.41.111:80/LiveEdgeTesting/ParamountChannelLatinAmericaHD/playlist.m3u8?token=
+#EXTINF:-1 group-title="Cable", HBO
+http://66.90.93.26:1935/live/canal041.stream/chunklist_w1405770527.m3u8?username=fher1&password=iptv
+#EXTINF:-1 group-title="Cable", HBO 2
+http://31.220.41.107:80/LiveEdgeTesting/HBO2SD/playlist.m3u8?token=
+#EXTINF:-1 group-title="Cable", HBO Family
+http://31.220.40.108:80/LiveEdgeTesting/HBOFamilyLASD/playlist.m3u8?token=
+#EXTINF:-1 group-title="Cable", Max
+http://31.220.41.111:80/LiveEdgeTesting/MAXLASD/playlist.m3u8?token=
+#EXTINF:-1 group-title="Cable", Max Prime Este
+http://31.220.41.111:80/LiveEdgeTesting/MaxPrimeLASD/playlist.m3u8?token=
+#EXTINF:-1 group-title="Cable", Max Prime Oeste
+http://31.220.40.108:80/LiveEdgeTesting/MaxPrime2LASD/playlist.m3u8?token=
+#EXTINF:-1 group-title="Cable", Fox 1
+http://31.220.41.111:80/LiveEdgeTesting/FOX1OesteLASD/playlist.m3u8?token=
+#EXTINF:-1 group-title="Cable", Fox Action
+http://31.220.41.111:80/LiveEdgeTesting/FOXACTIONLASD/playlist.m3u8?token=
+#EXTINF:-1 group-title="Cable", Fox Movies
+http://31.220.41.111:80/LiveEdgeTesting/FOXMoviesLASD/playlist.m3u8?token=
+#EXTINF:-1 group-title="Cable", Fox Family
+http://31.220.41.111/LiveEdgeTesting/FOXFamilyLASD/playlist.m3u8?token=
+#EXTINF:-1 group-title="Cable", Fox Classic
+http://31.220.41.102/LiveEdgeTesting/FOXClassicsLASD/playlist.m3u8?token=
+#EXTINF:-1 group-title="Cable", Fox Cinema
+http://31.220.40.108/LiveEdgeTesting/FoxCinemaSD/playlist.m3u8?token=
+#EXTINF:-1 group-title="Cable", Fox Comedy
+http://31.220.41.111:80/LiveEdgeTesting/_definst_/FOXComedyLASD/playlist.m3u8?token=
+
+
+
+#EXTINF:-1 group-title="Deportes": .:Deportes:.
+
+#EXTINF:-1 group-title="Deportes", ESPN
+http://31.220.41.111:80/LiveEdgeTesting/ESPNLA/playlist.m3u8?token=
+#EXTINF:-1 group-title="Deportes", ESPN 2
+http://31.220.41.111:80/LiveEdgeTesting/ESPN2LASD/playlist.m3u8?token=
+#EXTINF:-1 group-title="Deportes", ESPN 3
+http://31.220.41.111:80/LiveEdgeTesting/ESPN3LASD/playlist.m3u8?token=
+#EXTINF:-1 group-title="Deportes", FoxSports 2
+http://31.220.41.111:80/LiveEdgeTesting/FoxSports2SD/playlist.m3u8?token=
+#EXTINF:-1 group-title="Deportes", FoxSports 3
+http://31.220.41.111:80/LiveEdgeTesting/_definst_/FoxSports3SD/playlist.m3u8?token=
+#EXTINF:-1 group-title="Deportes", TDN
+http://31.220.41.111:80/LiveEdgeTesting/_definst_/TDNMXLA/playlist.m3u8?token=
+#EXTINF:-1 group-title="Deportes", Bein Sports
+http://31.220.41.111/LiveEdgeTesting/BeinSportsLA/playlist.m3u8?token=
+#EXTINF:-1 group-title="Deportes", AutoSport TV
+mms://83.222.173.94/100livesport
+#EXTINF:-1 group-title="Deportes", Azteca Deportes
+http://aztecalive-lh.akamaihd.net/i/0sa0dg2r9_1@167681/index_2_av-p.m3u8
+#EXTINF:-1 group-title="Deportes", Pac Mountain
+http://xrxs.net/video/live-p12moun-4728.m3u8
+#EXTINF:-1 group-title="Deportes", Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-p.m3u8
+#EXTINF:-1 group-title="Deportes", TRT Sports
+http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8
+#EXTINF:-1 group-title="Deportes", Turkmen Sports
+rtmp://217.174.227.20/webtv/ch004_sd
+#EXTINF:-1 group-title="Deportes", Sport Time TV 1
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel1_800
+#EXTINF:-1 group-title="Deportes", Sport Time TV 2
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel2_1200
+#EXTINF:-1 group-title="Deportes", Sport Time TV 3
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel3_800
+#EXTINF:-1 group-title="Deportes", Sport Time TV 4
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel5_800
+#EXTINF:-1 group-title="Deportes", Sport Time TV 5
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel6_800
+#EXTINF:-1 group-title="Deportes", Sport Time TV 6
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel7_800	
+#EXTINF:-1 group-title="Deportes", Sports Night
+rtmp://freeview.fms.visionip.tv/live/sports_tonight-sports_tonight-live-25f-16x9-HD
+#EXTINF:-1 group-title="Deportes", SuperSport 1
+http://80.80.160.201/http_livestr.m3u8?id=ssnews
+#EXTINF:-1 group-title="Deportes", Xtreme Impacts
+http://46.249.213.93/iPhone/broadcast/xtremeimpacts-tablet.3gp/xtremeimpacts-tablet.3gp-mr647k.m3u8
+#EXTINF:-1 group-title="Deportes", Trace Sports
+http://stream01.yamgo.com/iPhone/HLS_TS/broadcast/trace_tv_sports-tablet.3gp/trace_tv_sports-tablet.3gp-mr647k.m3u8?MegaIPTVArgentina
+#EXTINF:-1 group-title="Deportes", GOL TV
+http://live.mvdigital.net:1935/live12/livestream1.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Deportes", AZTECA 7
+http://38.104.228.230:1938/info7/info7_512/playlist.m3u8
+#EXTINF:-1 group-title="Deportes", Sport1
+http://4BA9EBDB07C05883:@5.159.96.170:8000/sport1
+
+
+
+#EXTINF:-1 group-title="Musica", .: Musica :.
+
+#EXTINF:-1 group-title="Musica", VH1
+http://31.220.41.111:80/LiveEdgeTesting/VH1LatinoSD/playlist.m3u8?token=
+#EXTINF:-1 group-title="Musica", Capital TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8
+#EXTINF:-1 group-title="Musica", First Music HD 1080p
+http://109.239.142.62:1935/live/livestream1/playlist.m3u8
+#EXTINF:-1 group-title="Musica", VEVO 1
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
+#EXTINF:-1 group-title="Musica", VEVO 2
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
+#EXTINF:-1 group-title="Musica", VEVO 3
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
+#EXTINF:-1 group-title="Musica", Classic Live Showcase
+http://198.179.31.198/live/309.high.stream/309.high.stream/index.m3u8
+#EXTINF:-1 group-title="Musica", Indies Live
+http://ec.playmedia.fr/indies-live/live/playlist.m3u8
+#EXTINF:-1 group-title="Musica", PlanetPop
+http://rrr.sz.xlcdn.com/?account=AATW&file=ppop&type=live&service=wowza&protocol=http&output=playlist.m3u8
+#EXTINF:-1 group-title="Musica", Heart TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
+#EXTINF:-1 group-title="Musica", Kiss TV
+rtmp://tst.es.flash.glb.ipercast.net/tst.es-live//live
+#EXTINF:-1 group-title="Musica", Virgin TV
+rtmp://fms.105.net:1935/live/virgin2
+#EXTINF:-1 group-title="Musica", Radio Montecarlo
+rtmp://fms.105.net:1935/live/rmc1
+#EXTINF:-1 group-title="Musica", Radio 105
+rtmp://fms.105.net:1935/live/105Test1
+#EXTINF:-1 group-title="Musica", Radio Italia
+rtmp://cwedge.cdcache.net/cwedge/rilive
+#EXTINF:-1 group-title="Musica", BigPound Music
+mmsh://ken-cdn220-is-2.se.bptvlive.ngcdn.telstra.com/bp_online_bpmusic_high
+#EXTINF:-1 group-title="Musica", 1st music
+http://195.189.238.18/streaming/firstmuz/16/hd/playlist.m3u8
+#EXTINF:-1 group-title="Musica", TeleM3
+http://rtmp.infomaniak.ch/livecast/tvm3/playlist.m3u8
+#EXTINF:-1 group-title="Musica", NOW Music
+http://rrr.sz.xlcdn.com/?account=AATW&file=nowmusic&type=live&service=wowza&protocol=http&output=playlist.m3u8
+#EXTINF:2933642502,Rock One
+mmsh://mediatv2.topix.it/24RockOne66
+#EXTINF:-1 group-title="Musica", CMC
+rtmp://cmctv.flash.internapcdn.net:1935/cmctv_vitalstream_com/live_adaptive_1/CMC-TV_adaptive3
+#EXTINF:-1 group-title="Musica", Electrosound
+rtmp://www.electrosound.tv:1935/public/stream
+#EXTINF:-1 group-title="Musica", Clubland
+http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8
+#EXTINF:-1 group-title="Musica", DJING Ibiza
+http://www.djing.com/tv/ibiza.m3u8
+#EXTINF:-1 group-title="Musica", Film ON TV Clubbing
+http://204.107.26.252:1935/live/691.high.stream/HasBahCa.m3u8
+#EXTINF:-1 group-title="Musica", ESKA Party
+rtmp://stream.smcloud.net/live2/eska_party/eska_party_720p
+#EXTINF:-1 group-title="Musica", ESKA TV
+rtmp://stream.smcloud.net/live/eskatv
+#EXTINF:-1 group-title="Musica", ESKA Go
+rtmp://stream.smcloud.net/live2/best/best_360p
+#EXTINF:-1 group-title="Musica", ESKA Rock
+rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_720p
+#EXTINF:-1 group-title="Musica", ESKA Music Vox
+rtmp://stream.smcloud.net/live2/vox/vox_720p
+#EXTINF:-1 group-title="Musica", Dream TV
+http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
+#EXTINF:-1 group-title="Musica", Amazing
+http://redir.atmcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8?sessionId=ABA74CBC0702307FF0B559F938FC9B21.node1&stream=2
+#EXTINF:-1 group-title="Musica", Europa Plus TV
+http://europaplus.cdnvideo.ru:1935/europaplus-live/mp4:eptv_main.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Musica", Yumor TV
+http://msk1.peers.tv/streaming/yumor_tv/16/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="Musica", Music Box UA
+rtmp://212.26.132.86/live/mb_ua
+#EXTINF:-1 group-title="Musica", HardLife
+http://rtk1.peers.tv/streaming/hardlife_tv/126/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="Musica", Global Star TV
+http://msk2.peers.tv/streaming/globalstartv/126/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="Musica", Si TV
+http://hd.worldkast.com:1935/8436/8436/playlist.m3u8
+#EXTINF:-1 group-title="Musica", Ultra Fiesta
+http://vemoxhlslive-i.akamaihd.net/hls/live/219941/vemoxchannel2/iOS/vemoxchannel2@219941/index.m3u8
+#EXTINF:-1 group-title="Musica", QMusica
+mms://streamqm.uigc.net/qmusica
+#EXTINF:-1 group-title="Musica", Vivra
+http://iphone-streaming.ustream.tv/ustreamVideo/10002020/streams/live/playlist.m3u8
