@@ -58,7 +58,7 @@ http://31.220.41.111:80/LiveEdgeTesting/H2LASD/playlist.m3u8?token=
 http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 group-title="Cultura", Discovery Channel 2
 http://31.220.40.105/LiveEdgeTesting/DiscoveryChLA/playlist.m3u8?token=
-#EXTINF:-1 group-title="Cultura", Discovery Theather
+#EXTINF:-1 group-title="Cultura", Discovery Theather HD
 http://31.220.41.111:80/LiveEdgeTesting/DiscoveryenEspanolHD/playlist.m3u8?token=
 #EXTINF:-1 group-title="Cultura", Discovery World
 http://31.220.40.108/LiveEdgeTesting/DiscoveryWorldLA/playlist.m3u8?token=
@@ -68,7 +68,9 @@ http://31.220.41.111:80/LiveEdgeTesting/DiscoveryHomeHealthLAHD/playlist.m3u8?to
 http://31.220.41.111:80/LiveEdgeTesting/InvDiscoverySD/playlist.m3u8?token=
 #EXTINF:-1 group-title="Cultura", NatGeo
 http://31.220.41.111:80/LiveEdgeTesting/NatGeoLASD/playlist.m3u8?token=
-#EXTINF:-1 group-title="Cultura", Animal Planet A
+#EXTINF:-1 group-title="Cultura", NatGeo Wild HD
+http://31.220.40.105:80/LiveEdgeTesting/NatGeoWildLAHD/playlist.m3u8?token=
+#EXTINF:-1 group-title="Cultura", Animal Planet
 http://31.220.41.111:80/LiveEdgeTesting/AnimalPlanetLASD/playlist.m3u8?token=
 #EXTINF:-1 group-title="Cultura", RT Documentary HD
 http://rt-a.akamaihd.net/ch_05@325609/720p.m3u8
@@ -182,6 +184,11 @@ http://31.220.41.102/LiveEdgeTesting/FOXClassicsLASD/playlist.m3u8?token=
 http://31.220.40.108/LiveEdgeTesting/FoxCinemaSD/playlist.m3u8?token=
 #EXTINF:-1 group-title="Cable", Fox Comedy
 http://31.220.41.111:80/LiveEdgeTesting/_definst_/FOXComedyLASD/playlist.m3u8?token=
+#EXTINF:-1 group-title="Cable", Antena 3 HD
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8
+#EXTINF:-1 group-title="Cable", LaSexta HD
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel02/la_sexta_hd_1548K_1280x720_main.m3u8
+
 
 
 
@@ -193,20 +200,26 @@ http://31.220.41.111:80/LiveEdgeTesting/ESPNLA/playlist.m3u8?token=
 http://31.220.41.111:80/LiveEdgeTesting/ESPN2LASD/playlist.m3u8?token=
 #EXTINF:-1 group-title="Deportes", ESPN 3
 http://31.220.41.111:80/LiveEdgeTesting/ESPN3LASD/playlist.m3u8?token=
-#EXTINF:-1 group-title="Deportes", FoxSports 2
+#EXTINF:-1 group-title="Deportes", FoxSports HD
+http://31.220.41.111:80/LiveEdgeTesting/FOXHDLA/playlist.m3u8?token=
+#EXTINF:-1 group-title="Deportes", FoxSports SD
+http://31.220.41.111:80/LiveEdgeTesting/FXLASD/playlist.m3u8?token=
+#EXTINF:-1 group-title="Deportes", FoxSports 2 SD
 http://31.220.41.111:80/LiveEdgeTesting/FoxSports2SD/playlist.m3u8?token=
-#EXTINF:-1 group-title="Deportes", FoxSports 3
+#EXTINF:-1 group-title="Deportes", FoxSports 3 SD
 http://31.220.41.111:80/LiveEdgeTesting/_definst_/FoxSports3SD/playlist.m3u8?token=
-#EXTINF:-1 group-title="Deportes", TDN
+#EXTINF:-1 group-title="Deportes", TDN SD
 http://31.220.41.111:80/LiveEdgeTesting/_definst_/TDNMXLA/playlist.m3u8?token=
 #EXTINF:-1 group-title="Deportes", Bein Sports
 http://31.220.41.111/LiveEdgeTesting/BeinSportsLA/playlist.m3u8?token=
+#EXTINF:-1 group-title="Deportes", F1 SD
+http://31.220.41.111:1935/LiveEdgeTesting/_definst_/F1LA/chunklist_w1084274531.m3u8?token=
+#EXTINF:-1 group-title="Deportes", UFC Network HD
+http://31.220.41.111:80/LiveEdgeTesting/_definst_/UFCNetworkLA/playlist.m3u8?token=
 #EXTINF:-1 group-title="Deportes", AutoSport TV
 mms://83.222.173.94/100livesport
 #EXTINF:-1 group-title="Deportes", Azteca Deportes
 http://aztecalive-lh.akamaihd.net/i/0sa0dg2r9_1@167681/index_2_av-p.m3u8
-#EXTINF:-1 group-title="Deportes", Pac Mountain
-http://xrxs.net/video/live-p12moun-4728.m3u8
 #EXTINF:-1 group-title="Deportes", Real Madrid TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-p.m3u8
 #EXTINF:-1 group-title="Deportes", TRT Sports
@@ -239,6 +252,28 @@ http://live.mvdigital.net:1935/live12/livestream1.sdp/playlist.m3u8
 http://38.104.228.230:1938/info7/info7_512/playlist.m3u8
 #EXTINF:-1 group-title="Deportes", Sport1
 http://4BA9EBDB07C05883:@5.159.96.170:8000/sport1
+#EXTINF:-1 group-title="Deportes", Pac Mountain FHD
+http://xrxs.net/video/live-p12moun-4728.m3u8
+#EXTINF:-1 group-title="Deportes", PAC National HD
+http://xrxs.net/video/live-p12netw-2328.m3u8
+#EXTINF:-1 group-title="Deportes", PAC-12 Arizona HD
+http://xrxs.net/video/live-p12ariz-2328.m3u8
+#EXTINF:-1 group-title="Deportes", PAC-12 Arizona FHD
+http://xrxs.net/video/live-p12ariz-4728.m3u8
+#EXTINF:-1 group-title="Deportes", PAC-12 Bay Area HD
+http://xrxs.net/video/live-p12baya-2328.m3u8
+#EXTINF:-1 group-title="Deportes", PAC-12 Bay Area FHD
+http://xrxs.net/video/live-p12baya-4728.m3u8
+#EXTINF:-1 group-title="Deportes", PAC-12 Los Angeles HD
+http://xrxs.net/video/live-p12losa-2328.m3u8
+#EXTINF:-1 group-title="Deportes", PAC-12 Oregon HD
+http://xrxs.net/video/live-p12oreg-2328.m3u8
+#EXTINF:-1 group-title="Deportes", PAC-12 Oregon FHD
+http://xrxs.net/video/live-p12oreg-4728.m3u8
+#EXTINF:-1 group-title="Deportes", PAC-12 Washington HD
+http://xrxs.net/video/live-p12wash-2328.m3u8
+#EXTINF:-1 group-title="Deportes", PAC-12 Washington FHD
+http://xrxs.net/video/live-p12wash-4728.m3u8
 
 
 
