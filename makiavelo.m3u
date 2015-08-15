@@ -361,3 +361,5 @@ http://vemoxhlslive-i.akamaihd.net/hls/live/219941/vemoxchannel2/iOS/vemoxchanne
 mms://streamqm.uigc.net/qmusica
 #EXTINF:-1 group-title="Musica", Vivra
 http://iphone-streaming.ustream.tv/ustreamVideo/10002020/streams/live/playlist.m3u8
+#EXTINF:0, Private
+http://178.33.126.213:1935/leved/privateCom/.m3u8
