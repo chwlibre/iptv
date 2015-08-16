@@ -1,0 +1,407 @@
+#EXTM3U
+    #EXTINF:-1,  + liga
+    http://209.133.208.202:1935/app/b5000s-channel/playlist.m3u8
+    #EXTINF:-1 tvg-name="La 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/TVE_La1_logo_since_2008.png/150px-TVE_La1_logo_since_2008.png" group-title="Televisión Digital Terreste",La 1
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/21.ts
+    #EXTINF:-1 tvg-name="La 2" tvg-logo="http://new.adicae.org/img/news/logo-la2.png" group-title="Televisión Digital Terreste",La 2
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/27.ts
+    #EXTINF:-1 tvg-name="Antena 3" tvg-logo="http://www.televivienda.es/Portals/0/mis%20imagenes/antena3-Logo.jpg" group-title="Televisión Digital Terreste",Antena 3
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/19.ts
+    #EXTINF:-1 tvg-name="Cuatro" tvg-logo="http://3.bp.blogspot.com/_-uEx1VwEKXs/ScbjS5NLzjI/AAAAAAAAAFg/Zn4QoOF0aSs/s200/200px-Cuatro_logo.svg.png" group-title="Televisión Digital Terreste",Cuatro
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/22.ts
+    #EXTINF:-1 tvg-name="Telecinco" tvg-logo="http://img2.wikia.nocookie.net/__cb20130123142924/logopedia/images/a/a7/Telecinco-bola.png" group-title="Televisión Digital Terreste",Telecinco
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/23.ts
+    #EXTINF:-1 tvg-name="La Sexta" tvg-logo="https://nociones.files.wordpress.com/2010/06/la-sexta.jpg" group-title="Televisión Digital Terreste",La Sexta
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/20.ts
+    #EXTINF:-1 tvg-name="NEOX" tvg-logo="" group-title="Televisión Digital Terreste",NEOX
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/95.ts
+    #EXTINF:-1 tvg-name="NOVA" tvg-logo="" group-title="Televisión Digital Terreste",NOVA
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/96.ts
+    #EXTINF:-1 tvg-name="MEGA" tvg-logo="http://lacajatv.es/logos/logomega.jpg" group-title="Televisión Digital Terreste",MEGA
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/26.ts
+    #EXTINF:-1 tvg-name="TV Canaria" tvg-logo="" group-title="Televisión Digital Terreste",TV Canaria
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/264.ts
+    #EXTINF:-1 tvg-name="Digitele Tikitaka" tvg-logo="http://host.premiumhostingweb.com/logos/tikitaka.png" group-title="Digitele",Digitele Tikitaka
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/36.ts
+    #EXTINF:-1 tvg-name="Canal+" tvg-logo="" group-title="Movistar+",Canal+
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/74.ts
+    #EXTINF:-1 tvg-name="Canal+ Accion" tvg-logo="http://3.bp.blogspot.com/-yxaCmHGFMt4/UoVCw3jsYOI/AAAAAAAAADM/MPC5VEgDwVU/s1600/accion.png" group-title="Movistar+",Canal+ Accion
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/5.ts
+    #EXTINF:-1 tvg-name="Canal+ Comedia" tvg-logo="http://4.bp.blogspot.com/-v-y3snlbCb4/UoVKMnx2xuI/AAAAAAAAAEA/yFj4EuAwvd0/s1600/comedia.png" group-title="Movistar+",Canal+ Comedia
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/6.ts
+    #EXTINF:-1 tvg-name="Canal+ DCine" tvg-logo="http://lacajatv.es/logos/logoplusdcine.jpg" group-title="Movistar+",Canal+ DCine
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/4.ts
+    #EXTINF:-1 tvg-name="Canal+ DCine ES" tvg-logo="" group-title="Movistar+",Canal+ DCine ES
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/227.ts
+    #EXTINF:-1 tvg-name="Cine 3D" tvg-logo="" group-title="Movistar+",Cine 3D
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/285.ts
+    #EXTINF:-1 tvg-name="Canal+ Estrenos" tvg-logo="http://www.diesl.com/wp-content/uploads/2012/03/canal-plus-logo-330x200.jpg" group-title="Movistar+",Canal+ Estrenos
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/2.ts
+    #EXTINF:-1 tvg-name="Canal+ Series" tvg-logo="" group-title="Movistar+",Canal+ Series
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/37.ts
+    #EXTINF:-1 tvg-name="Canal+ Series Xtra" tvg-logo="http://3.bp.blogspot.com/-jI1p15jFM28/UoVJ7ylsy8I/AAAAAAAAAD0/JH20suiCyRM/s1600/canal2.png" group-title="Movistar+",Canal+ Series Xtra
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/3.ts
+    #EXTINF:-1 tvg-name="Canal+ Xtra" tvg-logo="" group-title="Movistar+",Canal+ Xtra
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/91.ts
+    #EXTINF:-1 tvg-name="AMC" tvg-logo="http://images.amcnetworks.com/blogs.amctv.com/wp-content/uploads/2014/02/amc-logo-325.jpg" group-title="Movistar+",AMC
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/50.ts
+    #EXTINF:-1 tvg-name="TCM" tvg-logo="" group-title="Movistar+",TCM
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/274.ts
+    #EXTINF:-1 tvg-name="AXN" tvg-logo="http://lacajatv.es/logos/logoaxn.jpg" group-title="Movistar+",AXN
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/1.ts
+    #EXTINF:-1 tvg-name="AXN White" tvg-logo="http://4.bp.blogspot.com/-THNydqMtc5k/T4RkVD4oWWI/AAAAAAAACF8/mvWzv3NeBgI/s1600/AXN+White+logo.png" group-title="Movistar+",AXN White
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/35.ts
+    #EXTINF:-1 tvg-name="Calle 13" tvg-logo="http://lacajatv.es/logos/logocalle13.jpg" group-title="Movistar+",Calle 13
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/8.ts
+    #EXTINF:-1 tvg-name="FOX" tvg-logo="http://lacajatv.es/logos/logofox.jpg" group-title="Movistar+",FOX
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/7.ts
+    #EXTINF:-1 tvg-name="FOX Life" tvg-logo="http://satcesc.com/p/fox-life.png" group-title="Movistar+",FOX Life
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/48.ts
+    #EXTINF:-1 tvg-name="TNT" tvg-logo="http://www.lyngsat-logo.com/logo/tv/tt/tnt_es.png" group-title="Movistar+",TNT
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/9.ts
+    #EXTINF:-1 tvg-name="Hollywood" tvg-logo="http://lacajatv.es/logos/logohollywood.jpg" group-title="Movistar+",Hollywood
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/10.ts
+    #EXTINF:-1 tvg-name="Syfy" tvg-logo="http://www.hdicon.com/wp-content/uploads/2013/06/Syfy_2009.png" group-title="Movistar+",Syfy
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/44.ts
+    #EXTINF:-1 tvg-name="Cosmo" tvg-logo="http://tv.orange.es/UpImages/2222/cosmo_grande_a0df862b7ad647c6b2741a34f.jpg" group-title="Movistar+",Cosmo
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/43.ts
+    #EXTINF:-1 tvg-name="Comedy Central" tvg-logo="http://www.satfreak.net/wp-content/uploads/Comedy-Central-Polska.png" group-title="Movistar+",Comedy Central
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/47.ts
+    #EXTINF:-1 tvg-name="Deportes HD" tvg-logo="" group-title="Digitele",Deportes HD
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/272.ts
+    #EXTINF:-1 tvg-name="Canal+ Deportes" tvg-logo="http://radioteve.com/tele/europa/Espana/logo/canalplusdeportes.jpg" group-title="Movistar+",Canal+ Deportes
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/51.ts
+    #EXTINF:-1 tvg-name="Canal+ Deportes 2" tvg-logo="" group-title="Movistar+",Canal+ Deportes 2
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/55.ts
+    #EXTINF:-1 tvg-name="Canal+ Futbol" tvg-logo="http://4.bp.blogspot.com/-OZQxKmuMBzE/UNuM_JsjKRI/AAAAAAAABs8/xM9MHhWcWQE/s1600/futbol.png" group-title="Movistar+",Canal+ Futbol
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/15.ts
+    #EXTINF:-1 tvg-name="Canal+ Golf" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/a/a4/Canal%2B_Golf.svg/400px-Canal%2B_Golf.svg.png" group-title="Movistar+",Canal+ Golf
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/18.ts
+    #EXTINF:-1 tvg-name="Canal+ Liga" tvg-logo="http://coditelcordoba.com/wp-content/uploads/2014/07/canal+liga.jpg" group-title="Movistar+",Canal+ Liga
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/16.ts
+    #EXTINF:-1 tvg-name="Canal+ Partidazo" tvg-logo="" group-title="Movistar+",Canal+ Partidazo
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/17.ts
+    #EXTINF:-1 tvg-name="Canal+ Toros" tvg-logo="http://3.bp.blogspot.com/-5l1qSHi7_BA/UeT7MKVn3aI/AAAAAAAABC8/Jk6s1cdRSks/s1600/canal-toros.png" group-title="Movistar+",Canal+ Toros
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/25.ts
+    #EXTINF:-1 tvg-name="Liga BBVA" tvg-logo="" group-title="Movistar+",Liga BBVA
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/225.ts
+    #EXTINF:-1 tvg-name="Eurosport" tvg-logo="" group-title="Movistar+",Eurosport
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/58.ts
+    #EXTINF:-1 tvg-name="Eurosport 2" tvg-logo="" group-title="Movistar+",Eurosport 2
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/59.ts
+    #EXTINF:-1 tvg-name="Movistar Futbol" tvg-logo="" group-title="Movistar+",Movistar Futbol
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/228.ts
+    #EXTINF:-1 tvg-name="Movistar F1" tvg-logo="" group-title="Movistar+",Movistar F1
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/56.ts
+    #EXTINF:-1 tvg-name="Movistar GP" tvg-logo="" group-title="Movistar+",Movistar GP
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/57.ts
+    #EXTINF:-1 tvg-name="Teledeporte" tvg-logo="" group-title="Televisión Digital Terreste",Teledeporte
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/97.ts
+    #EXTINF:-1 tvg-name="Barca TV" tvg-logo="" group-title="Movistar+",Barca TV
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/273.ts
+    #EXTINF:-1 tvg-name="Real Madrid TV" tvg-logo="http://www.rda.tv/static/img_cache/static/assets/blog/RMTV_logo_01-230x166.jpg" group-title="Movistar+",Real Madrid TV
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/41.ts
+    #EXTINF:-1 tvg-name="Baby TV" tvg-logo="" group-title="Movistar+",Baby TV
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/90.ts
+    #EXTINF:-1 tvg-name="Boing" tvg-logo="" group-title="Televisión Digital Terreste",Boing
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/243.ts
+    #EXTINF:-1 tvg-name="Disney Channel" tvg-logo="http://lacajatv.es/logos/logodisneychannel.jpg" group-title="Movistar+",Disney Channel
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/12.ts
+    #EXTINF:-1 tvg-name="Disney Junior" tvg-logo="http://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/012014/logo_disney_junior.png" group-title="Movistar+",Disney Junior
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/13.ts
+    #EXTINF:-1 tvg-name="Disney XD" tvg-logo="" group-title="Movistar+",Disney XD
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/42.ts
+    #EXTINF:-1 tvg-name="Nickelodeon" tvg-logo="http://www.mommylivingthelifeofriley.com/wp-content/uploads/2012/04/nickelodeon_logo.jpg" group-title="Movistar+",Nickelodeon
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/49.ts
+    #EXTINF:-1 tvg-name="Nick Junior" tvg-logo="http://lacajatv.es/logos/logonickjr.jpg" group-title="Movistar+",Nick Junior
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/14.ts
+    #EXTINF:-1 tvg-name="AE" tvg-logo="" group-title="Movistar+",AE
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/86.ts
+    #EXTINF:-1 tvg-name="Canal Cocina" tvg-logo="" group-title="Movistar+",Canal Cocina
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/89.ts
+    #EXTINF:-1 tvg-name="CI" tvg-logo="" group-title="Movistar+",CI
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/88.ts
+    #EXTINF:-1 tvg-name="Discovery Channel" tvg-logo="" group-title="Movistar+",Discovery Channel
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/85.ts
+    #EXTINF:-1 tvg-name="Discovery MAX" tvg-logo="" group-title="Televisión Digital Terreste",Discovery MAX
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/251.ts
+    #EXTINF:-1 tvg-name="Historia" tvg-logo="http://www.gmkfreelogos.com/logos/H/img/Historia_Canal.gif" group-title="Movistar+",Historia
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/45.ts
+    #EXTINF:-1 tvg-name="Iberalia TV" tvg-logo="" group-title="Movistar+",Iberalia TV
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/87.ts
+    #EXTINF:-1 tvg-name="Odisea" tvg-logo="" group-title="Movistar+",Odisea
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/244.ts
+    #EXTINF:-1 tvg-name="National Geographic" tvg-logo="http://www.samquinones.com/wp-content/uploads/2015/02/National-Geographic-Logo-Widescreen-Wallpaper.jpg" group-title="Movistar+",National Geographic
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/46.ts
+    #EXTINF:-1 tvg-name="National Geographic Wild" tvg-logo="http://1.bp.blogspot.com/-rysgzuoQWRI/UoVKmxXCBZI/AAAAAAAAAEY/qFw41TOUx4Q/s1600/natgeowild.png" group-title="Movistar+",National Geographic Wild
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/11.ts
+    #EXTINF:-1 tvg-name="Viajar" tvg-logo="" group-title="Movistar+",Viajar
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/226.ts
+    #EXTINF:-1 tvg-name="40 TV" tvg-logo="" group-title="Movistar+",40 TV
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/75.ts
+    #EXTINF:-1 tvg-name="Sol Musica" tvg-logo="" group-title="Movistar+",Sol Musica
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/148.ts
+    #EXTINF:-1 tvg-name="MTV" tvg-logo="" group-title="Movistar+",MTV
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/93.ts
+    #EXTINF:-1 tvg-name="BBC One" tvg-logo="" group-title="SKY Digital UK",BBC One
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/174.ts
+    #EXTINF:-1 tvg-name="BBC Two" tvg-logo="" group-title="SKY Digital UK",BBC Two
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/173.ts
+    #EXTINF:-1 tvg-name="ITV1" tvg-logo="" group-title="SKY Digital UK",ITV1
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/181.ts
+    #EXTINF:-1 tvg-name="Channel 4" tvg-logo="" group-title="SKY Digital UK",Channel 4
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/255.ts
+    #EXTINF:-1 tvg-name="Channel 5" tvg-logo="" group-title="SKY Digital UK",Channel 5
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/209.ts
+    #EXTINF:-1 tvg-name="BBC THREE" tvg-logo="" group-title="SKY Digital UK",BBC THREE
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/191.ts
+    #EXTINF:-1 tvg-name="BBC FOUR" tvg-logo="" group-title="SKY Digital UK",BBC FOUR
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/208.ts
+    #EXTINF:-1 tvg-name="ITV2" tvg-logo="" group-title="SKY Digital UK",ITV2
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/180.ts
+    #EXTINF:-1 tvg-name="ITV3" tvg-logo="" group-title="SKY Digital UK",ITV3
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/179.ts
+    #EXTINF:-1 tvg-name="ITV4" tvg-logo="" group-title="SKY Digital UK",ITV4
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/178.ts
+    #EXTINF:-1 tvg-name="ITV Be" tvg-logo="" group-title="SKY Digital UK",ITV Be
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/265.ts
+    #EXTINF:-1 tvg-name="ITV Encore" tvg-logo="" group-title="SKY Digital UK",ITV Encore
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/266.ts
+    #EXTINF:-1 tvg-name="E4" tvg-logo="" group-title="SKY Digital UK",E4
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/256.ts
+    #EXTINF:-1 tvg-name="More4" tvg-logo="" group-title="SKY Digital UK",More4
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/258.ts
+    #EXTINF:-1 tvg-name="Film4" tvg-logo="" group-title="SKY Digital UK",Film4
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/182.ts
+    #EXTINF:-1 tvg-name="Sky 1" tvg-logo="" group-title="SKY Digital UK",Sky 1
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/213.ts
+    #EXTINF:-1 tvg-name="Sky 2" tvg-logo="" group-title="SKY Digital UK",Sky 2
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/253.ts
+    #EXTINF:-1 tvg-name="Sky Atlantic" tvg-logo="" group-title="SKY Digital UK",Sky Atlantic
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/223.ts
+    #EXTINF:-1 tvg-name="Sky Living" tvg-logo="" group-title="SKY Digital UK",Sky Living
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/259.ts
+    #EXTINF:-1 tvg-name="Real Lives" tvg-logo="" group-title="SKY Digital UK",Real Lives
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/234.ts
+    #EXTINF:-1 tvg-name="5 USA" tvg-logo="" group-title="SKY Digital UK",5 USA
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/210.ts
+    #EXTINF:-1 tvg-name="Drama" tvg-logo="" group-title="SKY Digital UK",Drama
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/270.ts
+    #EXTINF:-1 tvg-name="GOLD" tvg-logo="" group-title="SKY Digital UK",GOLD
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/235.ts
+    #EXTINF:-1 tvg-name="Dave" tvg-logo="" group-title="SKY Digital UK",Dave
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/172.ts
+    #EXTINF:-1 tvg-name="Fox UK" tvg-logo="" group-title="SKY Digital UK",Fox UK
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/263.ts
+    #EXTINF:-1 tvg-name="Pick TV" tvg-logo="" group-title="SKY Digital UK",Pick TV
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/267.ts
+    #EXTINF:-1 tvg-name="Comedy Central UK" tvg-logo="" group-title="SKY Digital UK",Comedy Central UK
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/260.ts
+    #EXTINF:-1 tvg-name="Universal HD" tvg-logo="" group-title="SKY Digital UK",Universal HD
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/262.ts
+    #EXTINF:-1 tvg-name="SYFY UK" tvg-logo="" group-title="SKY Digital UK",SYFY UK
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/261.ts
+    #EXTINF:-1 tvg-name="CBS Action" tvg-logo="" group-title="SKY Digital UK",CBS Action
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/215.ts
+    #EXTINF:-1 tvg-name="CBS Drama" tvg-logo="" group-title="SKY Digital UK",CBS Drama
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/214.ts
+    #EXTINF:-1 tvg-name="CBS Reality" tvg-logo="" group-title="SKY Digital UK",CBS Reality
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/216.ts
+    #EXTINF:-1 tvg-name="TLC" tvg-logo="" group-title="SKY Digital UK",TLC
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/268.ts
+    #EXTINF:-1 tvg-name="RTE 1" tvg-logo="" group-title="SKY Digital UK",RTE 1
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/232.ts
+    #EXTINF:-1 tvg-name="RTE 2" tvg-logo="" group-title="SKY Digital UK",RTE 2
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/231.ts
+    #EXTINF:-1 tvg-name="Sky Arts 1" tvg-logo="" group-title="SKY Digital UK",Sky Arts 1
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/230.ts
+    #EXTINF:-1 tvg-name="Animal Planet" tvg-logo="" group-title="SKY Digital UK",Animal Planet
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/183.ts
+    #EXTINF:-1 tvg-name="Discovery Channel UK" tvg-logo="" group-title="SKY Digital UK",Discovery Channel UK
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/237.ts
+    #EXTINF:-1 tvg-name="Discovery History" tvg-logo="" group-title="SKY Digital UK",Discovery History
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/171.ts
+    #EXTINF:-1 tvg-name="DMAX" tvg-logo="" group-title="SKY Digital UK",DMAX
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/236.ts
+    #EXTINF:-1 tvg-name="Discovery Investigation" tvg-logo="" group-title="SKY Digital UK",Discovery Investigation
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/211.ts
+    #EXTINF:-1 tvg-name="Discovery Science" tvg-logo="" group-title="SKY Digital UK",Discovery Science
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/197.ts
+    #EXTINF:-1 tvg-name="Discovery Turbo" tvg-logo="" group-title="SKY Digital UK",Discovery Turbo
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/137.ts
+    #EXTINF:-1 tvg-name="History" tvg-logo="" group-title="SKY Digital UK",History
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/275.ts
+    #EXTINF:-1 tvg-name="H2" tvg-logo="" group-title="SKY Digital UK",H2
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/254.ts
+    #EXTINF:-1 tvg-name="Nat Geo UK" tvg-logo="" group-title="SKY Digital UK",Nat Geo UK
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/269.ts
+    #EXTINF:-1 tvg-name="Nat Geo Wild UK" tvg-logo="" group-title="SKY Digital UK",Nat Geo Wild UK
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/212.ts
+    #EXTINF:-1 tvg-name="MTV Dance" tvg-logo="http://3.bp.blogspot.com/--0e3vwlzJks/TeKeL6rQq8I/AAAAAAAAA9g/nRfWMQ-6Qp4/s1600/mtv_dance_logo.jpg" group-title="Musicales",MTV Dance
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/28.ts
+    #EXTINF:-1 tvg-name="MTV Hits" tvg-logo="http://host.premiumhostingweb.com/logos/mtvhits.png" group-title="Musicales",MTV Hits
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/29.ts
+    #EXTINF:-1 tvg-name="MTV Rocks" tvg-logo="http://www.stream2watch.se/images/thumbs/mtv%20rocks%20live%20stream.gif" group-title="Musicales",MTV Rocks
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/30.ts
+    #EXTINF:-1 tvg-name="MTV Live" tvg-logo="" group-title="Musicales",MTV Live
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/94.ts
+    #EXTINF:-1 tvg-name="VH1 UK" tvg-logo="http://host.premiumhostingweb.com/logos/vh1.png" group-title="Musicales",VH1 UK
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/31.ts
+    #EXTINF:-1 tvg-name="VH1 Classic" tvg-logo="http://host.premiumhostingweb.com/logos/vh1classic.png" group-title="Musicales",VH1 Classic
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/33.ts
+    #EXTINF:-1 tvg-name="Cartoon Network" tvg-logo="" group-title="SKY Digital UK",Cartoon Network
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/276.ts
+    #EXTINF:-1 tvg-name="Disney Channel UK" tvg-logo="" group-title="SKY Digital UK",Disney Channel UK
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/167.ts
+    #EXTINF:-1 tvg-name="Disney Junior UK" tvg-logo="" group-title="SKY Digital UK",Disney Junior UK
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/168.ts
+    #EXTINF:-1 tvg-name="Nickelodeon UK" tvg-logo="" group-title="SKY Digital UK",Nickelodeon UK
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/170.ts
+    #EXTINF:-1 tvg-name="Nicktoons" tvg-logo="" group-title="SKY Digital UK",Nicktoons
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/169.ts
+    #EXTINF:-1 tvg-name="Sky Action" tvg-logo="" group-title="SKY Digital UK",Sky Action
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/139.ts
+    #EXTINF:-1 tvg-name="Sky Comedy" tvg-logo="" group-title="SKY Digital UK",Sky Comedy
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/140.ts
+    #EXTINF:-1 tvg-name="Sky Drama" tvg-logo="" group-title="SKY Digital UK",Sky Drama
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/177.ts
+    #EXTINF:-1 tvg-name="Sky Family" tvg-logo="" group-title="SKY Digital UK",Sky Family
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/138.ts
+    #EXTINF:-1 tvg-name="Sky Modern Greats" tvg-logo="" group-title="SKY Digital UK",Sky Modern Greats
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/141.ts
+    #EXTINF:-1 tvg-name="Sky Premiere" tvg-logo="" group-title="SKY Digital UK",Sky Premiere
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/144.ts
+    #EXTINF:-1 tvg-name="Sky Sci-Fi Horror" tvg-logo="" group-title="SKY Digital UK",Sky Sci-Fi Horror
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/143.ts
+    #EXTINF:-1 tvg-name="Sky Select" tvg-logo="" group-title="SKY Digital UK",Sky Select
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/176.ts
+    #EXTINF:-1 tvg-name="Sky Showcase" tvg-logo="" group-title="SKY Digital UK",Sky Showcase
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/271.ts
+    #EXTINF:-1 tvg-name="Sky Thriller" tvg-logo="" group-title="SKY Digital UK",Sky Thriller
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/175.ts
+    #EXTINF:-1 tvg-name="Movies 4 Men" tvg-logo="" group-title="SKY Digital UK",Movies 4 Men
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/233.ts
+    #EXTINF:-1 tvg-name="True Movies 1" tvg-logo="" group-title="SKY Digital UK",True Movies 1
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/218.ts
+    #EXTINF:-1 tvg-name="True Movies 2" tvg-logo="" group-title="SKY Digital UK",True Movies 2
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/219.ts
+    #EXTINF:-1 tvg-name="Sky News" tvg-logo="" group-title="SKY Digital UK",Sky News
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/196.ts
+    #EXTINF:-1 tvg-name="BT Sport 1" tvg-logo="" group-title="Deportes Internacionales",BT Sport 1
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/151.ts
+    #EXTINF:-1 tvg-name="BT Sport 2" tvg-logo="" group-title="Deportes Internacionales",BT Sport 2
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/150.ts
+    #EXTINF:-1 tvg-name="Eurosport 1 UK" tvg-logo="" group-title="Deportes Internacionales",Eurosport 1 UK
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/135.ts
+    #EXTINF:-1 tvg-name="Eurosport 2 UK" tvg-logo="" group-title="Deportes Internacionales",Eurosport 2 UK
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/136.ts
+    #EXTINF:-1 tvg-name="Box Nation" tvg-logo="" group-title="Deportes Internacionales",Box Nation
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/281.ts
+    #EXTINF:-1 tvg-name="Sky Sports 1" tvg-logo="" group-title="SKY Digital UK",Sky Sports 1
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/60.ts
+    #EXTINF:-1 tvg-name="Sky Sports 2" tvg-logo="" group-title="SKY Digital UK",Sky Sports 2
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/61.ts
+    #EXTINF:-1 tvg-name="Sky Sports 3" tvg-logo="" group-title="SKY Digital UK",Sky Sports 3
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/62.ts
+    #EXTINF:-1 tvg-name="Sky Sports 4" tvg-logo="" group-title="SKY Digital UK",Sky Sports 4
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/63.ts
+    #EXTINF:-1 tvg-name="Sky Sports 5" tvg-logo="" group-title="SKY Digital UK",Sky Sports 5
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/64.ts
+    #EXTINF:-1 tvg-name="Sky Sports F1" tvg-logo="" group-title="Deportes Internacionales",Sky Sports F1
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/149.ts
+    #EXTINF:-1 tvg-name="Sky Sports News" tvg-logo="" group-title="SKY Digital UK",Sky Sports News
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/217.ts
+    #EXTINF:-1 tvg-name="Arena Sport 1" tvg-logo="" group-title="Deportes Internacionales",Arena Sport 1
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/162.ts
+    #EXTINF:-1 tvg-name="Arena Sport 2" tvg-logo="" group-title="Deportes Internacionales",Arena Sport 2
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/166.ts
+    #EXTINF:-1 tvg-name="Arena Sport 3" tvg-logo="" group-title="Deportes Internacionales",Arena Sport 3
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/165.ts
+    #EXTINF:-1 tvg-name="Arena Sport 4" tvg-logo="" group-title="Deportes Internacionales",Arena Sport 4
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/164.ts
+    #EXTINF:-1 tvg-name="Arena Sport 5" tvg-logo="" group-title="Deportes Internacionales",Arena Sport 5
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/163.ts
+    #EXTINF:-1 tvg-name="BeIN Sports 1" tvg-logo="" group-title="Deportes Internacionales",BeIN Sports 1
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/161.ts
+    #EXTINF:-1 tvg-name="BeIN Sports 1 FR" tvg-logo="" group-title="Deportes Internacionales",BeIN Sports 1 FR
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/248.ts
+    #EXTINF:-1 tvg-name="BeIN Sports 2" tvg-logo="" group-title="Deportes Internacionales",BeIN Sports 2
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/159.ts
+    #EXTINF:-1 tvg-name="BeIN Sports 2 FR" tvg-logo="" group-title="Deportes Internacionales",BeIN Sports 2 FR
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/249.ts
+    #EXTINF:-1 tvg-name="BeIN Sports 3" tvg-logo="" group-title="Deportes Internacionales",BeIN Sports 3
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/158.ts
+    #EXTINF:-1 tvg-name="BeIN Sports 3 FR" tvg-logo="" group-title="Deportes Internacionales",BeIN Sports 3 FR
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/250.ts
+    #EXTINF:-1 tvg-name="BeIN Sports 4" tvg-logo="" group-title="Deportes Internacionales",BeIN Sports 4
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/157.ts
+    #EXTINF:-1 tvg-name="BeIN Sports 5" tvg-logo="" group-title="Deportes Internacionales",BeIN Sports 5
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/156.ts
+    #EXTINF:-1 tvg-name="BeIN Sports 6" tvg-logo="" group-title="Deportes Internacionales",BeIN Sports 6
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/155.ts
+    #EXTINF:-1 tvg-name="BeIN Sports 7" tvg-logo="" group-title="Deportes Internacionales",BeIN Sports 7
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/154.ts
+    #EXTINF:-1 tvg-name="BeIN Sports 8" tvg-logo="" group-title="Deportes Internacionales",BeIN Sports 8
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/153.ts
+    #EXTINF:-1 tvg-name="BeIN Sports 9" tvg-logo="" group-title="Deportes Internacionales",BeIN Sports 9
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/152.ts
+    #EXTINF:-1 tvg-name="BeIN Sports 10" tvg-logo="" group-title="Deportes Internacionales",BeIN Sports 10
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/160.ts
+    #EXTINF:-1 tvg-name="BeIN Sports 11" tvg-logo="" group-title="Deportes Internacionales",BeIN Sports 11
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/186.ts
+    #EXTINF:-1 tvg-name="BeIN Sports 12" tvg-logo="" group-title="Deportes Internacionales",BeIN Sports 12
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/187.ts
+    #EXTINF:-1 tvg-name="BeIN Sports 13" tvg-logo="" group-title="Deportes Internacionales",BeIN Sports 13
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/282.ts
+    #EXTINF:-1 tvg-name="BeIN Sports 14" tvg-logo="" group-title="Deportes Internacionales",BeIN Sports 14
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/283.ts
+    #EXTINF:-1 tvg-name="BeIN Sports 15" tvg-logo="" group-title="Deportes Internacionales",BeIN Sports 15
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/284.ts
+    #EXTINF:-1 tvg-name="Sport Klub 1" tvg-logo="" group-title="Deportes Internacionales",Sport Klub 1
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/278.ts
+    #EXTINF:-1 tvg-name="Sport Klub 2" tvg-logo="" group-title="Deportes Internacionales",Sport Klub 2
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/279.ts
+    #EXTINF:-1 tvg-name="Sport Klub 3" tvg-logo="" group-title="Deportes Internacionales",Sport Klub 3
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/280.ts
+    #EXTINF:-1 tvg-name="Sport TV 1" tvg-logo="" group-title="Deportes Internacionales",Sport TV 1
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/238.ts
+    #EXTINF:-1 tvg-name="Sport TV 2" tvg-logo="" group-title="Deportes Internacionales",Sport TV 2
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/239.ts
+    #EXTINF:-1 tvg-name="Sport TV 3" tvg-logo="" group-title="Deportes Internacionales",Sport TV 3
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/240.ts
+    #EXTINF:-1 tvg-name="Sport TV 4" tvg-logo="" group-title="Deportes Internacionales",Sport TV 4
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/241.ts
+    #EXTINF:-1 tvg-name="Sport TV 5" tvg-logo="" group-title="Deportes Internacionales",Sport TV 5
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/277.ts
+    #EXTINF:-1 tvg-name="NBA TV" tvg-logo="" group-title="Deportes Internacionales",NBA TV
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/246.ts
+    #EXTINF:-1 tvg-name="Digi Sport 1" tvg-logo="" group-title="Deportes Internacionales",Digi Sport 1
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/220.ts
+    #EXTINF:-1 tvg-name="Digi Sport 2" tvg-logo="" group-title="Deportes Internacionales",Digi Sport 2
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/221.ts
+    #EXTINF:-1 tvg-name="Digi Sport 3" tvg-logo="" group-title="Deportes Internacionales",Digi Sport 3
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/222.ts
+    #EXTINF:-1 tvg-name="Super Sport 1" tvg-logo="" group-title="Deportes Internacionales",Super Sport 1
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/195.ts
+    #EXTINF:-1 tvg-name="Super Sport 2" tvg-logo="" group-title="Deportes Internacionales",Super Sport 2
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/194.ts
+    #EXTINF:-1 tvg-name="Super Sport 3" tvg-logo="" group-title="Deportes Internacionales",Super Sport 3
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/193.ts
+    #EXTINF:-1 tvg-name="Super Sport 4" tvg-logo="" group-title="Deportes Internacionales",Super Sport 4
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/192.ts
+    #EXTINF:-1 tvg-name="Sky Sports 1 IT" tvg-logo="" group-title="Deportes Internacionales",Sky Sports 1 IT
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/200.ts
+    #EXTINF:-1 tvg-name="Sky Sports 2 IT" tvg-logo="" group-title="Deportes Internacionales",Sky Sports 2 IT
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/199.ts
+    #EXTINF:-1 tvg-name="Sky Sports 3 IT" tvg-logo="" group-title="Deportes Internacionales",Sky Sports 3 IT
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/198.ts
+    #EXTINF:-1 tvg-name="Premium Sport HD" tvg-logo="" group-title="Deportes Internacionales",Premium Sport HD
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/201.ts
+    #EXTINF:-1 tvg-name="Premium Sport" tvg-logo="" group-title="Deportes Internacionales",Premium Sport
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/202.ts
+    #EXTINF:-1 tvg-name="Premium Calcio HD" tvg-logo="" group-title="Deportes Internacionales",Premium Calcio HD
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/203.ts
+    #EXTINF:-1 tvg-name="Premium Calcio" tvg-logo="" group-title="Deportes Internacionales",Premium Calcio
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/204.ts
+    #EXTINF:-1 tvg-name="Premium Calcio 1" tvg-logo="" group-title="Deportes Internacionales",Premium Calcio 1
+    http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registaraqui/207.ts
