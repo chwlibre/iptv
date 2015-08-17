@@ -22,10 +22,6 @@ Repositorio de listas de canales abierto, colaborativo y buena onda que surgió 
 
     `https://raw.githubusercontent.com/chwlibre/iptv/master/list4.m3u`
 
-* lista 5 one:
-
-    `https://raw.githubusercontent.com/chwlibre/iptv/master/one.m3u`
-
 * lista 6 chw:
 
     `https://raw.githubusercontent.com/chwlibre/iptv/master/chw.m3u`
@@ -33,6 +29,10 @@ Repositorio de listas de canales abierto, colaborativo y buena onda que surgió 
 * lista 7 chw-beta:
 
     `https://raw.githubusercontent.com/chwlibre/iptv/master/chw-beta.m3u`
+
+* lista 8 makiavelo:
+
+    `https://raw.githubusercontent.com/chwlibre/iptv/master/makiavelo.m3u`
 
 ### ¿Quieres colaborar? ¿Agregar un listado nuevo?
 ¡Puedes hacerlo!, sólo deja tu nombre de usuario de Github en el thread del foro (ver más arriba el link). Aquí nadie es dueño del trabajo de nadie, todo aporte es valioso, la idea es colaborar entre todos.
