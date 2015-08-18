@@ -45,11 +45,14 @@ http://movilstream.digitalproserver.com/ufro/ufrovivo/ufro.smil/chunklist-b15640
 http://mdstrm.com/live-stream-playlist-v/53443c472c6e89675103cc4c.m3u8
 
 
-
 #EXTINF:-1 group-title="Cultura", .: Cultura :.
 
 #EXTINF:-1 group-title="Cultura", History
 http://live.mvdigital.net:1935/live10/livestream1.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Cultura", History Opción 2
+http://201.161.59.7/history.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 group-title="Cultura", Natgeo
+http://201.161.59.3/natgeo.isml/manifest(format=m3u8-aapl).m3u8
 #EXTINF:-1 group-title="Cultura", Discovery Channel
 http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 group-title="Cultura", RT Documentary HD
@@ -60,20 +63,46 @@ http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_1000_av-p.m3u8
 http://201.161.59.4/wobi.isml/manifest(format=m3u8-aapl).m3u8
 
 
-
 #EXTINF:-1 group-title="Kids", .: Kids :.
 
+#EXTINF:-1 group-title="Kids", Cartoon Network
+http://201.161.59.6/cartoonnetwork.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 group-title="Kids", Cartoon Network Opción 2
+http://54.255.155.24:1935//Live/_definst_/sweetbcha1novD28_W_150.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Kids", Discovery Kids
 http://31.220.41.111:80/LiveEdgeTesting/DiscoveryKidsSD/playlist.m3u8?token=
 #EXTINF:-1 group-title="Kids", Disney Channel
-http://live.mvdigital.net:1935/live11/livestream1.sdp/playlist.m3u8#MegaIPTVArgentina
-#EXTINF:-1 group-title="Kids", Disney XD
 http://live.mvdigital.net:1935/live11/livestream1.sdp/playlist.m3u8
-
+#EXTINF:-1 group-title="Kids", Disney XD
+http://201.161.59.4/disneyxd.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 group-title="Kids", Nick
+http://201.161.59.6/nick.isml/manifest(format=m3u8-aapl).m3u8
 
 
 #EXTINF:-1 group-title="Cable", .: Cable :.
-	
+
+#EXTINF:-1 group-title="Cable", Fox
+http://201.161.59.6/fox.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 group-title="Cable", Fox Life
+http://201.161.59.7/foxlife.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 group-title="Cable", Fx
+http://201.161.59.6/fx.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 group-title="Cable", Sony
+http://201.161.59.6/sony.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 group-title="Cable", Warner
+http://201.161.59.6/warner.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 group-title="Cable", Golden
+http://201.161.59.4/golden.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 group-title="Cable", CineLatino
+http://201.161.59.4/cinelatino.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 group-title="Cable", Unicable
+http://201.161.59.6/unicable.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 group-title="Cable", Distrito Comedia
+http://201.161.59.6/clasicotv.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 group-title="Cable", E!
+http://201.161.59.6/e.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 group-title="Cable", Lifetime
+http://201.161.59.7/lifetime.isml/manifest(format=m3u8-aapl).m3u8
 #EXTINF:-1 group-title="Cable", Universal Movies
 http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 group-title="Cable", Antena 3 HD
@@ -82,11 +111,16 @@ http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/anten
 http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel02/la_sexta_hd_1548K_1280x720_main.m3u8
 
 
-
-
 #EXTINF:-1 group-title="Deportes": .:Deportes:.
 
-
+#EXTINF:-1 group-title="Deportes", Fox Sports Español
+http://201.161.59.6/foxsports.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 group-title="Deportes", ESPN Español
+http://201.161.59.3/espn.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 group-title="Deportes", ESPN 2 Español
+http://201.161.59.4/espn2.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 group-title="Deportes", ESPN 3 Español
+http://201.161.59.4/espn3.isml/manifest(format=m3u8-aapl).m3u8
 #EXTINF:-1 group-title="Deportes", Fox Sports
 http://live.mvdigital.net:1935/live7/livestream1.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Deportes", ESPN 
@@ -197,7 +231,6 @@ http://baltak.com/bein10.m3u8
 
 #EXTINF:-1 group-title="Musica", .: Musica :.
 
-
 #EXTINF:-1 group-title="Musica", BET
 http://167.114.101.188:1935/flu555/_definst_/bet/playlist.m3u8?token=
 #EXTINF:-1 group-title="Musica", VEVO 1
@@ -270,7 +303,6 @@ mms://streamqm.uigc.net/qmusica
 http://142.4.216.60:1935:1935/edge/_definst_/oeiigxxv1gbeqq9/playlist.m3u8?wowzasessionid=1420170560
 
 
-
 #EXTINF:-1 group-title="Inglés": .:Inglés:.
 
 #EXTINF:-1 group-title="Inglés", TBS
@@ -302,4 +334,4 @@ http://142.4.216.60:1935/edge/_definst_/oepz9q5oivflbcw/playlist.m3u8?wowzasessi
 #EXTINF:-1 group-title="3D": .:3D:.
 
 #EXTINF:-1 group-title="3D", HD MEDIA 3D
-rtmp://hdmedia3d.vintera.tv/hdmedia3d//hdmedia3d.stream	
+rtmp://hdmedia3d.vintera.tv/hdmedia3d//hdmedia3d.stream 
