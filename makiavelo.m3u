@@ -67,11 +67,15 @@ http://201.161.59.4/wobi.isml/manifest(format=m3u8-aapl).m3u8
 http://31.220.41.111:80/LiveEdgeTesting/DiscoveryKidsSD/playlist.m3u8?token=
 #EXTINF:-1 group-title="Kids", Disney Channel
 http://live.mvdigital.net:1935/live11/livestream1.sdp/playlist.m3u8#MegaIPTVArgentina
+#EXTINF:-1 group-title="Kids", Disney XD
+http://live.mvdigital.net:1935/live11/livestream1.sdp/playlist.m3u8
 
 
 
 #EXTINF:-1 group-title="Cable", .: Cable :.
 	
+#EXTINF:-1 group-title="Cable", Universal Movies
+http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 group-title="Cable", Antena 3 HD
 http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8
 #EXTINF:-1 group-title="Cable", LaSexta HD
@@ -82,8 +86,29 @@ http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel02/la_se
 
 #EXTINF:-1 group-title="Deportes": .:Deportes:.
 
+
+#EXTINF:-1 group-title="Deportes", Fox Sports
+http://live.mvdigital.net:1935/live7/livestream1.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Deportes", ESPN 
+http://142.4.216.60:1935/edge/_definst_/xoaaohmeuajfeyf/playlist.m3u8?wowzasessionid=1419879934
+#EXTINF:-1 group-title="Deportes", ESPN 3
+http://live.mvdigital.net:1935/live5/livestream1.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Deportes", GolTV
+http://live.mvdigital.net:1935/live12/livestream1.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Deportes", Directv Sports
 http://live.mvdigital.net:1935/live10/livestream1.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Deportes",  CDN Sport Max
+http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
+#EXTINF:-1,NFL Network HD
+http://142.4.216.60:1935/edge/_definst_/fzasab6vz02yuf7/playlist.m3u8?wowzasessionid=1419878830&xs=_we_Znphc2FiNnZ6MDJ5dWY3fDE0MTk5MTQ4MzB8fDU0YTFhMWFlODc0MTF8ZjhmMmU5ZGYwMGM3YTJkOWIwMDM3YWQzNmZjYWJkN2ZjMDA3ZWY1Mg
+#EXTINF:-1 group-title="Deportes", British Eurosport
+http://93.184.221.133/00573D/1210/1210-0.m3u8
+#EXTINF:-1 group-title="Deportes", British Eurosport 2
+http://93.184.221.133/00573D/1211/1211-0.m3u8
+#EXTINF:-1 group-title="Deportes", 3Sport 1
+http://93.184.221.133/00573D/236/236-0.m3u8
+#EXTINF:-1 group-title="Deportes", 3Sport 2
+http://93.184.221.133/00573D/837/837-0.m3u8
 #EXTINF:-1 group-title="Deportes", +Liga
 http://209.133.208.202:1935/app/b5000s-channel/playlist.m3u8
 #EXTINF:-1 group-title="Deportes", AutoSport TV
@@ -142,12 +167,39 @@ http://xrxs.net/video/live-p12oreg-4728.m3u8
 http://xrxs.net/video/live-p12wash-2328.m3u8
 #EXTINF:-1 group-title="Deportes", PAC-12 Washington FHD
 http://xrxs.net/video/live-p12wash-4728.m3u8
-
+#EXTINF:-1 group-title="Deportes", TRT SPOR
+http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/index_1000_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="Deportes", TRT SPOR 2
+http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8
+#EXTINF:-1 group-title="Deportes", FANATIK SPOR
+rtmp://live.fanatik.cubecdn.net/fanatiktv/stream_720
+#EXTINF:-1 group-title="Deportes", Viasat Golf 2
+http://93.184.221.133/00573D/911/911-0.m3u8
+#EXTINF:-1 group-title="Deportes", beINSport1 HD
+http://baltak.com/bein1.m3u8
+#EXTINF:-1 group-title="Deportes", beINSport2 HD
+http://baltak.com/bein2.m3u8
+#EXTINF:-1 group-title="Deportes", beINSport4 HD
+http://baltak.com/bein4.m3u8
+#EXTINF:-1 group-title="Deportes", beINSport5 HD
+http://baltak.com/bein5.m3u8
+#EXTINF:-1 group-title="Deportes", beINSport6 HD
+http://baltak.com/bein6.m3u8
+#EXTINF:-1 group-title="Deportes", beINSport7 HD
+http://baltak.com/bein7.m3u8
+#EXTINF:-1 group-title="Deportes", beINSport8 HD
+http://baltak.com/bein8.m3u8
+#EXTINF:-1 group-title="Deportes", beINSport9 HD
+http://baltak.com/bein9.m3u8
+#EXTINF:-1 group-title="Deportes", beINSport10 HD
+http://baltak.com/bein10.m3u8
 
 
 #EXTINF:-1 group-title="Musica", .: Musica :.
 
 
+#EXTINF:-1 group-title="Musica", BET
+http://167.114.101.188:1935/flu555/_definst_/bet/playlist.m3u8?token=
 #EXTINF:-1 group-title="Musica", VEVO 1
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
 #EXTINF:-1 group-title="Musica", VEVO 2
@@ -214,3 +266,40 @@ http://hd.worldkast.com:1935/8436/8436/playlist.m3u8
 http://vemoxhlslive-i.akamaihd.net/hls/live/219941/vemoxchannel2/iOS/vemoxchannel2@219941/index.m3u8
 #EXTINF:-1 group-title="Musica", QMusica
 mms://streamqm.uigc.net/qmusica
+#EXTINF:-1 group-title="Musica", VH1 
+http://142.4.216.60:1935:1935/edge/_definst_/oeiigxxv1gbeqq9/playlist.m3u8?wowzasessionid=1420170560
+
+
+
+#EXTINF:-1 group-title="Inglés": .:Inglés:.
+
+#EXTINF:-1 group-title="Inglés", TBS
+http://142.4.216.60:1935/edge/_definst_/jh8nj062bqbsxdh/playlist.m3u8?wowzasessionid=1419878319&xs=_we_amg4bmowNjJicWJzeGRofDE0MTk5MTQzMTl8fDU0YTE5ZmFmNTJhZjh8OGQ3NTAzZWFkMDNmN2JmMmFiMTE1ZWRjZmRjMjFmNTgyOWM4M2Y4NA
+#EXTINF:-1 group-title="Inglés", ABC HD
+http://142.4.216.60:1935/edge/_definst_/nz7l9vc5nv1og7b/playlist.m3u8?wowzasessionid=1419880374&xs=_we_Mzcxamx1aXJsamNzamVufDE0MTk5MTYzNzR8NzIuMjcuMjE0LjMzfDU0YTFhN2I2MzUxMWJ8ZDU3ODc0MTUyMWE0YTMyODdmZjdkYzJiMTYyZmY0MDA1YzM4NjdkYQ timeout=10
+#EXTINF:-1 group-title="Inglés", TNT
+http://142.4.216.60:1935/edge/_definst_/6q4jlbqwvxuingo/playlist.m3u8?wowzasessionid=1420124827&xs=_we_NnE0amxicXd2eHVpbmdvfDE0MjAxNjA4Mjd8NzIuMjcuMjE0LjMzfDU0YTU2MjliZGU4Zjh8ZDhjZjgzMzk0ZTNiODI4MzFiNDU3ZmE1MDk4ODdlZTMzZTJjZGYwNw
+#EXTINF:-1 group-title="Inglés", HBO HD
+http://142.4.216.60:1935/edge/_definst_/z28ie9oqoku4qoy/playlist.m3u8?wowzasessionid=1419879571&xs=_we_cXpiYnUyNmdjdmp4a3N6fDE0MTk5MTU1NzF8NzIuMjcuMjE0LjMzfDU0YTFhNDkzYjMyNjd8NjE2ZDU3ZTQ5NDJhMWU0NDc2NTVlMGUzYzg3Nzc2ZTE2MmI0ZWJjZQ timeout=10
+#EXTINF:-1 group-title="Inglés", HBO Comedy
+http://142.4.216.60:1935/edge/_definst_/a1wn1j3ra1w0cv0/playlist.m3u8?wowzasessionid=1419879335&xs=_we_YTF3bjFqM3JhMXcwY3YwfDE0MTk5MTUzMzV8NzIuMjcuMjE0LjMzfDU0YTFhM2E3OTJlOWZ8ODdjNjQyZWFjMWEzN2ZkYTA5MWZhYjc0Yjk4MDFiMWJiZTQ1MTViYQ
+#EXTINF:-1 group-title="Inglés", History
+http://142.4.216.60:1935/edge/_definst_/dhp0rpd116qyyj6/playlist.m3u8?wowzasessionid=1419874554&xs=_we_OGc3eDgwb3p1Nmh6MmRzfDE0MTk5MTA1NTR8NzIuMjcuMjE0LjMzfDU0YTE5MGZhNTUwNjV8ZDM2MzAzYjkwYTE5MDBmMzhhOGM2YjE2ZDc4Mjk3ZDdkZjU0NDhlYw
+#EXTINF:-1 group-title="Inglés", HGTV
+http://142.4.216.60:1935/edge/_definst_/gj65q2rg18tpmut/playlist.m3u8?wowzasessionid=1419811602&xs=_we_cXpiYnUyNmdjdmp4a3N6fDE0MTk4NDc2MDJ8NzIuMjcuMjE0LjMzfDU0YTA5YjEyMGE1YmZ8OTJhMTdmNDg3NGM4ODk2NWNhZGIxOWMwYWNhZWQzYzFmMDg4YzY5MQ timeout=10
+#EXTINF:-1 group-title="Inglés", TruTV HD
+http://142.4.216.60:1935/edge/_definst_/uhnr4161ybioa5w/playlist.m3u8?wowzasessionid=1420124955&xs=_we_aDVlb3ZhajFqZWVnbHVxfDE0MjAxNjA5NTV8NzIuMjcuMjE0LjMzfDU0YTU2MzFiMGExMzJ8ZTI3MjlkOTQ0NmFmYTJjMDU5NjQ5NTg5OWQwNDdmYzI5Y2VkNDRjMA timeout=10
+#EXTINF:-1 group-title="Inglés", Hallmark HD
+http://142.4.216.60:1935/edge/_definst_/v4ynnryunsoxzbq/playlist.m3u8?wowzasessionid=1419874236&xs=_we_bHcxa3VmaW0xa21pdDFofDE0MTk5MTAyMzZ8NzIuMjcuMjE0LjMzfDU0YTE4ZmJjOTVhMWN8MzJmYjg0MzMxMDZiMTlhNzNhNzY0M2JlNjBmNTdkZDJkYjEyMWFjNA timeout=10
+#EXTINF:-1 group-title="Inglés", National Geographic
+http://142.4.216.60:1935/edge/_definst_/b8bav5ayzso8m8q/playlist.m3u8?wowzasessionid=1420170282&xs=_we_YjhiYXY1YXl6c284bThxfDE0MjAyMDYyODJ8NzIuMjcuMjE0LjMzfDU0YTYxNDJhNDM5YWF8NTVjODFmOGQzMGVmN2M3ODhlZjEyYWNmNWVkNWFhNjE0NjVlOWYyNQ timeout=10
+#EXTINF:-1 group-title="Inglés", Discovery Europa
+http://93.184.221.133/00573D/1347/1347-0.m3u8
+#EXTINF:-1 group-title="Inglés", SyFy SD 
+http://142.4.216.60:1935/edge/_definst_/oepz9q5oivflbcw/playlist.m3u8?wowzasessionid=1419878403
+
+
+#EXTINF:-1 group-title="3D": .:3D:.
+
+#EXTINF:-1 group-title="3D", HD MEDIA 3D
+rtmp://hdmedia3d.vintera.tv/hdmedia3d//hdmedia3d.stream	
