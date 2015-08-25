@@ -96,7 +96,7 @@ http://201.161.59.6/nick.isml/manifest%28format=m3u8-aapl%29.m3u8
 #EXTINF:-1 group-title="Cable", DW Español
 http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8?
 #EXTINF:-1 group-title="Cable", Fox
-http://201.161.59.6/fox.isml/manifest(format=m3u8-aapl).m3u8	
+http://201.161.59.6/fox.isml/QualityLevels(1253000)/manifest(format=m3u8-aapl).m3u8	
 #EXTINF:-1 group-title="Cable", Fox Life
 http://201.161.59.7/foxlife.isml/manifest%28format=m3u8-aapl%29.m3u8
 #EXTINF:-1 group-title="Cable", Fx
@@ -144,14 +144,6 @@ http://live.mvdigital.net:1935/live5/livestream1.sdp/playlist.m3u8
 http://live.mvdigital.net:1935/live12/livestream1.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Deportes",  CDN Sport Max
 http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
-#EXTINF:-1 group-title="Deportes", British Eurosport
-http://93.184.221.133/00573D/1210/1210-0.m3u8
-#EXTINF:-1 group-title="Deportes", British Eurosport 2
-http://93.184.221.133/00573D/1211/1211-0.m3u8
-#EXTINF:-1 group-title="Deportes", 3Sport 1
-http://93.184.221.133/00573D/236/236-0.m3u8
-#EXTINF:-1 group-title="Deportes", 3Sport 2
-http://93.184.221.133/00573D/837/837-0.m3u8
 #EXTINF:-1 group-title="Deportes", AutoSport TV
 mms://83.222.173.94/100livesport
 #EXTINF:-1 group-title="Deportes", Azteca Deportes
@@ -180,12 +172,14 @@ rtmp://freeview.fms.visionip.tv/live/sports_tonight-sports_tonight-live-25f-16x9
 http://80.80.160.201/http_livestr.m3u8?id=ssnews
 #EXTINF:-1 group-title="Deportes", Xtreme Impacts
 http://46.249.213.93/iPhone/broadcast/xtremeimpacts-tablet.3gp/xtremeimpacts-tablet.3gp-mr647k.m3u8
-#EXTINF:-1 group-title="Deportes", AZTECA 7
-http://38.104.228.230:1938/info7/info7_512/playlist.m3u8
 #EXTINF:-1 group-title="Deportes", Sport1
 http://4BA9EBDB07C05883:@5.159.96.170:8000/sport1
 #EXTINF:-1 group-title="Deportes", Pac Mountain FHD
 http://xrxs.net/video/live-p12moun-4728.m3u8
+#EXTINF:-1 group-title="Deportes", Pac Mountain HD
+http://xrxs.net/video/live-p12mou-2328.m3u8
+#EXTINF:-1 group-title="Deportes", Pac National FHD
+http://xrxs.net/video/live-p12netw-4728.m3u8
 #EXTINF:-1 group-title="Deportes", PAC National HD
 http://xrxs.net/video/live-p12netw-2328.m3u8
 #EXTINF:-1 group-title="Deportes", PAC-12 Arizona HD
@@ -198,6 +192,8 @@ http://xrxs.net/video/live-p12baya-2328.m3u8
 http://xrxs.net/video/live-p12baya-4728.m3u8
 #EXTINF:-1 group-title="Deportes", PAC-12 Los Angeles HD
 http://xrxs.net/video/live-p12losa-2328.m3u8
+#EXTINF:-1 group-title="Deportes", PAC-12 Los Angeles FHD
+http://xrxs.net/video/live-p12los-4728.m3u8
 #EXTINF:-1 group-title="Deportes", PAC-12 Oregon HD
 http://xrxs.net/video/live-p12oreg-2328.m3u8
 #EXTINF:-1 group-title="Deportes", PAC-12 Oregon FHD
@@ -212,8 +208,6 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/index_1000_av-p.m3u8?sd=10
 http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8
 #EXTINF:-1 group-title="Deportes", FANATIK SPOR
 rtmp://live.fanatik.cubecdn.net/fanatiktv/stream_720
-#EXTINF:-1 group-title="Deportes", Viasat Golf 2
-http://93.184.221.133/00573D/911/911-0.m3u8
 #EXTINF:-1 group-title="Deportes", CMD Sport
 http://live.mvdigital.net:1935/live5/livestream1.sdp/playlist.m3u8
 
@@ -428,5 +422,5 @@ http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad
 http://46.249.213.93/iPhone/HLS_TS/broadcast/sportmax-tablet.3gp/sportmax-tablet.3gp-mr397k.m3u8
 #EXTINF:-1 group-title="Test", NBC Sports
 http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/4296k/prog.m3u8
-#EXTINF:-1 group-title="Test", bEIN Sports Español
+#EXTINF:-1 group-title="Test", bEINÑ Sports Español
 rtmp://beinsportgeolivefs.fplive.net:1935/beinsportgeolive-live/beinsport_spa_4
