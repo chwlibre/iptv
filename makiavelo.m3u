@@ -43,13 +43,10 @@ http://movilstream.digitalproserver.com/campustv/campustvvivo/livestream1/playli
 http://movilstream.digitalproserver.com/ufro/ufrovivo/ufro.smil/chunklist-b1564000.m3u8
 #EXTINF:-1 group-title="Canales Chile", UOCT Santiago
 http://mdstrm.com/live-stream-playlist-v/53443c472c6e89675103cc4c.m3u8
-#EXTINF:-1 group-title="Canales Chile", Radio La Clave
-http://movilstream.digitalproserver.com/laclavetv/laclavetvvivo/laclavetv.smil/playlist.m3u8
 
 
 
 #EXTINF:-1 group-title="Cultura", .: Cultura :.
-
 
 #EXTINF:-1 group-title="Cultura", History
 http://live.mvdigital.net:1935/live10/livestream1.sdp/playlist.m3u8
@@ -59,10 +56,25 @@ http://201.161.59.3/natgeo.isml/manifest%28format=m3u8-aapl%29.m3u8
 http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 group-title="Cultura", RT Documentary HD
 http://rt-a.akamaihd.net/ch_05@325609/720p.m3u8
+#EXTINF:-1 group-title="Cultura", RT Español SD
+http://rt.ashttp14.visionip.tv/live/RT_en_Espanol-SD/chunklist.m3u8
+#EXTINF:-1 group-title="Cultura", RT Español HD
+http://rt.ashttp14.visionip.tv/live/RT_en_Espanol-HD/chunklist.m3u8
+#EXTINF:-1 group-title="Cultura", Nasa HD
+http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_1000_av-p.m3u8
 #EXTINF:-1 group-title="Cultura", Wobi
 http://201.161.59.4/wobi.isml/manifest%28format=m3u8-aapl%29.m3u8
-#EXTINF:-1 group-title="Cultura",TV AGRO
+#EXTINF:-1 group-title="Cultura",TV Agro
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVAG/tu1_1.m3u8
+
+
+
+#EXTINF:-1 group-title="NOTICIAS": .:NOTICIAS:.
+
+#EXTINF:-1 group-title="NOTICIAS",Cable Noticias
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8
+#EXTINF:-1 group-title="NOTICIAS",El Tiempo
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8
 
 
 
@@ -81,8 +93,10 @@ http://201.161.59.6/nick.isml/manifest%28format=m3u8-aapl%29.m3u8
 
 #EXTINF:-1 group-title="Cable", .: Cable :.
 
+#EXTINF:-1 group-title="Cable", DW Español
+http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8?
 #EXTINF:-1 group-title="Cable", Fox
-http://201.161.59.6/fox.isml/manifest%28format=m3u8-aapl%29.m3u8
+http://201.161.59.6/fox.isml/manifest(format=m3u8-aapl).m3u8	
 #EXTINF:-1 group-title="Cable", Fox Life
 http://201.161.59.7/foxlife.isml/manifest%28format=m3u8-aapl%29.m3u8
 #EXTINF:-1 group-title="Cable", Fx
@@ -109,17 +123,13 @@ http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3
 http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8
 #EXTINF:-1 group-title="Cable", LaSexta HD
 http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel02/la_sexta_hd_1548K_1280x720_main.m3u8
-#EXTINF:-1,TELE AMIGA
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0002/tu1_1.m3u8
-
-
 
 
 
 #EXTINF:-1 group-title="Deportes": .:Deportes:.
 
-
-
+#EXTINF:-1 group-title="Deportes", Fox Sports
+http://live.mvdigital.net:1935/live7/livestream1.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Deportes", Fox Sports Español
 http://201.161.59.6/foxsports.isml/manifest%28format=m3u8-aapl%29.m3u8
 #EXTINF:-1 group-title="Deportes", ESPN Español
@@ -128,9 +138,7 @@ http://201.161.59.3/espn.isml/manifest%28format=m3u8-aapl%29.m3u8
 http://201.161.59.4/espn2.isml/manifest%28format=m3u8-aapl%29.m3u8
 #EXTINF:-1 group-title="Deportes", ESPN 3 Español
 http://201.161.59.4/espn3.isml/manifest%28format=m3u8-aapl%29.m3u8
-#EXTINF:-1 group-title="Deportes", Fox Sports
-http://live.mvdigital.net:1935/live7/livestream1.sdp/playlist.m3u8
-n#EXTINF:-1 group-title="Deportes", ESPN 3
+#EXTINF:-1 group-title="Deportes", ESPN 3
 http://live.mvdigital.net:1935/live5/livestream1.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Deportes", GolTV
 http://live.mvdigital.net:1935/live12/livestream1.sdp/playlist.m3u8
@@ -172,8 +180,6 @@ rtmp://freeview.fms.visionip.tv/live/sports_tonight-sports_tonight-live-25f-16x9
 http://80.80.160.201/http_livestr.m3u8?id=ssnews
 #EXTINF:-1 group-title="Deportes", Xtreme Impacts
 http://46.249.213.93/iPhone/broadcast/xtremeimpacts-tablet.3gp/xtremeimpacts-tablet.3gp-mr647k.m3u8
-#EXTINF:-1 group-title="Deportes", GOL TV
-http://live.mvdigital.net:1935/live12/livestream1.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Deportes", AZTECA 7
 http://38.104.228.230:1938/info7/info7_512/playlist.m3u8
 #EXTINF:-1 group-title="Deportes", Sport1
@@ -208,31 +214,12 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8
 rtmp://live.fanatik.cubecdn.net/fanatiktv/stream_720
 #EXTINF:-1 group-title="Deportes", Viasat Golf 2
 http://93.184.221.133/00573D/911/911-0.m3u8
-#EXTINF:-1 group-title="Deportes", beINSport1 HD
-http://baltak.com/bein1.m3u8
-#EXTINF:-1 group-title="Deportes", beINSport2 HD
-http://baltak.com/bein2.m3u8
-#EXTINF:-1 group-title="Deportes", beINSport4 HD
-http://baltak.com/bein4.m3u8
-#EXTINF:-1 group-title="Deportes", beINSport5 HD
-http://baltak.com/bein5.m3u8
-#EXTINF:-1 group-title="Deportes", beINSport6 HD
-http://baltak.com/bein6.m3u8
-#EXTINF:-1 group-title="Deportes", beINSport7 HD
-http://baltak.com/bein7.m3u8
-#EXTINF:-1 group-title="Deportes", beINSport8 HD
-http://baltak.com/bein8.m3u8
-#EXTINF:-1 group-title="Deportes", beINSport9 HD
-http://baltak.com/bein9.m3u8
-#EXTINF:-1 group-title="Deportes", beINSport10 HD
-http://baltak.com/bein10.m3u8
-
-
+#EXTINF:-1 group-title="Deportes", CMD Sport
+http://live.mvdigital.net:1935/live5/livestream1.sdp/playlist.m3u8
 
 
 
 #EXTINF:-1 group-title="Musica", .: Musica :.
-
 
 #EXTINF:-1 group-title="Musica", BET
 http://167.114.101.188:1935/flu555/_definst_/bet/playlist.m3u8?token=
@@ -246,6 +233,10 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
 mmsh://ken-cdn220-is-2.se.bptvlive.ngcdn.telstra.com/bp_online_bpmusic_high
 #EXTINF:-1 group-title="Musica", Capital TV
 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8
+#EXTINF:-1 group-title="Musica", VH1 Europa
+http://193.176.251.228:8000/VH1euro
+#EXTINF:-1 group-title="Musica", VH1 
+http://142.4.216.60:1935:1935/edge/_definst_/oeiigxxv1gbeqq9/playlist.m3u8?wowzasessionid=1420170560
 #EXTINF:-1 group-title="Musica", Classic Live Showcase
 http://198.179.31.198/live/309.high.stream/309.high.stream/index.m3u8
 #EXTINF:-1 group-title="Musica", PlanetPop
@@ -302,50 +293,140 @@ http://hd.worldkast.com:1935/8436/8436/playlist.m3u8
 http://vemoxhlslive-i.akamaihd.net/hls/live/219941/vemoxchannel2/iOS/vemoxchannel2@219941/index.m3u8
 #EXTINF:-1 group-title="Musica", QMusica
 mms://streamqm.uigc.net/qmusica
-#EXTINF:-1 group-title="Musica", VH1 
-http://142.4.216.60:1935:1935/edge/_definst_/oeiigxxv1gbeqq9/playlist.m3u8?wowzasessionid=1420170560
-#EXTINF:-1 group-title="Musica",CANAL U
+#EXTINF:-1 group-title="Musica",Canal U
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANU/tu1_1.m3u8
-#EXTINF:-1 group-title="Musica",TRENDY MUSICA
+#EXTINF:-1 group-title="Musica",Treny Musica
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8
 
-#EXTINF:-1 group-title="NOTICIAS": .:NOTICIAS:.
-
-#EXTINF:-1 group-title="NOTICIAS",Cable Noticias
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8
-#EXTINF:-1 group-title="NOTICIAS",El Tiempo
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8
-
-#EXTINF:-1 group-title="Inglés": .:Inglés:.
-
-#EXTINF:-1 group-title="Inglés", TBS
-http://142.4.216.60:1935/edge/_definst_/jh8nj062bqbsxdh/playlist.m3u8?wowzasessionid=1419878319&xs=_we_amg4bmowNjJicWJzeGRofDE0MTk5MTQzMTl8fDU0YTE5ZmFmNTJhZjh8OGQ3NTAzZWFkMDNmN2JmMmFiMTE1ZWRjZmRjMjFmNTgyOWM4M2Y4NA
-#EXTINF:-1 group-title="Inglés", ABC HD
-http://142.4.216.60:1935/edge/_definst_/nz7l9vc5nv1og7b/playlist.m3u8?wowzasessionid=1419880374&xs=_we_Mzcxamx1aXJsamNzamVufDE0MTk5MTYzNzR8NzIuMjcuMjE0LjMzfDU0YTFhN2I2MzUxMWJ8ZDU3ODc0MTUyMWE0YTMyODdmZjdkYzJiMTYyZmY0MDA1YzM4NjdkYQ timeout=10
-#EXTINF:-1 group-title="Inglés", TNT
-http://142.4.216.60:1935/edge/_definst_/6q4jlbqwvxuingo/playlist.m3u8?wowzasessionid=1420124827&xs=_we_NnE0amxicXd2eHVpbmdvfDE0MjAxNjA4Mjd8NzIuMjcuMjE0LjMzfDU0YTU2MjliZGU4Zjh8ZDhjZjgzMzk0ZTNiODI4MzFiNDU3ZmE1MDk4ODdlZTMzZTJjZGYwNw
-#EXTINF:-1 group-title="Inglés", HBO HD
-http://142.4.216.60:1935/edge/_definst_/z28ie9oqoku4qoy/playlist.m3u8?wowzasessionid=1419879571&xs=_we_cXpiYnUyNmdjdmp4a3N6fDE0MTk5MTU1NzF8NzIuMjcuMjE0LjMzfDU0YTFhNDkzYjMyNjd8NjE2ZDU3ZTQ5NDJhMWU0NDc2NTVlMGUzYzg3Nzc2ZTE2MmI0ZWJjZQ timeout=10
-#EXTINF:-1 group-title="Inglés", HBO Comedy
-http://142.4.216.60:1935/edge/_definst_/a1wn1j3ra1w0cv0/playlist.m3u8?wowzasessionid=1419879335&xs=_we_YTF3bjFqM3JhMXcwY3YwfDE0MTk5MTUzMzV8NzIuMjcuMjE0LjMzfDU0YTFhM2E3OTJlOWZ8ODdjNjQyZWFjMWEzN2ZkYTA5MWZhYjc0Yjk4MDFiMWJiZTQ1MTViYQ
-#EXTINF:-1 group-title="Inglés", History
-http://142.4.216.60:1935/edge/_definst_/dhp0rpd116qyyj6/playlist.m3u8?wowzasessionid=1419874554&xs=_we_OGc3eDgwb3p1Nmh6MmRzfDE0MTk5MTA1NTR8NzIuMjcuMjE0LjMzfDU0YTE5MGZhNTUwNjV8ZDM2MzAzYjkwYTE5MDBmMzhhOGM2YjE2ZDc4Mjk3ZDdkZjU0NDhlYw
-#EXTINF:-1 group-title="Inglés", HGTV
-http://142.4.216.60:1935/edge/_definst_/gj65q2rg18tpmut/playlist.m3u8?wowzasessionid=1419811602&xs=_we_cXpiYnUyNmdjdmp4a3N6fDE0MTk4NDc2MDJ8NzIuMjcuMjE0LjMzfDU0YTA5YjEyMGE1YmZ8OTJhMTdmNDg3NGM4ODk2NWNhZGIxOWMwYWNhZWQzYzFmMDg4YzY5MQ timeout=10
-#EXTINF:-1 group-title="Inglés", TruTV HD
-http://142.4.216.60:1935/edge/_definst_/uhnr4161ybioa5w/playlist.m3u8?wowzasessionid=1420124955&xs=_we_aDVlb3ZhajFqZWVnbHVxfDE0MjAxNjA5NTV8NzIuMjcuMjE0LjMzfDU0YTU2MzFiMGExMzJ8ZTI3MjlkOTQ0NmFmYTJjMDU5NjQ5NTg5OWQwNDdmYzI5Y2VkNDRjMA timeout=10
-#EXTINF:-1 group-title="Inglés", Hallmark HD
-http://142.4.216.60:1935/edge/_definst_/v4ynnryunsoxzbq/playlist.m3u8?wowzasessionid=1419874236&xs=_we_bHcxa3VmaW0xa21pdDFofDE0MTk5MTAyMzZ8NzIuMjcuMjE0LjMzfDU0YTE4ZmJjOTVhMWN8MzJmYjg0MzMxMDZiMTlhNzNhNzY0M2JlNjBmNTdkZDJkYjEyMWFjNA timeout=10
-#EXTINF:-1 group-title="Inglés", National Geographic
-http://142.4.216.60:1935/edge/_definst_/b8bav5ayzso8m8q/playlist.m3u8?wowzasessionid=1420170282&xs=_we_YjhiYXY1YXl6c284bThxfDE0MjAyMDYyODJ8NzIuMjcuMjE0LjMzfDU0YTYxNDJhNDM5YWF8NTVjODFmOGQzMGVmN2M3ODhlZjEyYWNmNWVkNWFhNjE0NjVlOWYyNQ timeout=10
-#EXTINF:-1 group-title="Inglés", Discovery Europa
-http://93.184.221.133/00573D/1347/1347-0.m3u8
-#EXTINF:-1 group-title="Inglés", SyFy SD 
-http://142.4.216.60:1935/edge/_definst_/oepz9q5oivflbcw/playlist.m3u8?wowzasessionid=1419878403
 
 
+#EXTINF:-1 group-title="Test": .:Test de estabilidad:.
 
-#EXTINF:-1 group-title="3D": .:3D:.
-
-#EXTINF:-1 group-title="3D", HD MEDIA 3D
-rtmp://hdmedia3d.vintera.tv/hdmedia3d//hdmedia3d.stream 
+#EXTINF:-1 group-title="Test", Fox
+http://201.161.59.6/fox.isml/QualityLevels(1253000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 group-title="Test", Fox Life
+http://201.161.59.7/foxlife.isml/QualityLevels(1253000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 group-title="Test", A&E
+http://201.161.59.6/aye.isml/QualityLevels(1628000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 group-title="Test", SyFy
+http://201.161.59.4/syfy.isml/QualityLevels(1628000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 group-title="Test", Canal de las Estrellas
+http://201.161.59.3/canal2.isml/QualityLevels(1628000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 group-title="Test", Canal 5
+http://201.161.59.3/canal5.isml/QualityLevels(728000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 group-title="Test", Cadena 3
+http://201.161.59.3/cadena3.isml/QualityLevels(1628000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 group-title="Test", Azteca 7
+http://201.161.59.3/azteca7.isml/QualityLevels(1328000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 group-title="Test", Sony
+http://201.161.59.6/sony.isml/QualityLevels(1628000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 group-title="Test", Cinemax
+http://201.161.59.7/cinemax.isml/QualityLevels(1628000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 group-title="Test", Paramount Channel
+http://201.161.59.7/paramount.isml/QualityLevels(1628000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 group-title="Test", FX
+http://201.161.59.6/fx.isml/QualityLevels(1628000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 group-title="Test", Warner Channel
+http://201.161.59.6/warner.isml/QualityLevels(1628000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 group-title="Test", Golden
+http://201.161.59.4/golden.isml/QualityLevels(1628000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 group-title="Test", Golden Edge
+http://201.161.59.7/goldenedge.isml/QualityLevels(1628000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 group-title="Test", Space
+http://201.161.59.7/space.isml/QualityLevels(1628000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 group-title="Test", Multicinema
+http://201.161.59.7/multicinema.isml/QualityLevels(1628000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 group-title="Test", De Película
+http://201.161.59.7/depelicula.isml/QualityLevels(1703000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 group-title="Test", CANAL DHE
+http://201.161.59.7/dhe.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 group-title="Test", WOBI TV
+http://201.161.59.4/wobi.isml/QualityLevels(1628000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 group-title="Test", Nick HD
+http://201.161.59.6/nick.isml/QualityLevels(1328000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 group-title="Test", Cartoon Network
+http://201.161.59.6/cartoonnetwork.isml/QualityLevels(1253000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 group-title="Test", Disney XD
+http://201.161.59.4/disneyxd.isml/QualityLevels(1253000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 group-title="Test", Telehit
+http://201.161.59.7/telehit.isml/QualityLevels(1992000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 group-title="Test", NatGeo
+http://201.161.59.3/natgeo.isml/QualityLevels(1628000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 group-title="Test", History Channel
+http://201.161.59.7/history.isml/QualityLevels(1628000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 group-title="Test", Bandamax
+http://201.161.59.4/bandamax.isml/QualityLevels(1692000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 group-title="Test", Distrito Comedia
+http://201.161.59.6/clasicotv.isml/QualityLevels(1152000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 group-title="Test", Milenio TV
+http://201.161.59.3/milenio.isml/QualityLevels(1478000)/manifest(format=m3u8-aapl),m3u8
+#EXTINF:-1 group-title="Test", Ritmoson Latino
+http://201.161.59.4/ritmoson.isml/QualityLevels(1216000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 group-title="Test", Ebru
+http://204.107.26.252:1935/live/914.high.stream/playlist.m3u8
+#EXTINF:-1 group-title="Test", Anime en Español
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
+#EXTINF:-1 group-title="Test", MBC Action
+http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8
+#EXTINF:-1 group-title="Test", MBC 2 HD
+http://63.237.48.23/ios/MBC2/MBC2.m3u8
+#EXTINF:-1 group-title="Test", MBC Max
+http://63.237.48.23/ios/MBC_MAX/MBC_MAX.m3u8
+#EXTINF:-1 group-title="Test", MBC Bollywood
+http://63.237.48.23/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
+#EXTINF:-1 group-title="Test", MBC 4
+http://63.237.48.23/ios/MBC_4/MBC_4.m3u8
+#EXTINF:-1 group-title="Test", Big 10 Network
+http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8
+#EXTINF:-1 group-title="Test", TyC Sports
+http://201.161.59.4/tycdeportes.isml/QualityLevels(1628000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 group-title="Test", TyC Sports
+http://201.161.59.4/tycdeportes.isml/QualityLevels(1328000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 group-title="Test", Fox Sports
+http://201.161.59.6/foxsports.isml/QualityLevels(1178000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 group-title="Test", ESPN
+http://201.161.59.3/espn.isml/QualityLevels(1628000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 group-title="Test", ESPN 2
+http://201.161.59.4/espn2.isml/QualityLevels(1628000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 group-title="Test", ESPN 3
+http://201.161.59.4/espn3.isml/QualityLevels(1628000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 group-title="Test", Sports Network 360
+http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_3000_ipad.m3u8
+#EXTINF:-1 group-title="Test", Sport Time TV 1HD
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel1_1200
+#EXTINF:-1 group-title="Test", Sport Time TV 2HD
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel2_1200
+#EXTINF:-1 group-title="Test", Sport Time TV 3HD
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel3_1200
+#EXTINF:-1 group-title="Test", Sport Time TV 4HD
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel4_1200
+#EXTINF:-1 group-title="Test", Sport Time TV 5HD
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel5_1200
+#EXTINF:-1 group-title="Test", Sport Time TV 6HD
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel6_1200
+#EXTINF:-1 group-title="Test", Sport Time TV 7HD
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel7_1200
+#EXTINF:-1 group-title="Test", Pac12 Arizona
+http://www.xrxs.net/video/live-p12ariz-4728.m3u8
+#EXTINF:-1 group-title="Test", Pac12 Bay Area
+http://www.xrxs.net/video/live-p12baya-4728.m3u8
+#EXTINF:-1 group-title="Test", Pac12 National
+http://www.xrxs.net/video/live-p12netw-4728.m3u8
+#EXTINF:-1 group-title="Test", Pac12 Los Angeles
+http://xrxs.net/video/live-p12losa-4728.m3u8
+#EXTINF:-1 group-title="Test", Pac12 Mountain
+http://xrxs.net/video/live-p12moun-4728.m3u8
+#EXTINF:-1 group-title="Test", Pac12 Oregon
+http://xrxs.net/video/live-p12oreg-4728.m3u8
+#EXTINF:-1 group-title="Test", Pac12 Washington
+http://xrxs.net/video/live-p12wash-4728.m3u8
+#EXTINF:-1 group-title="Test", Big 10 Network
+http://xrxs.net/video/live-btn-1240.m3u8
+#EXTINF:-1 group-title="Test", SportsNet360
+http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad.m3u8
+#EXTINF:-1 group-title="Test", Sportmax
+http://46.249.213.93/iPhone/HLS_TS/broadcast/sportmax-tablet.3gp/sportmax-tablet.3gp-mr397k.m3u8
+#EXTINF:-1 group-title="Test", NBC Sports
+http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/4296k/prog.m3u8
+#EXTINF:-1 group-title="Test", bEIN Sports Español
+rtmp://beinsportgeolivefs.fplive.net:1935/beinsportgeolive-live/beinsport_spa_4
