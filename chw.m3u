@@ -55,6 +55,8 @@ http://separador.m3u
 http://wow2.cl.digitalproserver.com/atv/atvvivo/atv.smil/chunklist_w949479730_b2200000.m3u8
 #EXTINF:0, AntofagastaTV
 http://wow2.cl.digitalproserver.com/atv/atvvivo/atv.smil/chunklist_w2082040148_b796000.m3u8
+#EXTINF:0, UCV Gran Valparaiso HD
+http://movilstream.digitalproserver.com/ucvtv2/ucvtv2vivo/ucvtv2.smil/chunklist-b1248000.m3u8
 #EXTINF:0, Canal 9 BioBioTV HD
 http://wow2.cl.digitalproserver.com/c9/livestream1/chunklist_w983075885.m3u8
 #EXTINF:0, Canal 9 BioBioTV
