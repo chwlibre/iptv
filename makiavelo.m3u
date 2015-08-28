@@ -25,6 +25,8 @@ http://wow2.cl.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist_w913906597_b1
 http://edge-20-mvstr.edge.mdstrm.com/tvn-live/smil:285a5c6dade574d5f111419c85c6cf17/chunklist_b800000.m3u8
 #EXTINF:-1 group-title="Canales Chile", AntofagastaTV HD
 http://wow2.cl.digitalproserver.com/atv/atvvivo/atv.smil/chunklist_w949479730_b2200000.m3u8
+#EXTINF:-1 group-title="Canales Chile", UCV Gran Valparaiso HD
+http://movilstream.digitalproserver.com/ucvtv2/ucvtv2vivo/ucvtv2.smil/chunklist-b1248000.m3u8
 #EXTINF:-1 group-title="Canales Chile", BioBioTV HD
 http://wow2.cl.digitalproserver.com/c9/livestream1/chunklist_w983075885.m3u8
 #EXTINF:-1 group-title="Canales Chile", TVU Concepcion HD
