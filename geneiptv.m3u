@@ -13,6 +13,9 @@ http://flashd.localmidia.com.br:1935/cheftv/aovivo/live.m3u8
 #EXTINF:-1 group-title="MUSICA",MI MUSICA MUSICA
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8?
 
+#EXTINF:-1 group-title="MUSICA",Urban Music Tv MUSICA
+http://ss7.domint.net:2058/utv_str/urban/playlist.m3u8
+
 #EXTINF:-1 group-title="MUSICA",QUIERO MUSICA MUSICA
 mms://200.42.92.6:1755/qmusica 
 
