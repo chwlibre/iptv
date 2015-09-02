@@ -1,16 +1,16 @@
 #EXTM3U
-#EXTINF:0,-Variado-
+#EXTINF:0,-Premium-
 
-#EXTINF:-1 group-title="VARIADO",DISNEY CHANNEL VARIADO
+#EXTINF:-1 group-title="PREMIUM",DISNEY CHANNEL VARIADO
 http://222.8.213.121:1935/live11/livestream1.sdp/playlist.m3u8
 
-#EXTINF:-1 group-title="VARIADO",CDF PREMIUM VARIADO
+#EXTINF:-1 group-title="PREMIUM",CDF PREMIUM VARIADO
 http://209.133.208.194:1935/app/futbolchilenet2s-channel/playlist.m3u8
 
-#EXTINF:-1 group-title="VARIADO",ANIME EN ESPAÑOL VARIADO
+#EXTINF:-1 group-title="PREMIUM",ANIME EN ESPAÑOL VARIADO
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
 
-#EXTINF:-1 group-title="VARIADO",CHEF TV VARIADO
+#EXTINF:-1 group-title="PREMIUM",CHEF TV VARIADO
 http://flashd.localmidia.com.br:1935/cheftv/aovivo/live.m3u8
 
 #EXTM3U
