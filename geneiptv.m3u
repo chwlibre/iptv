@@ -52,6 +52,9 @@ http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8#Mega
 #EXTM3U
 #EXTINF:0,-Chile-
 
+#EXTINF:-1 group-title="CHILE",Telecanal CHILE
+http://movilstream.digitalproserver.com/tcsc/tcscvivo/livestream2/playlist.m3u8
+
 #EXTINF:-1 group-title="CHILE",LA RED 01 CHILE
 http://movilstream.digitalproserver.com/redtv/redtvvivo/redtv.smil/chunklist-b1564000.m3u8
 
