@@ -1,6 +1,9 @@
 #EXTM3U
 #EXTINF:0,-Variado-
 
+#EXTINF:-1 group-title="VARIADO",DISNEY CHANNEL VARIADO
+http://222.8.213.121:1935/live11/livestream1.sdp/playlist.m3u8
+
 #EXTINF:-1 group-title="VARIADO",CDF PREMIUM VARIADO
 http://209.133.208.194:1935/app/futbolchilenet2s-channel/playlist.m3u8
 
