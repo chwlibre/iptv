@@ -1,9 +1,6 @@
 #EXTM3U
 #EXTINF:0,-Premium-
 
-#EXTINF:-1 group-title="PREMIUM",Disnet Channel PREMIUM
-http://222.8.213.121:1935/live11/livestream1.sdp/playlist.m3u8
-
 #EXTINF:-1 group-title="PREMIUM",CDF PREMIUM PREMIUM
 http://209.133.208.194:1935/app/futbolchilenet2s-channel/playlist.m3u8
 
