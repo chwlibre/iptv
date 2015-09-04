@@ -1,29 +1,125 @@
 #EXTM3U
-    #EXTINF:-1,Canal+
-http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registraraqui/74.ts
-#EXTINF:-1,Canal+ Deportes
-http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registraraqui/51.ts
-#EXTINF:-1,Canal+ Deportes 2
-http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registraraqui/55.ts
-#EXTINF:-1,Canal+ Futbol
-http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registraraqui/15.ts
-#EXTINF:-1,Canal+ Liga BAR
-http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registraraqui/16.ts
-#EXTINF:-1,Canal+ Liga Multi
-http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registraraqui/307.ts
-#EXTINF:-1,Canal+ Liga 2
-http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registraraqui/308.ts
-#EXTINF:-1,Canal+ Liga 2a
-http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registraraqui/309.ts
-#EXTINF:-1,Canal+ Liga 2b
-http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registraraqui/310.ts
-#EXTINF:-1,Canal+ Liga 2c
-http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registraraqui/311.ts
-#EXTINF:-1,Canal+ Liga 2d
-http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registraraqui/312.ts
-#EXTINF:-1,Canal+ Partidazo
-http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registraraqui/17.ts
-#EXTINF:-1,Canal+ Golf
-http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registraraqui/18.ts
-#EXTINF:-1,Canal+ Toros
-http://digiteletv.iptvpremium.eu:8000/live/rojadirecta/iptvpremium.eu<---registraraqui/25.ts
+#EXTINF:0,------ ESPANA ------
+http://iptvservice.ddns.net:8000/live/yannis/yannis/2264.m3u8
+#EXTINF:0,ES : TVE 1
+http://iptvservice.ddns.net:8000/live/yannis/yannis/2265.m3u8
+#EXTINF:0,ES : La 2
+http://iptvservice.ddns.net:8000/live/yannis/yannis/2266.m3u8
+#EXTINF:0,ES : Antenna 3
+http://iptvservice.ddns.net:8000/live/yannis/yannis/2267.m3u8
+#EXTINF:0,ES : Cuatro
+http://iptvservice.ddns.net:8000/live/yannis/yannis/2268.m3u8
+#EXTINF:0,ES : Telecinco
+http://iptvservice.ddns.net:8000/live/yannis/yannis/2269.m3u8
+#EXTINF:0,ES : La ***ta
+http://iptvservice.ddns.net:8000/live/yannis/yannis/2270.m3u8
+#EXTINF:0,ES : TVI International
+http://iptvservice.ddns.net:8000/live/yannis/yannis/2271.m3u8
+#EXTINF:0,ES : Clan TVE
+http://iptvservice.ddns.net:8000/live/yannis/yannis/2272.m3u8
+#EXTINF:0,ES : Nova
+http://iptvservice.ddns.net:8000/live/yannis/yannis/2273.m3u8
+#EXTINF:0,ES : TVE 24
+http://iptvservice.ddns.net:8000/live/yannis/yannis/2274.m3u8
+#EXTINF:0,ES : 24 Horas
+http://iptvservice.ddns.net:8000/live/yannis/yannis/2275.m3u8
+#EXTINF:0,ES : Andalucia
+http://iptvservice.ddns.net:8000/live/yannis/yannis/2276.m3u8
+#EXTINF:0,ES : TV 3 Catalunya
+http://iptvservice.ddns.net:8000/live/yannis/yannis/2277.m3u8
+#EXTINF:0,ES : Foro TV
+http://iptvservice.ddns.net:8000/live/yannis/yannis/2278.m3u8
+#EXTINF:0,ES : A & E
+http://iptvservice.ddns.net:8000/live/yannis/yannis/2279.m3u8
+#EXTINF:0,ES : 40 TV
+http://iptvservice.ddns.net:8000/live/yannis/yannis/2280.m3u8
+#EXTINF:0,ES : Sol Musica
+http://iptvservice.ddns.net:8000/live/yannis/yannis/2281.m3u8
+#EXTINF:0,------ CINE ------
+http://iptvservice.ddns.net:8000/live/yannis/yannis/2282.m3u8
+#EXTINF:0,ES : Canal  1
+http://iptvservice.ddns.net:8000/live/yannis/yannis/2283.m3u8
+#EXTINF:0,ES : Canal  1 ... 30
+http://iptvservice.ddns.net:8000/live/yannis/yannis/2284.m3u8
+#EXTINF:0,ES : Canal  2
+http://iptvservice.ddns.net:8000/live/yannis/yannis/2285.m3u8
+#EXTINF:0,ES : C  Accion
+http://iptvservice.ddns.net:8000/live/yannis/yannis/2286.m3u8
+#EXTINF:0,ES : C  Comedia
+http://iptvservice.ddns.net:8000/live/yannis/yannis/2287.m3u8
+#EXTINF:0,ES : C  Dcine
+http://iptvservice.ddns.net:8000/live/yannis/yannis/2288.m3u8
+#EXTINF:0,ES : Dcine Espa?ol
+http://iptvservice.ddns.net:8000/live/yannis/yannis/2289.m3u8
+#EXTINF:0,ES : Hollywood
+http://iptvservice.ddns.net:8000/live/yannis/yannis/2290.m3u8
+#EXTINF:0,ES : TNT
+http://iptvservice.ddns.net:8000/live/yannis/yannis/2291.m3u8
+#EXTINF:0,------ ENTRETENIMIENTO ------
+http://iptvservice.ddns.net:8000/live/yannis/yannis/2292.m3u8
+#EXTINF:0,ES : Canal  Xtra
+http://iptvservice.ddns.net:8000/live/yannis/yannis/2293.m3u8
+#EXTINF:0,ES : Fox
+http://iptvservice.ddns.net:8000/live/yannis/yannis/2294.m3u8
+#EXTINF:0,ES : Fox Life
+http://iptvservice.ddns.net:8000/live/yannis/yannis/2295.m3u8
+#EXTINF:0,ES : AXN
+http://iptvservice.ddns.net:8000/live/yannis/yannis/2296.m3u8
+#EXTINF:0,ES : AXN White
+http://iptvservice.ddns.net:8000/live/yannis/yannis/2297.m3u8
+#EXTINF:0,ES : Calle 13
+http://iptvservice.ddns.net:8000/live/yannis/yannis/2298.m3u8
+#EXTINF:0,ES : Comedy Central
+http://iptvservice.ddns.net:8000/live/yannis/yannis/2299.m3u8
+#EXTINF:0,ES : Cosmo
+http://iptvservice.ddns.net:8000/live/yannis/yannis/2300.m3u8
+#EXTINF:0,ES : Canal 5
+http://iptvservice.ddns.net:8000/live/yannis/yannis/2301.m3u8
+#EXTINF:0,ES : Canal De Las Estrellas
+http://iptvservice.ddns.net:8000/live/yannis/yannis/2302.m3u8
+#EXTINF:0,ES : Fashion TV
+http://iptvservice.ddns.net:8000/live/yannis/yannis/2303.m3u8
+#EXTINF:0,------ DEPORTES :-----
+http://iptvservice.ddns.net:8000/live/yannis/yannis/2304.m3u8
+#EXTINF:0,ES : Canal  Deportes
+http://iptvservice.ddns.net:8000/live/yannis/yannis/2305.m3u8
+#EXTINF:0,ES : Canal  Futbol
+http://iptvservice.ddns.net:8000/live/yannis/yannis/2306.m3u8
+#EXTINF:0,ES : Teledeporte
+http://iptvservice.ddns.net:8000/live/yannis/yannis/2307.m3u8
+#EXTINF:0,ES : Sportman?a
+http://iptvservice.ddns.net:8000/live/yannis/yannis/2308.m3u8
+#EXTINF:0,ES : CANAL  LIGA
+http://iptvservice.ddns.net:8000/live/yannis/yannis/2309.m3u8
+#EXTINF:0,ES : CANAL  Liga de Campeones
+http://iptvservice.ddns.net:8000/live/yannis/yannis/2310.m3u8
+#EXTINF:0,ES : Garage TV
+http://iptvservice.ddns.net:8000/live/yannis/yannis/2311.m3u8
+#EXTINF:0,ES : Canal  Golf
+http://iptvservice.ddns.net:8000/live/yannis/yannis/2312.m3u8
+#EXTINF:0,ES : Real Madrid TV
+http://iptvservice.ddns.net:8000/live/yannis/yannis/2313.m3u8
+#EXTINF:0,ES : Toros
+http://iptvservice.ddns.net:8000/live/yannis/yannis/2314.m3u8
+#EXTINF:0,ES :  MoviStar F1
+http://iptvservice.ddns.net:8000/live/yannis/yannis/2316.m3u8
+#EXTINF:0,ES : MoviStar MotoGP
+http://iptvservice.ddns.net:8000/live/yannis/yannis/2315.m3u8
+#EXTINF:0,ES : FOX Sporm3u8 HD
+http://iptvservice.ddns.net:8000/live/yannis/yannis/2317.m3u8
+#EXTINF:0,ES : FOX Sporm3u8 2 HD
+http://iptvservice.ddns.net:8000/live/yannis/yannis/2318.m3u8
+#EXTINF:0,ES : Canal Odisea
+http://iptvservice.ddns.net:8000/live/yannis/yannis/2320.m3u8
+#EXTINF:0,ES : Nat Geograph
+http://iptvservice.ddns.net:8000/live/yannis/yannis/2321.m3u8
+#EXTINF:0,ES : Historia
+http://iptvservice.ddns.net:8000/live/yannis/yannis/2322.m3u8
+#EXTINF:0,ES : Caza y Pesca
+http://iptvservice.ddns.net:8000/live/yannis/yannis/2323.m3u8
+#EXTINF:0,ES : Viajar
+http://iptvservice.ddns.net:8000/live/yannis/yannis/2324.m3u8
+#EXTINF:0,ES : Canal Cocina
+http://iptvservice.ddns.net:8000/live/yannis/yannis/2325.m3u8
+#EXTINF:0,ES : Canal Decasa
+http://iptvservice.ddns.net:8000/live/yannis/yannis/2326.m3u8
