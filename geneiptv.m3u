@@ -97,7 +97,6 @@ http://edge-11-mvstr.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/
 #EXTINF:-1 group-title="CHILE",MEGA 03 CHILE
 http://edge-61-cl.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist.m3u8?
 
-
 #EXTINF:-1 group-title="CHILE",MEGA 04 CHILE
 http://edge-12-cl.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist_b1500.m3u8
 
@@ -112,7 +111,6 @@ http://mi.chv.cl/playlist/stream.m3u8?s=hd
 
 #EXTINF:-1 group-title="CHILE",CHV 03 CHILE
 http://mi.chv.cl/playlist/stream.m3u8?s=sd
-
 
 #EXTINF:-1 group-title="CHILE",CANAL 13 01 CHILE
 http://cluster.13movil.ztreaming.com/13tv2/stream1grpz13t29102012.sdp/playlist.m3u8
@@ -155,6 +153,12 @@ http://movilstream.digitalproserver.com/tvu/tvuvivo/livestream1/playlist.m3u8
 
 #EXTINF:-1 group-title="CHILE",TVU CONCEPCION 02 CHILE
 http://movilstream.digitalproserver.com/tvu/tvuvivo/livestream2/playlist.m3u8
+
+#EXTINF:-1 group-title="CHILE",DCH TV CHILE
+http://evo.eltelon.com:443/live/dch-tv/playlist.m3u8?MegaIPTVArgentina
+
+#EXTINF:-1 group-title="CHILE",Aysen TV CHILE
+http://wow2.cl.digitalproserver.com/aysentv/aysentvvivo/aysentv.smil/BratuMarian.m3u8
 
 #EXTINF:-1 group-title="CHILE",EL PINGUINO TV CANAL 4 PUNTA ARENAS 01 CHILE
 http://streaming.elpinguino.com:1935/live/pinguinotv_360p/BratuMarian.m3u8
