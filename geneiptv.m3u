@@ -124,7 +124,7 @@ http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8
 #EXTINF:-1 group-title="CHILE",Canal 13 04 CHILE
 http://live.hls.http.13.ztreaming.com/13hddesktop/13hd-900.m3u8
 
-#EXTINF:-1 group-title="CHILE",13 C CHILE
+#EXTINF:-1 group-title="CHILE",Canal 13 Cable CHILE
 http://cluster.13cmovil.ztreaming.com/13cm/grpz13c/playlist.m3u8
 
 #EXTINF:-1 group-title="CHILE",Rec Tv CHILE
@@ -160,10 +160,10 @@ http://evo.eltelon.com:443/live/dch-tv/playlist.m3u8?MegaIPTVArgentina
 #EXTINF:-1 group-title="CHILE",Aysen Tv Puerto Aysen CHILE
 http://wow2.cl.digitalproserver.com/aysentv/aysentvvivo/aysentv.smil/BratuMarian.m3u8
 
-#EXTINF:-1 group-title="CHILE",El Pinguino Tv Canal 4 Punta Arenas 01 CHILE
+#EXTINF:-1 group-title="CHILE",El Pinguino Tv Punta Arenas 01 CHILE
 http://streaming.elpinguino.com:1935/live/pinguinotv_360p/BratuMarian.m3u8
 
-#EXTINF:-1 group-title="CHILE",El Pinguino Tv Canal 4 Punta Arenas 02 CHILE
+#EXTINF:-1 group-title="CHILE",El Pinguino Tv Punta Arenas 02 CHILE
 http://streaming.elpinguino.com:1935/live/pinguinotv_360p/chunklist_w194650448.m3u8?MegaIPTVArgentina
 
 #EXTINF:-1 group-title="CHILE",ITV Punta Arenas 01 CHILE
@@ -211,7 +211,7 @@ http://movilstream.digitalproserver.com/holvoet/holvoetvivo/holvoet.smil/chunkli
 #EXTINF:-1 group-title="CHILE",Holvoet Copiapo 02 CHILE
 http://movilstream.digitalproserver.com/holvoet/holvoetvivo/holvoet.smil/chunklist-b848000.m3u8
 
-#EXTINF:-1 group-title="CHILE",Contivision Constitución01 CHILE
+#EXTINF:-1 group-title="CHILE",Contivision Constitución 01 CHILE
 http://wow2.cl.digitalproserver.com/contivisionhd/contivisionhdvivo/contivisionhd.smil/chunklist_w1162159593_b1496000.m3u8
 
 #EXTINF:-1 group-title="CHILE",Contivision Constitución 02 CHILE
