@@ -10,9 +10,6 @@ http://vemoxhlslive-i.akamaihd.net/hls/live/219940/vemoxchannel1/iOS/vemoxchanne
 #EXTINF:-1 group-title="PREMIUM",Peliculas PREMIUM
 http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8?
 
-#EXTINF:-1 group-title="PREMIUM",Discovery Channel PREMIUM
-http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
-
 #EXTINF:-1 group-title="PREMIUM",Anime PREMIUM
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
 
@@ -28,29 +25,47 @@ rtsp://stream.eltrecetv.com.ar/live13/13tv/13tv1
 #EXTINF:-1 group-title="PREMIUM",Tv Publica PREMIUM
 http://live-edge01.telecentro.net.ar/live/tvphd-360/playlist.m3u8 
 
+#EXTINF:-1 group-title="PREMIUM",Telpin canal 2 PREMIUM
+http://201.219.100.30:1935/telpintv/ttv.stream_720p/playlist.m3u8
+
 #EXTINF:-1 group-title="PREMIUM",VMas+ Tv PREMIUM
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8?
 
 #EXTINF:-1 group-title="PREMIUM",RCN PREMIUM
 http://canalrcn-mobile-live.4cloud.co/livercn/AppSenalRcn/chunklist.m3u8
 
+#EXTINF:-1 group-title="PREMIUM",Señal Institucional PREMIUM
+http://cdns840stu1010.multistream.net/rtvclive/amlst:live/playlist_b500000.m3u8?
+
 #EXTINF:-1 group-title="PREMIUM",Televisa PREMIUM
 http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8
 
 #EXTINF:-1 group-title="PREMIUM",Azteca 13 PREMIUM
-http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/master.m3u8
+http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
+
+#EXTINF:-1 group-title="PREMIUM",Proyecto 40 PREMIUM
+http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/master.m3u8
+
+#EXTINF:-1 group-title="PREMIUM",Foro Tv PREMIUM
+http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/index_1200_av-b.m3u8
+
+#EXTINF:-1 group-title="PREMIUM",Multimedios Tv PREMIUM
+http://brightcovelive-i.akamaihd.net/hls/live/200018/bcplay-live/Multi/Multimedios.m3u8
 
 #EXTINF:-1 group-title="PREMIUM",Andina Tv PREMIUM
-http://edge-31-us.edge.mdstrm.com/live/smil:c23b8a0a21d215482b4c2703e47f675a/playlist.m3u8
+http://edge-41-us.edge.mdstrm.com/live/smil:c23b8a0a21d215482b4c2703e47f675a/playlist_b950.m3u8
+
+#EXTINF:-1 group-title="PREMIUM",America Tv PREMIUM
+http://ooyalahd2-f.akamaihd.net/i/atv02_delivery@25405/index_1728_av-p.m3u8
+
+#EXTINF:-1 group-title="PREMIUM",Mega PREMIUM
+http://a3live-lh.akamaihd.net/i/mega/megageo_1@328914/index_4_av-b.m3u8
 
 #EXTINF:-1 group-title="PREMIUM",Chef Tv PREMIUM
 http://flashd.localmidia.com.br:1935/cheftv/aovivo/live.m3u8
 
 #EXTM3U
 #EXTINF:0,-Musica-
-
-#EXTINF:-1 group-title="MUSICA",UMAG Tv U. Magallanes  MUSICA
-rtmp://cluster.ztreaming.com:80/tser5/tser5.sdp
 
 #EXTINF:-1 group-title="MUSICA",Tigo Musica MUSICA
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8?
@@ -63,6 +78,9 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8?
 
 #EXTINF:-1 group-title="MUSICA",Urban Music Tv MUSICA
 http://ss7.domint.net:2058/utv_str/urban/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSICA",UMAG Tv U. Magallanes  MUSICA
+rtmp://cluster.ztreaming.com:80/tser5/tser5.sdp
 
 #EXTINF:-1 group-title="MUSICA",Quiero musica MUSICA
 mms://200.42.92.6:1755/qmusica 
