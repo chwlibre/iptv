@@ -10,14 +10,38 @@ http://vemoxhlslive-i.akamaihd.net/hls/live/219940/vemoxchannel1/iOS/vemoxchanne
 #EXTINF:-1 group-title="PREMIUM",Peliculas PREMIUM
 http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8?
 
-#EXTINF:-1 group-title="PREMIUM",Telemundo PREMIUM
-http://iphone-streaming.ustream.tv/uhls/20720323/streams/live/iphone/playlist.m3u8?
-
 #EXTINF:-1 group-title="PREMIUM",Discovery Channel PREMIUM
 http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
 
 #EXTINF:-1 group-title="PREMIUM",Anime PREMIUM
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
+
+#EXTINF:-1 group-title="PREMIUM",Telemundo PREMIUM
+http://iphone-streaming.ustream.tv/uhls/20720323/streams/live/iphone/playlist.m3u8?
+
+#EXTINF:-1 group-title="PREMIUM",Canal 26 PREMIUM
+http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
+
+#EXTINF:-1 group-title="PREMIUM",El Trece PREMIUM
+rtsp://stream.eltrecetv.com.ar/live13/13tv/13tv1
+
+#EXTINF:-1 group-title="PREMIUM",Tv Publica PREMIUM
+http://live-edge01.telecentro.net.ar/live/tvphd-360/playlist.m3u8 
+
+#EXTINF:-1 group-title="PREMIUM",VMas+ Tv PREMIUM
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8?
+
+#EXTINF:-1 group-title="PREMIUM",RCN PREMIUM
+http://canalrcn-mobile-live.4cloud.co/livercn/AppSenalRcn/chunklist.m3u8
+
+#EXTINF:-1 group-title="PREMIUM",Televisa PREMIUM
+http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8
+
+#EXTINF:-1 group-title="PREMIUM",Azteca 13 PREMIUM
+http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/master.m3u8
+
+#EXTINF:-1 group-title="PREMIUM",Andina Tv PREMIUM
+http://edge-31-us.edge.mdstrm.com/live/smil:c23b8a0a21d215482b4c2703e47f675a/playlist.m3u8
 
 #EXTINF:-1 group-title="PREMIUM",Chef Tv PREMIUM
 http://flashd.localmidia.com.br:1935/cheftv/aovivo/live.m3u8
