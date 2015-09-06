@@ -34,11 +34,17 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8?
 #EXTINF:-1 group-title="PREMIUM",RCN PREMIUM
 http://canalrcn-mobile-live.4cloud.co/livercn/AppSenalRcn/chunklist.m3u8
 
+#EXTINF:-1 group-title="PREMIUM",Telecaribe PREMIUM
+http://cdns840stu1010.multistream.net/telecaribelive/amlst:live/master.m3u8
+
 #EXTINF:-1 group-title="PREMIUM",Señal Institucional PREMIUM
 http://cdns840stu1010.multistream.net/rtvclive/amlst:live/playlist_b500000.m3u8?
 
 #EXTINF:-1 group-title="PREMIUM",Televisa PREMIUM
 http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8
+
+#EXTINF:-1 group-title="PREMIUM",Azteca 7 PREMIUM
+http://201.161.59.3/azteca7.isml/QualityLevels(1328000)/manifest(format=m3u8-aapl).m3u8
 
 #EXTINF:-1 group-title="PREMIUM",Azteca 13 PREMIUM
 http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
@@ -60,6 +66,15 @@ http://ooyalahd2-f.akamaihd.net/i/atv02_delivery@25405/index_1728_av-p.m3u8
 
 #EXTINF:-1 group-title="PREMIUM",Mega PREMIUM
 http://a3live-lh.akamaihd.net/i/mega/megageo_1@328914/index_4_av-b.m3u8
+
+#EXTINF:-1 group-title="PREMIUM",Antena 3 PREMIUM
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8
+
+#EXTINF:-1 group-title="PREMIUM",La Sexta PREMIUM
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel02/la_sexta_hd_1548K_1280x720_main.m3u8
+
+#EXTINF:-1 group-title="PREMIUM",Canal 11 Punta del Este PREMIUM
+http://xcanaloncepuntadelestex.api.channel.livestream.com/3.0/playlist.m3u8#
 
 #EXTINF:-1 group-title="PREMIUM",Chef Tv PREMIUM
 http://flashd.localmidia.com.br:1935/cheftv/aovivo/live.m3u8
