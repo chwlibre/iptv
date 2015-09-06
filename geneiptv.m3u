@@ -4,6 +4,18 @@
 #EXTINF:-1 group-title="PREMIUM",CDF Premium PREMIUM
 http://209.133.208.194:1935/app/futbolchilenet2s-channel/playlist.m3u8
 
+#EXTINF:-1 group-title="PREMIUM",Ultra Cine PREMIUM
+http://vemoxhlslive-i.akamaihd.net/hls/live/219940/vemoxchannel1/iOS/vemoxchannel1@219940/stream2/streamPlaylist.m3u8
+
+#EXTINF:-1 group-title="PREMIUM",Peliculas PREMIUM
+http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8?
+
+#EXTINF:-1 group-title="PREMIUM",Telemundo PREMIUM
+http://iphone-streaming.ustream.tv/uhls/20720323/streams/live/iphone/playlist.m3u8?
+
+#EXTINF:-1 group-title="PREMIUM",Discovery Channel PREMIUM
+http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
+
 #EXTINF:-1 group-title="PREMIUM",Anime PREMIUM
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
 
@@ -13,8 +25,14 @@ http://flashd.localmidia.com.br:1935/cheftv/aovivo/live.m3u8
 #EXTM3U
 #EXTINF:0,-Musica-
 
+#EXTINF:-1 group-title="MUSICA",Tigo Musica MUSICA
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8?
+
 #EXTINF:-1 group-title="MUSICA",Mi Musica MUSICA
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8?
+
+#EXTINF:-1 group-title="MUSICA",Trendy Musica MUSICA
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8?
 
 #EXTINF:-1 group-title="MUSICA",Urban Music Tv MUSICA
 http://ss7.domint.net:2058/utv_str/urban/playlist.m3u8
@@ -455,6 +473,9 @@ http://live.mvdigital.net:1935/live9/livestream1.sdp/playlist.m3u8#MegaIPTVArgen
 #EXTM3U
 #EXTINF:0,-Colombia-
 
+#EXTINF:-1 group-title="COLOMBIA", RCN HD COLOMBIA
+http://canalrcn-mobile-live.4cloud.co/livercn/AppSenalRcn/chunklist.m3u8
+
 #EXTINF:-1 group-title="COLOMBIA", El Tiempo 01 COLOMBIA
 http://ooyalahd2-f.akamaihd.net/i/eltiempo1avts_1603@1603/index_1550000_av-b.m3u8?sd=10&rebase=on
 
@@ -547,6 +568,13 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8?
 
 #EXTINF:-1 group-title="COLOMBIA", Lifedesing COLOMBIA
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/LDTV/tu1_1.m3u8?
+
+#EXTINF:-1 group-title="COLOMBIA", VMas Tv COLOMBIA
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8?
+
+#EXTINF:-1 group-title="COLOMBIA", Tele Amiga COLOMBIA
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0002/tu1_1.m3u8?
+
 
 #EXTM3U
 #EXTINF:0,-Mexico-
