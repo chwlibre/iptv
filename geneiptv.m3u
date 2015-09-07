@@ -184,166 +184,166 @@ http://209.133.208.194:1935/app/futbolchilenet2s-channel/playlist.m3u8
 #EXTM3U
 #EXTINF:0,-Latinos-
 
-#EXTINF:-1 group-title="PREMIUM",Ultra Cine PREMIUM
-http://vemoxhlslive-i.akamaihd.net/hls/live/219940/vemoxchannel1/iOS/vemoxchannel1@219940/stream2/streamPlaylist.m3u8
-
-#EXTINF:-1 group-title="PREMIUM",Peliculas PREMIUM
-http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8?
-
-#EXTINF:-1 group-title="PREMIUM",Anime PREMIUM
+#EXTINF:-1 group-title="LATINOS",Anime 
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
 
-#EXTINF:-1 group-title="PREMIUM",Canal 26 PREMIUM
+#EXTINF:-1 group-title="LATINOS",Ultra Cine 
+http://vemoxhlslive-i.akamaihd.net/hls/live/219940/vemoxchannel1/iOS/vemoxchannel1@219940/stream2/streamPlaylist.m3u8
+
+#EXTINF:-1 group-title="LATINOS",Peliculas 
+http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8?
+
+#EXTINF:-1 group-title="LATINOS",Canal 26 ARGENTINA
 http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
 
-#EXTINF:-1 group-title="PREMIUM",Tv Publica PREMIUM
+#EXTINF:-1 group-title="LATINOS",Tv Publica ARGENTINA
 http://live-edge01.telecentro.net.ar/live/tvphd-360/playlist.m3u8 
 
-#EXTINF:-1 group-title="PREMIUM",Telpin canal 2 PREMIUM
+#EXTINF:-1 group-title="LATINOS",Telpin canal 2 ARGENTINA
 http://201.219.100.30:1935/telpintv/ttv.stream_720p/playlist.m3u8
 
-#EXTINF:-1 group-title="PREMIUM",El Trece PREMIUM
+#EXTINF:-1 group-title="LATINOS",El Trece ARGENTINA
 rtsp://stream.eltrecetv.com.ar/live13/13tv/13tv1
 
-#EXTINF:-1 group-title="PREMIUM",Televisa PREMIUM
-http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8
-
-#EXTINF:-1 group-title="PREMIUM",Azteca 7 PREMIUM
-http://201.161.59.3/azteca7.isml/QualityLevels(1328000)/manifest(format=m3u8-aapl).m3u8
-
-#EXTINF:-1 group-title="PREMIUM",Azteca 13 PREMIUM
-http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
-
-#EXTINF:-1 group-title="PREMIUM",Proyecto 40 PREMIUM
-http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/master.m3u8
-
-#EXTINF:-1 group-title="PREMIUM",Foro Tv PREMIUM
-http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/index_1200_av-b.m3u8
-
-#EXTINF:-1 group-title="PREMIUM",Multimedios Tv PREMIUM
-http://brightcovelive-i.akamaihd.net/hls/live/200018/bcplay-live/Multi/Multimedios.m3u8
-
-#EXTINF:-1 group-title="PREMIUM",VMas+ Tv PREMIUM
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8?
-
-#EXTINF:-1 group-title="PREMIUM",Canal Antiestres PREMIUM
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8?
-
-#EXTINF:-1 group-title="PREMIUM",Lifedesing PREMIUM
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/LDTV/tu1_1.m3u8?
-
-#EXTINF:-1 group-title="PREMIUM",RCN PREMIUM
-http://canalrcn-mobile-live.4cloud.co/livercn/AppSenalRcn/chunklist.m3u8
-
-#EXTINF:-1 group-title="PREMIUM",Telecaribe PREMIUM
-http://cdns840stu1010.multistream.net/telecaribelive/amlst:live/master.m3u8
-
-#EXTINF:-1 group-title="PREMIUM",Señal Institucional PREMIUM
-http://cdns840stu1010.multistream.net/rtvclive/amlst:live/playlist_b500000.m3u8?
-
-#EXTINF:-1 group-title="PREMIUM",Andina Tv PREMIUM
-http://edge-41-us.edge.mdstrm.com/live/smil:c23b8a0a21d215482b4c2703e47f675a/playlist_b950.m3u8
-
-#EXTINF:-1 group-title="PREMIUM",America Tv PREMIUM
-http://ooyalahd2-f.akamaihd.net/i/atv02_delivery@25405/index_1728_av-p.m3u8
-
-#EXTINF:-1 group-title="PREMIUM",Mega PREMIUM
-http://a3live-lh.akamaihd.net/i/mega/megageo_1@328914/index_4_av-b.m3u8
-
-#EXTINF:-1 group-title="PREMIUM",Antena 3 PREMIUM
-http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8
-
-#EXTINF:-1 group-title="PREMIUM",La Sexta PREMIUM
-http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel02/la_sexta_hd_1548K_1280x720_main.m3u8
-
-#EXTINF:-1 group-title="PREMIUM",TVE 2 PREMIUM
-http://iphonelive.rtve.es/LA2_LV3_IPH/bitrate_2.m3u8
-
-#EXTINF:-1 group-title="PREMIUM",RTVE 24H PREMIUM
-http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
-
-#EXTINF:-1 group-title="PREMIUM",Telecinco PREMIUM
-http://mdsios2-lh.akamaihd.net/i/mitele/esmediaset_21@168473/index_0_av-p.m3u8
-
-#EXTINF:-1 group-title="PREMIUM",Canal 11 Punta del Este PREMIUM
-http://xcanaloncepuntadelestex.api.channel.livestream.com/3.0/playlist.m3u8#
-
-#EXTINF:-1 group-title="PREMIUM",Telemundo PREMIUM
-http://iphone-streaming.ustream.tv/uhls/20720323/streams/live/iphone/playlist.m3u8?
-
-#EXTINF:-1 group-title="PREMIUM",Telemax PREMIUM
-http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
- 
-#EXTINF:-1 group-title="PREMIUM",Canal 2 Misiones PREMIUM
+#EXTINF:-1 group-title="LATINOS",Canal 2 Misiones ARGENTINA
 http://190.57.237.214/live/canal.m3u8
 
-#EXTINF:-1 group-title="PREMIUM",Orbe 21 PREMIUM
+#EXTINF:-1 group-title="LATINOS",Orbe 21 ARGENTINA
 http://urtmpkal-f.akamaihd.net/i/1b6mj17sk_1@308700/master.m3u8
 
-#EXTINF:-1 group-title="PREMIUM",El Tiempo PREMIUM
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8?
+#EXTINF:-1 group-title="LATINOS",Televisa MEXICO
+http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8
 
-#EXTINF:-1 group-title="PREMIUM",Canal Capital PREMIUM
-http://cdns840stu1010.multistream.net/canalcapitallive/amlst:live/master.m3u8
+#EXTINF:-1 group-title="LATINOS",Azteca 7 MEXICO
+http://201.161.59.3/azteca7.isml/QualityLevels(1328000)/manifest(format=m3u8-aapl).m3u8
 
-#EXTINF:-1 group-title="PREMIUM",Telecafe PREMIUM
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TCAF/tu1_1.m3u8?
+#EXTINF:-1 group-title="LATINOS",Azteca 13 MEXICO
+http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
 
-#EXTINF:-1 group-title="PREMIUM",Teleantioquia PREMIUM
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8?
-
-#EXTINF:-1 group-title="PREMIUM",Telemedellin PREMIUM
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8?
-
-#EXTINF:-1 group-title="PREMIUM",Cosmovision PREMIUM
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8?
-
-#EXTINF:-1 group-title="PREMIUM",Cablenoticias PREMIUM
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8?
-
-#EXTINF:-1 group-title="PREMIUM",Une Tv PREMIUM
-http://lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEZ/tu1_1.m3u8?
-
-#EXTINF:-1 group-title="PREMIUM",Canal 7 Mazatlan PREMIUM
-http://74.63.97.188:1935/gpacifico4/videogpacifico4/chunklist_w1774114891.m3u8?
-
-#EXTINF:-1 group-title="PREMIUM",Azteca Noticias PREMIUM
+#EXTINF:-1 group-title="LATINOS",Azteca Noticias MEXICO
 http://aztecalive-lh.akamaihd.net/i/0pd7p6ys0_1@175672/index_3_av-b.m3u8
 
-#EXTINF:-1 group-title="PREMIUM",Azteca 7 Monterrey PREMIUM
+#EXTINF:-1 group-title="LATINOS",Azteca 7 Monterrey MEXICO
 http://38.104.228.230:1938/info7/info7_512/playlist.m3u8
 
-#EXTINF:-1 group-title="PREMIUM",Canal 2 Obregon PREMIUM
+#EXTINF:-1 group-title="LATINOS",Proyecto 40 MEXICO
+http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/master.m3u8
+
+#EXTINF:-1 group-title="LATINOS",Foro Tv MEXICO
+http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/index_1200_av-b.m3u8
+
+#EXTINF:-1 group-title="LATINOS",Multimedios Tv MEXICO
+http://brightcovelive-i.akamaihd.net/hls/live/200018/bcplay-live/Multi/Multimedios.m3u8
+
+#EXTINF:-1 group-title="LATINOS",Telemundo MEXICO
+http://iphone-streaming.ustream.tv/uhls/20720323/streams/live/iphone/playlist.m3u8?
+
+#EXTINF:-1 group-title="LATINOS",Telemax MEXICO
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+
+#EXTINF:-1 group-title="LATINOS",Canal 7 Mazatlan MEXICO
+http://74.63.97.188:1935/gpacifico4/videogpacifico4/chunklist_w1774114891.m3u8?
+
+#EXTINF:-1 group-title="LATINOS",Canal 2 Obregon MEXICO
 http://74.63.97.188:1935/gpacifico3/videogpacifico3/chunklist_w1501260201.m3u8
 
-#EXTINF:-1 group-title="PREMIUM",Ultra Television PREMIUM
+#EXTINF:-1 group-title="LATINOS",Ultra Television MEXICO
 http://odna.octoshape.net/n8u4c9c7/cds/smil:ultraaguascalientes/chunklist_b1500000.m3u8
 
-#EXTINF:-1 group-title="PREMIUM",Telesistema PREMIUM
-http://mek4.mekstream.com/telesistema/smil:telesistema.smil/chunklist_w1839003835_b764000.m3u8
+#EXTINF:-1 group-title="LATINOS",VMas+ Tv COLOMBIA
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8?
 
-#EXTINF:-1 group-title="PREMIUM",Tele Antillas PREMIUM
-http://mek4.mekstream.com/teleantillas/live3/playlist.m3u8
+#EXTINF:-1 group-title="LATINOS",Canal Antiestres COLOMBIA
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8?
 
-#EXTINF:-1 group-title="PREMIUM",CB Television PREMIUM
-http://ipointcablertmp.tulix.tv:1935/cb24stream/myStream.sdp/playlist.m3u8?
+#EXTINF:-1 group-title="LATINOS",Lifedesing COLOMBIA
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/LDTV/tu1_1.m3u8?
 
-#EXTINF:-1 group-title="PREMIUM",Telesur PREMIUM
-http://cdn2.telesur.ultrabase.net/livecf/telesurLive/chunklist.m3u8?
+#EXTINF:-1 group-title="LATINOS",RCN COLOMBIA
+http://canalrcn-mobile-live.4cloud.co/livercn/AppSenalRcn/chunklist.m3u8
 
-#EXTINF:-1 group-title="PREMIUM",Canal 13 Nicaragua PREMIUM
-http://iphone-streaming.ustream.tv/uhls/13870671/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 group-title="LATINOS",Telecaribe COLOMBIA
+http://cdns840stu1010.multistream.net/telecaribelive/amlst:live/master.m3u8
 
-#EXTINF:-1 group-title="PREMIUM",Canela Tv PREMIUM
-http://38.96.148.216:1935/live/canelatv/playlist.m3u8
+#EXTINF:-1 group-title="LATINOS",Señal Institucional COLOMBIA
+http://cdns840stu1010.multistream.net/rtvclive/amlst:live/playlist_b500000.m3u8?
 
-#EXTINF:-1 group-title="PREMIUM",Tv Satelital Ecuador PREMIUM    
-http://181.198.10.23:1935/live/mystream/playlist.m3u8
+#EXTINF:-1 group-title="LATINOS",Canal Capital COLOMBIA
+http://cdns840stu1010.multistream.net/canalcapitallive/amlst:live/master.m3u8
 
-#EXTINF:-1 group-title="PREMIUM",RT PREMIUM
+#EXTINF:-1 group-title="LATINOS",Telecafe COLOMBIA
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TCAF/tu1_1.m3u8?
+
+#EXTINF:-1 group-title="LATINOS",Teleantioquia COLOMBIA
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8?
+
+#EXTINF:-1 group-title="LATINOS",Telemedellin COLOMBIA
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8?
+
+#EXTINF:-1 group-title="LATINOS",Cosmovision COLOMBIA
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8?
+
+#EXTINF:-1 group-title="LATINOS",Une Tv COLOMBIA
+http://lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEZ/tu1_1.m3u8?
+
+#EXTINF:-1 group-title="LATINOS",Cablenoticias COLOMBIA
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8?
+
+#EXTINF:-1 group-title="LATINOS",El Tiempo COLOMBIA
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8?
+
+#EXTINF:-1 group-title="LATINOS",Mega ESPAÑA
+http://a3live-lh.akamaihd.net/i/mega/megageo_1@328914/index_4_av-b.m3u8
+
+#EXTINF:-1 group-title="LATINOS",Antena 3 ESPAÑA
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8
+
+#EXTINF:-1 group-title="LATINOS",La Sexta ESPAÑA
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel02/la_sexta_hd_1548K_1280x720_main.m3u8
+
+#EXTINF:-1 group-title="LATINOS",TVE 2 ESPAÑA
+http://iphonelive.rtve.es/LA2_LV3_IPH/bitrate_2.m3u8
+
+#EXTINF:-1 group-title="LATINOS",RTVE 24H ESPAÑA
+http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
+
+#EXTINF:-1 group-title="LATINOS",Telecinco ESPAÑA
+http://mdsios2-lh.akamaihd.net/i/mitele/esmediaset_21@168473/index_0_av-p.m3u8
+
+#EXTINF:-1 group-title="LATINOS",RT ESPAÑA
 http://rt.ashttp14.visionip.tv/live/RT_en_Espanol-SD/chunklist.m3u8
 
-#EXTINF:-1 group-title="PREMIUM",Chef Tv PREMIUM
+#EXTINF:-1 group-title="LATINOS",Telesistema REPUBLICA DOMINICANA
+http://mek4.mekstream.com/telesistema/smil:telesistema.smil/chunklist_w1839003835_b764000.m3u8
+
+#EXTINF:-1 group-title="LATINOS",Tele Antillas REPUBLICA DOMINICANA
+http://mek4.mekstream.com/teleantillas/live3/playlist.m3u8
+
+#EXTINF:-1 group-title="LATINOS",Andina Tv PERU
+http://edge-41-us.edge.mdstrm.com/live/smil:c23b8a0a21d215482b4c2703e47f675a/playlist_b950.m3u8
+
+#EXTINF:-1 group-title="LATINOS",America Tv PERU
+http://ooyalahd2-f.akamaihd.net/i/atv02_delivery@25405/index_1728_av-p.m3u8
+
+#EXTINF:-1 group-title="LATINOS",Tv Satelital ECUADOR  
+http://181.198.10.23:1935/live/mystream/playlist.m3u8
+
+#EXTINF:-1 group-title="LATINOS",Canela Tv ECUADOR
+http://38.96.148.216:1935/live/canelatv/playlist.m3u8
+
+#EXTINF:-1 group-title="LATINOS",Canal 11 Punta del Este URUGUAY
+http://xcanaloncepuntadelestex.api.channel.livestream.com/3.0/playlist.m3u8#
+
+#EXTINF:-1 group-title="LATINOS",CB Television COSTA RICA
+http://ipointcablertmp.tulix.tv:1935/cb24stream/myStream.sdp/playlist.m3u8?
+
+#EXTINF:-1 group-title="LATINOS",Telesur VENEZUELA
+http://cdn2.telesur.ultrabase.net/livecf/telesurLive/chunklist.m3u8?
+
+#EXTINF:-1 group-title="LATINOS",Canal 13 NICARAGUA
+http://iphone-streaming.ustream.tv/uhls/13870671/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1 group-title="LATINOS",Chef Tv BRAZIL
 http://flashd.localmidia.com.br:1935/cheftv/aovivo/live.m3u8
 
 #EXTM3U
@@ -354,6 +354,9 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8?
 
 #EXTINF:-1 group-title="MUSICA",Tigo Musica MUSICA
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8?
+
+#EXTINF:-1 group-title="MUSICA",Ultra Fiesta MUSICA
+http://vemoxhlslive-i.akamaihd.net/hls/live/219941/vemoxchannel2/iOS/vemoxchannel2@219941/index.m3u8
 
 #EXTINF:-1 group-title="MUSICA",Trendy Musica MUSICA
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8?
@@ -384,6 +387,12 @@ http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m
 
 #EXTINF:-1 group-title="MUSICA",Virgin Tv MUSICA
 rtmp://fms.105.net:1935/live/virgin2
+
+#EXTINF:-1 group-title="MUSICA",DJING Ibiza MUSICA
+http://www.djing.com/tv/ibiza.m3u8
+
+#EXTINF:-1 group-title="MUSICA",Amazing MUSICA
+http://redir.atmcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8?sessionId=ABA74CBC0702307FF0B559F938FC9B21.node1&stream=2
  
 #EXTINF:-1 group-title="MUSICA",Film on Tv MUSICA
 http://204.107.26.252:1935/live/691.high.stream/HasBahCa.m3u8
@@ -394,6 +403,7 @@ http://hd.worldkast.com:1935/8436/8436/playlist.m3u8
 #EXTINF:-1 group-title="MUSICA",Heart Tv MUSICA
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8#MegaIPTVArgentina
 
+#EXTM3U
 #EXTINF:0,-Radios-
 
 #EXTINF:-1 group-title="RADIOS",Freaky Channel Radio Carolina RADIOS
