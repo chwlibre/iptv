@@ -46,6 +46,12 @@ http://brightcovelive-i.akamaihd.net/hls/live/200018/bcplay-live/Multi/Multimedi
 #EXTINF:-1 group-title="PREMIUM",VMas+ Tv PREMIUM
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8?
 
+#EXTINF:-1 group-title="PREMIUM",Canal Antiestres PREMIUM
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8?
+
+#EXTINF:-1 group-title="PREMIUM",Lifedesing PREMIUM
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/LDTV/tu1_1.m3u8?
+
 #EXTINF:-1 group-title="PREMIUM",RCN PREMIUM
 http://canalrcn-mobile-live.4cloud.co/livercn/AppSenalRcn/chunklist.m3u8
 
@@ -70,6 +76,15 @@ http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/anten
 #EXTINF:-1 group-title="PREMIUM",La Sexta PREMIUM
 http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel02/la_sexta_hd_1548K_1280x720_main.m3u8
 
+#EXTINF:-1 group-title="PREMIUM",TVE 2 PREMIUM
+http://iphonelive.rtve.es/LA2_LV3_IPH/bitrate_2.m3u8
+
+#EXTINF:-1 group-title="PREMIUM",RTVE 24H PREMIUM
+http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
+
+#EXTINF:-1 group-title="PREMIUM",Telecinco PREMIUM
+http://mdsios2-lh.akamaihd.net/i/mitele/esmediaset_21@168473/index_0_av-p.m3u8
+
 #EXTINF:-1 group-title="PREMIUM",Canal 11 Punta del Este PREMIUM
 http://xcanaloncepuntadelestex.api.channel.livestream.com/3.0/playlist.m3u8#
 
@@ -81,6 +96,51 @@ http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
  
 #EXTINF:-1 group-title="PREMIUM",Canal 2 Misiones PREMIUM
 http://190.57.237.214/live/canal.m3u8
+
+#EXTINF:-1 group-title="PREMIUM",Orbe 21 PREMIUM
+http://urtmpkal-f.akamaihd.net/i/1b6mj17sk_1@308700/master.m3u8
+
+#EXTINF:-1 group-title="PREMIUM",El Tiempo PREMIUM
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8?
+
+#EXTINF:-1 group-title="PREMIUM",Canal Capital PREMIUM
+http://cdns840stu1010.multistream.net/canalcapitallive/amlst:live/master.m3u8
+
+#EXTINF:-1 group-title="PREMIUM",Telecafe PREMIUM
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TCAF/tu1_1.m3u8?
+
+#EXTINF:-1 group-title="PREMIUM",Teleantioquia PREMIUM
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8?
+
+#EXTINF:-1 group-title="PREMIUM",Telemedellin PREMIUM
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8?
+
+#EXTINF:-1 group-title="PREMIUM",Cosmovision PREMIUM
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8?
+
+#EXTINF:-1 group-title="PREMIUM",Cablenoticias PREMIUM
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8?
+
+#EXTINF:-1 group-title="PREMIUM",Une Tv PREMIUM
+http://lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEZ/tu1_1.m3u8?
+
+#EXTINF:-1 group-title="PREMIUM",Canal 7 Mazatlan PREMIUM
+http://74.63.97.188:1935/gpacifico4/videogpacifico4/chunklist_w1774114891.m3u8?
+
+#EXTINF:-1 group-title="PREMIUM",Azteca Noticias PREMIUM
+http://aztecalive-lh.akamaihd.net/i/0pd7p6ys0_1@175672/index_3_av-b.m3u8
+
+#EXTINF:-1 group-title="PREMIUM",Azteca 7 Monterrey PREMIUM
+http://38.104.228.230:1938/info7/info7_512/playlist.m3u8
+
+#EXTINF:-1 group-title="PREMIUM",Canal 2 Obregon PREMIUM
+http://74.63.97.188:1935/gpacifico3/videogpacifico3/chunklist_w1501260201.m3u8
+
+#EXTINF:-1 group-title="PREMIUM",Ultra Television PREMIUM
+http://odna.octoshape.net/n8u4c9c7/cds/smil:ultraaguascalientes/chunklist_b1500000.m3u8
+
+#EXTINF:-1 group-title="PREMIUM",RT PREMIUM
+http://rt.ashttp14.visionip.tv/live/RT_en_Espanol-SD/chunklist.m3u8
 
 #EXTINF:-1 group-title="PREMIUM",Chef Tv PREMIUM
 http://flashd.localmidia.com.br:1935/cheftv/aovivo/live.m3u8
@@ -313,9 +373,6 @@ http://wow2.cl.digitalproserver.com/aricatv/aricatvvivo/aricatv.smil/chunklist_w
 #EXTINF:-1 group-title="CHILE",Cesfam Tv - Vida Tv CHILE
 http://evo.eltelon.com:443/live/cesfamtv/playlist.m3u8
 
-#EXTINF:-1 group-title="CHILE",Metro de santiago Tv CHILE
-http://190.196.9.186:8080/subtv
-
 #EXTINF:0,-Radios-
 
 #EXTINF:-1 group-title="RADIOS",Freaky Channel Radio Carolina RADIOS
@@ -341,429 +398,6 @@ http://movilstream.digitalproserver.com/coopetv/coopetvvivo/coopetv.smil/playlis
 
 #EXTINF:-1 group-title="RADIOS",Tele13 Radio RADIOS
 http://cdn.ztreaming.com/t13radio/mobile.m3u8
-
-#EXTINF:0,-Argentina-
-
-#EXTINF:-1 group-title="ARGENTINA",Canal 26 01 ARGENTINA
-http://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8 
-
-#EXTINF:-1 group-title="ARGENTINA",Canal 26 02 ARGENTINA 
-rtsp://live-edge01.telecentro.net.ar:80/live/26hd-360
-
-#EXTINF:-1 group-title="ARGENTINA",Canal 26 03 ARGENTINA
-http://live-edge01.telecentro.net.ar/live/26hd-180/playlist.m3u8 
-
-#EXTINF:-1 group-title="ARGENTINA",El Trece 01 ARGENTINA
-http://live-edge01.telecentro.net.ar:1935/live/13hd-720/playlist.m3u8
-  
-#EXTINF:-1 group-title="ARGENTINA",El trece 02 ARGENTINA 
-rtsp://stream.eltrecetv.com.ar/live13/13tv/13tv1
-
-#EXTINF:-1 group-title="ARGENTINA",El trece 03 ARGENTINA
-http://live-edge01.telecentro.net.ar/live/13hd-360/playlist.m3u8
- 
-#EXTINF:-1 group-title="ARGENTINA",El trece 04 ARGENTINA
-http://live-edge01.telecentro.net.ar/live/13hd-180/playlist.m3u8 
-
-#EXTINF:-1 group-title="ARGENTINA",Tv Publica 01 ARGENTINA
-http://live-edge01.telecentro.net.ar/live/tvphd-360/playlist.m3u8 
-
-#EXTINF:-1 group-title="ARGENTINA",Tv Publica 02 ARGENTINA
-http://live-edge01.telecentro.net.ar/live/tvphd-180/playlist.m3u8 
-
-#EXTINF:-1 group-title="ARGENTINA",Canal 9 ARGENTINA
-http://72.46.226.61/live01/canal91/playlist.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 group-title="ARGENTINA",C5N 01 ARGENTINA
-rtmp://c5n.stweb.tv:1935/c5n/live_media 
-
-#EXTINF:-1 group-title="ARGENTINA",C5N 02 ARGENTINA 
-rtmp://c5n.stweb.tv:1935/c5n/live 
-
-#EXTINF:-1 group-title="ARGENTINA",TN 24 Horas HD ARGENTINA
-rtsp://stream.tn.com.ar/live/tnhd1
-
-#EXTINF:-1 group-title="ARGENTINA",Telpin Canal 2 HD Pinamar ARGENTINA
-http://201.219.100.30:1935/telpintv/ttv.stream_720p/playlist.m3u8
-
-#EXTINF:-1 group-title="ARGENTINA",Canal 9 Parana 01 ARGENTINA
-http://ionlive1-lh.akamaihd.net/i/canal9_1@125365/master.m3u8
-
-#EXTINF:-1 group-title="ARGENTINA",Canal 9 Parana 02 ARGENTINA
-http://ionlive1-lh.akamaihd.net/i/canal9_1@125365/master.m3u8#MegaIPTVArgentina
- 
-#EXTINF:-1 group-title="ARGENTINA",Canal Rural 01 ARGENTINA  
-rtsp://streamrural.cmd.com.ar:554/liverural/crural/rural1
- 
-#EXTINF:-1 group-title="ARGENTINA",Canal Rural 02 ARGENTINA
-rtsp://streamrural.cmd.com.ar:554/liverural/crural/rural2
- 
-#EXTINF:-1 group-title="ARGENTINA",ECO Tv Tandil ARGENTINA
-rtmp://mediacontrol.jargon.com.ar/elecotv/elecotv
-  
-#EXTINF:-1 group-title="ARGENTINA",ORBE 21 ARGENTINA
-http://urtmpkal-f.akamaihd.net/i/1b6mj17sk_1@308700/master.m3u8
-  
-#EXTINF:-1 group-title="ARGENTINA",Antena Negra ARGENTINA
-http://servicioamerica.net:1935/8680/8680/playlist.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 group-title="ARGENTINA",Magazine ARGENTINA
-rtsp://stream.mgzn.tv/live/mgzntv/mgzntv
-
-#EXTINF:-1 group-title="ARGENTINA",Construir Tv ARGENTINA
-http://iphone-streaming.ustream.tv/uhls/9143107/streams/live/iphone/playlist.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 group-title="ARGENTINA",Canal 5 Tigre 01 ARGENTINA
-http://iphone-streaming.ustream.tv/ustreamVideo/11068260/streams/live/playlist.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 group-title="ARGENTINA",Canal 5 Tigre 02 ARGENTINA
-http://iphone-streaming.ustream.tv/uhls/11068260/streams/live/iphone/playlist.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 group-title="ARGENTINA",Canal 28 Mar del Plata ARGENTINA
-http://iphone-streaming.ustream.tv/uhls/18752678/streams/live/iphone/playlist.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 group-title="ARGENTINA",Canal 28 Mar del Plata ARGENTINA
-http://iphone-streaming.ustream.tv/ustreamVideo/18752678/streams/live/playlist.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 group-title="ARGENTINA",Canal 5 Mar de Ajo ARGENTINA
-http://iphone-streaming.ustream.tv/uhls/14888585/streams/live/iphone/playlist.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 group-title="ARGENTINA",Canal 5 Olavarria 01 ARGENTINA
-http://iphone-streaming.ustream.tv/uhls/510556/streams/live/iphone/playlist.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 group-title="ARGENTINA",Canal 5 Olavarria 02 ARGENTINA
-http://iphone-streaming.ustream.tv/ustreamVideo/510556/streams/live/playlist.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 group-title="ARGENTINA",Celta Tv 3 Arroyos 01 ARGENTINA
-http://iphone-streaming.ustream.tv/uhls/13952483/streams/live/iphone/playlist.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 group-title="ARGENTINA",Celta Tv 3 Arroyos 02 ARGENTINA
-http://iphone-streaming.ustream.tv/ustreamVideo/13952483/streams/live/playlist.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 group-title="ARGENTINA",Canal 12 Cordoba ARGENTINA
-http://iphone-streaming.ustream.tv/ustreamVideo/13115741/streams/live/playlist.m3u8
-
-#EXTINF:-1 group-title="ARGENTINA",CCC San Luis 01 ARGENTINA
-http://iphone-streaming.ustream.tv/ustreamVideo/5031477/streams/live/playlist.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 group-title="ARGENTINA",CCC San Luis 02 ARGENTINA
-http://iphone-streaming.ustream.tv/uhls/5031477/streams/live/iphone/playlist.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 group-title="ARGENTINA",Señal U 01 ARGENTINA
-http://iphone-streaming.ustream.tv/ustreamVideo/20087208/streams/live/playlist.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 group-title="ARGENTINA",Señal U 02 ARGENTINA
-http://iphone-streaming.ustream.tv/ustreamVideo/20087208/streams/live/playlist.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 group-title="ARGENTINA",Canal 10 Cordoba 01 ARGENTINA
-http://iphone-streaming.ustream.tv/uhls/20251601/streams/live/iphone/playlist.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 group-title="ARGENTINA",Canal 10 Cordoba 02 ARGENTINA
-http://iphone-streaming.ustream.tv/ustreamVideo/20251601/streams/live/playlist.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 group-title="ARGENTINA",Imperio TV Rio Cuarto 01 ARGENTINA
-http://iphone-streaming.ustream.tv/uhls/18376856/streams/live/iphone/playlist.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 group-title="ARGENTINA",Imperio TV Rio Cuarto 02 ARGENTINA
-http://iphone-streaming.ustream.tv/ustreamVideo/18376856/streams/live/playlist.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 group-title="ARGENTINA",El Once Entre Rios 01 ARGENTINA
-http://iphone-streaming.ustream.tv/ustreamVideo/8957585/streams/live/playlist.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 group-title="ARGENTINA",El Once Entre Rios 02 ARGENTINA
-http://iphone-streaming.ustream.tv/uhls/8957585/streams/live/iphone(playlist.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 group-title="ARGENTINA",Canal 6 Entre Rios 01 ARGENTINA
-http://iphone-streaming.ustream.tv/ustreamVideo/9042949/streams/live/playlist.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 group-title="ARGENTINA",Canal 6 Entre Rios 02 ARGENTINA
-http://iphone-streaming.ustream.tv/uhls/9042949/streams/live/iphone/playlist.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 group-title="ARGENTINA",Canal 10 Entre Rios 01 ARGENTINA
-http://iphone-streaming.ustream.tv/uhls/253309/streams/live/iphone/playlist.m3u8
-
-#EXTINF:-1 group-title="ARGENTINA",Canal 10 Entre Rios 02 ARGENTINA
-http://iphone-streaming.ustream.tv/ustreamVideo/253309/streams/live/playlist.m3u8
-
-#EXTINF:-1 group-title="ARGENTINA",Canal 9 Salta ARGENTINA
-http://xcanal9saltax.api.channel.livestream.com/3.0/playlist.m3u8  
-
-#EXTINF:-1 group-title="ARGENTINA",Tele 10 Salta 01 ARGENTINA
-http://iphone-streaming.ustream.tv/ustreamVideo/14183607/streams/live/playlist.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 group-title="ARGENTINA",Tele 10 Salta 02 ARGENTINA
-http://iphone-streaming.ustream.tv/uhls/14183607/streams/live/iphone/playlist.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 group-title="ARGENTINA",TVEO Mendoza ARGENTINA
-http://iphone-streaming.ustream.tv/uhls/13300574/streams/live/iphone/playlist.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 group-title="ARGENTINA",Madryn Tv 01 ARGENTINA
-http://iphone-streaming.ustream.tv/ustreamVideo/7029416/streams/live/playlist.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 group-title="ARGENTINA",Madryn Tv 02 ARGENTINA
-http://iphone-streaming.ustream.tv/uhls/7029416/streams/live/iphone/playlist.m3u8#MegaIPTVArgentina
-
-#EXTM3U
-#EXTINF:0,-Peru-
-
-#EXTINF:-1 group-title="PERU",Andina Tv 01 PERU 
-http://live.mvdigital.net:1935/live3/livestream1.sdp/playlist.m3u8
-
-#EXTINF:-1 group-title="PERU",Andina Tv 02 PERU
-http://edge-31-us.edge.mdstrm.com/live/smil:c23b8a0a21d215482b4c2703e47f675a/playlist.m3u8
-
-#EXTINF:-1 group-title="PERU",Panamericana PERU
-http://live.mvdigital.net:1935/live8/livestream1.sdp/playlist.m3u8
-
-#EXTINF:-1 group-title="PERU",UCV Satelital PERU
-rtmp://wowzacontrol.net:1935/8050/8050
-
-#EXTINF:-1 group-title="PERU",America Tv 01 PERU
-http://live.mvdigital.net:1935/live2/livestream1.sdp/playlist.m3u8
-
-#EXTINF:-1 group-title="PERU",America Tv 02 PERU
-http://ooyalahd2-f.akamaihd.net/i/atv02_delivery@25405/index_1728_av-p.m3u8
-
-#EXTINF:-1 group-title="PERU",America TV 03 PERU
-http://edge-41-us.edge.mdstrm.com/live/smil:c23b8a0a21d215482b4c2703e47f675a/playlist_b950.m3u8
-
-#EXTINF:-1 group-title="PERU",RBC PERU
-http://184.154.28.210:1935/rbcsatelital/rbcsatelital/playlist.m3u8
-
-#EXTINF:-1 group-title="PERU",Red Tv PERU
-http://live.mvdigital.net:1935/live9/livestream1.sdp/playlist.m3u8#MegaIPTVArgentina
-
-#EXTM3U
-#EXTINF:0,-Colombia-
-
-#EXTINF:-1 group-title="COLOMBIA", RCN HD COLOMBIA
-http://canalrcn-mobile-live.4cloud.co/livercn/AppSenalRcn/chunklist.m3u8
-
-#EXTINF:-1 group-title="COLOMBIA", El Tiempo 01 COLOMBIA
-http://ooyalahd2-f.akamaihd.net/i/eltiempo1avts_1603@1603/index_1550000_av-b.m3u8?sd=10&rebase=on
-
-#EXTINF:-1 group-title="COLOMBIA", El Tiempo 02 COLOMBIA
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8?
-
-#EXTINF:-1 group-title="COLOMBIA", Señal Colombia 01 COLOMBIA
-http://cdns840stu1010.multistream.net/rtvc2live/amlst:scolombia/playlist_b500000.m3u8?
-
-#EXTINF:-1 group-title="COLOMBIA", Senal Colombia 02 COLOMBIA
-http://cdns840stu1010.multistream.net/rtvc2live/amlst:scolombia/master.m3u8
-
-#EXTINF:-1 group-title="COLOMBIA", Canal Capital 01 COLOMBIA
-http://cdns840stu1010.multistream.net/canalcapitallive/live-500/playlist_b500000.m3u8?
-
-#EXTINF:-1 group-title="COLOMBIA", Canal Capital 02 COLOMBIA
-http://cdns840stu1010.multistream.net/canalcapitallive/amlst:live/master.m3u8
-
-#EXTINF:-1 group-title="COLOMBIA", Señal Institucional 01 COLOMBIA
-http://cdns840stu1010.multistream.net/rtvclive/amlst:live/playlist_b500000.m3u8?
-
-#EXTINF:-1 group-title="COLOMBIA", Canal Institucional 02 COLOMBIA
-http://cdns840stu1010.multistream.net:80/rtvclive/live-500/PAZ.m3u8
-
-#EXTINF:-1 group-title="COLOMBIA", Canal U 01 COLOMBIA
-http://xcanalutvx.api.channel.livestream.com/3.0/playlist.m3u8
-
-#EXTINF:-1 group-title="COLOMBIA", Canal U 02 COLOMBIA
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANU/tu1_1.m3u8?
-
-#EXTINF:-1 group-title="COLOMBIA", Telecaribe COLOMBIA
-http://cdns840stu1010.multistream.net/telecaribelive/amlst:live/master.m3u8
-
-#EXTINF:-1 group-title="COLOMBIA" ,Telecafe 01 COLOMBIA
-http://xtelecafex.api.channel.livestream.com/3.0/playlist.m3u8
-
-#EXTINF:-1 group-title="COLOMBIA", Telecafe 02 COLOMBIA
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TCAF/tu1_1.m3u8?
-
-#EXTINF:-1 group-title="COLOMBIA", Canal TRO COLOMBIA
-http://cdns840stu1010.multistream.net/canaltro2live/amlst:live/master.m3u8
-
-#EXTINF:-1 group-title="COLOMBIA", Canal Zoom COLOMBIA
-http://xcanalzoomtvx.api.channel.livestream.com/3.0/playlist.m3u8
-
-#EXTINF:-1 group-title="COLOMBIA", Nacion TV COLOMBIA
-http://iphone-streaming.ustream.tv/uhls/20749257/streams/live/iphone/playlist.m3u8
-
-#EXTINF:-1 group-title="COLOMBIA", TV Agro 01 COLOMBIA
-http://190.248.81.11:1938/live/myStream22/playlist.m3u8
-
-#EXTINF:-1 group-title="COLOMBIA", Tv Agro 02 COLOMBIA
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVAG/tu1_3.m3u8?
-
-#EXTINF:-1 group-title="COLOMBIA", Hogar TV COLOMBIA
-http://xhogartvx.api.channel.livestream.com/3.0/playlist.m3u8
-
-#EXTINF:-1 group-title="COLOMBIA", Caracol Tv 01 COLOMBIA
-http://live.mvdigital.net:1935/live4/livestream1.sdp/playlist.m3u8
-
-#EXTINF:-1 group-title="COLOMBIA", Caracol Tv 02 COLOMBIA
-http://46.165.220.232:8088/live/kkkcolhd/playlist.m3u8?id=233323&wowzasessionid=3847459779&pk=9c4608318e8a703a78edd1af0f73db22f3570dde96417fd72aac9f2cf9551914
-
-#EXTINF:-1 group-title="COLOMBIA", Teleantioquia COLOMBIA
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8?
-
-#EXTINF:-1 group-title="COLOMBIA", Telemedellin COLOMBIA
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8?
-
-#EXTINF:-1 group-title="COLOMBIA", Cosmovision COLOMBIA
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8?
-
-#EXTINF:-1 group-title="COLOMBIA", Cable Noticias COLOMBIA
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8?
-
-#EXTINF:-1 group-title="COLOMBIA", Une Tv Manizales COLOMBIA
-http://lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEZ/tu1_1.m3u8?
-
-#EXTINF:-1,#EXTINF:-1 group-title="COLOMBIA", Une Tv Caribe COLOMBIA
-http://lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEQ/tu1_1.m3u8?
-
-#EXTINF:-1 group-title="COLOMBIA", Une Tv Armenia COLOMBIA
-http://lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEA/tu1_1.m3u8?
-
-#EXTINF:-1 group-title="COLOMBIA", Televida COLOMBIA
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVID/tu1_1.m3u8?
-
-#EXTINF:-1 group-title="COLOMBIA", Canal Antiestres COLOMBIA
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8?
-
-#EXTINF:-1 group-title="COLOMBIA", Lifedesing COLOMBIA
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/LDTV/tu1_1.m3u8?
-
-#EXTINF:-1 group-title="COLOMBIA", VMas Tv COLOMBIA
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8?
-
-#EXTINF:-1 group-title="COLOMBIA", Tele Amiga COLOMBIA
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0002/tu1_1.m3u8?
-
-
-#EXTM3U
-#EXTINF:0,-Mexico-
-
-#EXTINF:-1 group-title="MEXICO", TELEMAR CAMPECHE MEXICO
-http://wms.tecnoxia.com:1935/8004/8004/telemarmexico.m3u8
-
-#EXTINF:-1 group-title="MEXICO", Canal 2 Obregon MEXICO
-http://74.63.97.188:1935/gpacifico3/videogpacifico3/chunklist_w1501260201.m3u8
-
-#EXTINF:-1 group-title="MEXICO", SIPSA TV Cancún MEXICO
-http://rightbrainmedia.mpl.miisolutions.net/rightbrainmedia-live-244/_definst_/mp4:GalaTVCancun/playlist.m3u8
-
-#EXTINF:-1 group-title="MEXICO", MEXIQUENSE MEXICO
-http://fss28.streamhoster.com:1935/lv_tvmexiquense/_definst_/broadcast1/mexiquense.m3u8
-
-#EXTINF:-1 group-title="MEXICO", Proyecto 40 01 MEXICO
-http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/index_2_av-p.m3u8
-
-#EXTINF:-1 group-title="MEXICO", Proyecto 40 02 MEXICO
-http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/master.m3u8
-
-#EXTINF:-1 group-title="MEXICO", Foro TV 01 MEXICO
-http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/index_1200_av-b.m3u8
-
-#EXTINF:-1 group-title="MEXICO", Foro TV 02 MEXICO
-http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/index_1200_av-b.m3u8?sd=10&rebase=on
-
-#EXTINF:-1 group-title="MEXICO", AZTECA 13 01 MEXICO 
-http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/master.m3u8
-
-#EXTINF:-1 group-title="MEXICO", AZTECA 13 02 MEXICO
-http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
-
-#EXTINF:-1 group-title="MEXICO", Azteca Noticias 01 MEXICO
-http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-b.m3u8
-
-#EXTINF:-1 group-title="MEXICO", Azteca Noticias 02 MEXICO
-http://aztecalive-lh.akamaihd.net/i/0pd7p6ys0_1@175672/index_3_av-b.m3u8
-
-#EXTINF:-1 group-title="MEXICO", Azteca 7 Deportes 01 MEXICO
-http://aztecalive-lh.akamaihd.net/i/0sa0dg2r9_1@167681/index_3_av-b.m3u8
-
-#EXTINF:-1 group-title="MEXICO", Azteca 7 Deportes 02 MEXICO
-http://aztecalive-lh.akamaihd.net/i/0sa0dg2r9_1@167681/index_2_av-b.m3u8
-
-#EXTINF:-1 group-title="MEXICO", Azteca 7 Monterrey MEXICO
-http://38.104.228.230:1938/info7/info7_512/playlist.m3u8
-
-#EXTINF:-1 group-title="MEXICO", Multimedios TV 01 MEXICO
-http://brightcove03-f.akamaihd.net/multimedios_tv_612k@55732
-
-#EXTINF:-1 group-title="MEXICO", Multimedios TV 02 MEXICO
-http://brightcovelive-i.akamaihd.net/hls/live/200018/bcplay-live/Multi/Multimedios.m3u8
-
-#EXTINF:-1 group-title="MEXICO", Travel MEXICO
-http://cdns840stu1010.multistream.net/mtchlive/amlst:live/playlist_b900000.m3u8
-
-#EXTINF:-1 group-title="MEXICO", Canal 2 MEXICO
-http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_648_av-p.m3u8
-
-#EXTINF:-1 group-title="MEXICO", Canal Mexico MEXICO
-rtmp://50.7.98.234/rtv/videortv
-
-#EXTINF:-1 group-title="MEXICO", Canal 7 Mazatlan 01 MEXICO
-http://74.63.97.188:1935/gpacifico4/videogpacifico4/chunklist_w1774114891.m3u8?
-
-#EXTINF:-1 group-title="MEXICO", CANAL 7 Mazatlan 02 MEXICO
-http://187.188.159.113:1935/live/web.sdp/playlist.m3u8
-
-#EXTINF:-1 group-title="MEXICO", Gala TV Cancun MEXICO
-http://rightbrainmedia.mpl.miisolutions.net/rightbrainmedia-live-244/_definst_/mp4:GalaTVCancun/playlist.m3u8?
-
-#EXTINF:-1 group-title="MEXICO", Ultra de aguascalientes MEXICO
-http://odna.octoshape.net/n8u4c9c7/cds/smil:ultraaguascalientes/chunklist_b1500000.m3u8
-
-#EXTM3U
-#EXTINF:0,-España-
-
-#EXTINF:-1 group-title="ESPAÑA", Antena 3 01 ESPAÑA
-http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8
-
-#EXTINF:-1 group-title="ESPAÑA", Antena 3 02 ESPAÑA
-http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_1_av-p.m3u8
-
-#EXTINF:-1 group-title="ESPAÑA", Antena 3 03 ESPAÑA
-http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8
-
-#EXTINF:-1 group-title="ESPAÑA", Antena 3 04 ESPAÑA
-http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_940K_768x432_baseline.m3u8
-
-#EXTINF:-1 group-title="ESPAÑA", La Sexta 01 ESPAÑA
-http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8
-
-#EXTINF:-1 group-title="ESPAÑA", La Sexta 02 ESPAÑA
-http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_1_av-b.m3u8
-
-#EXTINF:-1 group-title="ESPAÑA", La Sexta 03 ESPAÑA
-http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel02/la_sexta_hd_1548K_1280x720_main.m3u8
-
-#EXTINF:-1 group-title="ESPAÑA", La Sexta 04 ESPAÑA
-http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel02/la_sexta_hd_940K_768x432_baseline.m3u8
-
-#EXTINF:-1 group-title="ESPAÑA", MEGA 01 ESPAÑA
-http://a3live-lh.akamaihd.net/i/mega/megageo_1@328914/index_4_av-b.m3u8
-
-#EXTINF:-1 group-title="ESPAÑA", MEGA 02 ESPAÑA
-http://a3live-lh.akamaihd.net/i/mega/megageo_1@328914/index_1_av-b.m3u8
-
-#EXTINF:-1 group-title="ESPAÑA", TVE 2 ESPAÑA 
-http://iphonelive.rtve.es/LA2_LV3_IPH/bitrate_2.m3u8
-
-#EXTINF:-1 group-title="ESPAÑA", RTVE 24H ESPAÑA
-http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
-
-#EXTINF:-1 group-title="ESPAÑA", TeleCinco ESPAÑA
-http://mdsios2-lh.akamaihd.net/i/mitele/esmediaset_21@168473/index_0_av-p.m3u8
-
-#EXTINF:-1 group-title="ESPAÑA", RealMadrid TV ESPAÑA
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-b.m3u8
-
-#EXTINF:-1 group-title="ESPAÑA", RT ESPAÑOL 01 ESPAÑA
-http://rt.ashttp14.visionip.tv/live/RT_en_Espanol-SD/chunklist.m3u8
-
-#EXTINF:-1 group-title="ESPAÑA", RT ESPAÑOL 02 ESPAÑA
-http://rt.ashttp14.visionip.tv/live/RT_en_Espanol-HD/chunklist.m3u8
 
 #EXTM3U
 #EXTINF:0,-Republica Dominicana-
