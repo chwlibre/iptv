@@ -13,14 +13,8 @@ http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3
 #EXTINF:-1 group-title="PREMIUM",Anime PREMIUM
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
 
-#EXTINF:-1 group-title="PREMIUM",Telemundo PREMIUM
-http://iphone-streaming.ustream.tv/uhls/20720323/streams/live/iphone/playlist.m3u8?
-
 #EXTINF:-1 group-title="PREMIUM",Canal 26 PREMIUM
 http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
-
-#EXTINF:-1 group-title="PREMIUM",El Trece PREMIUM
-rtsp://stream.eltrecetv.com.ar/live13/13tv/13tv1
 
 #EXTINF:-1 group-title="PREMIUM",Tv Publica PREMIUM
 http://live-edge01.telecentro.net.ar/live/tvphd-360/playlist.m3u8 
@@ -28,17 +22,8 @@ http://live-edge01.telecentro.net.ar/live/tvphd-360/playlist.m3u8
 #EXTINF:-1 group-title="PREMIUM",Telpin canal 2 PREMIUM
 http://201.219.100.30:1935/telpintv/ttv.stream_720p/playlist.m3u8
 
-#EXTINF:-1 group-title="PREMIUM",VMas+ Tv PREMIUM
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8?
-
-#EXTINF:-1 group-title="PREMIUM",RCN PREMIUM
-http://canalrcn-mobile-live.4cloud.co/livercn/AppSenalRcn/chunklist.m3u8
-
-#EXTINF:-1 group-title="PREMIUM",Telecaribe PREMIUM
-http://cdns840stu1010.multistream.net/telecaribelive/amlst:live/master.m3u8
-
-#EXTINF:-1 group-title="PREMIUM",Señal Institucional PREMIUM
-http://cdns840stu1010.multistream.net/rtvclive/amlst:live/playlist_b500000.m3u8?
+#EXTINF:-1 group-title="PREMIUM",El Trece PREMIUM
+rtsp://stream.eltrecetv.com.ar/live13/13tv/13tv1
 
 #EXTINF:-1 group-title="PREMIUM",Televisa PREMIUM
 http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8
@@ -58,6 +43,18 @@ http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/index_1200_av-b.m3u8
 #EXTINF:-1 group-title="PREMIUM",Multimedios Tv PREMIUM
 http://brightcovelive-i.akamaihd.net/hls/live/200018/bcplay-live/Multi/Multimedios.m3u8
 
+#EXTINF:-1 group-title="PREMIUM",VMas+ Tv PREMIUM
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8?
+
+#EXTINF:-1 group-title="PREMIUM",RCN PREMIUM
+http://canalrcn-mobile-live.4cloud.co/livercn/AppSenalRcn/chunklist.m3u8
+
+#EXTINF:-1 group-title="PREMIUM",Telecaribe PREMIUM
+http://cdns840stu1010.multistream.net/telecaribelive/amlst:live/master.m3u8
+
+#EXTINF:-1 group-title="PREMIUM",Señal Institucional PREMIUM
+http://cdns840stu1010.multistream.net/rtvclive/amlst:live/playlist_b500000.m3u8?
+
 #EXTINF:-1 group-title="PREMIUM",Andina Tv PREMIUM
 http://edge-41-us.edge.mdstrm.com/live/smil:c23b8a0a21d215482b4c2703e47f675a/playlist_b950.m3u8
 
@@ -76,26 +73,35 @@ http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel02/la_se
 #EXTINF:-1 group-title="PREMIUM",Canal 11 Punta del Este PREMIUM
 http://xcanaloncepuntadelestex.api.channel.livestream.com/3.0/playlist.m3u8#
 
+#EXTINF:-1 group-title="PREMIUM",Telemundo PREMIUM
+http://iphone-streaming.ustream.tv/uhls/20720323/streams/live/iphone/playlist.m3u8?
+
+#EXTINF:-1 group-title="PREMIUM",Telemax PREMIUM
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+ 
+#EXTINF:-1 group-title="PREMIUM",Canal 2 Misiones PREMIUM
+http://190.57.237.214/live/canal.m3u8
+
 #EXTINF:-1 group-title="PREMIUM",Chef Tv PREMIUM
 http://flashd.localmidia.com.br:1935/cheftv/aovivo/live.m3u8
 
 #EXTM3U
 #EXTINF:0,-Musica-
 
-#EXTINF:-1 group-title="MUSICA",Tigo Musica MUSICA
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8?
-
 #EXTINF:-1 group-title="MUSICA",Mi Musica MUSICA
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8?
+
+#EXTINF:-1 group-title="MUSICA",Tigo Musica MUSICA
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8?
 
 #EXTINF:-1 group-title="MUSICA",Trendy Musica MUSICA
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8?
 
+#EXTINF:-1 group-title="MUSICA",Miami Tv MUSICA
+http://k4.usastreams.com:1935/miamitv/smile:miamitv/chunklist_w667654953_b1550000.m3u8
+
 #EXTINF:-1 group-title="MUSICA",Urban Music Tv MUSICA
 http://ss7.domint.net:2058/utv_str/urban/playlist.m3u8
-
-#EXTINF:-1 group-title="MUSICA",UMAG Tv U. Magallanes  MUSICA
-rtmp://cluster.ztreaming.com:80/tser5/tser5.sdp
 
 #EXTINF:-1 group-title="MUSICA",Quiero musica MUSICA
 mms://200.42.92.6:1755/qmusica 
@@ -114,9 +120,6 @@ rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
 
 #EXTINF:-1 group-title="MUSICA",Capital Tv MUSICA
 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8
-
-#EXTINF:-1 group-title="MUSICA",Miami Tv MUSICA
-http://k4.usastreams.com:1935/miamitv/smile:miamitv/chunklist_w667654953_b1550000.m3u8
 
 #EXTINF:-1 group-title="MUSICA",Virgin Tv MUSICA
 rtmp://fms.105.net:1935/live/virgin2
@@ -250,26 +253,11 @@ http://wow2.cl.digitalproserver.com/itv/itvvivo/livestream1/playlist.m3u8
 #EXTINF:-1 group-title="CHILE",ITV Punta Arenas 02 CHILE
 http://wow2.cl.digitalproserver.com/itv/itvvivo/livestream2/playlist.m3u8
 
-#EXTINF:-1 group-title="CHILE",Arica Tv Canal 12 CHILE
-http://wow2.cl.digitalproserver.com/aricatv/aricatvvivo/aricatv.smil/chunklist_w725671068_b848000.m3u8
-
 #EXTINF:-1 group-title="CHILE",Antofagasta Tv 01 CHILE
 http://wow2.cl.digitalproserver.com/atv/atvvivo/atv.smil/chunklist_w949479730_b2200000.m3u8
 
 #EXTINF:-1 group-title="CHILE",Antofagasta Tv 02 CHILE
 http://wow2.cl.digitalproserver.com/atv/atvvivo/atv.smil/chunklist_w2082040148_b796000.m3u8
-
-#EXTINF:-1 group-title="CHILE",Canal 2 Valle Tv San Felipe CHILE
-http://cdn.streamingmedia.cl:1935/live/rtmp.stream/BratuMarian.m3u8?MegaIPTVArgentina
-
-#EXTINF:-1 group-title="CHILE",TVO San Vicente CHILE
-http://movilstream.digitalproserver.com/tvo/tvovivo/livestream/playlist.m3u8
-
-#EXTINF:-1 group-title="CHILE",Canal 5 Puerto Montt CHILE
-http://iphone-streaming.ustream.tv/uhls/16911585/streams/live/iphone/playlist.m3u8
-
-#EXTINF:-1 group-title="CHILE",Tv 4 Lota CHILE
-http://190.107.176.167:1935/live/tv4-television/playlist.m3u8?MegaIPTVArgentina
 
 #EXTINF:-1 group-title="CHILE",Campus Tv U. Talca 01 CHILE
 http://wow2.cl.digitalproserver.com/campustv/campustvvivo/campustv.smil/chunklist_w662421777_b848000.m3u8
@@ -282,12 +270,6 @@ http://movilstream.digitalproserver.com/campustv/campustvvivo/livestream2/playli
 
 #EXTINF:-1 group-title="CHILE",Canal 2 San Antonio CHILE
 rtmp://video.crearchile.com:8080/live/mp4:canal2.mp4
-
-#EXTINF:-1 group-title="CHILE",ATV Valdivia CHILE
-http://wow2.cl.digitalproserver.com/atv/atvvivo/atv.smil/hasbahca.m3u8#MegaIPTVArgentina
-
-#EXTINF:-1 group-title="CHILE",Quinta Vision Viña del Mar CHILE
-http://iphone-streaming.ustream.tv/uhls/2950729/streams/live/iphone/playlist.m3u8#MegaIPTVArgentina
 
 #EXTINF:-1 group-title="CHILE",Holvoet Copiapo 01 CHILE
 http://movilstream.digitalproserver.com/holvoet/holvoetvivo/holvoet.smil/chunklist-b1248000.m3u8
@@ -306,6 +288,27 @@ http://movilstream.digitalproserver.com/ufro/ufrovivo/ufro.smil/chunklist-b15640
 
 #EXTINF:-1 group-title="CHILE",Ufrovision U. de la Frontera Temuco 02 CHILE
 http://movilstream.digitalproserver.com/ufro/ufrovivo/ufro.smil/chunklist-b764000.m3u8
+
+#EXTINF:-1 group-title="CHILE",Canal 2 Valle Tv San Felipe CHILE
+http://cdn.streamingmedia.cl:1935/live/rtmp.stream/BratuMarian.m3u8?MegaIPTVArgentina
+
+#EXTINF:-1 group-title="CHILE",TVO San Vicente CHILE
+http://movilstream.digitalproserver.com/tvo/tvovivo/livestream/playlist.m3u8
+
+#EXTINF:-1 group-title="CHILE",ATV Valdivia CHILE
+http://wow2.cl.digitalproserver.com/atv/atvvivo/atv.smil/hasbahca.m3u8#MegaIPTVArgentina
+
+#EXTINF:-1 group-title="CHILE",Quinta Vision Viña del Mar CHILE
+http://iphone-streaming.ustream.tv/uhls/2950729/streams/live/iphone/playlist.m3u8#MegaIPTVArgentina
+
+#EXTINF:-1 group-title="CHILE",Canal 5 Puerto Montt CHILE
+http://iphone-streaming.ustream.tv/uhls/16911585/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1 group-title="CHILE",Tv 4 Lota CHILE
+http://190.107.176.167:1935/live/tv4-television/playlist.m3u8?MegaIPTVArgentina
+
+#EXTINF:-1 group-title="CHILE",Arica Tv Canal 12 CHILE
+http://wow2.cl.digitalproserver.com/aricatv/aricatvvivo/aricatv.smil/chunklist_w725671068_b848000.m3u8
 
 #EXTINF:-1 group-title="CHILE",Cesfam Tv - Vida Tv CHILE
 http://evo.eltelon.com:443/live/cesfamtv/playlist.m3u8
@@ -383,12 +386,6 @@ rtsp://stream.tn.com.ar/live/tnhd1
 #EXTINF:-1 group-title="ARGENTINA",Telpin Canal 2 HD Pinamar ARGENTINA
 http://201.219.100.30:1935/telpintv/ttv.stream_720p/playlist.m3u8
 
-#EXTINF:-1 group-title="ARGENTINA",Telemax ARGENTINA
-http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
- 
-#EXTINF:-1 group-title="ARGENTINA",Canal 2 Misiones ARGENTINA
-http://190.57.237.214/live/canal.m3u8
-  
 #EXTINF:-1 group-title="ARGENTINA",Canal 9 Parana 01 ARGENTINA
 http://ionlive1-lh.akamaihd.net/i/canal9_1@125365/master.m3u8
 
