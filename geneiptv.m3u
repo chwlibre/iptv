@@ -103,7 +103,7 @@ http://209.133.208.194:1935/app/futbolchilenet2s-channel/playlist.m3u8
 #EXTM3U
 #EXTINF:0,-Latinos-
 
-#EXTINF:-1 group-title="LATINOS",Anime 
+#EXTINF:-1 group-title="LATINOS",Anime Tv
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
 
 #EXTINF:-1 group-title="LATINOS",Ultra Cine 
@@ -132,9 +132,6 @@ http://urtmpkal-f.akamaihd.net/i/1b6mj17sk_1@308700/master.m3u8
 
 #EXTINF:-1 group-title="LATINOS",Televisa MEXICO
 http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8
-
-#EXTINF:-1 group-title="LATINOS",Azteca 7 MEXICO
-http://201.161.59.3/azteca7.isml/QualityLevels(1328000)/manifest(format=m3u8-aapl).m3u8
 
 #EXTINF:-1 group-title="LATINOS",Azteca 13 MEXICO
 http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
@@ -282,6 +279,9 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8?
 
 #EXTINF:-1 group-title="MUSICA",Miami Tv MUSICA
 http://k4.usastreams.com:1935/miamitv/smile:miamitv/chunklist_w667654953_b1550000.m3u8
+
+#EXTINF:-1 group-title="MUSICA",Estudio Tv MUSICA
+rtmp://190.107.176.167:1935/live/estudio-tv
 
 #EXTINF:-1 group-title="MUSICA",Urban Music Tv MUSICA
 http://ss7.domint.net:2058/utv_str/urban/playlist.m3u8
