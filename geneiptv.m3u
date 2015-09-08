@@ -202,6 +202,9 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8?
 #EXTINF:-1 group-title="LATINOS",Une Tv COLOMBIA
 http://lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEZ/tu1_1.m3u8?
 
+#EXTINF:-1 group-title="LATINOS",Trendy Channel COLOMBIA
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8?
+
 #EXTINF:-1 group-title="LATINOS",Cablenoticias COLOMBIA
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8?
 
@@ -274,14 +277,8 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8?
 #EXTINF:-1 group-title="MUSICA",Ultra Fiesta MUSICA
 http://vemoxhlslive-i.akamaihd.net/hls/live/219941/vemoxchannel2/iOS/vemoxchannel2@219941/index.m3u8
 
-#EXTINF:-1 group-title="MUSICA",Trendy Musica MUSICA
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8?
-
 #EXTINF:-1 group-title="MUSICA",Miami Tv MUSICA
 http://k4.usastreams.com:1935/miamitv/smile:miamitv/chunklist_w667654953_b1550000.m3u8
-
-#EXTINF:-1 group-title="MUSICA",Estudio Tv MUSICA
-rtmp://190.107.176.167:1935/live/estudio-tv
 
 #EXTINF:-1 group-title="MUSICA",Urban Music Tv MUSICA
 http://ss7.domint.net:2058/utv_str/urban/playlist.m3u8
@@ -291,6 +288,15 @@ mms://200.42.92.6:1755/qmusica
 
 #EXTINF:-1 group-title="MUSICA",Cantinazo MUSICA
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8?
+
+#EXTINF:-1 group-title="MUSICA",Estudio Tv MUSICA
+rtmp://190.107.176.167:1935/live/estudio-tv
+
+#EXTINF:-1 group-title="MUSICA",Si Tv MUSICA
+http://hd.worldkast.com:1935/8436/8436/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSICA",Heart Tv MUSICA
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8#MegaIPTVArgentina
 
 #EXTINF:-1 group-title="MUSICA",Clubland Tv MUSICA
 http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8
@@ -315,12 +321,6 @@ http://redir.atmcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8?se
  
 #EXTINF:-1 group-title="MUSICA",Film on Tv MUSICA
 http://204.107.26.252:1935/live/691.high.stream/HasBahCa.m3u8
-
-#EXTINF:-1 group-title="MUSICA",Si Tv MUSICA
-http://hd.worldkast.com:1935/8436/8436/playlist.m3u8
-
-#EXTINF:-1 group-title="MUSICA",Heart Tv MUSICA
-http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8#MegaIPTVArgentina
 
 #EXTM3U
 #EXTINF:0,-Radios-
