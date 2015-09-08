@@ -55,32 +55,26 @@ http://movilstream.digitalproserver.com/holvoet/holvoetvivo/holvoet.smil/chunkli
 #EXTINF:-1 group-title="CHILE",Contivision Constitución CHILE
 http://wow2.cl.digitalproserver.com/contivisionhd/contivisionhdvivo/contivisionhd.smil/chunklist_w1162159593_b1496000.m3u8
 
-#EXTINF:-1 group-title="CHILE",Ufrovision U. de la Frontera Temuco 01 CHILE
-http://movilstream.digitalproserver.com/ufro/ufrovivo/ufro.smil/chunklist-b1564000.m3u8
+#EXTINF:-1 group-title="CHILE",ITV Punta Arenas 01 CHILE
+http://wow2.cl.digitalproserver.com/itv/itvvivo/livestream1/playlist.m3u8
+
+#EXTINF:-1 group-title="CHILE",ATV Valdivia CHILE
+http://wow2.cl.digitalproserver.com/atv/atvvivo/atv.smil/hasbahca.m3u8#MegaIPTVArgentina
 
 #EXTINF:-1 group-title="CHILE",Canal 2 San Antonio CHILE
 rtmp://video.crearchile.com:8080/live/mp4:canal2.mp4
 
-#EXTINF:-1 group-title="CHILE",ITV Punta Arenas 01 CHILE
-http://wow2.cl.digitalproserver.com/itv/itvvivo/livestream1/playlist.m3u8
-
 #EXTINF:-1 group-title="CHILE",Antofagasta Tv CHILE
 http://wow2.cl.digitalproserver.com/atv/atvvivo/atv.smil/chunklist_w949479730_b2200000.m3u8
-
-#EXTINF:-1 group-title="CHILE",Digital Channel Tv Antofagasta CHILE
-http://evo.eltelon.com:443/live/dch-tv/playlist.m3u8?MegaIPTVArgentina
-
-#EXTINF:-1 group-title="CHILE",Aysen Tv Puerto Aysen CHILE
-http://wow2.cl.digitalproserver.com/aysentv/aysentvvivo/aysentv.smil/BratuMarian.m3u8
-
-#EXTINF:-1 group-title="CHILE",Canal 2 Valle Tv San Felipe CHILE
-http://cdn.streamingmedia.cl:1935/live/rtmp.stream/BratuMarian.m3u8?MegaIPTVArgentina
 
 #EXTINF:-1 group-title="CHILE",TVO San Vicente CHILE
 http://movilstream.digitalproserver.com/tvo/tvovivo/livestream/playlist.m3u8
 
-#EXTINF:-1 group-title="CHILE",ATV Valdivia CHILE
-http://wow2.cl.digitalproserver.com/atv/atvvivo/atv.smil/hasbahca.m3u8#MegaIPTVArgentina
+#EXTINF:-1 group-title="CHILE",Tv 4 Lota CHILE
+http://190.107.176.167:1935/live/tv4-television/playlist.m3u8?MegaIPTVArgentina
+
+#EXTINF:-1 group-title="CHILE",Cesfam Tv - Vida Tv CHILE
+http://evo.eltelon.com:443/live/cesfamtv/playlist.m3u8
 
 #EXTINF:-1 group-title="CHILE",Quinta Vision Viña del Mar CHILE
 http://iphone-streaming.ustream.tv/uhls/2950729/streams/live/iphone/playlist.m3u8#MegaIPTVArgentina
@@ -88,14 +82,20 @@ http://iphone-streaming.ustream.tv/uhls/2950729/streams/live/iphone/playlist.m3u
 #EXTINF:-1 group-title="CHILE",Canal 5 Puerto Montt CHILE
 http://iphone-streaming.ustream.tv/uhls/16911585/streams/live/iphone/playlist.m3u8
 
-#EXTINF:-1 group-title="CHILE",Tv 4 Lota CHILE
-http://190.107.176.167:1935/live/tv4-television/playlist.m3u8?MegaIPTVArgentina
-
 #EXTINF:-1 group-title="CHILE",Arica Tv Canal 12 CHILE
 http://wow2.cl.digitalproserver.com/aricatv/aricatvvivo/aricatv.smil/chunklist_w725671068_b848000.m3u8
 
-#EXTINF:-1 group-title="CHILE",Cesfam Tv - Vida Tv CHILE
-http://evo.eltelon.com:443/live/cesfamtv/playlist.m3u8
+#EXTINF:-1 group-title="CHILE",Canal 2 Valle Tv San Felipe CHILE
+http://cdn.streamingmedia.cl:1935/live/rtmp.stream/BratuMarian.m3u8?MegaIPTVArgentina
+
+#EXTINF:-1 group-title="CHILE",Ufrovision U. de la Frontera Temuco 01 CHILE
+http://movilstream.digitalproserver.com/ufro/ufrovivo/ufro.smil/chunklist-b1564000.m3u8
+
+#EXTINF:-1 group-title="CHILE",Digital Channel Tv Antofagasta CHILE
+http://evo.eltelon.com:443/live/dch-tv/playlist.m3u8?MegaIPTVArgentina
+
+#EXTINF:-1 group-title="CHILE",Aysen Tv Puerto Aysen CHILE
+http://wow2.cl.digitalproserver.com/aysentv/aysentvvivo/aysentv.smil/BratuMarian.m3u8
 
 #EXTINF:-1 group-title="CHILE",CDF Premium CHILE
 http://209.133.208.194:1935/app/futbolchilenet2s-channel/playlist.m3u8
