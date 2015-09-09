@@ -55,6 +55,9 @@ http://movilstream.digitalproserver.com/holvoet/holvoetvivo/holvoet.smil/chunkli
 #EXTINF:-1 group-title="CHILE",Contivision Constitución CHILE
 http://wow2.cl.digitalproserver.com/contivisionhd/contivisionhdvivo/contivisionhd.smil/chunklist_w1162159593_b1496000.m3u8
 
+#EXTINF:-1 group-title="CHILE",Digital Channel Tv Antofagasta CHILE
+http://evo.eltelon.com:443/live/dch-tv/playlist.m3u8?MegaIPTVArgentina
+
 #EXTINF:-1 group-title="CHILE",ITV Punta Arenas 01 CHILE
 http://wow2.cl.digitalproserver.com/itv/itvvivo/livestream1/playlist.m3u8
 
@@ -90,9 +93,6 @@ http://cdn.streamingmedia.cl:1935/live/rtmp.stream/BratuMarian.m3u8?MegaIPTVArge
 
 #EXTINF:-1 group-title="CHILE",Ufrovision U. de la Frontera Temuco 01 CHILE
 http://movilstream.digitalproserver.com/ufro/ufrovivo/ufro.smil/chunklist-b1564000.m3u8
-
-#EXTINF:-1 group-title="CHILE",Digital Channel Tv Antofagasta CHILE
-http://evo.eltelon.com:443/live/dch-tv/playlist.m3u8?MegaIPTVArgentina
 
 #EXTINF:-1 group-title="CHILE",Aysen Tv Puerto Aysen CHILE
 http://wow2.cl.digitalproserver.com/aysentv/aysentvvivo/aysentv.smil/BratuMarian.m3u8
