@@ -139,9 +139,6 @@ http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
 #EXTINF:-1 group-title="LATINOS",Azteca Noticias MEXICO
 http://aztecalive-lh.akamaihd.net/i/0pd7p6ys0_1@175672/index_3_av-b.m3u8
 
-#EXTINF:-1 group-title="LATINOS",Azteca 7 MEXICO
-http://38.104.228.230:1938/info7/info7_512/playlist.m3u8
-
 #EXTINF:-1 group-title="LATINOS",Proyecto 40 MEXICO
 http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/master.m3u8
 
@@ -165,6 +162,9 @@ http://74.63.97.188:1935/gpacifico3/videogpacifico3/chunklist_w1501260201.m3u8
 
 #EXTINF:-1 group-title="LATINOS",Ultra Television MEXICO
 http://odna.octoshape.net/n8u4c9c7/cds/smil:ultraaguascalientes/chunklist_b1500000.m3u8
+
+#EXTINF:-1 group-title="LATINOS",Azteca 7 MEXICO
+http://38.104.228.230:1938/info7/info7_512/playlist.m3u8
 
 #EXTINF:-1 group-title="LATINOS",VMas+ Tv COLOMBIA
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8?
@@ -349,6 +349,9 @@ http://cdn.ztreaming.com/t13radio/mobile.m3u8
 #EXTM3U
 #EXTINF:0,-Adultos-
 
+#EXTINF:-1 group-title="ADULTOS", ZCECH ADULTOS
+mmsh://tv.webmisto.cz:7000
+
 #EXTINF:-1 group-title="ADULTOS", SATISFACTION ADULTOS
 http://main2sb.everyon.tv:1935/etv2sb/_definst_/pld499/paz.m3u8
 
@@ -435,6 +438,3 @@ http://62.210.83.180:8081/sexzonehd/sexzonehd/chunklist_w1684109871.m3u8
 
 #EXTINF:-1 group-title="ADULTOS", SAKURA ADULTOS
 http://edge2.everyon.tv:1935/etv2sb/phd61/HasBahCa.m3u8
-
-#EXTINF:-1 group-title="ADULTOS", ZCECH +18 ADULTOS
-mmsh://tv.webmisto.cz:7000
