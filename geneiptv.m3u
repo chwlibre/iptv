@@ -403,6 +403,9 @@ http://edge2.everyon.tv:1935/etv2/phd1005/paz.m3u8
 #EXTINF:-1 group-title="ADULTOS", PRIVATE ADULTOS
 http://178.33.126.213:1935/leved/privateCom/.m3u8
 
+#EXTINF:-1 group-title="ADULTOS", PRIVATE ADULTOS
+http://62.210.88.244:8081/private/private/playlist.m3u8
+
 #EXTINF:-1 group-title="ADULTOS", XXX ADULTOS
 http://wowza1.videos.movile.com:8080/live/smil:adulto_1.smil/playlist.m3u8
 
@@ -427,116 +430,11 @@ http://stream02.yamgo.com/iPhone/HLS_TS/broadcast/hot_100-tablet.3gp/hot_100-tab
 #EXTINF:-1 group-title="ADULTOS", POWER GIRL TV ADULTOS
 http://46.249.213.93/iPhone/broadcast/powergirls-tablet.3gp/powergirls-tablet.3gp-mr648k.m3u8
 
-
-
-
-
-#EXTINF:-1,BABES SPORTING
-http://46.249.213.93/iPhone/broadcast/babespotting-tablet.3gp/babespotting-tablet.3gp-mr397k.m3u8
-
-#EXTINF:-1,BRAZZERS
-http://4BA9EBDB07C05883:@5.159.96.170:8000/brazzers
-
-#EXTINF:-1,HOT SHOTS
-http://46.249.213.93/iPhone/HLS_TS/broadcast/hotshots-tablet.3gp/hotshots-tablet.3gp-mr649k.m3u8
-
-#EXTINF:-1,OLALA
-http://4BA9EBDB07C05883:@5.159.96.170:8000/olala
-
-#EXTINF:-1,Power Girls TV HD
-http://46.249.213.93/iPhone/broadcast/powergirls-tablet.3gp/powergirls-tablet.3gp-mr648k.m3u8
-
-#EXTINF:-1,Private
-http://178.33.126.213:1935/leved/privateCom/.m3u8
-
-#EXTINF:-1,PRIVATE
-http://62.210.88.244:8081/private/private/playlist.m3u8
-
-#EXTINF:-1,sexZONE HD
+#EXTINF:-1 group-title="ADULTOS", SEXZONE ADULTOS
 http://62.210.83.180:8081/sexzonehd/sexzonehd/chunklist_w1684109871.m3u8
 
- 
-
-#EXTM3U
-#EXTINF:-1,ASIA 6
-http://59.120.43.181:8086
-#EXTINF:-1,Korea rtmp Okadai
-rtmp://edge2.everyon.tv/etv2/pld1003
-#EXTINF:-1,Korea rtmp Okadai HD
-rtmp://edge2.everyon.tv/etv2/phd1003
-#EXTINF:-1,Korea rtmp Paradise TV
-rtmp://edge2.everyon.tv/etv2/pld1008
-#EXTINF:-1,KOREA OKADAI HD
-http://edge2.everyon.tv:1935/etv2/phd1003/HasBahCa.m3u8
-#EXTINF:-1,KOREA GIRLS TV
-http://edge2.everyon.tv:1935/etv2sb/phd501/HasBahCa.m3u8
-#EXTINF:-1,KOREA HOT GIRL
-http://edge2.everyon.tv:1935/etv2sb/phd60/HasBahCa.m3u8
-#EXTINF:-1,KOREA SAKURA
+#EXTINF:-1 group-title="ADULTOS", SAKURA ADULTOS
 http://edge2.everyon.tv:1935/etv2sb/phd61/HasBahCa.m3u8
-#EXTINF:-1,KOREA PINK TV
-http://edge2.everyon.tv:1935/etv2sb/phd62/HasBahCa.m3u8
-#EXTINF:-1,KOREA DELIGHT EMPIRE
-http://edge2.everyon.tv:1935/etv2sb/phd63/HasBahCa.m3u8
-#EXTINF:-1,KOREA LIVETHING
-http://edge2.everyon.tv:1935/etv2sb/phd64/HasBahCa.m3u8
-#EXTINF:-1,KOREA THE O
-http://edge2.everyon.tv:1935/etv2sb/phd771/HasBahCa.m3u8
-#EXTINF:-1,KOREA PLUS
-http://edge2.everyon.tv:1935/etv2sb/phd992/HasBahCa.m3u8
-#EXTINF:-1,KOREA OHDEOK
-http://edge2.everyon.tv:1935/etv2sb/phd993/HasBahCa.m3u8
-#EXTINF:-1,czech +18 mmsh
+
+#EXTINF:-1 group-title="ADULTOS", ZCECH +18 ADULTOS
 mmsh://tv.webmisto.cz:7000
-#EXTINF:-1,Korea RTMP Penthouse
-rtmp://edge1.everyon.tv/etv1sb/phd927
-#EXTINF:-1,Korea RTMP SATISFACTION HD
-rtmp://main2sb.everyon.tv:1935/etv2sb/_definst_/pld499
-#EXTINF:-1,Korea RTMP ??phd1008
-rtmp://edge2.everyon.tv/etv2/phd1008
-#EXTINF:-1,Korea RTMP ??phd501
-rtmp://edge2.everyon.tv/etv2sb/phd501
-#EXTINF:-1,Korea RTMP ??phd499
-rtmp://edge2.everyon.tv/etv2sb/phd499
-#EXTINF:-1,Korea RTMP ??phd511
-rtmp://edge2.everyon.tv/etv2sb/phd511
-#EXTINF:-1,Korea RTMP ??phd60
-rtmp://edge2.everyon.tv/etv2sb/phd60
-#EXTINF:-1,Korea RTMP ??phd61
-rtmp://edge2.everyon.tv/etv2sb/phd61
-#EXTINF:-1,Korea RTMP ??phd62
-rtmp://edge2.everyon.tv/etv2sb/phd62
-#EXTINF:-1,Korea RTMP ??phd63
-rtmp://edge2.everyon.tv/etv2sb/phd63
-#EXTINF:-1,Korea RTMP ??phd64
-rtmp://edge2.everyon.tv/etv2sb/phd64
-#EXTINF:-1,Korea RTMP ??phd769
-rtmp://edge2.everyon.tv/etv2sb/phd769
-#EXTINF:-1,Korea RTMP ??phd771
-rtmp://edge2.everyon.tv/etv2sb/phd771
-#EXTINF:-1,Korea RTMP ??phd772
-rtmp://edge2.everyon.tv/etv2sb/phd772
-#EXTINF:-1,Korea RTMP ??phd968
-rtmp://edge2.everyon.tv/etv2sb/phd968
-#EXTINF:-1,Korea RTMP ??phd991
-rtmp://edge2.everyon.tv/etv2sb/phd991
-#EXTINF:-1,Korea RTMP ??phd992
-rtmp://edge2.everyon.tv/etv2sb/phd992
-#EXTINF:-1,Korea RTMP ??phd993
-rtmp://edge2.everyon.tv/etv2sb/phd993
-#EXTINF:-1,Korea RTMP 480*320 pld59
-rtmp://main2sb.everyon.tv:1935/etv2sb/_definst_/pld59
-#EXTINF:-1,Korea RTMP 480*320 pld60
-rtmp://main2sb.everyon.tv:1935/etv2sb/_definst_/pld60
-#EXTINF:-1,Korea RTMP 480*320 pld61
-rtmp://main2sb.everyon.tv:1935/etv2sb/_definst_/pld61
-#EXTINF:-1,Korea RTMP 480*320 pld62
-rtmp://main2sb.everyon.tv:1935/etv2sb/_definst_/pld62
-#EXTINF:-1,Korea RTMP 480*320 pld64
-rtmp://main2sb.everyon.tv:1935/etv2sb/_definst_/pld64
-
-#EXTINF:0,XXXHD 1 tv 
-http://188.165.220.116:8081/live/49/playlist.m3u8
-#EXTINF:0, XXXHD 2 tv 
-http://188.165.220.116:8081/live2/24/playlist.m3u8
-
