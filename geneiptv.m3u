@@ -349,92 +349,92 @@ http://cdn.ztreaming.com/t13radio/mobile.m3u8
 #EXTM3U
 #EXTINF:0,-Adultos-
 
-#EXTINF:-1 group-title="ADULTOS", ZCECH ADULTOS
+#EXTINF:-1 group-title="ADULTOS", Zcech ADULTOS
 mmsh://tv.webmisto.cz:7000
 
-#EXTINF:-1 group-title="ADULTOS", SATISFACTION ADULTOS
-http://main2sb.everyon.tv:1935/etv2sb/_definst_/pld499/paz.m3u8
-
-#EXTINF:-1 group-title="ADULTOS", PENTHOUSE HD ADULTOS
-http://edge1.everyon.tv:1935/etv1sb/phd927/paz.m3u8
-
-#EXTINF:-1 group-title="ADULTOS", HYHD ADULTOS
-http://edge1.everyon.tv:1935/etv1sb/phd928/paz.m3u8
-
-#EXTINF:-1 group-title="ADULTOS", HOT MOVIES ADULTOS
-http://edge2.everyon.tv:1935/etv2sb/phd511/paz.m3u8
-
-#EXTINF:-1 group-title="ADULTOS",PARADISE ADULTOS
-http://edge2.everyon.tv:1935/etv2/phd1008/paz.m3u8
-
-#EXTINF:-1 group-title="ADULTOS", HOT GIRL ADULTOS
-http://edge2.everyon.tv:1935/etv2sb/phd60/paz.m3u8
-
-#EXTINF:-1 group-title="ADULTOS", THE O ADULTOS
-http://edge2.everyon.tv:1935/etv2sb/phd771/paz.m3u8
-
-#EXTINF:-1 group-title="ADULTOS", CINERO ADULTOS
-http://edge2.everyon.tv:1935/etv2sb/phd59/paz.m3u8
-
-#EXTINF:-1 group-title="ADULTOS", OKADAI HD
-http://edge2.everyon.tv:1935/etv2/phd1003/paz.m3u8
-
-#EXTINF:-1 group-title="ADULTOS", PINK TV ADULTOS
-http://edge2.everyon.tv:1935/etv2sb/phd62/paz.m3u8
-
-#EXTINF:-1 group-title="ADULTOS", GIRLS TV ADULTOS
-http://edge2.everyon.tv:1935/etv2sb/phd501/paz.m3u8
-
-#EXTINF:-1 group-title="ADULTOS", DELIGHT EMPIRE ADULTOS
-http://edge2.everyon.tv:1935/etv2sb/phd63/paz.m3u8
-
-#EXTINF:-1 group-title="ADULTOS", PLUS ADULTOS
-http://edge2.everyon.tv:1935/etv2sb/phd992/paz.m3u8
-
-#EXTINF:-1 group-title="ADULTOS", OHDEOK ADULTOS
-http://edge2.everyon.tv:1935/etv2sb/phd993/paz.m3u8
-
-#EXTINF:-1 group-title="ADULTOS", LIVETHING ADULTOS
-http://edge2.everyon.tv:1935/etv2sb/phd64/paz.m3u8
-
-#EXTINF:-1 group-title="ADULTOS",PREMIUM ADULTOS
-http://edge2.everyon.tv:1935/etv2/phd1006/paz.m3u8
-
-#EXTINF:-1 group-title="ADULTOS", ASK TV ADULTOS
-http://edge2.everyon.tv:1935/etv2/phd1005/paz.m3u8
-
-#EXTINF:-1 group-title="ADULTOS", PRIVATE ADULTOS
+#EXTINF:-1 group-title="ADULTOS", Private ADULTOS
 http://178.33.126.213:1935/leved/privateCom/.m3u8
 
-#EXTINF:-1 group-title="ADULTOS", PRIVATE ADULTOS
+#EXTINF:-1 group-title="ADULTOS", Private ADULTOS
 http://62.210.88.244:8081/private/private/playlist.m3u8
+
+#EXTINF:-1 group-title="ADULTOS", Satisfaction ADULTOS
+http://main2sb.everyon.tv:1935/etv2sb/_definst_/pld499/paz.m3u8
+
+#EXTINF:-1 group-title="ADULTOS", Penthouse ADULTOS
+http://edge1.everyon.tv:1935/etv1sb/phd927/paz.m3u8
+
+#EXTINF:-1 group-title="ADULTOS", HY ADULTOS
+http://edge1.everyon.tv:1935/etv1sb/phd928/paz.m3u8
+
+#EXTINF:-1 group-title="ADULTOS", Hot Movies ADULTOS
+http://edge2.everyon.tv:1935/etv2sb/phd511/paz.m3u8
+
+#EXTINF:-1 group-title="ADULTOS",Paradise ADULTOS
+http://edge2.everyon.tv:1935/etv2/phd1008/paz.m3u8
+
+#EXTINF:-1 group-title="ADULTOS", Hot Girl ADULTOS
+http://edge2.everyon.tv:1935/etv2sb/phd60/paz.m3u8
+
+#EXTINF:-1 group-title="ADULTOS", The O ADULTOS
+http://edge2.everyon.tv:1935/etv2sb/phd771/paz.m3u8
+
+#EXTINF:-1 group-title="ADULTOS", Cinero ADULTOS
+http://edge2.everyon.tv:1935/etv2sb/phd59/paz.m3u8
+
+#EXTINF:-1 group-title="ADULTOS", Okadai HD
+http://edge2.everyon.tv:1935/etv2/phd1003/paz.m3u8
+
+#EXTINF:-1 group-title="ADULTOS", Pink Tv ADULTOS
+http://edge2.everyon.tv:1935/etv2sb/phd62/paz.m3u8
+
+#EXTINF:-1 group-title="ADULTOS", Girls Tv ADULTOS
+http://edge2.everyon.tv:1935/etv2sb/phd501/paz.m3u8
+
+#EXTINF:-1 group-title="ADULTOS", Deligh Empire ADULTOS
+http://edge2.everyon.tv:1935/etv2sb/phd63/paz.m3u8
+
+#EXTINF:-1 group-title="ADULTOS", Plus ADULTOS
+http://edge2.everyon.tv:1935/etv2sb/phd992/paz.m3u8
+
+#EXTINF:-1 group-title="ADULTOS", Okdeok ADULTOS
+http://edge2.everyon.tv:1935/etv2sb/phd993/paz.m3u8
+
+#EXTINF:-1 group-title="ADULTOS", Livething ADULTOS
+http://edge2.everyon.tv:1935/etv2sb/phd64/paz.m3u8
+
+#EXTINF:-1 group-title="ADULTOS",Premium ADULTOS
+http://edge2.everyon.tv:1935/etv2/phd1006/paz.m3u8
+
+#EXTINF:-1 group-title="ADULTOS", Ask Tv ADULTOS
+http://edge2.everyon.tv:1935/etv2/phd1005/paz.m3u8
+
+#EXTINF:-1 group-title="ADULTOS", Jasmin Tv ADULTOS
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/PAZ_Chega_de_Guerras.m3u8
+
+#EXTINF:-1 group-title="ADULTOS", Babestation Blue ADULTOS
+http://178.33.126.213:1935/cellcast/encoder32/.m3u8
+
+#EXTINF:-1 group-title="ADULTOS", Hot Shots ADULTOS
+http://46.249.213.93/iPhone/HLS_TS/broadcast/hotshots-tablet.3gp/hotshots-tablet.3gp-mr649k.m3u8
+
+#EXTINF:-1 group-title="ADULTOS", Diva Lite ADULTOS
+http://stream02.yamgo.com/iPhone/broadcast/you_diva_lite-tablet.3gp/you_diva_lite-tablet.3gp-mr657k.m3u8
+
+#EXTINF:-1 group-title="ADULTOS", Hot 100 ADULTOS
+http://stream02.yamgo.com/iPhone/HLS_TS/broadcast/hot_100-tablet.3gp/hot_100-tablet.3gp-mr647k.m3u8
+
+#EXTINF:-1 group-title="ADULTOS", Power Girls Tv ADULTOS
+http://46.249.213.93/iPhone/broadcast/powergirls-tablet.3gp/powergirls-tablet.3gp-mr648k.m3u8
+
+#EXTINF:-1 group-title="ADULTOS", Sexzone ADULTOS
+http://62.210.83.180:8081/sexzonehd/sexzonehd/chunklist_w1684109871.m3u8
+
+#EXTINF:-1 group-title="ADULTOS", Sakura ADULTOS
+http://edge2.everyon.tv:1935/etv2sb/phd61/HasBahCa.m3u8
+
+#EXTINF:-1 group-title="ADULTOS", Playboy Tv ADULTOS
+http://playback.d2see.com:1935/wavemachine-live01/_definst_/mp4:playboytv_channel1/chunklist_w550654983.m3u8
 
 #EXTINF:-1 group-title="ADULTOS", XXX ADULTOS
 http://wowza1.videos.movile.com:8080/live/smil:adulto_1.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="ADULTOS", JASMIN TV ADULTOS
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/PAZ_Chega_de_Guerras.m3u8
-
-#EXTINF:-1 group-title="ADULTOS", XXX ADULTOS
-http://playback.d2see.com:1935/wavemachine-live01/_definst_/mp4:playboytv_channel1/chunklist_w550654983.m3u8
-
-#EXTINF:-1 group-title="ADULTOS", BABESTATION BLUE ADULTOS
-http://178.33.126.213:1935/cellcast/encoder32/.m3u8
-
-#EXTINF:-1 group-title="ADULTOS", HOT SHOTS ADULTOS
-http://46.249.213.93/iPhone/HLS_TS/broadcast/hotshots-tablet.3gp/hotshots-tablet.3gp-mr649k.m3u8
-
-#EXTINF:-1 group-title="ADULTOS", DIVA LITE ADULTOS
-http://stream02.yamgo.com/iPhone/broadcast/you_diva_lite-tablet.3gp/you_diva_lite-tablet.3gp-mr657k.m3u8
-
-#EXTINF:-1 group-title="ADULTOS", HOT 100 ADULTOS
-http://stream02.yamgo.com/iPhone/HLS_TS/broadcast/hot_100-tablet.3gp/hot_100-tablet.3gp-mr647k.m3u8
-
-#EXTINF:-1 group-title="ADULTOS", POWER GIRL TV ADULTOS
-http://46.249.213.93/iPhone/broadcast/powergirls-tablet.3gp/powergirls-tablet.3gp-mr648k.m3u8
-
-#EXTINF:-1 group-title="ADULTOS", SEXZONE ADULTOS
-http://62.210.83.180:8081/sexzonehd/sexzonehd/chunklist_w1684109871.m3u8
-
-#EXTINF:-1 group-title="ADULTOS", SAKURA ADULTOS
-http://edge2.everyon.tv:1935/etv2sb/phd61/HasBahCa.m3u8
