@@ -208,27 +208,6 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8?
 #EXTINF:-1 group-title="LATINOS",El Tiempo COLOMBIA
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8?
 
-#EXTINF:-1 group-title="LATINOS",Mega ESPAÑA
-http://a3live-lh.akamaihd.net/i/mega/megageo_1@328914/index_4_av-b.m3u8
-
-#EXTINF:-1 group-title="LATINOS",Antena 3 ESPAÑA
-http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8
-
-#EXTINF:-1 group-title="LATINOS",La Sexta ESPAÑA
-http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel02/la_sexta_hd_1548K_1280x720_main.m3u8
-
-#EXTINF:-1 group-title="LATINOS",TVE 2 ESPAÑA
-http://iphonelive.rtve.es/LA2_LV3_IPH/bitrate_2.m3u8
-
-#EXTINF:-1 group-title="LATINOS",RTVE 24H ESPAÑA
-http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
-
-#EXTINF:-1 group-title="LATINOS",Telecinco ESPAÑA
-http://mdsios2-lh.akamaihd.net/i/mitele/esmediaset_21@168473/index_0_av-p.m3u8
-
-#EXTINF:-1 group-title="LATINOS",RT ESPAÑA
-http://rt.ashttp14.visionip.tv/live/RT_en_Espanol-SD/chunklist.m3u8
-
 #EXTINF:-1 group-title="LATINOS",Telesistema REPUBLICA DOMINICANA
 http://mek4.mekstream.com/telesistema/smil:telesistema.smil/chunklist_w1839003835_b764000.m3u8
 
@@ -261,6 +240,45 @@ http://iphone-streaming.ustream.tv/uhls/13870671/streams/live/iphone/playlist.m3
 
 #EXTINF:-1 group-title="LATINOS",Chef Tv BRAZIL
 http://flashd.localmidia.com.br:1935/cheftv/aovivo/live.m3u8
+
+#EXTM3U
+#EXTINF:0,-España-
+
+#EXTINF:-1 group-title="ESPAÑA",Mega ESPAÑA
+http://a3live-lh.akamaihd.net/i/mega/megageo_1@328914/index_4_av-b.m3u8
+
+#EXTINF:-1 group-title="ESPAÑA",Castilla L.M. ESPAÑA
+http://195.55.74.210/rtvcm/live.flv?GKID=a9b379844fff11e5a75100163ea2c744 
+
+#EXTINF:-1 group-title="ESPAÑA",Canal Costa ESPAÑA
+http://cls.todostreaming.eu/azahara/lepevision/playlist.m3u8
+
+#EXTINF:-1 group-title="ESPAÑA",Marbella Tv ESPAÑA
+http://cls.provideo.es/marbellatv/livestream/playlist.m3u8
+
+#EXTINF:-1 group-title="ESPAÑA",Extremadura ESPAÑA
+http://corporacionextremena-live.hls.adaptive.level3.net/hls-live/corporacionextremena-channel02/_definst_/live.m3u8
+
+#EXTINF:-1 group-title="ESPAÑA",Antena 3 ESPAÑA
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8
+
+#EXTINF:-1 group-title="ESPAÑA",La Sexta ESPAÑA
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel02/la_sexta_hd_1548K_1280x720_main.m3u8
+
+#EXTINF:-1 group-title="ESPAÑA",TVE 2 ESPAÑA
+http://iphonelive.rtve.es/LA2_LV3_IPH/bitrate_2.m3u8
+
+#EXTINF:-1 group-title="ESPAÑA",RTVE 24H ESPAÑA
+http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
+
+#EXTINF:-1 group-title="ESPAÑA",Telecinco ESPAÑA
+http://mdsios2-lh.akamaihd.net/i/mitele/esmediaset_21@168473/index_0_av-p.m3u8
+
+#EXTINF:-1 group-title="ESPAÑA",RT ESPAÑA
+http://rt.ashttp14.visionip.tv/live/RT_en_Espanol-SD/chunklist.m3u8
+
+#EXTINF:-1 group-title="ESPAÑA",Tel 5 ESPAÑA
+http://mdsios1-lh.akamaihd.net/i/mitele/esmediaset_11@168471/index_0_av-b.m3u8
 
 #EXTM3U
 #EXTINF:0,-Musica-
