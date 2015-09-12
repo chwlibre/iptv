@@ -262,12 +262,6 @@ http://iphone-streaming.ustream.tv/uhls/13870671/streams/live/iphone/playlist.m3
 #EXTINF:-1 group-title="LATINOS",Chef Tv BRAZIL
 http://flashd.localmidia.com.br:1935/cheftv/aovivo/live.m3u8
 
-#EXTINF:-1 group-title="LATINOS",Fashion Tv RUSIA
-http://j.mp/ZCH_C04_FASHIONTV_sly
-
-#EXTINF:-1 group-title="LATINOS",Fashion One RUSIA
-http://j.mp/ZCH_C04_FASHIONONEHD_sly
-
 #EXTM3U
 #EXTINF:0,-Musica-
 
@@ -439,7 +433,7 @@ http://62.210.83.180:8081/sexzonehd/sexzonehd/chunklist_w1684109871.m3u8
 #EXTINF:-1 group-title="ADULTOS", Sakura ADULTOS
 http://edge2.everyon.tv:1935/etv2sb/phd61/HasBahCa.m3u8
 
-#EXTINF:-1 group-title="ADULTOS", Playboy Tv ADULTOS
+#EXTINF:-1 group-title="ADULTOS", XXX ADULTOS
 http://playback.d2see.com:1935/wavemachine-live01/_definst_/mp4:playboytv_channel1/chunklist_w550654983.m3u8
 
 #EXTINF:-1 group-title="ADULTOS", XXX ADULTOS
