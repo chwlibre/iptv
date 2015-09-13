@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:0,beIN SportsÑ
+rtmp://$OPT:rtmp-raw=rtmp://181.214.35.7:19350/live/ playpath=iecaiuMiwDFL swfUrl=http://www.letgo.tv/jwplayer.flash.swf live=1 pageUrl=http://www.letgo.tv/embed.php?channel=521&vw=650&vh=400
