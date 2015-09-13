@@ -494,6 +494,9 @@ http://109.71.162.112:1935/live/sd.jasminchannel.stream/PAZ_Chega_de_Guerras.m3u
 #EXTINF:-1 group-title="ADULTOS", Babestation Blue ADULTOS
 http://178.33.126.213:1935/cellcast/encoder32/.m3u8
 
+#EXTINF:0 group-title="ADULTOS",Blue Hustler ADULTOS
+http://fe-nw.svc.iptv.rt.ru/hls/CH_C03_BLUEHUSTLER/variant.m3u8?version=2
+
 #EXTINF:-1 group-title="ADULTOS", Hot Shots ADULTOS
 http://46.249.213.93/iPhone/HLS_TS/broadcast/hotshots-tablet.3gp/hotshots-tablet.3gp-mr649k.m3u8
 
