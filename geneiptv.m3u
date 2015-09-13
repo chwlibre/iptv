@@ -247,7 +247,7 @@ http://flashd.localmidia.com.br:1935/cheftv/aovivo/live.m3u8
 #EXTINF:-1 group-title="ESPAÑA",Mega ESPAÑA
 http://a3live-lh.akamaihd.net/i/mega/megageo_1@328914/index_4_av-b.m3u8
 
-#EXTINF:-1 group-title="ESPAÑA",Castilla L.M. ESPAÑA
+#EXTINF:-1 group-title="ESPAÑA",Castilla La Mancha ESPAÑA
 http://195.55.74.210/rtvcm/live.flv?GKID=a9b379844fff11e5a75100163ea2c744 
 
 #EXTINF:-1 group-title="ESPAÑA",Canal Costa ESPAÑA
@@ -280,333 +280,290 @@ http://rt.ashttp14.visionip.tv/live/RT_en_Espanol-SD/chunklist.m3u8
 #EXTINF:-1 group-title="ESPAÑA",Tel 5 ESPAÑA
 http://mdsios1-lh.akamaihd.net/i/mitele/esmediaset_11@168471/index_0_av-b.m3u8
 
-LA1
+#EXTINF:-1 group-title="ESPAÑA",LA1
 http://iphonelive.rtve.es/LA1_LV3_IPH/bitrate_2.m3u8
-LA2
+#EXTINF:-1 group-title="ESPAÑA",LA2
 http://iphonelive.rtve.es/LA2_LV3_IPH/bitrate_2.m3u8
-ant3
+#EXTINF:-1 group-title="ESPAÑA",ant3
 http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/index.m3u8
-tel 5
+#EXTINF:-1 group-title="ESPAÑA",tel 5
 http://mdsios1-lh.akamaihd.net/i/mitele/esmediaset_11@168471/index_0_av-b.m3u8
-***ta
+#EXTINF:-1 group-title="ESPAÑA",***ta
 http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel02/index.m3u8
-neox
+#EXTINF:-1 group-title="ESPAÑA",neox
 http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel03/index.m3u8
-24H
+#EXTINF:-1 group-title="ESPAÑA",24H
 http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
-TELEDEPORTE
+#EXTINF:-1 group-title="ESPAÑA",TELEDEPORTE
 http://iphonelive.rtve.es/TDP_LV3_IPH/bitrate_2.m3u8
-FERROL
+#EXTINF:-1 group-title="ESPAÑA",FERROL
 rtsp://streaming.arsenet.com/tvf
-MELILLA
+#EXTINF:-1 group-title="ESPAÑA",MELILLA
 http://stream.tvmelilla.es:1935/tvmelilla/live/playlist.m3u8
-BILBAO
+#EXTINF:-1 group-title="ESPAÑA",BILBAO
 rtmp://149.11.34.6:1935/live/telebilbao.stream
-DIATENERIFE
+#EXTINF:-1 group-title="ESPAÑA",DIATENERIFE
 http://teledifusion.tv:1935/dia/dia/playlist.m3u8
-LEVANTE
+#EXTINF:-1 group-title="ESPAÑA",LEVANTE
 http://teledifusion.tv:1935/levantetvlive/levantetvlive/playlist.m3u8
-GIRONAtv
+#EXTINF:-1 group-title="ESPAÑA",GIRONAtv
 rtmp://tvgirona.dnssw.net/live/Icontouch
-TvTAXI
+#EXTINF:-1 group-title="ESPAÑA",TvTAXI
 http://teletaxitv.gtt.stream.flumoti…taxitv.flv.m3u
-ZARAGOZATV
+#EXTINF:-1 group-title="ESPAÑA",ZARAGOZATV
 http://streaming.enetres.net/CD9843D3A4014583ACED8D757D30EAE5022/mobile/playlist.m3u8
-TV elche
+#EXTINF:-1 group-title="ESPAÑA",TV elche
 rtmp://teledifusion.tv/teleelx/teleelxlive
-teleasturias
+#EXTINF:-1 group-title="ESPAÑA",teleasturias
 rtmp://149.11.34.6/live/teleasturias.stream
-almeria
+#EXTINF:-1 group-title="ESPAÑA",almeria
 rtmp://streaming6.streamteca.com/live/4e57e7a79d174e0bb4c0155d519ec97d
-guadalajara
+#EXTINF:-1 group-title="ESPAÑA",guadalajara
 rtmp://200.52.193.57:1935/live/unique/live_2650
-TOLEDO
+#EXTINF:-1 group-title="ESPAÑA",TOLEDO
 rtmp://149.11.34.6/live/teletoledo.stream
 
-TOROStv
+#EXTINF:-1 group-title="ESPAÑA",TOROStv
 http://portugaliptv.dyndns.org:8087/toros
 
-r.madrid hd
+#EXTINF:-1 group-title="ESPAÑA",r.madrid hd
 http://portugaliptv.dyndns.org:8085/real_madrid
 
-CAZA Y PESCA MULTI AUDIO ESPAÑOL
+#EXTINF:-1 group-title="ESPAÑA",CAZA Y PESCA MULTI AUDIO ESPAÑOL
 http://portugaliptv.dyndns.org:8088/caza_y_pesca
 
-EURONEWS MULTI AUDIO ESPAÑOL
+#EXTINF:-1 group-title="ESPAÑA",EURONEWS MULTI AUDIO ESPAÑOL
 http://portugaliptv.dyndns.org:8087/euronews
 
-CORREO TV
+#EXTINF:-1 group-title="ESPAÑA",CORREO TV
 http://mdsios1-lh.akamaihd.net/i/mitele/esmediaset_11@168471/index_0_av-b.m3u8
 
-Cambiar .45 por otro numero para buscar canal
+#EXTINF:-1 group-title="ESPAÑA",Cambiar .45 por otro numero para buscar canal
 http://79.153.121.189:4000/udp/239.0.0.45:8208
 
- ANDALUCIATV 
+#EXTINF:-1 group-title="ESPAÑA",ANDALUCIATV 
 http://andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevisionh264.flv.m3u
 
-NOVA
+#EXTINF:-1 group-title="ESPAÑA",NOVA
 http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel11/index.m3u8
 
-CINEsesion
+#EXTINF:-1 group-title="ESPAÑA",CINEsesion
 rtmp://videos3.lasteles.com/live/sesioncontinuatv.stream
 
-SERIESESPAÑA
+#EXTINF:-1 group-title="ESPAÑA",SERIESESPAÑA
 rtmp://50.7.78.138:443/live/live_rajaduradplacard
 
-CINE CLASICO - By Hispared
+#EXTINF:-1 group-title="ESPAÑA",CINE CLASICO - By Hispared
 rtmp://videos3.lasteles.com/live/sesoncontinuatv.stream
 
 
-C-LaMancha
+#EXTINF:-1 group-title="ESPAÑA",C-LaMancha
 http://live.rtvcm.stream.flumotion.com/rtvcm/live.flv.m3u 
 
- ANDALUCIATV 
+ #EXTINF:-1 group-title="ESPAÑA",ANDALUCIATV 
  http://andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevisionh264.flv.m3u
 
- CANARIASnet 
+ #EXTINF:-1 group-title="ESPAÑA",CANARIASnet 
  http://streamrtvcdrb.mad.idec.net/rtvcnet/rtvcnet.drb.stream/playlist.m3u8 
 
- CYLeon 
+ #EXTINF:-1 group-title="ESPAÑA",CYLeon 
  rtmp://cdn.s10.eu.nice264.com/niceLiveServer/cyl_cyltvlivem_MB_698ext 
 
- esport3 
+ #EXTINF:-1 group-title="ESPAÑA",esport3 
  http://ccma-tva-es-abertis-live.hls.adaptive.level3.net/es/ngrp:es3_web/chunklist_b798000_DVR.m3u8 
 
- TvTAXI 
+ #EXTINF:-1 group-title="ESPAÑA",TvTAXI 
  http://teletaxitv.gtt.stream.flumotion.com/gtt/teletaxitv.flv.m3u 
 
- ARAGON 
+ #EXTINF:-1 group-title="ESPAÑA",ARAGON 
  http://149.11.34.6:1935/live/aragontv.stream/vcx7.m3u8 
 
- TV3 
+ #EXTINF:-1 group-title="ESPAÑA",TV3 
  http://www.tv3.cat/directetv3cat/tv3catpc.m3u8 
 
- IB3 
+ #EXTINF:-1 group-title="ESPAÑA",IB3 
  http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/IB3.m3u8 
 
- ETB 
+ #EXTINF:-1 group-title="ESPAÑA",ETB 
  http://etbvhlsnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@123113/master.m3u8 
 
- TVelche 
+ #EXTINF:-1 group-title="ESPAÑA",TVelche 
  rtmp://teledifusion.tv/teleelx/teleelxlive 
 
- CANALRIOJA 
+ #EXTINF:-1 group-title="ESPAÑA",CANALRIOJA 
  http://teledifusion.tv:1935/rioja/rioja/playlist.m3u8 
 
- ZARAGOZATV 
+ #EXTINF:-1 group-title="ESPAÑA",ZARAGOZATV 
  http://streaming.enetres.net/CD9843D3A4014583ACED8D757D30EAE5022/mobile/playlist.m3u8
 
- TVGRANADA 
+ #EXTINF:-1 group-title="ESPAÑA",TVGRANADA 
  http://cdns724ste1010.multistream.net/tgsietelive/amlst:tvgranada/chunklist_b750000.m3u8
 
- PopularCantabria 
+ #EXTINF:-1 group-title="ESPAÑA",PopularCantabria 
  rtmp://flash3.todostreaming.es/ptvcantabria/livestream 
 
- TELEBILBAO 
+ #EXTINF:-1 group-title="ESPAÑA",TELEBILBAO 
  rtmp://149.11.34.6/live/telebilbao.stream 
 
- 8TV 
+ #EXTINF:-1 group-title="ESPAÑA",8TV 
 http://91.121.143.193:1935/liverepeater/8TV/8aldia-directe /playlist.m3u8 
 
- GIRONAtv 
+ #EXTINF:-1 group-title="ESPAÑA",GIRONAtv 
  rtmp://tvgirona.dnssw.net/live/Icontouch 
 
- ANDORRA 
+ #EXTINF:-1 group-title="ESPAÑA",ANDORRA 
  rtmp://194.158.80.31/live/web 
 
- I+CiudadReal 
+ #EXTINF:-1 group-title="ESPAÑA",I+CiudadReal 
  rtmp://149.11.34.6/live/imastv.stream 
 
- CORREOTV-Sevilla 
+ #EXTINF:-1 group-title="ESPAÑA",CORREOTV-Sevilla 
  http://cls.elitehd-audiovisuales.com/luztv/livestream/playlist.m3u8 
 
- GRANADA7 
+ #EXTINF:-1 group-title="ESPAÑA",GRANADA7 
  http://cdns724ste1021.multistream.net/StreamingDirectolive/TG7-200/playlist.m3u8
 
- HUELVACOSTA 
+ #EXTINF:-1 group-title="ESPAÑA",HUELVACOSTA 
  http://cls.todostreaming.eu/azahara/lepevision/chunklist.m3u8 
 
- MELILLA 
+ #EXTINF:-1 group-title="ESPAÑA",MELILLA 
  http://stream.tvmelilla.es:1935/tvmelilla/live/playlist.m3u8 
 
- CADIZ 
+ #EXTINF:-1 group-title="ESPAÑA",CADIZ 
  http://flash3.todostreaming.es/unatv2/live/playlist.m3u8 
 
- SEVILLAFC 
+ #EXTINF:-1 group-title="ESPAÑA",SEVILLAFC 
  rtmp://flash0.80137-live0.dna.qbrick.com/80137-live0/sevillafc 
 
- MALAGATV 
+ #EXTINF:-1 group-title="ESPAÑA",MALAGATV 
  mms://canallocal.ptvtelecom.com/PTV-MALAGA 
- Mijas 
+ #EXTINF:-1 group-title="ESPAÑA",Mijas 
  rtmp://teledifusion.tv/mijastv/mijastvlive 
 
- LEVANTE 
+ #EXTINF:-1 group-title="ESPAÑA",LEVANTE 
  http://teledifusion.tv:1935/levantetvlive/levantetvlive/playlist.m3u8 
 
- OJOSSOLIDARIOS-Gran canaria 
+ #EXTINF:-1 group-title="ESPAÑA",OJOSSOLIDARIOS-Gran canaria 
  http://wm.mad.interhost.com:80/OjosSolidariosTv/playlist.m3u8 
 
- tvmiño 
+ #EXTINF:-1 group-title="ESPAÑA",tvmiño 
  http://local.grupo5.com:8081/stream.flv 
 
- 25BARBASTRO 
+ #EXTINF:-1 group-title="ESPAÑA",25BARBASTRO 
  http://flash3.todostreaming.es/tvbarbastro/livestream/playlist.m3u8 
- BILBAO 
+ #EXTINF:-1 group-title="ESPAÑA",BILBAO 
  rtmp://149.11.34.6:1935/live/telebilbao.stream 
 
- ASTURIAS 
+ #EXTINF:-1 group-title="ESPAÑA",ASTURIAS 
  rtmp://149.11.34.6:1935/live//teleasturias.stream 
 
- TOLEDO 
+ #EXTINF:-1 group-title="ESPAÑA",TOLEDO 
  http://flash3.todostreaming.es/edesco/livestream/playlist.m3u8 
 
- ELITV 
+ #EXTINF:-1 group-title="ESPAÑA",ELITV 
  mms://178.33.117.87/ELITE-TV 
 
- RIBERA-Valencia 
+ #EXTINF:-1 group-title="ESPAÑA",RIBERA-Valencia 
  http://flash3.todostreaming.es/ribera/livestream/playlist.m3u8 
 
- TV4-Castellon 
+ #EXTINF:-1 group-title="ESPAÑA",TV4-Castellon 
  http://flash3.todostreaming.es/15o8376r/mystream/playlist.m3u8 
 
- DIRECTOTV 
+ #EXTINF:-1 group-title="ESPAÑA",DIRECTOTV 
  rtmp://87.106.183.39/live/myStream_2 
 
- ONDACEROTV 
+ #EXTINF:-1 group-title="ESPAÑA",ONDACEROTV 
  rtmp://antena3fms35livefs.fplive.net/antena3fms35live-live//stream-eventos6_1 
 
- RIOJATV 
+ #EXTINF:-1 group-title="ESPAÑA",RIOJATV 
  mms://87.106.208.121/stv 
 
- FERROL 
+ #EXTINF:-1 group-title="ESPAÑA",FERROL 
  rtsp://streaming.arsenet.com/tvf 
 
- NAVARRATV 
+ #EXTINF:-1 group-title="ESPAÑA",NAVARRATV 
   http://cdn.s9.eu.nice264.com:1935/niceLiveServer/_definst_/NTV_livenatvmb_MB_478/chunklist.m3u8?wowzasessionid=136553301&secHash=cdf70cbb4f66cb4e50c7090c5d9b32dc  
 
- LIBERTADIGITALTV 
+ #EXTINF:-1 group-title="ESPAÑA",LIBERTADIGITALTV 
  http://149.11.34.6:1935/live/ldtv.stream/playlist.m3u8
  
- toros
+#EXTINF:-1 group-title="ESPAÑA",toros
 http://www.hispaniatv.tv/TV/Nacionales/canal-plus-toros.html
-plus 1 hd
+#EXTINF:-1 group-title="ESPAÑA",plus 1 hd
 http://www.hispaniatv.tv/TV/Nacionales/canal-plus-1.html
-plus accion
+#EXTINF:-1 group-title="ESPAÑA",plus accion
 http://www.hispaniatv.tv/TV/Nacionales/canal-plus-accion.html
-dcine
+#EXTINF:-1 group-title="ESPAÑA",dcine
 http://www.hispaniatv.tv/TV/Nacionales/canal-plus-dcine.html
-hollywood
+#EXTINF:-1 group-title="ESPAÑA",hollywood
 http://www.hispaniatv.tv/TV/Nacionales/holliwood.html
-calle 13
+#EXTINF:-1 group-title="ESPAÑA",calle 13
 http://www.hispaniatv.tv/TV/Nacionales/calle-13.html
-tnt
+#EXTINF:-1 group-title="ESPAÑA",tnt
 http://www.hispaniatv.tv/TV/Nacionales/tnt.html
 
-GALICIA
+#EXTINF:-1 group-title="ESPAÑA",GALICIA
 http://myplace.dnsalias.com:6262/live/pt/gratis/89.ts
 
-#EXTINF:-1,Premier TV
+#EXTINF:-1 group-title="ESPAÑA",Premier TV
 http://cctv-lh.akamaihd.net/i/premiertv1010_live@125115/index_1080p_av-p.m3u8
-#EXTINF:-1,Futbolsinlimites
+#EXTINF:-1 group-title="ESPAÑA",Futbolsinlimites
 http://cctv2-lh.akamaihd.net/i/fslimites2000_live@125186/index_1080p_av-p.m3u8
-#EXTINF:-1,Rivo TV 7
+#EXTINF:-1 group-title="ESPAÑA",Rivo TV 7
 http://cctv2-lh.akamaihd.net/i/rivotv7_live@125189/master.m3u8
-#EXTINF:-1,Crivos Channel
+#EXTINF:-1 group-title="ESPAÑA",Crivos Channel
 http://199.168.116.10:1935/app/crivos-channel/playlist.m3u8
-#EXTINF:-1,Diretta Calcio 1 HD
+#EXTINF:-1 group-title="ESPAÑA",Diretta Calcio 1 HD
 http://cctv-lh.akamaihd.net/i/calcio01hq_live@125109/index_1080p_av-p.m3u8
-#EXTINF:-1,Futandres
+#EXTINF:-1 group-title="ESPAÑA",Futandres
 http://cctv-lh.akamaihd.net/i/marvoyu_live@125114/index_1080p_av-p.m3u8
-#EXTINF:-1,Azulyblanco TV
+#EXTINF:-1 group-title="ESPAÑA",Azulyblanco TV
 http://hls.goodgame.ru/hls/33998.m3u8
-#EXTINF:-1,Canal+ Liga De Campeones
+#EXTINF:-1 group-title="ESPAÑA",Canal+ Liga De Campeones
 http://universalhdlive.marca.com/i/niagara4100_1@100200/index_1_av-p.m3u8
 
-LA1
+#EXTINF:-1 group-title="ESPAÑA",LA1
 http://iphonelive.rtve.es/LA1_LV3_IPH/bitrate_2.m3u8
-LA2 
+#EXTINF:-1 group-title="ESPAÑA",LA2 
 http://iphonelive.rtve.es/LA2_LV3_IPH/bitrate_2.m3u8
-ant3
+#EXTINF:-1 group-title="ESPAÑA",ant3
 http://antena3-aos1-apple-live.adapt...l01/index.m3u8
-tel 5 
+#EXTINF:-1 group-title="ESPAÑA",tel 5 
 http://mdsios1-lh.akamaihd.net/i/mit...ex_0_av-b.m3u8
-sexta
+#EXTINF:-1 group-title="ESPAÑA",sexta
 http://antena3-aos1-apple-live.adapt...l02/index.m3u8
-neox
+#EXTINF:-1 group-title="ESPAÑA",neox
 http://antena3-aos1-apple-live.adapt...l03/index.m3u8
-24H 
+#EXTINF:-1 group-title="ESPAÑA",24H 
 http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
-TELEDEPORTE 
+#EXTINF:-1 group-title="ESPAÑA",TELEDEPORTE 
 http://iphonelive.rtve.es/TDP_LV3_IPH/bitrate_2.m3u8
-FERROL 
+#EXTINF:-1 group-title="ESPAÑA",FERROL 
 rtsp://streaming.arsenet.com/tvf
-MELILLA 
+#EXTINF:-1 group-title="ESPAÑA",MELILLA 
 http://stream.tvmelilla.es:1935/tvme.../playlist.m3u8
-BILBAO 
+#EXTINF:-1 group-title="ESPAÑA",BILBAO 
 rtmp://149.11.34.6:1935/live/telebilbao.stream
-DIATENERIFE 
+#EXTINF:-1 group-title="ESPAÑA",DIATENERIFE 
 http://teledifusion.tv:1935/dia/dia/playlist.m3u8
-LEVANTE 
+#EXTINF:-1 group-title="ESPAÑA",LEVANTE 
 http://teledifusion.tv:1935/levantet.../playlist.m3u8
-GIRONAtv
+#EXTINF:-1 group-title="ESPAÑA",GIRONAtv
 rtmp://tvgirona.dnssw.net/live/Icontouch
-TvTAXI
+#EXTINF:-1 group-title="ESPAÑA",TvTAXI
 http://teletaxitv.gtt.stream.flumoti...taxitv.flv.m3u
-ZARAGOZATV
+#EXTINF:-1 group-title="ESPAÑA",ZARAGOZATV
 http://streaming.enetres.net/CD9843D.../playlist.m3u8
-TV elche
+#EXTINF:-1 group-title="ESPAÑA",TV elche
 rtmp://teledifusion.tv/teleelx/teleelxlive
-teleasturias 
+#EXTINF:-1 group-title="ESPAÑA",teleasturias 
 rtmp://149.11.34.6/live/teleasturias.stream
-almeria 
+#EXTINF:-1 group-title="ESPAÑA",almeria 
 rtmp://streaming6.streamteca.com/live/4e57e7a79d174e0bb4c0155d519ec97d
-guadalajara 
+#EXTINF:-1 group-title="ESPAÑA",guadalajara 
 rtmp://200.52.193.57:1935/live/unique/live_2650
-TOLEDO 
+#EXTINF:-1 group-title="ESPAÑA",TOLEDO 
 rtmp://149.11.34.6/live/teletoledo.stream 
-
-LA1
-http://iphonelive.rtve.es/LA1_LV3_IPH/bitrate_2.m3u8
-LA2
-http://iphonelive.rtve.es/LA2_LV3_IPH/bitrate_2.m3u8
-ant3
-http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/index.m3u8
-tel 5
-http://mdsios1-lh.akamaihd.net/i/mitele/esmediaset_11@168471/index_0_av-b.m3u8
-***ta
-http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel02/index.m3u8
-neox
-http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel03/index.m3u8
-24H
-http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
-TELEDEPORTE
-http://iphonelive.rtve.es/TDP_LV3_IPH/bitrate_2.m3u8
-FERROL
-rtsp://streaming.arsenet.com/tvf
-MELILLA
-http://stream.tvmelilla.es:1935/tvmelilla/live/playlist.m3u8
-BILBAO
-rtmp://149.11.34.6:1935/live/telebilbao.stream
-DIATENERIFE
-http://teledifusion.tv:1935/dia/dia/playlist.m3u8
-LEVANTE
-http://teledifusion.tv:1935/levantetvlive/levantetvlive/playlist.m3u8
-GIRONAtv
-rtmp://tvgirona.dnssw.net/live/Icontouch
-TvTAXI
-http://teletaxitv.gtt.stream.flumoti…taxitv.flv.m3u
-ZARAGOZATV
-http://streaming.enetres.net/CD9843D3A4014583ACED8D757D30EAE5022/mobile/playlist.m3u8
-TV elche
-rtmp://teledifusion.tv/teleelx/teleelxlive
-teleasturias
-rtmp://149.11.34.6/live/teleasturias.stream
-almeria
-rtmp://streaming6.streamteca.com/live/4e57e7a79d174e0bb4c0155d519ec97d
-guadalajara
-rtmp://200.52.193.57:1935/live/unique/live_2650
-TOLEDO
-rtmp://149.11.34.6/live/teletoledo.stream
 
 
 #EXTM3U
