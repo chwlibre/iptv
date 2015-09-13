@@ -283,47 +283,60 @@ http://mdsios2-lh.akamaihd.net/i/mitele/esmediaset_21@168473/index_0_av-p.m3u8
 #EXTINF:-1 group-title="ESPAÑA",RT ESPAÑA
 http://rt.ashttp14.visionip.tv/live/RT_en_Espanol-SD/chunklist.m3u8
 
-#EXTINF:-1 group-title="ESPAÑA",La 1
+#EXTINF:-1 group-title="ESPAÑA",La 1 ESPAÑA
 http://iphonelive.rtve.es/LA1_LV3_IPH/bitrate_2.m3u8
 
-#EXTINF:-1 group-title="ESPAÑA",La 2
+#EXTINF:-1 group-title="ESPAÑA",La 2 ESPAÑA
 http://iphonelive.rtve.es/LA2_LV3_IPH/bitrate_2.m3u8
 
-#EXTINF:-1 group-title="ESPAÑA",Melilla
+#EXTINF:-1 group-title="ESPAÑA",Melilla ESPAÑA
 http://stream.tvmelilla.es:1935/tvmelilla/live/playlist.m3u8
 
-#EXTINF:-1 group-title="ESPAÑA",Levante
+#EXTINF:-1 group-title="ESPAÑA",Levante ESPAÑA
 http://teledifusion.tv:1935/levantetvlive/levantetvlive/playlist.m3u8
 
-#EXTINF:-1 group-title="ESPAÑA",Canarias Net 
+#EXTINF:-1 group-title="ESPAÑA",Canarias Net ESPAÑA
 http://streamrtvcdrb.mad.idec.net/rtvcnet/rtvcnet.drb.stream/playlist.m3u8 
 
-#EXTINF:-1 group-title="ESPAÑA",IB3 
+#EXTINF:-1 group-title="ESPAÑA",IB3 ESPAÑA
 http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/IB3.m3u8 
 
-#EXTINF:-1 group-title="ESPAÑA",ETB 
+#EXTINF:-1 group-title="ESPAÑA",ETB ESPAÑA
 http://etbvhlsnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@123113/master.m3u8 
 
-#EXTINF:-1 group-title="ESPAÑA",Tv Granada 
+#EXTINF:-1 group-title="ESPAÑA",Tv Granada ESPAÑA
 http://cdns724ste1010.multistream.net/tgsietelive/amlst:tvgranada/chunklist_b750000.m3u8
 
-#EXTINF:-1 group-title="ESPAÑA",8 Tv 
+#EXTINF:0 group-title="ESPAÑA",Huesca TV ESPAÑA
+rtmp://streaming2.radiohuesca.com/live/huescatv
+
+#EXTINF:-1 group-title="ESPAÑA",8 Tv ESPAÑA
 http://91.121.143.193:1935/liverepeater/8TV/8aldia-directe /playlist.m3u8 
 
-#EXTINF:-1 group-title="ESPAÑA",Correo Tv Sevilla 
+#EXTINF:-1 group-title="ESPAÑA",Correo Tv Sevilla ESPAÑA
 http://cls.elitehd-audiovisuales.com/luztv/livestream/playlist.m3u8 
 
-#EXTINF:-1 group-title="ESPAÑA",Huelvacosta
+#EXTINF:-1 group-title="ESPAÑA",Huelvacosta ESPAÑA
 http://cls.todostreaming.eu/azahara/lepevision/chunklist.m3u8 
 
-#EXTINF:-1 group-title="ESPAÑA",Malaga Tv 
+#EXTINF:-1 group-title="ESPAÑA",Malaga Tv ESPAÑA
 mms://canallocal.ptvtelecom.com/PTV-MALAGA 
 
-#EXTINF:-1 group-title="ESPAÑA",Mijas 
+#EXTINF:-1 group-title="ESPAÑA",Mijas ESPAÑA
 rtmp://teledifusion.tv/mijastv/mijastvlive 
 
-#EXTINF:-1 group-title="ESPAÑA",Real Madrid Tv
+#EXTINF:-1 group-title="ESPAÑA",Real Madrid Tv ESPAÑA
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-b.m3u8?sd=10&rebase=on
+
+#EXTM3U
+#EXTINF:0,-Otros-
+
+#EXTINF:-1 group-title="OTROS", NASA TV
+http://iphone-streaming.ustream.tv/ustreamVideo/6540154/streams/live/playlist.m3u8
+
+#EXTINF:-1 group-title="OTROS",,NASA Space Station Views
+http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u8
+
 
 #EXTM3U
 #EXTINF:0,-Musica-
@@ -381,6 +394,9 @@ http://redir.atmcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8?se
  
 #EXTINF:-1 group-title="MUSICA",Film on Tv MUSICA
 http://204.107.26.252:1935/live/691.high.stream/HasBahCa.m3u8
+
+#EXTINF:-1 group-title="MUSICA",Heavy Metal TV MUSICA
+http://70.166.98.130:1935/hmtv/myStream/playlist.m3u8
 
 #EXTM3U
 #EXTINF:0,-Radios-
