@@ -259,10 +259,10 @@ http://cls.provideo.es/marbellatv/livestream/playlist.m3u8
 #EXTINF:-1 group-title="ESPAÑA",Extremadura ESPAÑA
 http://corporacionextremena-live.hls.adaptive.level3.net/hls-live/corporacionextremena-channel02/_definst_/live.m3u8
 
-#EXTINF:0 group-title="ESPAÑA",,Andalucía TV ESPAÑA
+#EXTINF:0 group-title="ESPAÑA",Andalucía TV ESPAÑA
 http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8
 
-#EXTINF:0 group-title="ESPAÑA",,GaliciaTV.sp,Galicia TV ESPAÑA
+#EXTINF:0 group-title="ESPAÑA",Galicia TV ESPAÑA
 http://media3.crtvg.es/live/tvga/hasbahca.m3u8
 
 #EXTINF:-1 group-title="ESPAÑA",Antena 3 ESPAÑA
