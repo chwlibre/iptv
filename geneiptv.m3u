@@ -115,6 +115,9 @@ http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3
 #EXTINF:-1 group-title="LATINOS",Canal 26 ARGENTINA
 http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
 
+#EXTINF:-1 group-title="LATINOS",Canal 9 ARGENTINA
+http://dd65nd24m61wg.cloudfront.net/livec9/smil:C9.smil/chunklist_b796000.m3u8
+
 #EXTINF:-1 group-title="LATINOS",Tv Publica ARGENTINA
 http://live-edge01.telecentro.net.ar/live/tvphd-360/playlist.m3u8 
 
