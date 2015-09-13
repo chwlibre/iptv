@@ -251,90 +251,90 @@ http://iphone-streaming.ustream.tv/uhls/13870671/streams/live/iphone/playlist.m3
 http://flashd.localmidia.com.br:1935/cheftv/aovivo/live.m3u8
 
 #EXTM3U
-#EXTINF:0,-España-
+#EXTINF:0,-Spain-
 
-#EXTINF:-1 group-title="ESPAÑA",Mega ESPAÑA
+#EXTINF:-1 group-title="SPAIN",Mega SPAIN
 http://a3live-lh.akamaihd.net/i/mega/megageo_1@328914/index_4_av-b.m3u8
 
-#EXTINF:-1 group-title="ESPAÑA",Castilla La Mancha ESPAÑA
+#EXTINF:-1 group-title="SPAIN",Castilla La Mancha SPAIN
 http://195.55.74.210/rtvcm/live.flv?GKID=a9b379844fff11e5a75100163ea2c744 
 
-#EXTINF:-1 group-title="ESPAÑA",Canal Costa ESPAÑA
+#EXTINF:-1 group-title="SPAIN",Canal Costa SPAIN
 http://cls.todostreaming.eu/azahara/lepevision/playlist.m3u8
 
-#EXTINF:-1 group-title="ESPAÑA",Marbella Tv ESPAÑA
+#EXTINF:-1 group-title="SPAIN",Marbella Tv SPAIN
 http://cls.provideo.es/marbellatv/livestream/playlist.m3u8
 
-#EXTINF:-1 group-title="ESPAÑA",Extremadura ESPAÑA
+#EXTINF:-1 group-title="SPAIN",Extremadura SPAIN
 http://corporacionextremena-live.hls.adaptive.level3.net/hls-live/corporacionextremena-channel02/_definst_/live.m3u8
 
-#EXTINF:0 group-title="ESPAÑA",Andalucía TV ESPAÑA
+#EXTINF:0 group-title="SPAIN",Andalucía TV SPAIN
 http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8
 
-#EXTINF:0 group-title="ESPAÑA",Galicia TV ESPAÑA
+#EXTINF:0 group-title="SPAIN",Galicia TV SPAIN
 http://media3.crtvg.es/live/tvga/hasbahca.m3u8
 
-#EXTINF:-1 group-title="ESPAÑA",Antena 3 ESPAÑA
+#EXTINF:-1 group-title="SPAIN",Antena 3 SPAIN
 http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/index.m3u8
 
-#EXTINF:-1 group-title="ESPAÑA",La Sexta ESPAÑA
+#EXTINF:-1 group-title="SPAIN",La Sexta SPAIN
 http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel02/la_sexta_hd_1548K_1280x720_main.m3u8
 
-#EXTINF:-1 group-title="ESPAÑA",TVE 2 ESPAÑA
+#EXTINF:-1 group-title="SPAIN",TVE 2 SPAIN
 http://iphonelive.rtve.es/LA2_LV3_IPH/bitrate_2.m3u8
 
-#EXTINF:-1 group-title="ESPAÑA",RTVE 24H ESPAÑA
+#EXTINF:-1 group-title="SPAIN",RTVE 24H SPAIN
 http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
 
-#EXTINF:-1 group-title="ESPAÑA",Telecinco ESPAÑA
+#EXTINF:-1 group-title="SPAIN",Telecinco SPAIN
 http://mdsios2-lh.akamaihd.net/i/mitele/esmediaset_21@168473/index_0_av-p.m3u8
 
-#EXTINF:-1 group-title="ESPAÑA",RT ESPAÑA
+#EXTINF:-1 group-title="SPAIN",RT SPAIN
 http://rt.ashttp14.visionip.tv/live/RT_en_Espanol-SD/chunklist.m3u8
 
-#EXTINF:-1 group-title="ESPAÑA",La 1 ESPAÑA
+#EXTINF:-1 group-title="SPAIN",La 1 SPAIN
 http://iphonelive.rtve.es/LA1_LV3_IPH/bitrate_2.m3u8
 
-#EXTINF:-1 group-title="ESPAÑA",La 2 ESPAÑA
+#EXTINF:-1 group-title="SPAIN",La 2 SPAIN
 http://iphonelive.rtve.es/LA2_LV3_IPH/bitrate_2.m3u8
 
-#EXTINF:-1 group-title="ESPAÑA",Melilla ESPAÑA
+#EXTINF:-1 group-title="SPAIN",Melilla SPAIN
 http://stream.tvmelilla.es:1935/tvmelilla/live/playlist.m3u8
 
-#EXTINF:-1 group-title="ESPAÑA",Levante ESPAÑA
+#EXTINF:-1 group-title="SPAIN",Levante SPAIN
 http://teledifusion.tv:1935/levantetvlive/levantetvlive/playlist.m3u8
 
-#EXTINF:-1 group-title="ESPAÑA",Canarias Net ESPAÑA
+#EXTINF:-1 group-title="SPAIN",Canarias Net SPAIN
 http://streamrtvcdrb.mad.idec.net/rtvcnet/rtvcnet.drb.stream/playlist.m3u8 
 
-#EXTINF:-1 group-title="ESPAÑA",IB3 ESPAÑA
+#EXTINF:-1 group-title="SPAIN",IB3 SPAIN
 http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/IB3.m3u8 
 
-#EXTINF:-1 group-title="ESPAÑA",ETB ESPAÑA
+#EXTINF:-1 group-title="SPAIN",ETB SPAIN
 http://etbvhlsnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@123113/master.m3u8 
 
-#EXTINF:-1 group-title="ESPAÑA",Tv Granada ESPAÑA
+#EXTINF:-1 group-title="SPAIN",Tv Granada SPAIN
 http://cdns724ste1010.multistream.net/tgsietelive/amlst:tvgranada/chunklist_b750000.m3u8
 
-#EXTINF:0 group-title="ESPAÑA",Huesca TV ESPAÑA
+#EXTINF:0 group-title="SPAIN",Huesca TV SPAIN
 rtmp://streaming2.radiohuesca.com/live/huescatv
 
-#EXTINF:-1 group-title="ESPAÑA",8 Tv ESPAÑA
+#EXTINF:-1 group-title="SPAIN",8 Tv SPAIN
 http://91.121.143.193:1935/liverepeater/8TV/8aldia-directe /playlist.m3u8 
 
-#EXTINF:-1 group-title="ESPAÑA",Correo Tv Sevilla ESPAÑA
+#EXTINF:-1 group-title="SPAIN",Correo Tv Sevilla SPAIN
 http://cls.elitehd-audiovisuales.com/luztv/livestream/playlist.m3u8 
 
-#EXTINF:-1 group-title="ESPAÑA",Huelvacosta ESPAÑA
+#EXTINF:-1 group-title="SPAIN",Huelvacosta SPAIN
 http://cls.todostreaming.eu/azahara/lepevision/chunklist.m3u8 
 
-#EXTINF:-1 group-title="ESPAÑA",Malaga Tv ESPAÑA
+#EXTINF:-1 group-title="SPAIN",Malaga Tv SPAIN
 mms://canallocal.ptvtelecom.com/PTV-MALAGA 
 
-#EXTINF:-1 group-title="ESPAÑA",Mijas ESPAÑA
+#EXTINF:-1 group-title="SPAIN",Mijas SPAIN
 rtmp://teledifusion.tv/mijastv/mijastvlive 
 
-#EXTINF:-1 group-title="ESPAÑA",Real Madrid Tv ESPAÑA
+#EXTINF:-1 group-title="SPAIN",Real Madrid Tv SPAIN
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-b.m3u8?sd=10&rebase=on
 
 #EXTM3U
