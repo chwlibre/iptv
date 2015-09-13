@@ -277,22 +277,19 @@ http://mdsios2-lh.akamaihd.net/i/mitele/esmediaset_21@168473/index_0_av-p.m3u8
 #EXTINF:-1 group-title="ESPAÑA",RT ESPAÑA
 http://rt.ashttp14.visionip.tv/live/RT_en_Espanol-SD/chunklist.m3u8
 
-#EXTINF:-1 group-title="ESPAÑA",LA1
+#EXTINF:-1 group-title="ESPAÑA",La 1
 http://iphonelive.rtve.es/LA1_LV3_IPH/bitrate_2.m3u8
 
-#EXTINF:-1 group-title="ESPAÑA",LA2
+#EXTINF:-1 group-title="ESPAÑA",La 2
 http://iphonelive.rtve.es/LA2_LV3_IPH/bitrate_2.m3u8
 
-#EXTINF:-1 group-title="ESPAÑA",***ta
-http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel02/index.m3u8
-
-#EXTINF:-1 group-title="ESPAÑA",MELILLA
+#EXTINF:-1 group-title="ESPAÑA",Melilla
 http://stream.tvmelilla.es:1935/tvmelilla/live/playlist.m3u8
 
-#EXTINF:-1 group-title="ESPAÑA",LEVANTE
+#EXTINF:-1 group-title="ESPAÑA",Levante
 http://teledifusion.tv:1935/levantetvlive/levantetvlive/playlist.m3u8
 
-#EXTINF:-1 group-title="ESPAÑA",CANARIASnet 
+#EXTINF:-1 group-title="ESPAÑA",Canarias Net 
 http://streamrtvcdrb.mad.idec.net/rtvcnet/rtvcnet.drb.stream/playlist.m3u8 
 
 #EXTINF:-1 group-title="ESPAÑA",IB3 
@@ -301,23 +298,26 @@ http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/IB3.m3u8
 #EXTINF:-1 group-title="ESPAÑA",ETB 
 http://etbvhlsnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@123113/master.m3u8 
 
-#EXTINF:-1 group-title="ESPAÑA",TVGRANADA 
+#EXTINF:-1 group-title="ESPAÑA",Tv Granada 
 http://cdns724ste1010.multistream.net/tgsietelive/amlst:tvgranada/chunklist_b750000.m3u8
 
-#EXTINF:-1 group-title="ESPAÑA",8TV 
+#EXTINF:-1 group-title="ESPAÑA",8 Tv 
 http://91.121.143.193:1935/liverepeater/8TV/8aldia-directe /playlist.m3u8 
 
-#EXTINF:-1 group-title="ESPAÑA",CORREOTV-Sevilla 
+#EXTINF:-1 group-title="ESPAÑA",Correo Tv Sevilla 
 http://cls.elitehd-audiovisuales.com/luztv/livestream/playlist.m3u8 
 
-#EXTINF:-1 group-title="ESPAÑA",HUELVACOSTA 
+#EXTINF:-1 group-title="ESPAÑA",Huelvacosta
 http://cls.todostreaming.eu/azahara/lepevision/chunklist.m3u8 
 
-#EXTINF:-1 group-title="ESPAÑA",MALAGATV 
+#EXTINF:-1 group-title="ESPAÑA",Malaga Tv 
 mms://canallocal.ptvtelecom.com/PTV-MALAGA 
 
 #EXTINF:-1 group-title="ESPAÑA",Mijas 
 rtmp://teledifusion.tv/mijastv/mijastvlive 
+
+#EXTINF:-1 group-title="ESPAÑA",Real Madrid Tv
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-b.m3u8?sd=10&rebase=on
 
 #EXTM3U
 #EXTINF:0,-Musica-
