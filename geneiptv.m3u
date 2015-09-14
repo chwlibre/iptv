@@ -529,3 +529,196 @@ http://playback.d2see.com:1935/wavemachine-live01/_definst_/mp4:playboytv_channe
 
 #EXTINF:-1 group-title="ADULTOS", XXX ADULTOS
 http://wowza1.videos.movile.com:8080/live/smil:adulto_1.smil/playlist.m3u8
+
+#EXTM3U
+#EXTINF:0,-Canales premium hasta que caiga la lista-
+
+#EXTINF: -1, Na geo
+http://201.161.59.3/natgeo.isml/QualityLevels(1628000)/manifest(format=m3u8-aapl).m3u8
+ 
+#EXTINF: -1, Películas zorro
+http://201.161.59.6/fox.isml/QualityLevels(1253000)/manifest(format=m3u8-aapl).m3u8
+ 
+#EXTINF: -1, Azteca7
+http://201.161.59.3/azteca7.isml/QualityLevels(1328000)/manifest(format=m3u8-aapl).m3u8
+ 
+#EXTINF: -1, Azteca13
+http://201.161.59.3/azteca13.isml/QualityLevels(1328000)/manifest(format=m3u8-aapl).m3u8
+ 
+#EXTINF: -1, 720p Big Ten Network
+http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8
+ 
+#EXTINF: -1, Deportes Fox
+http://201.161.59.6/foxsports.isml/manifest(format=m3u8-aapl).m3u8
+ 
+#EXTINF: -1, Espn
+http://201.161.59.3/espn.isml/manifest(format=m3u8-aapl).m3u8
+ 
+#EXTINF: -1, ESPN3
+http://201.161.59.4/espn3.isml/manifest(format=m3u8-aapl).
+ 
+#EXTINF: -1, Nick
+http://201.161.59.6/nick.isml/manifest(format=m3u8-aapl).m3u8#EXTINF:-1,CANAL DE LAS ESTRELLAS
+http://201.161.59.3/canal2.isml/QualityLevels(1817984)/manifest(format=m3u8-aapl).m3u8?
+ 
+#EXTINF: -1, CANAL 5
+http://201.161.59.3/canal5.isml/QualityLevels(1477952)/manifest(format=m3u8-aapl).m3u8?
+ 
+#EXTINF: -1, AZTECA 7
+http://201.161.59.3/azteca7.isml/QualityLevels(1328000)/manifest(format=m3u8-aapl).m3u8?
+ 
+#EXTINF: -1, AZTECA 13
+http://201.161.59.3/azteca13.isml/QualityLevels(1328000)/manifest(format=m3u8-aapl).m3u8?
+ 
+#EXTINF: -1, AZTECA 13 -2HORAS
+http://201.161.59.3/azteca13-2.isml/QualityLevels(1328000)/manifest(format=m3u8-aapl).m3u8?
+ 
+#EXTINF: -1, GALA TV
+http://201.161.59.3/galavision.isml/QualityLevels(1477952)/manifest(format=m3u8-aapl).m3u8?
+ 
+#EXTINF: -1, Once TV
+http://201.161.59.3/oncetv.isml/QualityLevels(1928000)/manifest(format=m3u8-aapl).m3u8?
+ 
+#EXTINF: -1, CADENA 3
+http://201.161.59.3/cadena3.isml/QualityLevels(1928000)/manifest(format=m3u8-aapl).m3u8?
+ 
+#EXTINF: -1, PROYECTO 40
+http://201.161.59.3/proyecto40.isml/QualityLevels(1928000)/manifest(format=m3u8-aapl).m3u8?
+ 
+#EXTINF: -1, FORO TV
+http://201.161.59.3/forotv.isml/QualityLevels(1477952)/manifest(format=m3u8-aapl).m3u8?
+ 
+#EXTINF: -1, CANAL 52 MX
+http://201.161.59.4/canal52.isml/QualityLevels(1928000)/manifest(format=m3u8-aapl).m3u8?
+ 
+#EXTINF: -1, UNICABLE
+http://201.161.59.6/unicable.isml/QualityLevels(1815000)/manifest(format=m3u8-aapl).m3u8?
+ 
+#EXTINF: -1, TLNOVELAS
+http://201.161.59.6/tlnovelas.isml/QualityLevels(1815000)/manifest(format=m3u8-aapl).m3u8?
+ 
+#EXTINF: -1, NICK
+http://201.161.59.6/nick.isml/QualityLevels(1928000)/manifest(format=m3u8-aapl).m3u8?
+ 
+#EXTINF: -1, DISNEY XD
+http://201.161.59.4/disneyxd.isml/QualityLevels(1815000)/manifest(format=m3u8-aapl).m3u8?
+ 
+#EXTINF: -1, Cartoon Network
+http://201.161.59.6/cartoonnetwork.isml/QualityLevels(1815000)/manifest(format=m3u8-aapl).m3u8?
+ 
+#EXTINF: -1, TELEHIT
+http://201.161.59.7/telehit.isml/QualityLevels(1992000)/manifest(format=m3u8-aapl).m3u8?
+ 
+#EXTINF: -1, Bandamax
+http://201.161.59.4/bandamax.isml/QualityLevels(1992000)/manifest(format=m3u8-aapl).m3u8?
+ 
+#EXTINF: -1, Ritmoson
+http://201.161.59.4/ritmoson.isml/QualityLevels(1879000)/manifest(format=m3u8-aapl).m3u8?
+ 
+#EXTINF: -1, EXA TV
+http://201.161.59.5/exatv.isml/manifest(format=m3u8-aapl).m3u8?
+ 
+#EXTINF: -1, KW
+http://201.161.59.4/kw.isml/QualityLevels(1815000)/manifest(format=m3u8-aapl).m3u8?
+ 
+#EXTINF: -1, ENLACE
+http://201.161.59.3/enlace.isml/QualityLevels(1928000)/manifest(format=m3u8-aapl).m3u8?
+ 
+#EXTINF: -1, MILENIO TELEVISION
+http://201.161.59.3/milenio.isml/QualityLevels(2153000)/manifest(format=m3u8-aapl).m3u8?
+ 
+#EXTINF: -1, NATGEO
+http://201.161.59.3/natgeo.isml/QualityLevels(1928000)/manifest(format=m3u8-aapl).m3u8?
+ 
+#EXTINF: -1, NATGEO SALVAJE
+http://201.161.59.3/natgeowild.isml/QualityLevels(3503000)/manifest(format=m3u8-aapl).m3u8?
+ 
+#EXTINF: -1, HISTORIA
+http://201.161.59.7/history.isml/QualityLevels(1928000)/manifest(format=m3u8-aapl).m3u8?
+ 
+#EXTINF: -1, HISTORIA 2
+http://201.161.59.3/h2.isml/QualityLevels(1817984)/manifest(format=m3u8-aapl).m3u8?
+ 
+#EXTINF: -1, WOBI
+http://201.161.59.4/wobi.isml/QualityLevels(1928000)/manifest(format=m3u8-aapl).m3u8?
+ 
+#EXTINF: -1, POR VIDA
+http://201.161.59.7/lifetime.isml/QualityLevels(1815000)/manifest(format=m3u8-aapl).m3u8?
+ 
+#EXTINF: -1, FOX LIFE
+http://201.161.59.7/foxlife.isml/QualityLevels(1815000)/manifest(format=m3u8-aapl).m3u8?
+ 
+#EXTINF: -1, E
+http://201.161.59.6/e.isml/QualityLevels(1928000)/manifest(format=m3u8-aapl).m3u8?
+ 
+#EXTINF: -1, SONY
+http://201.161.59.6/sony.isml/QualityLevels(1928000)/manifest(format=m3u8-aapl).m3u8?
+ 
+#EXTINF: -1, WARNER
+http://201.161.59.6/warner.isml/QualityLevels(1928000)/manifest(format=m3u8-aapl).m3u8?
+ 
+#EXTINF: -1, Syfy
+http://201.161.59.4/syfy.isml/QualityLevels(1478000)/manifest(format=m3u8-aapl).m3u8?
+ 
+#EXTINF: -1, Distrito Comedia
+http://201.161.59.6/clasicotv.isml/QualityLevels(1152000)/manifest(format=m3u8-aapl).m3u8?
+ 
+#EXTINF: -1, FOX
+http://201.161.59.6/fox.isml/QualityLevels(1828000)/manifest(format=m3u8-aapl).m3u8?
+ 
+#EXTINF: -1, FX
+http://201.161.59.6/fx.isml/QualityLevels(1928000)/manifest(format=m3u8-aapl).m3u8?
+ 
+#EXTINF: -1, CANAL DHE
+http://201.161.59.7/dhe.isml/QualityLevels(1928000)/manifest(format=m3u8-aapl).m3u8?
+ 
+#EXTINF: -1, CINE LATINO
+http://201.161.59.4/cinelatino.isml/QualityLevels(1928000)/manifest(format=m3u8-aapl).m3u8?
+ 
+#EXTINF: -1, DPELICULA
+http://201.161.59.7/depelicula.isml/QualityLevels(1928000)/manifest(format=m3u8-aapl).m3u8?
+ 
+#EXTINF: -1, ORO
+http://201.161.59.4/golden.isml/QualityLevels(1928000)/manifest(format=m3u8-aapl).m3u8?
+ 
+#EXTINF: -1, Borde de oro
+http://201.161.59.7/goldenedge.isml/QualityLevels(1928000)/manifest(format=m3u8-aapl).m3u8?
+ 
+#EXTINF: -1, GOLDEN ESTRENO
+http://201.161.59.7/goldenpremiere.isml/QualityLevels(1328000)/manifest(format=m3u8-aapl).m3u8?
+ 
+#EXTINF: -1, ESPACIO
+http://201.161.59.7/space.isml/QualityLevels(1928000)/manifest(format=m3u8-aapl).m3u8?
+ 
+#EXTINF: -1, Cinemax
+http://201.161.59.7/cinemax.isml/QualityLevels(1928000)/manifest(format=m3u8-aapl).m3u8?
+ 
+#EXTINF: -1, Multicine
+http://201.161.59.7/multicinema.isml/QualityLevels(1928000)/manifest(format=m3u8-aapl).m3u8?
+ 
+#EXTINF: -1, MULTIPREMIERE
+http://201.161.59.7/multipremiere.isml/QualityLevels(1928000)/manifest(format=m3u8-aapl).m3u8?
+ 
+#EXTINF: -1, PARAMOUNT CHANNEL
+http://201.161.59.7/paramount.isml/QualityLevels(1928000)/manifest(format=m3u8-aapl).m3u8?
+ 
+#EXTINF: -1, FOX DEPORTES
+http://201.161.59.6/foxsports.isml/QualityLevels(1703000)/manifest(format=m3u8-aapl).m3u8?
+ 
+#EXTINF: -1, FOX SPORTS 2
+http://201.161.59.4/foxsportsplus.isml/QualityLevels(1703000)/manifest(format=m3u8-aapl).m3u8?
+ 
+#EXTINF: -1, ESPN
+http://201.161.59.3/espn.isml/QualityLevels(1928000)/manifest(format=m3u8-aapl).m3u8?
+ 
+#EXTINF: -1, ESPN 2
+http://201.161.59.4/espn2.isml/QualityLevels(1928000)/manifest(format=m3u8-aapl).m3u8?
+ 
+#EXTINF: -1, ESPN 3
+http://201.161.59.4/espn3.isml/QualityLevels(1928000)/manifest(format=m3u8-aapl).m3u8?
+ 
+#EXTINF: -1, UTDN
+http://201.161.59.3/utdn.isml/QualityLevels(1928000)/manifest(format=m3u8-aapl).m3u8?
+ 
+#EXTINF: -1, DEPORTES TYC
+http://201.161.59.4/tycdeportes.isml/QualityLevels(1928000)/manifest(format=m3u8-aapl).m3u8?
