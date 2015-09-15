@@ -127,8 +127,11 @@ http://190.57.237.214/live/canal.m3u8
 #EXTINF:-1 group-title="LATINOS",Orbe 21 ARGENTINA
 http://urtmpkal-f.akamaihd.net/i/1b6mj17sk_1@308700/master.m3u8
 
-#EXTINF:-1 group-title="LATINOS",Canal de las Estrellas MEXICO
+#EXTINF:-1 group-title="LATINOS",Canal de las Estrellas HD MEXICO
 http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8
+
+#EXTINF:-1 group-title="LATINOS",Canal de las Estrellas SD MEXICO
+http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_648_av-p.m3u8
 
 #EXTINF:-1 group-title="LATINOS",Canal de las Estrellas Internacional MEXICO
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8?
