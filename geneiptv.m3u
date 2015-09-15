@@ -94,9 +94,6 @@ http://movilstream.digitalproserver.com/ufro/ufrovivo/ufro.smil/chunklist-b15640
 #EXTINF:-1 group-title="CHILE",Aysen Tv Puerto Aysen CHILE
 http://wow2.cl.digitalproserver.com/aysentv/aysentvvivo/aysentv.smil/BratuMarian.m3u8
 
-#EXTINF:-1 group-title="CHILE",CDF Premium CHILE
-http://209.133.208.194:1935/app/futbolchilenet2s-channel/playlist.m3u8
-
 #EXTM3U
 #EXTINF:0,-Latinos-
 
@@ -244,9 +241,6 @@ http://cdn2.telesur.ultrabase.net/livecf/telesurLive/chunklist.m3u8?
 #EXTINF:-1 group-title="LATINOS",Canal 13 NICARAGUA
 http://iphone-streaming.ustream.tv/uhls/13870671/streams/live/iphone/playlist.m3u8
 
-#EXTINF:-1 group-title="LATINOS",Chef Tv BRAZIL
-http://flashd.localmidia.com.br:1935/cheftv/aovivo/live.m3u8
-
 #EXTM3U
 #EXTINF:0,-Spain-
 
@@ -337,11 +331,17 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-b.m3u8?sd=10&rebas
 #EXTM3U
 #EXTINF:0,-Otros-
 
+#EXTINF:-1 group-title="OTROS", DW Spain
+http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8?
+
 #EXTINF:-1 group-title="OTROS", NASA Tv
 http://iphone-streaming.ustream.tv/ustreamVideo/6540154/streams/live/playlist.m3u8
 
 #EXTINF:-1 group-title="OTROS", NASA Space Station Views
 http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1 group-title="OTROS", Chef Tv 
+http://flashd.localmidia.com.br:1935/cheftv/aovivo/live.m3u8
 
 #EXTM3U
 #EXTINF:0,-Musica-
