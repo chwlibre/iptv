@@ -28,9 +28,6 @@ http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8
 #EXTINF:-1 group-title="CHILE",Canal 13 Cable CHILE
 http://cluster.13cmovil.ztreaming.com/13cm/grpz13c/playlist.m3u8
 
-#EXTINF:-1 group-title="CHILE",Rec Tv CHILE
-http://13rec.movil.ztreaming.com:1935/13rec/13rec/playlist.m3u8
-
 #EXTINF:-1 group-title="CHILE",Canal Deporte Olimpico CHILE
 http://wow2.cl.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist_w913906597_b1064000.m3u8
 
@@ -340,12 +337,11 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-b.m3u8?sd=10&rebas
 #EXTM3U
 #EXTINF:0,-Otros-
 
-#EXTINF:-1 group-title="OTROS", NASA TV
+#EXTINF:-1 group-title="OTROS", NASA Tv
 http://iphone-streaming.ustream.tv/ustreamVideo/6540154/streams/live/playlist.m3u8
 
-#EXTINF:-1 group-title="OTROS",,NASA Space Station Views
+#EXTINF:-1 group-title="OTROS", NASA Space Station Views
 http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u8
-
 
 #EXTM3U
 #EXTINF:0,-Musica-
