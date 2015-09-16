@@ -1,125 +1,127 @@
 #EXTM3U
-#EXTINF:0,------ ESPANA ------
-http://iptvservice.ddns.net:8000/live/yannis/yannis/2264.m3u8
-#EXTINF:0,ES : TVE 1
-http://iptvservice.ddns.net:8000/live/yannis/yannis/2265.m3u8
-#EXTINF:0,ES : La 2
-http://iptvservice.ddns.net:8000/live/yannis/yannis/2266.m3u8
-#EXTINF:0,ES : Antenna 3
-http://iptvservice.ddns.net:8000/live/yannis/yannis/2267.m3u8
-#EXTINF:0,ES : Cuatro
-http://iptvservice.ddns.net:8000/live/yannis/yannis/2268.m3u8
-#EXTINF:0,ES : Telecinco
-http://iptvservice.ddns.net:8000/live/yannis/yannis/2269.m3u8
-#EXTINF:0,ES : La ***ta
-http://iptvservice.ddns.net:8000/live/yannis/yannis/2270.m3u8
-#EXTINF:0,ES : TVI International
-http://iptvservice.ddns.net:8000/live/yannis/yannis/2271.m3u8
-#EXTINF:0,ES : Clan TVE
-http://iptvservice.ddns.net:8000/live/yannis/yannis/2272.m3u8
-#EXTINF:0,ES : Nova
-http://iptvservice.ddns.net:8000/live/yannis/yannis/2273.m3u8
-#EXTINF:0,ES : TVE 24
-http://iptvservice.ddns.net:8000/live/yannis/yannis/2274.m3u8
-#EXTINF:0,ES : 24 Horas
-http://iptvservice.ddns.net:8000/live/yannis/yannis/2275.m3u8
-#EXTINF:0,ES : Andalucia
-http://iptvservice.ddns.net:8000/live/yannis/yannis/2276.m3u8
-#EXTINF:0,ES : TV 3 Catalunya
-http://iptvservice.ddns.net:8000/live/yannis/yannis/2277.m3u8
-#EXTINF:0,ES : Foro TV
-http://iptvservice.ddns.net:8000/live/yannis/yannis/2278.m3u8
-#EXTINF:0,ES : A & E
-http://iptvservice.ddns.net:8000/live/yannis/yannis/2279.m3u8
-#EXTINF:0,ES : 40 TV
-http://iptvservice.ddns.net:8000/live/yannis/yannis/2280.m3u8
-#EXTINF:0,ES : Sol Musica
-http://iptvservice.ddns.net:8000/live/yannis/yannis/2281.m3u8
-#EXTINF:0,------ CINE ------
-http://iptvservice.ddns.net:8000/live/yannis/yannis/2282.m3u8
-#EXTINF:0,ES : Canal  1
-http://iptvservice.ddns.net:8000/live/yannis/yannis/2283.m3u8
-#EXTINF:0,ES : Canal  1 ... 30
-http://iptvservice.ddns.net:8000/live/yannis/yannis/2284.m3u8
-#EXTINF:0,ES : Canal  2
-http://iptvservice.ddns.net:8000/live/yannis/yannis/2285.m3u8
-#EXTINF:0,ES : C  Accion
-http://iptvservice.ddns.net:8000/live/yannis/yannis/2286.m3u8
-#EXTINF:0,ES : C  Comedia
-http://iptvservice.ddns.net:8000/live/yannis/yannis/2287.m3u8
-#EXTINF:0,ES : C  Dcine
-http://iptvservice.ddns.net:8000/live/yannis/yannis/2288.m3u8
-#EXTINF:0,ES : Dcine Espa?ol
-http://iptvservice.ddns.net:8000/live/yannis/yannis/2289.m3u8
-#EXTINF:0,ES : Hollywood
-http://iptvservice.ddns.net:8000/live/yannis/yannis/2290.m3u8
-#EXTINF:0,ES : TNT
-http://iptvservice.ddns.net:8000/live/yannis/yannis/2291.m3u8
-#EXTINF:0,------ ENTRETENIMIENTO ------
-http://iptvservice.ddns.net:8000/live/yannis/yannis/2292.m3u8
-#EXTINF:0,ES : Canal  Xtra
-http://iptvservice.ddns.net:8000/live/yannis/yannis/2293.m3u8
-#EXTINF:0,ES : Fox
-http://iptvservice.ddns.net:8000/live/yannis/yannis/2294.m3u8
-#EXTINF:0,ES : Fox Life
-http://iptvservice.ddns.net:8000/live/yannis/yannis/2295.m3u8
-#EXTINF:0,ES : AXN
-http://iptvservice.ddns.net:8000/live/yannis/yannis/2296.m3u8
-#EXTINF:0,ES : AXN White
-http://iptvservice.ddns.net:8000/live/yannis/yannis/2297.m3u8
-#EXTINF:0,ES : Calle 13
-http://iptvservice.ddns.net:8000/live/yannis/yannis/2298.m3u8
-#EXTINF:0,ES : Comedy Central
-http://iptvservice.ddns.net:8000/live/yannis/yannis/2299.m3u8
-#EXTINF:0,ES : Cosmo
-http://iptvservice.ddns.net:8000/live/yannis/yannis/2300.m3u8
-#EXTINF:0,ES : Canal 5
-http://iptvservice.ddns.net:8000/live/yannis/yannis/2301.m3u8
-#EXTINF:0,ES : Canal De Las Estrellas
-http://iptvservice.ddns.net:8000/live/yannis/yannis/2302.m3u8
-#EXTINF:0,ES : Fashion TV
-http://iptvservice.ddns.net:8000/live/yannis/yannis/2303.m3u8
-#EXTINF:0,------ DEPORTES :-----
-http://iptvservice.ddns.net:8000/live/yannis/yannis/2304.m3u8
-#EXTINF:0,ES : Canal  Deportes
-http://iptvservice.ddns.net:8000/live/yannis/yannis/2305.m3u8
-#EXTINF:0,ES : Canal  Futbol
-http://iptvservice.ddns.net:8000/live/yannis/yannis/2306.m3u8
-#EXTINF:0,ES : Teledeporte
-http://iptvservice.ddns.net:8000/live/yannis/yannis/2307.m3u8
-#EXTINF:0,ES : Sportman?a
-http://iptvservice.ddns.net:8000/live/yannis/yannis/2308.m3u8
-#EXTINF:0,ES : CANAL  LIGA
-http://iptvservice.ddns.net:8000/live/yannis/yannis/2309.m3u8
-#EXTINF:0,ES : CANAL  Liga de Campeones
-http://iptvservice.ddns.net:8000/live/yannis/yannis/2310.m3u8
-#EXTINF:0,ES : Garage TV
-http://iptvservice.ddns.net:8000/live/yannis/yannis/2311.m3u8
-#EXTINF:0,ES : Canal  Golf
-http://iptvservice.ddns.net:8000/live/yannis/yannis/2312.m3u8
-#EXTINF:0,ES : Real Madrid TV
-http://iptvservice.ddns.net:8000/live/yannis/yannis/2313.m3u8
-#EXTINF:0,ES : Toros
-http://iptvservice.ddns.net:8000/live/yannis/yannis/2314.m3u8
-#EXTINF:0,ES :  MoviStar F1
-http://iptvservice.ddns.net:8000/live/yannis/yannis/2316.m3u8
-#EXTINF:0,ES : MoviStar MotoGP
-http://iptvservice.ddns.net:8000/live/yannis/yannis/2315.m3u8
-#EXTINF:0,ES : FOX Sporm3u8 HD
-http://iptvservice.ddns.net:8000/live/yannis/yannis/2317.m3u8
-#EXTINF:0,ES : FOX Sporm3u8 2 HD
-http://iptvservice.ddns.net:8000/live/yannis/yannis/2318.m3u8
-#EXTINF:0,ES : Canal Odisea
-http://iptvservice.ddns.net:8000/live/yannis/yannis/2320.m3u8
-#EXTINF:0,ES : Nat Geograph
-http://iptvservice.ddns.net:8000/live/yannis/yannis/2321.m3u8
-#EXTINF:0,ES : Historia
-http://iptvservice.ddns.net:8000/live/yannis/yannis/2322.m3u8
-#EXTINF:0,ES : Caza y Pesca
-http://iptvservice.ddns.net:8000/live/yannis/yannis/2323.m3u8
-#EXTINF:0,ES : Viajar
-http://iptvservice.ddns.net:8000/live/yannis/yannis/2324.m3u8
-#EXTINF:0,ES : Canal Cocina
-http://iptvservice.ddns.net:8000/live/yannis/yannis/2325.m3u8
-#EXTINF:0,ES : Canal Decasa
-http://iptvservice.ddns.net:8000/live/yannis/yannis/2326.m3u8
+#EXTINF:-1,by_hichrawi_CANAL+
+http://adil:movistarfullexchange@movistartdt.mine.nu:8000/1.ch CANAL+
+#EXTINF:-1,by_hichrawi_C+ ACCION
+http://adil:movistarfullexchange@movistartdt.mine.nu:8000/2.ch C+ ACCION
+#EXTINF:-1,by_hichrawi_C+ COMEDIA
+http://adil:movistarfullexchange@movistartdt.mine.nu:8000/3.ch C+ COMEDIA
+#EXTINF:-1,by_hichrawi_C+ DCINE
+http://adil:movistarfullexchange@movistartdt.mine.nu:8000/4.ch C+ DCINE
+#EXTINF:-1,by_hichrawi_C+ ESTRENOS
+http://adil:movistarfullexchange@movistartdt.mine.nu:8000/5.ch C+ ESTRENOS
+#EXTINF:-1,by_hichrawi_CANAL+ SERIES EXTRA
+http://adil:movistarfullexchange@movistartdt.mine.nu:8000/6.ch CANAL+ SERIES EXTRA
+#EXTINF:-1,by_hichrawi_De Cine espanol
+http://adil:movistarfullexchange@movistartdt.mine.nu:8000/7.ch De Cine espanol
+#EXTINF:-1,by_hichrawi_ODISEA
+http://adil:movistarfullexchange@movistartdt.mine.nu:8000/8.ch ODISEA
+#EXTINF:-1,by_hichrawi_NATIONAL GEOGRAPHIC
+http://adil:movistarfullexchange@movistartdt.mine.nu:8000/9.ch NATIONAL GEOGRAPHIC
+#EXTINF:-1,by_hichrawi_HISTORIA
+http://adil:movistarfullexchange@movistartdt.mine.nu:8000/10.ch HISTORIA
+#EXTINF:-1,by_hichrawi_FOX
+http://adil:movistarfullexchange@movistartdt.mine.nu:8000/11.ch FOX
+#EXTINF:-1,by_hichrawi_AXN
+http://adil:movistarfullexchange@movistartdt.mine.nu:8000/12.ch AXN
+#EXTINF:-1,by_hichrawi_MOVISTAR MOTO GP
+http://adil:movistarfullexchange@movistartdt.mine.nu:8000/13.ch MOVISTAR MOTO GP
+#EXTINF:-1,by_hichrawi_MOVISTAR F1
+http://adil:movistarfullexchange@movistartdt.mine.nu:8000/14.ch MOVISTAR F1
+#EXTINF:-1,by_hichrawi_CAZA Y PESCA
+http://adil:movistarfullexchange@movistartdt.mine.nu:8000/15.ch CAZA Y PESCA
+#EXTINF:-1,by_hichrawi_COSMO
+http://adil:movistarfullexchange@movistartdt.mine.nu:8000/16.ch COSMO
+#EXTINF:-1,by_hichrawi_A E
+http://adil:movistarfullexchange@movistartdt.mine.nu:8000/17.ch A E
+#EXTINF:-1,by_hichrawi_C+ DEPORTE
+http://adil:movistarfullexchange@movistartdt.mine.nu:8000/18.ch C+ DEPORTE
+#EXTINF:-1,by_hichrawi_CANAL+ GOLF
+http://adil:movistarfullexchange@movistartdt.mine.nu:8000/19.ch CANAL+ GOLF
+#EXTINF:-1,by_hichrawi_C+ LIGA
+http://adil:movistarfullexchange@movistartdt.mine.nu:8000/20.ch C+ LIGA
+#EXTINF:-1,by_hichrawi_CANAL LIGA HD FIBRA O BUEN ADSL
+http://adil:movistarfullexchange@movistartdt.mine.nu:8000/21.ch CANAL LIGA HD FIBRA O BUEN ADSL
+#EXTINF:-1,by_hichrawi_C+ FUTBOL
+http://adil:movistarfullexchange@movistartdt.mine.nu:8000/22.ch C+ FUTBOL
+#EXTINF:-1,by_hichrawi_EUROSPORT-ES
+http://adil:movistarfullexchange@movistartdt.mine.nu:8000/23.ch EUROSPORT-ES
+#EXTINF:-1,by_hichrawi_EUROSPORT2 ESP
+http://adil:movistarfullexchange@movistartdt.mine.nu:8000/24.ch EUROSPORT2 ESP
+#EXTINF:-1,by_hichrawi_TDP HD
+http://adil:movistarfullexchange@movistartdt.mine.nu:8000/25.ch TDP HD
+#EXTINF:-1,by_hichrawi_TDP
+http://adil:movistarfullexchange@movistartdt.mine.nu:8000/26.ch TDP
+#EXTINF:-1,by_hichrawi_SOL MUSICA
+http://adil:movistarfullexchange@movistartdt.mine.nu:8000/27.ch SOL MUSICA
+#EXTINF:-1,by_hichrawi_LA 1 HD
+http://adil:movistarfullexchange@movistartdt.mine.nu:8000/28.ch LA 1 HD
+#EXTINF:-1,by_hichrawi_LA 1
+http://adil:movistarfullexchange@movistartdt.mine.nu:8000/29.ch LA 1
+#EXTINF:-1,by_hichrawi_LA 2
+http://adil:movistarfullexchange@movistartdt.mine.nu:8000/30.ch LA 2
+#EXTINF:-1,by_hichrawi_ANTENA 3 HD
+http://adil:movistarfullexchange@movistartdt.mine.nu:8000/31.ch ANTENA 3 HD
+#EXTINF:-1,by_hichrawi_ANTENA 3
+http://adil:movistarfullexchange@movistartdt.mine.nu:8000/32.ch ANTENA 3
+#EXTINF:-1,by_hichrawi_CUATRO HD
+http://adil:movistarfullexchange@movistartdt.mine.nu:8000/33.ch CUATRO HD
+#EXTINF:-1,by_hichrawi_CUATRO
+http://adil:movistarfullexchange@movistartdt.mine.nu:8000/34.ch CUATRO
+#EXTINF:-1,by_hichrawi_TELECINCO HD
+http://adil:movistarfullexchange@movistartdt.mine.nu:8000/35.ch TELECINCO HD
+#EXTINF:-1,by_hichrawi_TELECINCO
+http://adil:movistarfullexchange@movistartdt.mine.nu:8000/36.ch TELECINCO
+#EXTINF:-1,by_hichrawi_LASEXTA HD
+http://adil:movistarfullexchange@movistartdt.mine.nu:8000/37.ch LASEXTA HD
+#EXTINF:-1,by_hichrawi_LA SEXTA
+http://adil:movistarfullexchange@movistartdt.mine.nu:8000/38.ch LA SEXTA
+#EXTINF:-1,by_hichrawi_DISCOVERY MAX
+http://adil:movistarfullexchange@movistartdt.mine.nu:8000/39.ch DISCOVERY MAX
+#EXTINF:-1,by_hichrawi_FDF
+http://adil:movistarfullexchange@movistartdt.mine.nu:8000/40.ch FDF
+#EXTINF:-1,by_hichrawi_DIVINITY
+http://adil:movistarfullexchange@movistartdt.mine.nu:8000/41.ch DIVINITY
+#EXTINF:-1,by_hichrawi_Neox
+http://adil:movistarfullexchange@movistartdt.mine.nu:8000/42.ch Neox
+#EXTINF:-1,by_hichrawi_NOVA
+http://adil:movistarfullexchange@movistartdt.mine.nu:8000/43.ch NOVA
+#EXTINF:-1,by_hichrawi_MEGA
+http://adil:movistarfullexchange@movistartdt.mine.nu:8000/44.ch MEGA
+#EXTINF:-1,by_hichrawi_ENERGY
+http://adil:movistarfullexchange@movistartdt.mine.nu:8000/45.ch ENERGY
+#EXTINF:-1,by_hichrawi_CLAN
+http://adil:movistarfullexchange@movistartdt.mine.nu:8000/46.ch CLAN
+#EXTINF:-1,by_hichrawi_DISNEY CHANNEL
+http://adil:movistarfullexchange@movistartdt.mine.nu:8000/47.ch DISNEY CHANNEL
+#EXTINF:-1,by_hichrawi_BOING
+http://adil:movistarfullexchange@movistartdt.mine.nu:8000/48.ch BOING
+#EXTINF:-1,by_hichrawi_24 HORAS
+http://adil:movistarfullexchange@movistartdt.mine.nu:8000/49.ch 24 HORAS
+#EXTINF:-1,by_hichrawi_CANAL SUR
+http://adil:movistarfullexchange@movistartdt.mine.nu:8000/50.ch CANAL SUR
+#EXTINF:-1,by_hichrawi_CASTILLA LA MANCHA
+http://adil:movistarfullexchange@movistartdt.mine.nu:8000/51.ch CASTILLA LA MANCHA
+#EXTINF:-1,by_hichrawi_TELEMADRID HD
+http://adil:movistarfullexchange@movistartdt.mine.nu:8000/52.ch TELEMADRID HD
+#EXTINF:-1,by_hichrawi_TELEMADRID
+http://adil:movistarfullexchange@movistartdt.mine.nu:8000/53.ch TELEMADRID
+#EXTINF:-1,by_hichrawi_LA OTRA
+http://adil:movistarfullexchange@movistartdt.mine.nu:8000/54.ch LA OTRA
+#EXTINF:-1,by_hichrawi_BARCA TV
+http://adil:movistarfullexchange@movistartdt.mine.nu:8000/55.ch BARCA TV
+#EXTINF:-1,by_hichrawi_CANAL LIGA 2
+http://adil:movistarfullexchange@movistartdt.mine.nu:8000/56.ch CANAL LIGA 2
+#EXTINF:-1,by_hichrawi_CANAL LIGA 2 A
+http://adil:movistarfullexchange@movistartdt.mine.nu:8000/57.ch CANAL LIGA 2 A
+#EXTINF:-1,by_hichrawi_CANAL LIGA2 B
+http://adil:movistarfullexchange@movistartdt.mine.nu:8000/58.ch CANAL LIGA2 B
+#EXTINF:-1,by_hichrawi_MULTIDEPORTE 6
+http://adil:movistarfullexchange@movistartdt.mine.nu:8000/59.ch MULTIDEPORTE 6
+#EXTINF:-1,by_hichrawi_MULTIDEPORTE 7
+http://adil:movistarfullexchange@movistartdt.mine.nu:8000/60.ch MULTIDEPORTE 7
+#EXTINF:-1,by_hichrawi_PARTIDAZO HD
+http://adil:movistarfullexchange@movistartdt.mine.nu:8000/61.ch PARTIDAZO HD
+#EXTINF:-1,by_hichrawi_CANAL PARTIDAZO
+http://adil:movistarfullexchange@movistartdt.mine.nu:8000/62.ch CANAL PARTIDAZO
+#EXTINF:-1,by_hichrawi_BEIN ESPANA
+http://adil:movistarfullexchange@movistartdt.mine.nu:8000/63.ch BEIN ESPANA
