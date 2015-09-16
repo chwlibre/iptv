@@ -136,9 +136,6 @@ http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_648_av-p.m3u8
 #EXTINF:-1 group-title="LATINOS",Canal de las Estrellas Internacional MEXICO
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8?
 
-#EXTINF:-1 group-title="LATINOS",Azteca 7 MEXICO
-http://ss6.domint.net:1962/al_edge/antena/playlist.m3u8
-
 #EXTINF:-1 group-title="LATINOS",Azteca 13 MEXICO
 http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
 
@@ -157,6 +154,12 @@ http://brightcovelive-i.akamaihd.net/hls/live/200018/bcplay-live/Multi/Multimedi
 #EXTINF:-1 group-title="LATINOS",Telemundo MEXICO
 http://iphone-streaming.ustream.tv/uhls/20720323/streams/live/iphone/playlist.m3u8?
 
+#EXTINF:-1 group-title="LATINOS",Antena Latina Canal 7 MEXICO
+http://ss6.domint.net:1962/al_edge/antena/playlist.m3u8
+
+#EXTINF:-1 group-title="LATINOS",Azteca 7 Monterrey MEXICO
+http://38.104.228.230:1938/info7/info7_512/playlist.m3u8
+
 #EXTINF:-1 group-title="LATINOS",Telemax MEXICO
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 
@@ -168,9 +171,6 @@ http://74.63.97.188:1935/gpacifico3/videogpacifico3/chunklist_w1501260201.m3u8
 
 #EXTINF:-1 group-title="LATINOS",Ultra Television MEXICO
 http://odna.octoshape.net/n8u4c9c7/cds/smil:ultraaguascalientes/chunklist_b1500000.m3u8
-
-#EXTINF:-1 group-title="LATINOS",Azteca 7 MEXICO
-http://38.104.228.230:1938/info7/info7_512/playlist.m3u8
 
 #EXTINF:-1 group-title="LATINOS",VMas+ Tv COLOMBIA
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8?
