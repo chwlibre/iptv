@@ -52,15 +52,26 @@ http://mdstrm.com/live-stream-playlist-v/53443c472c6e89675103cc4c.m3u8
 http://rt-a.akamaihd.net/ch_05@325609/720p.m3u8
 #EXTINF:-1 group-title="Cultura", Nasa HD
 http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_1000_av-p.m3u8
+#EXTINF:-1 group-title="Cultura", Natgeo
+http://201.161.59.3/natgeo.isml/QualityLevels(1628000)/manifest(format=m3u8-aapl).m3u
+#EXTINF:-1 group-title="Cultura", National Geographic
+http://201.161.59.3/natgeo.isml/QualityLevels(1928000)/manifest(format=m3u8-aapl).m3u8?
+#EXTINF:-1 group-title="Cultura", Natgeo Salvaje
+http://201.161.59.3/natgeowild.isml/QualityLevels(3503000)/manifest(format=m3u8-aapl).m3u8?
+#EXTINF:-1 group-title="Cultura", History 2
+http://201.161.59.3/h2.isml/QualityLevels(1817984)/manifest(format=m3u8-aapl).m3u8?
+
 
 
 
 #EXTINF:-1 group-title="Kids", .: Kids :.
 
 #EXTINF:-1 group-title="Kids", Disney XD
-http://201.161.59.4/disneyxd.isml/manifest%28format=m3u8-aapl%29.m3u8
+http://201.161.59.4/disneyxd.isml/QualityLevels(1253000)/manifest(format=m3u8-aapl).m3u8
 #EXTINF:-1 group-title="Kids", Nick
-http://201.161.59.6/nick.isml/manifest%28format=m3u8-aapl%29.m3u8
+http://201.161.59.6/nick.isml/QualityLevels(1328000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 group-title="Kids", CN
+http://201.161.59.6/cartoonnetwork.isml/QualityLevels(1253000)/manifest(format=m3u8-aapl).m3u8
 #EXTINF:-1 group-title="Kids", Anime en Español
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
 
@@ -99,8 +110,14 @@ http://iptvnation.com/bobs.mp4
 
 #EXTINF:-1 group-title="Cable", .: Cable :.
 
-#EXTINF:-1 group-title="Cable", Fox
-http://201.161.59.6/fox.isml/QualityLevels(1253000)/manifest(format=m3u8-aapl).m3u8	
+#EXTINF:-1 group-title="Cable", E!
+http://201.161.59.6/e.isml/QualityLevels(1928000)/manifest(format=m3u8-aapl).m3u8?
+#EXTINF:-1 group-title="Cable", Warner
+http://201.161.59.6/warner.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 group-title="Cable", Syfy
+http://201.161.59.4/syfy.isml/QualityLevels(1628000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 group-title="Cable", Fox SD
+http://201.161.59.6/fox.isml/manifest(format=m3u8-aapl).m3u8
 #EXTINF:-1 group-title="Cable", Fox Life
 http://201.161.59.7/foxlife.isml/manifest%28format=m3u8-aapl%29.m3u8
 #EXTINF:-1 group-title="Cable", Fx
@@ -134,6 +151,8 @@ http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel02/la_se
 http://201.161.59.6/foxsports.isml/manifest%28format=m3u8-aapl%29.m3u8
 #EXTINF:-1 group-title="Deportes", ESPN
 http://201.161.59.4/espn2.isml/manifest%28format=m3u8-aapl%29.m3u8
+#EXTINF:-1 group-title="Deportes", Win Sport Colombia
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1_1.m3u8
 #EXTINF:-1 group-title="Deportes",  CDN Sport Max
 http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
 #EXTINF:-1 group-title="Deportes", AutoSport TV
@@ -259,3 +278,96 @@ mms://streamqm.uigc.net/qmusica
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANU/tu1_1.m3u8
 #EXTINF:-1 group-title="Musica",Treny Musica
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8
+
+
+
+#EXTINF:-1 group-title="Test", .: Test :.
+
+#EXTINF:-1 group-title="Test", Cine Dinamita
+http://www.iptvsmart.net/app/getDecodingChannel.php?id=7d01c43c-5044-408b-a5c7-c7f3b83f6c93&channel=3465
+#EXTINF:-1 group-title="Test", Cinecanal
+http://www.iptvsmart.net/app/getDecodingChannel.php?id=7d01c43c-5044-408b-a5c7-c7f3b83f6c93&channel=2495
+#EXTINF:-1 group-title="Test", CineLatino
+http://www.iptvsmart.net/app/getDecodingChannel.php?id=7d01c43c-5044-408b-a5c7-c7f3b83f6c93&channel=477
+#EXTINF:-1 group-title="Test", Fox
+http://www.iptvsmart.net/app/getDecodingChannel.php?id=7d01c43c-5044-408b-a5c7-c7f3b83f6c93&channel=3947
+#EXTINF:-1 group-title="Test", Paramount Channel Latinoamerica
+http://www.iptvsmart.net/app/getDecodingChannel.php?id=7d01c43c-5044-408b-a5c7-c7f3b83f6c93&channel=260
+#EXTINF:-1 group-title="Test", Mundo Fox
+http://www.iptvsmart.net/app/getDecodingChannel.php?id=7d01c43c-5044-408b-a5c7-c7f3b83f6c93&channel=429
+#EXTINF:-1 group-title="Test", SyFy
+http://www.iptvsmart.net/app/getDecodingChannel.php?id=7d01c43c-5044-408b-a5c7-c7f3b83f6c93&channel=447
+#EXTINF:-1 group-title="Test", Fox 1 HD
+http://www.iptvsmart.net/app/getDecodingChannel.php?id=7d01c43c-5044-408b-a5c7-c7f3b83f6c93&channel=433
+#EXTINF:-1 group-title="Test", Fox 1 HD
+http://www.iptvsmart.net/app/getDecodingChannel.php?id=7d01c43c-5044-408b-a5c7-c7f3b83f6c93&channel=439
+#EXTINF:-1 group-title="Test", Fox Action HD
+http://www.iptvsmart.net/app/getDecodingChannel.php?id=7d01c43c-5044-408b-a5c7-c7f3b83f6c93&channel=435
+#EXTINF:-1 group-title="Test", Fox Action HD
+http://www.iptvsmart.net/app/getDecodingChannel.php?id=7d01c43c-5044-408b-a5c7-c7f3b83f6c93&channel=437
+#EXTINF:-1 group-title="Test", Fox Movies HD
+http://www.iptvsmart.net/app/getDecodingChannel.php?id=7d01c43c-5044-408b-a5c7-c7f3b83f6c93&channel=463
+#EXTINF:-1 group-title="Test", Fox Cinéma
+http://www.iptvsmart.net/app/getDecodingChannel.php?id=7d01c43c-5044-408b-a5c7-c7f3b83f6c93&channel=457
+#EXTINF:-1 group-title="Test", Fox Family
+http://www.iptvsmart.net/app/getDecodingChannel.php?id=7d01c43c-5044-408b-a5c7-c7f3b83f6c93&channel=467
+#EXTINF:-1 group-title="Test", Fox Comedy
+http://www.iptvsmart.net/app/getDecodingChannel.php?id=7d01c43c-5044-408b-a5c7-c7f3b83f6c93&channel=461
+#EXTINF:-1 group-title="Test", HBO
+http://www.iptvsmart.net/app/getDecodingChannel.php?id=7d01c43c-5044-408b-a5c7-c7f3b83f6c93&channel=385
+#EXTINF:-1 group-title="Test", HBO2
+http://www.iptvsmart.net/app/getDecodingChannel.php?id=7d01c43c-5044-408b-a5c7-c7f3b83f6c93&channel=365
+#EXTINF:-1 group-title="Test", HBO plus ESTE
+http://www.iptvsmart.net/app/getDecodingChannel.php?id=7d01c43c-5044-408b-a5c7-c7f3b83f6c93&channel=453
+#EXTINF:-1 group-title="Test", HBO plus OESTE
+http://www.iptvsmart.net/app/getDecodingChannel.php?id=7d01c43c-5044-408b-a5c7-c7f3b83f6c93&channel=369
+#EXTINF:-1 group-title="Test", HBO Family
+http://www.iptvsmart.net/app/getDecodingChannel.php?id=7d01c43c-5044-408b-a5c7-c7f3b83f6c93&channel=449
+#EXTINF:-1 group-title="Test", Max UP
+http://www.iptvsmart.net/app/getDecodingChannel.php?id=7d01c43c-5044-408b-a5c7-c7f3b83f6c93&channel=469
+#EXTINF:-1 group-title="Test", MAX
+http://www.iptvsmart.net/app/getDecodingChannel.php?id=7d01c43c-5044-408b-a5c7-c7f3b83f6c93&channel=381
+#EXTINF:-1 group-title="Test", Max Prime Este
+http://www.iptvsmart.net/app/getDecodingChannel.php?id=7d01c43c-5044-408b-a5c7-c7f3b83f6c93&channel=377
+#EXTINF:-1 group-title="Test", MaxPrime Oeste
+http://www.iptvsmart.net/app/getDecodingChannel.php?id=7d01c43c-5044-408b-a5c7-c7f3b83f6c93&channel=379
+#EXTINF:-1 group-title="Test", AMC
+http://www.iptvsmart.net/app/getDecodingChannel.php?id=7d01c43c-5044-408b-a5c7-c7f3b83f6c93&channel=485
+#EXTINF:-1 group-title="Test", Universal
+http://www.iptvsmart.net/app/getDecodingChannel.php?id=7d01c43c-5044-408b-a5c7-c7f3b83f6c93&channel=387
+#EXTINF:-1 group-title="Test", Studio Universal
+http://www.iptvsmart.net/app/getDecodingChannel.php?id=7d01c43c-5044-408b-a5c7-c7f3b83f6c93&channel=345
+#EXTINF:-1 group-title="Test", I.Sat
+http://www.iptvsmart.net/app/getDecodingChannel.php?id=7d01c43c-5044-408b-a5c7-c7f3b83f6c93&channel=1703
+#EXTINF:-1 group-title="Test", Sony HD
+http://www.iptvsmart.net/app/getDecodingChannel.php?id=7d01c43c-5044-408b-a5c7-c7f3b83f6c93&channel=2501
+#EXTINF:-1 group-title="Test", Warner HD
+http://www.iptvsmart.net/app/getDecodingChannel.php?id=7d01c43c-5044-408b-a5c7-c7f3b83f6c93&channel=2499
+#EXTINF:-1 group-title="Test", FX HD
+http://www.iptvsmart.net/app/getDecodingChannel.php?id=7d01c43c-5044-408b-a5c7-c7f3b83f6c93&channel=431
+#EXTINF:-1 group-title="Test", Tru TVHD
+http://www.iptvsmart.net/app/getDecodingChannel.php?id=7d01c43c-5044-408b-a5c7-c7f3b83f6c93&channel=337
+#EXTINF:-1 group-title="Test", A E
+http://www.iptvsmart.net/app/getDecodingChannel.php?id=7d01c43c-5044-408b-a5c7-c7f3b83f6c93&channel=258
+#EXTINF:-1 group-title="Test", E!
+http://www.iptvsmart.net/app/getDecodingChannel.php?id=7d01c43c-5044-408b-a5c7-c7f3b83f6c93&channel=427
+#EXTINF:-1 group-title="Test", AXN HD
+http://www.iptvsmart.net/app/getDecodingChannel.php?id=7d01c43c-5044-408b-a5c7-c7f3b83f6c93&channel=2493
+#EXTINF:-1 group-title="Test", Cinemax
+http://www.iptvsmart.net/app/getDecodingChannel.php?id=7d01c43c-5044-408b-a5c7-c7f3b83f6c93&channel=343
+#EXTINF:-1 group-title="Test", Europa Europa
+http://www.iptvsmart.net/app/getDecodingChannel.php?id=7d01c43c-5044-408b-a5c7-c7f3b83f6c93&channel=1597
+#EXTINF:-1 group-title="Test", Film & Arts
+http://www.iptvsmart.net/app/getDecodingChannel.php?id=7d01c43c-5044-408b-a5c7-c7f3b83f6c93&channel=1599
+#EXTINF:-1 group-title="Test", The Film Zone HD
+http://www.iptvsmart.net/app/getDecodingChannel.php?id=7d01c43c-5044-408b-a5c7-c7f3b83f6c93&channel=1055
+#EXTINF:-1 group-title="Test", TNT HD
+http://www.iptvsmart.net/app/getDecodingChannel.php?id=7d01c43c-5044-408b-a5c7-c7f3b83f6c93&channel=262
+#EXTINF:-1 group-title="Test", TNT Series
+http://www.iptvsmart.net/app/getDecodingChannel.php?id=7d01c43c-5044-408b-a5c7-c7f3b83f6c93&channel=331
+#EXTINF:-1 group-title="Test", MultiPremier
+http://www.iptvsmart.net/app/getDecodingChannel.php?id=7d01c43c-5044-408b-a5c7-c7f3b83f6c93&channel=3293
+#EXTINF:-1 group-title="Test", Golden Premier 1
+http://www.iptvsmart.net/app/getDecodingChannel.php?id=7d01c43c-5044-408b-a5c7-c7f3b83f6c93&channel=1487
+#EXTINF:-1 group-title="Test", Golden Multiplex
+http://www.iptvsmart.net/app/getDecodingChannel.php?id=7d01c43c-5044-408b-a5c7-c7f3b83f6c93&channel=1035
