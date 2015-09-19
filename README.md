@@ -1,5 +1,5 @@
 # iptv
-Lista para IPTV abierto y colaborativo
+Listas de IPTV abiertas y colaborativas
 
 Repositorio de listas de canales abierto, colaborativo y buena onda que surgió en el thread [Lista IPTV mantenida por los miembros de CHW](http://www.chw.net/foro/poseedores-tv-led-smart-3d/1136045-lista-iptv-mantenida-los-miembros-chw.html) de la comunidad CHW.net. Es mantenida 100% por los mismos.
 
@@ -14,25 +14,29 @@ Repositorio de listas de canales abierto, colaborativo y buena onda que surgió 
 
     `https://raw.githubusercontent.com/chwlibre/iptv/master/list2.m3u`
 
-* lista 3:
-
-    `https://raw.githubusercontent.com/chwlibre/iptv/master/list3.m3u`
-
 * lista 4:
 
     `https://raw.githubusercontent.com/chwlibre/iptv/master/list4.m3u`
 
-* lista 6 chw:
+* lista chw:
 
     `https://raw.githubusercontent.com/chwlibre/iptv/master/chw.m3u`
 
-* lista 7 chw-beta:
+* lista geneiptv:
 
-    `https://raw.githubusercontent.com/chwlibre/iptv/master/chw-beta.m3u`
+    `https://raw.githubusercontent.com/chwlibre/iptv/master/geneiptv.m3u`
 
-* lista 8 makiavelo:
+* lista makiavelo:
 
     `https://raw.githubusercontent.com/chwlibre/iptv/master/makiavelo.m3u`
 
+* lista premium:
+
+    `https://raw.githubusercontent.com/chwlibre/iptv/master/premium.m3u`
+
+* lista radios:
+
+    `https://raw.githubusercontent.com/chwlibre/iptv/master/radios.m3u`
+
 ### ¿Quieres colaborar? ¿Agregar un listado nuevo?
-¡Puedes hacerlo!, sólo deja tu nombre de usuario de Github en el thread del foro (ver más arriba el link). Aquí nadie es dueño del trabajo de nadie, todo aporte es valioso, la idea es colaborar entre todos.
+¡Puedes hacerlo!, sólo deja tu nombre de usuario de Github en el [foro](http://www.chw.net/foro/poseedores-tv-led-smart-3d/1136045-lista-iptv-mantenida-los-miembros-chw.html) de nuestra comunidad. Aquí nadie es dueño del trabajo de nadie, todo aporte es valioso, la idea es colaborar entre todos.
