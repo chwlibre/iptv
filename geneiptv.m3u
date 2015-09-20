@@ -106,6 +106,9 @@ http://vemoxhlslive-i.akamaihd.net/hls/live/219940/vemoxchannel1/iOS/vemoxchanne
 #EXTINF:-1 group-title="LATINOS",Universal Movies
 http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8?
 
+#EXTINF:-1 group-title="LATINOS",America Tv Señal Youtube ARGENTINA
+https://youtu.be/IFcUP8xs27A
+
 #EXTINF:-1 group-title="LATINOS",Canal 26 ARGENTINA
 http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
 
