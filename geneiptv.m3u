@@ -334,12 +334,6 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-b.m3u8?sd=10&rebas
 #EXTM3U
 #EXTINF:0,-Otros-
 
-#EXTINF:-1 group-title="OTROS", Canal WWE
-http://q.gs/9830047/wwetodokodi
-
-#EXTINF:-1 group-title="OTROS", UFC Figh Pass
-http://q.gs/9830047/ufctodokodi
-
 #EXTINF:-1 group-title="OTROS", Win Sport 
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1_1.m3u8
 
