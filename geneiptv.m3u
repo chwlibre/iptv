@@ -35,6 +35,8 @@ http://movilstream.digitalproserver.com/holvoet/holvoetvivo/holvoet.smil/chunkli
 http://cdn.streamingmedia.cl:1935/live/rtmp.stream/BratuMarian.m3u8?MegaIPTVArgentina
 #EXTINF:-1 group-title="CHILE",Quinta Vision Viña del Mar 
 http://iphone-streaming.ustream.tv/uhls/2950729/streams/live/iphone/playlist.m3u8#MegaIPTVArgentina
+#EXTINF:-1 group-title="CHILE",Independencia TV
+http://evo.eltelon.com:443/live/independencia-tv/playlist.m3u8?
 #EXTINF:-1 group-title="CHILE",Canal 2 San Antonio 
 rtmp://video.crearchile.com:8080/live/mp4:canal2.mp4
 #EXTINF:-1 group-title="CHILE",TVO San Vicente de tagua Tagua
