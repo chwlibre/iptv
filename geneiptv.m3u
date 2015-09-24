@@ -323,13 +323,16 @@ rtmp://teledifusion.tv/mijastv/mijastvlive
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-b.m3u8?sd=10&rebase=on
 
 #EXTM3U
-#EXTINF:0,-Otros-
+#EXTINF:0,-Deportes-
 
-#EXTINF:-1 group-title="OTROS", Win Sport 
+#EXTINF:-1 group-title="DEPORTES", Win Sport 
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1_1.m3u8
 
-#EXTINF:-1 group-title="OTROS", CDN Sport Max
+#EXTINF:-1 group-title="DEPORTES", CDN Sport Max
 http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
+
+#EXTM3U
+#EXTINF:0,-Otros-
 
 #EXTINF:-1 group-title="OTROS", NASA Tv
 http://iphone-streaming.ustream.tv/ustreamVideo/6540154/streams/live/playlist.m3u8
@@ -568,7 +571,7 @@ http://www.spruto.tv/get_file/8/8927506a0be81c88d283929f0bf73c09/120000/120485/1
 http://www.spruto.tv/get_file/7/9d9c949a8735bc7da3b9f51210a54cfb/77000/77011/77011.mp4
 #EXTINF:-1 group-title="PELICULAS",PIRATAS DEL CARIBE 1
 http://www.spruto.tv/get_file/1/d6d83a057012576d41fb41a61a1ebb11/87000/87999/87999.mp4
-#EXTINF:-1 group-title="PELICULAS",RESUCITADOS
+#EXTINF:-1 group-title="PELICULAS", RESUCITADOS
 https://ia800309.us.archive.org/21/items/1esucitados./1esucitados..mp4
 #EXTINF:-1 group-title="PELICULAS",Gnomeo y Julieta
 http://www.spruto.tv/get_file/7/4aec99b76a012347d0fbffbefa066e3f/78000/78054/78054.mp4
