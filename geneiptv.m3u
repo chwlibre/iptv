@@ -77,7 +77,13 @@ http://201.219.100.30:1935/telpintv/ttv.stream_720p/playlist.m3u8
 rtsp://stream.eltrecetv.com.ar/live13/13tv/13tv1
 #EXTINF:-1 group-title="LATINOS",Canal 2 Misiones ARGENTINA
 http://190.57.237.214/live/canal.m3u8
+#EXTINF:-1 group-title="LATINOS",Magazine ARGENTINA
+rtsp://stream.mgzn.tv/live/mgzntv/mgzntv
 #EXTINF:-1 group-title="LATINOS",Orbe 21 ARGENTINA
+#EXTINF:-1 group-title="LATINOS",TN 24 Horas ARGENTINA
+rtsp://stream.tn.com.ar/live/tnhd1
+#EXTINF:-1 group-title="LATINOS",C5N ARGENTINA 
+http://c5n.stweb.tv:1935/c5n/live_media/sat.m3u8
 http://urtmpkal-f.akamaihd.net/i/1b6mj17sk_1@308700/master.m3u8
 #EXTINF:-1 group-title="LATINOS",Canal de las Estrellas Internacional MEXICO
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8?
@@ -211,6 +217,8 @@ http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacal
 http://wow2.cl.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist_w913906597_b1064000.m3u8
 #EXTINF:-1 group-title="DEPORTES", Win Sport 
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1_1.m3u8
+#EXTINF:-1 group-title="DEPORTES", AM Sport  
+http://iphone-streaming.ustream.tv/uhls/11602466/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES", CDN Sport Max
 http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES",Real Madrid Tv                                                                                                                                                                                                                                            
