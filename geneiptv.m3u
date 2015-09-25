@@ -21,10 +21,6 @@ http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8
 http://cluster.13cmovil.ztreaming.com/13cm/grpz13c/playlist.m3u8
 #EXTINF:-1 group-title="CHILE",ETC Tv 
 http://movilstream.digitalproserver.com/etctv/etctvvivo/livestream1/playlist.m3u8
-#EXTINF:-1 group-title="CHILE",Etchegoyen TV 
-http://stream110.digitalproserver.com:443:1935/etgtv/etgtvvivo/livestream1/playlist.m3u8
-#EXTINF:-1 group-title="CHILE",Cesfam Tv - Vida Tv 
-http://evo.eltelon.com:443/live/cesfamtv/playlist.m3u8
 #EXTINF:-1 group-title="CHILE",Digital Channel Tv Antofagasta 
 http://evo.eltelon.com:443/live/dch-tv/playlist.m3u8?MegaIPTVArgentina
 #EXTINF:-1 group-title="CHILE",Antofagasta Tv 
