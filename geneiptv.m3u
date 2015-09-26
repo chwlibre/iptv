@@ -45,8 +45,6 @@ http://wow2.cl.digitalproserver.com/c9/livestream1/chunklist_w983075885.m3u8
 http://movilstream.digitalproserver.com/tvu/tvuvivo/livestream1/playlist.m3u8
 #EXTINF:-1 group-title="CHILE",Tv 4 Lota 
 http://190.107.176.167:1935/live/tv4-television/playlist.m3u8?MegaIPTVArgentina
-#EXTINF:-1 group-title="CHILE",ATV Valdivia 
-http://wow2.cl.digitalproserver.com/atv/atvvivo/atv.smil/hasbahca.m3u8#MegaIPTVArgentina
 #EXTINF:-1 group-title="CHILE",Canal 5 Puerto Montt 
 http://iphone-streaming.ustream.tv/uhls/16911585/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 group-title="CHILE",Aysen Tv Puerto Aysen 
@@ -251,18 +249,16 @@ mms://200.42.92.6:1755/qmusica
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8?
 #EXTINF:-1 group-title="MUSICA",Estudio Tv 
 rtmp://190.107.176.167:1935/live/estudio-tv
+#EXTINF:-1 group-title="MUSICA",Kiss Tv 
+rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
 #EXTINF:-1 group-title="MUSICA",Heart Tv 
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8#MegaIPTVArgentina
 #EXTINF:-1 group-title="MUSICA",Clubland Tv 
 http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8
-#EXTINF:-1 group-title="MUSICA",Kiss Tv 
-rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
 #EXTINF:-1 group-title="MUSICA",Capital Tv 
 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8
 #EXTINF:-1 group-title="MUSICA",Ibiza 
 http://www.djing.com/tv/ibiza.m3u8
-#EXTINF:-1 group-title="MUSICA",Underground
-http://www.djing.com/tv/underground.m3u8#GerardoLoyolaIPTV
 #EXTINF:-1 group-title="MUSICA",Amazing Tv
 http://redir.atmcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8?sessionId=ABA74CBC0702307FF0B559F938FC9B21.node1&stream=2
 #EXTINF:-1 group-title="MUSICA",Film on Tv 
