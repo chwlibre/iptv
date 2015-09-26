@@ -55,12 +55,12 @@ http://190.107.176.167:1935/live/tv4-television/playlist.m3u8?MegaIPTVArgentina
 http://iphone-streaming.ustream.tv/uhls/16911585/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 group-title="CHILE",Aysen Tv Puerto Aysen 
 http://wow2.cl.digitalproserver.com/aysentv/aysentvvivo/aysentv.smil/BratuMarian.m3u8
-#EXTINF:-1 group-title="CHILE",Patagonia Tv
-http://69.164.193.177:1935/live/myStream/playlist.m3u8
 #EXTINF:-1 group-title="CHILE",ITV Punta Arenas 
 http://wow2.cl.digitalproserver.com/itv/itvvivo/livestream1/playlist.m3u8
 #EXTINF:-1 group-title="CHILE",El Pinguino Tv Punta Arenas 
 http://streaming.elpinguino.com:1935/live/pinguinotv_360p/BratuMarian.m3u8
+#EXTINF:-1 group-title="CHILE",Patagonia Tv Punta Arenas
+http://69.164.193.177:1935/live/myStream/playlist.m3u8
 
 #EXTM3U
 #EXTINF:0,-Latinos-
