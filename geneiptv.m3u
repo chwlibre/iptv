@@ -247,9 +247,9 @@ http://lag2.tv-mobile.org/prgu.m3u8
 
 #EXTINF:-1 group-title="CULTURALES",Bajo Techo
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/98.m3u8
-#EXTINF:-1 group-title="SPAIN",Mega 
+#EXTINF:-1 group-title="CULTURALES",Mega 
 http://a3live-lh.akamaihd.net/i/mega/megageo_1@328914/index_4_av-b.m3u8
-#EXTINF:-1 group-title="SPAIN",RT Tv
+#EXTINF:-1 group-title="CULTURALES",RT Tv
 http://rt.ashttp14.visionip.tv/live/RT_en_Espanol-SD/chunklist.m3u8
 #EXTINF:-1 group-title="CULTURALES", DW Tv
 http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8?
