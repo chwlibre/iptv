@@ -163,8 +163,6 @@ http://iphone-streaming.ustream.tv/uhls/13870671/streams/live/iphone/playlist.m3
 #EXTM3U
 #EXTINF:0,-Spain-
 
-#EXTINF:-1 group-title="SPAIN",Mega 
-http://a3live-lh.akamaihd.net/i/mega/megageo_1@328914/index_4_av-b.m3u8
 #EXTINF:-1 group-title="SPAIN",Castilla La Mancha 
 http://195.55.74.210/rtvcm/live.flv?GKID=a9b379844fff11e5a75100163ea2c744 
 #EXTINF:-1 group-title="SPAIN",Canal Costa 
@@ -185,8 +183,6 @@ http://iphonelive.rtve.es/LA2_LV3_IPH/bitrate_2.m3u8
 http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
 #EXTINF:-1 group-title="SPAIN",Telecinco 
 http://mdsios2-lh.akamaihd.net/i/mitele/esmediaset_21@168473/index_0_av-p.m3u8
-#EXTINF:-1 group-title="SPAIN",RT Tv
-http://rt.ashttp14.visionip.tv/live/RT_en_Espanol-SD/chunklist.m3u8
 #EXTINF:-1 group-title="SPAIN",La 1 
 http://iphonelive.rtve.es/LA1_LV3_IPH/bitrate_2.m3u8
 #EXTINF:-1 group-title="SPAIN",La 2 
@@ -251,14 +247,16 @@ http://lag2.tv-mobile.org/prgu.m3u8
 
 #EXTINF:-1 group-title="CULTURALES",Bajo Techo
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/98.m3u8
-#EXTINF:-1 group-title="CULTURALES",Mega Cultural
+#EXTINF:-1 group-title="SPAIN",Mega 
 http://a3live-lh.akamaihd.net/i/mega/megageo_1@328914/index_4_av-b.m3u8
+#EXTINF:-1 group-title="SPAIN",RT Tv
+http://rt.ashttp14.visionip.tv/live/RT_en_Espanol-SD/chunklist.m3u8
+#EXTINF:-1 group-title="CULTURALES", DW Tv
+http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8?
 #EXTINF:-1 group-title="CULTURALES", NASA Tv
 http://iphone-streaming.ustream.tv/ustreamVideo/6540154/streams/live/playlist.m3u8
 #EXTINF:-1 group-title="CULTURALES", NASA Space Station Views
 http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 group-title="CULTURALES", DW Tv
-http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8?
 #EXTINF:-1 group-title="CULTURALES", Hogar Tv 
 http://xhogartvx.api.channel.livestream.com/3.0/playlist.m3u8#megaIPTVArgentina
 #EXTINF:-1 group-title="CULTURALES", Chef Tv 
