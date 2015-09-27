@@ -277,6 +277,8 @@ http://iphone-streaming.ustream.tv/uhls/11602466/streams/live/iphone/playlist.m3
 http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES",Tododeportes
 http://162.212.176.68:1935/tododeportes/tododeportes/playlist.m3u8
+#EXTINF:-1 group-title="DEPORTES",Sport TV Americas
+http://sporttvamericas-i.akamaihd.net/hls/live/222316/sportTV/mastersportTV_1300kbps.m3u8
 #EXTINF:-1 group-title="DEPORTES",Autosport
 http://lag2.tv-mobile.org/prgu.m3u8
 
