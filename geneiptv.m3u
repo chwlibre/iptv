@@ -81,8 +81,10 @@ http://ionlive1-lh.akamaihd.net/i/canal9_1@125365/master.m3u8
 rtsp://stream.tn.com.ar/live/tnhd1
 #EXTINF:-1 group-title="LATINOS",C5N ARGENTINA 
 http://c5n.stweb.tv:1935/c5n/live_media/sat.m3u8
-#EXTINF:-1 group-title="LATINOS"Telemax ARGENTINA
+#EXTINF:-1 group-title="LATINOS", Telemax ARGENTINA
 http://live-edge01.telecentro.net.ar/live/tlx-480/playlist.m3u8
+#EXTINF:-1 group-title="LATINOS",360 Tv ARGENTINA
+http://lsd360tvhls-lh.akamaihd.net/i/360TVHLS_1@197877/master.m3u8
 #EXTINF:-1 group-title="LATINOS",Magazine ARGENTINA
 rtsp://stream.mgzn.tv/live/mgzntv/mgzntv
 #EXTINF:-1 group-title="LATINOS",Orbe 21 ARGENTINA
@@ -233,6 +235,8 @@ http://lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEZ/tu1_1.m3u8?
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8?
 #EXTINF:-1 group-title="ESTILO Y TENDENCIAS",VMas+ Tv 
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8?
+#EXTINF:-1 group-title="ESTILO Y TENDENCIAS",Canal Rural
+rtsp://streamrural.cmd.com.ar:1935/liverural/crural/rural1
 #EXTINF:-1 group-title="ESTILO Y TENDENCIAS", Hogar Tv 
 http://xhogartvx.api.channel.livestream.com/3.0/playlist.m3u8#megaIPTVArgentina
 #EXTINF:-1 group-title="ESTILO Y TENDENCIAS", Chef Tv 
