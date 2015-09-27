@@ -1,61 +1,65 @@
 #EXTM3U
-#EXTINF:0,-Chile-
+#EXTINF:0,-Nacionales-
 
-#EXTINF:-1 group-title="CHILE", Telecanal 
+#EXTINF:-1 group-title="NACIONALES", Telecanal 
 http://movilstream.digitalproserver.com/tcsc/tcscvivo/livestream2/playlist.m3u8
-#EXTINF:-1 group-title="CHILE",La Red 
+#EXTINF:-1 group-title="NACIONALES",La Red 
 http://movilstream.digitalproserver.com:443/redtv/redtvvivo/livestream2/playlist.m3u8
-#EXTINF:-1 group-title="CHILE",UCV 
+#EXTINF:-1 group-title="NACIONALES",UCV 
 http://movilstream.digitalproserver.com/ucvtv/ucvtv.smil/chunklist-b1248000.m3u8
-#EXTINF:-1 group-title="CHILE",TVN 
+#EXTINF:-1 group-title="NACIONALES",TVN 
 http://wow3.tvn.cl:1935/liveedge/tvnelemental.smil/chunklist-b1431000.m3u8
-#EXTINF:-1 group-title="CHILE",TVN Internacional 
+#EXTINF:-1 group-title="NACIONALES",TVN Internacional 
 http://edge-61-cl.edge.mdstrm.com/tvn-live/_definst_/smil:285a5c6dade574d5f111419c85c6cf17/chunklist_b800000.m3u8
-#EXTINF:-1 group-title="CHILE",Mega 
+#EXTINF:-1 group-title="NACIONALES",Mega 
 http://edge-12-cl.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist_b1500.m3u8
-#EXTINF:-1 group-title="CHILE",CHV 
+#EXTINF:-1 group-title="NACIONALES",CHV 
 http://live.hls.http.chv.ztreaming.com/chvhddesktop/chvHi.m3u8
-#EXTINF:-1 group-title="CHILE",Canal 13 
+#EXTINF:-1 group-title="NACIONALES",Canal 13 
 http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8
-#EXTINF:-1 group-title="CHILE",Canal 13 Cable 
+#EXTINF:-1 group-title="NACIONALES",Canal 13 Cable 
 http://cluster.13cmovil.ztreaming.com/13cm/grpz13c/playlist.m3u8
-#EXTINF:-1 group-title="CHILE",Digital Channel Tv Antofagasta 
+
+#EXTM3U
+#EXTINF:0,-Regionales-
+
+#EXTINF:-1 group-title="REGIONALES",Digital Channel Tv Antofagasta 
 http://evo.eltelon.com:443/live/dch-tv/playlist.m3u8?MegaIPTVArgentina
-#EXTINF:-1 group-title="CHILE",Antofagasta Tv 
+#EXTINF:-1 group-title="REGIONALES",Antofagasta Tv 
 http://wow2.cl.digitalproserver.com/atv/atvvivo/atv.smil/chunklist_w949479730_b2200000.m3u8
-#EXTINF:-1 group-title="CHILE",Holvoet Copiapo 
+#EXTINF:-1 group-title="REGIONALES",Holvoet Copiapo 
 http://movilstream.digitalproserver.com/holvoet/holvoetvivo/holvoet.smil/chunklist-b1248000.m3u8
-#EXTINF:-1 group-title="CHILE",Canal 2 Valle Tv San Felipe 
+#EXTINF:-1 group-title="REGIONALES",Canal 2 Valle Tv San Felipe 
 http://cdn.streamingmedia.cl:1935/live/rtmp.stream/BratuMarian.m3u8?MegaIPTVArgentina
-#EXTINF:-1 group-title="CHILE",Quinta Vision Viña del Mar 
+#EXTINF:-1 group-title="REGIONALES",Quinta Vision Viña del Mar 
 http://iphone-streaming.ustream.tv/uhls/2950729/streams/live/iphone/playlist.m3u8#MegaIPTVArgentina
-#EXTINF:-1 group-title="CHILE",Independencia TV
+#EXTINF:-1 group-title="REGIONALES",Independencia TV
 http://evo.eltelon.com:443/live/independencia-tv/playlist.m3u8?
-#EXTINF:-1 group-title="CHILE",Canal 2 San Antonio 
+#EXTINF:-1 group-title="REGIONALES",Canal 2 San Antonio 
 rtmp://video.crearchile.com:8080/live/mp4:canal2.mp4
-#EXTINF:-1 group-title="CHILE",TVO San Vicente de tagua Tagua
+#EXTINF:-1 group-title="REGIONALES",TVO San Vicente de tagua Tagua
 http://movilstream.digitalproserver.com/tvo/tvovivo/livestream/playlist.m3u8
-#EXTINF:-1 group-title="CHILE",Campus Tv Universidad de Talca 
+#EXTINF:-1 group-title="REGIONALES",Campus Tv Universidad de Talca 
 http://wow2.cl.digitalproserver.com/campustv/campustvvivo/campustv.smil/chunklist_w662421777_b848000.m3u8
-#EXTINF:-1 group-title="CHILE",Canal 5 Linares
+#EXTINF:-1 group-title="REGIONALES",Canal 5 Linares
 rtmp://v1.streaminglatinoamerica.com/canal5/canal5
-#EXTINF:-1 group-title="CHILE",Contivision Constitución 
+#EXTINF:-1 group-title="REGIONALES",Contivision Constitución 
 http://wow2.cl.digitalproserver.com/contivisionhd/contivisionhdvivo/contivisionhd.smil/chunklist_w1162159593_b1496000.m3u8
-#EXTINF:-1 group-title="CHILE",Canal 9 Bio Bio 
+#EXTINF:-1 group-title="REGIONALES",Canal 9 Bio Bio 
 http://wow2.cl.digitalproserver.com/c9/livestream1/chunklist_w983075885.m3u8
-#EXTINF:-1 group-title="CHILE",TVU Concepción 
+#EXTINF:-1 group-title="REGIONALES",TVU Concepción 
 http://movilstream.digitalproserver.com/tvu/tvuvivo/livestream1/playlist.m3u8
-#EXTINF:-1 group-title="CHILE",Tv 4 Lota 
+#EXTINF:-1 group-title="REGIONALES",Tv 4 Lota 
 http://190.107.176.167:1935/live/tv4-television/playlist.m3u8?MegaIPTVArgentina
-#EXTINF:-1 group-title="CHILE",Canal 5 Puerto Montt 
+#EXTINF:-1 group-title="REGIONALES",Canal 5 Puerto Montt 
 http://iphone-streaming.ustream.tv/uhls/16911585/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 group-title="CHILE",Aysen Tv Puerto Aysen 
+#EXTINF:-1 group-title="REGIONALES",Aysen Tv Puerto Aysen 
 http://wow2.cl.digitalproserver.com/aysentv/aysentvvivo/aysentv.smil/BratuMarian.m3u8
-#EXTINF:-1 group-title="CHILE",ITV Punta Arenas 
+#EXTINF:-1 group-title="REGIONALES",ITV Punta Arenas 
 http://wow2.cl.digitalproserver.com/itv/itvvivo/livestream1/playlist.m3u8
-#EXTINF:-1 group-title="CHILE",El Pinguino Tv Punta Arenas 
+#EXTINF:-1 group-title="REGIONALES",El Pinguino Tv Punta Arenas 
 http://streaming.elpinguino.com:1935/live/pinguinotv_360p/BratuMarian.m3u8
-#EXTINF:-1 group-title="CHILE", Tv Red Punta Arenas
+#EXTINF:-1 group-title="REGIONALES", Tv Red Punta Arenas
 http://69.164.193.177:1935/live/myStream/playlist.m3u8
 
 #EXTM3U
@@ -107,8 +111,6 @@ http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 http://74.63.97.188:1935/gpacifico4/videogpacifico4/chunklist_w1774114891.m3u8?
 #EXTINF:-1 group-title="LATINOS",Canal 2 Obregon MEXICO
 http://74.63.97.188:1935/gpacifico3/videogpacifico3/chunklist_w1501260201.m3u8
-#EXTINF:-1 group-title="LATINOS",VMas+ Tv COLOMBIA
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8?
 #EXTINF:-1 group-title="LATINOS",Telecaribe COLOMBIA
 http://cdns840stu1010.multistream.net/telecaribelive/amlst:live/master.m3u8
 #EXTINF:-1 group-title="LATINOS",Señal Institucional COLOMBIA
@@ -191,17 +193,21 @@ http://cls.elitehd-audiovisuales.com/luztv/livestream/playlist.m3u8
 http://cls.todostreaming.eu/azahara/lepevision/chunklist.m3u8 
 
 #EXTM3U
-#EXTINF:0,-Peliculas y Anime-
+#EXTINF:0,-Cine-
 
-#EXTINF:-1 group-title="PELICULAS Y ANIME",Ultra Cine 
+#EXTINF:-1 group-title="CINE",Ultra Cine 
 http://vemoxhlslive-i.akamaihd.net/hls/live/219940/vemoxchannel1/iOS/vemoxchannel1@219940/stream2/streamPlaylist.m3u8
-#EXTINF:-1 group-title="PELICULAS Y ANIME",Ultra Film 
+#EXTINF:-1 group-title="CINE",Ultra Film 
 http://vemoxhlslive-i.akamaihd.net/hls/live/219942/vemoxchannel3/iOS/vemoxchannel3@219942/stream2/streamPlaylist.m3u8
-#EXTINF:-1 group-title="PELICULAS Y ANIME",Plus Cine
+#EXTINF:-1 group-title="CINE",Plus Cine
 http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8?
-#EXTINF:-1 group-title="PELICULAS Y ANIME",ETC Tv 
+
+#EXTM3U
+#EXTINF:0,-Anime-
+
+#EXTINF:-1 group-title="ANIME",ETC Tv 
 http://movilstream.digitalproserver.com/etctv/etctvvivo/livestream1/playlist.m3u8
-#EXTINF:-1 group-title="PELICULAS Y ANIME",Anime Tv
+#EXTINF:-1 group-title="ANIME",Anime Tv
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
 
 #EXTM3U
@@ -229,32 +235,38 @@ http://162.212.176.68:1935/tododeportes/tododeportes/playlist.m3u8
 http://lag2.tv-mobile.org/prgu.m3u8
 
 #EXTM3U
+#EXTINF:0,-Estilo y tendencias-
+
+#EXTINF:-1 group-title="ESTILO Y TENDENCIAS",Bajo Techo
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/98.m3u8
+#EXTINF:-1 group-title="ESTILO Y TENDENCIAS",Miami Tv España
+http://k4.usastreams.com:1935/miamitvlife/miamitvlife/chunklist_w875058297.m3u8
+#EXTINF:-1 group-title="ESTILO Y TENDENCIAS",Lifedesing 
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/LDTV/tu1_1.m3u8?
+#EXTINF:-1 group-title="ESTILO Y TENDENCIAS",Canal Antiestres 
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8?
+#EXTINF:-1 group-title="ESTILO Y TENDENCIAS",Cosmovision 
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8?
+#EXTINF:-1 group-title="ESTILO Y TENDENCIAS",Une Tv 
+http://lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEZ/tu1_1.m3u8?
+#EXTINF:-1 group-title="ESTILO Y TENDENCIAS",Trendy Channel 
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8?
+#EXTINF:-1 group-title="ESTILO Y TENDENCIAS",VMas+ Tv 
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8?
+#EXTINF:-1 group-title="ESTILO Y TENDENCIAS", Hogar Tv 
+http://xhogartvx.api.channel.livestream.com/3.0/playlist.m3u8#megaIPTVArgentina
+#EXTINF:-1 group-title="ESTILO Y TENDENCIAS", Chef Tv 
+http://flashd.localmidia.com.br:1935/cheftv/aovivo/live.m3u8
+
+#EXTM3U
 #EXTINF:0,-Culturales-
 
-#EXTINF:-1 group-title="CULTURALES",Bajo Techo
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/98.m3u8
 #EXTINF:-1 group-title="CULTURALES",Mega 
 http://a3live-lh.akamaihd.net/i/mega/megageo_1@328914/index_4_av-b.m3u8
-#EXTINF:-1 group-title="CULTURALES",Miami Tv España
-http://k4.usastreams.com:1935/miamitvlife/miamitvlife/chunklist_w875058297.m3u8
-#EXTINF:-1 group-title="CULTURALES",Lifedesing 
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/LDTV/tu1_1.m3u8?
-#EXTINF:-1 group-title="CULTURALES",Canal Antiestres 
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8?
-#EXTINF:-1 group-title="CULTURALES",Cosmovision 
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8?
-#EXTINF:-1 group-title="CULTURALES",Une Tv 
-http://lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEZ/tu1_1.m3u8?
-#EXTINF:-1 group-title="CULTURALES",Trendy Channel 
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8?
-#EXTINF:-1 group-title="CULTURALES", Hogar Tv 
-http://xhogartvx.api.channel.livestream.com/3.0/playlist.m3u8#megaIPTVArgentina
 #EXTINF:-1 group-title="CULTURALES",RT Tv
 http://rt.ashttp14.visionip.tv/live/RT_en_Espanol-SD/chunklist.m3u8
 #EXTINF:-1 group-title="CULTURALES", DW Tv
 http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8?
-#EXTINF:-1 group-title="CULTURALES", Chef Tv 
-http://flashd.localmidia.com.br:1935/cheftv/aovivo/live.m3u8
 #EXTINF:-1 group-title="CULTURALES", NASA Tv
 http://iphone-streaming.ustream.tv/ustreamVideo/6540154/streams/live/playlist.m3u8
 #EXTINF:-1 group-title="CULTURALES", NASA Space Station Views
