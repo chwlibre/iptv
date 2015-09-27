@@ -271,6 +271,8 @@ http://a3live-lh.akamaihd.net/i/mega/megageo_1@328914/index_4_av-b.m3u8
 http://rt.ashttp14.visionip.tv/live/RT_en_Espanol-SD/chunklist.m3u8
 #EXTINF:-1 group-title="CULTURALES", DW Tv
 http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8?
+#EXTINF:-1 group-title="CULTURALES",EuronewsSpain
+http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_es.m3u8
 #EXTINF:-1 group-title="CULTURALES",TV Universidad La Plata
 rtmp://stratus.stream.cespi.unlp.edu.ar:80/stream/tvunlp
 #EXTINF:-1 group-title="CULTURALES", NASA Tv
@@ -297,6 +299,8 @@ rtmp://190.107.176.167:1935/live/estudio-tv
 rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
 #EXTINF:-1 group-title="MUSICA",Heart Tv 
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8#MegaIPTVArgentina
+#EXTINF:-1 group-title="MUSICA",First Music 
+rtmp://109.239.142.62/live/livestream3
 #EXTINF:-1 group-title="MUSICA",Vevo Hits
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
 #EXTINF:-1 group-title="MUSICA",Vevo 2
