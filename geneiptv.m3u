@@ -29,8 +29,6 @@ http://movilstream.digitalproserver.com/holvoet/holvoetvivo/holvoet.smil/chunkli
 http://cdn.streamingmedia.cl:1935/live/rtmp.stream/BratuMarian.m3u8?MegaIPTVArgentina
 #EXTINF:-1 group-title="CHILE",Quinta Vision Viña del Mar 
 http://iphone-streaming.ustream.tv/uhls/2950729/streams/live/iphone/playlist.m3u8#MegaIPTVArgentina
-#EXTINF:-1 group-title="CHILE",Girovisual El Quisco
-http://stream110.digitalproserver.com:443:1935/girovisual/girovisualvivo/livestream1/playlist.m3u8
 #EXTINF:-1 group-title="CHILE",Independencia TV
 http://evo.eltelon.com:443/live/independencia-tv/playlist.m3u8?
 #EXTINF:-1 group-title="CHILE",Canal 2 San Antonio 
@@ -151,8 +149,6 @@ http://cdn2.telesur.ultrabase.net/livecf/telesurLive/chunklist.m3u8?
 rtmp://edge.wms28.lorini.net/canal-i/canal-i
 #EXTINF:-1 group-title="LATINOS",TeVeo MIAMI
 http://iphone-streaming.ustream.tv:80/uhls/14034121/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 group-title="LATINOS",Tv MIAMI
-http://k4.usastreams.com:1935/miamitvlife/miamitvlife/chunklist_w875058297.m3u8
 #EXTINF:-1 group-title="LATINOS",Super Canal 33 REPUBLICA DOMINICANA
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/116.m3u8
 #EXTINF:-1 group-title="LATINOS",Canal 13 NICARAGUA
@@ -249,6 +245,8 @@ http://lag2.tv-mobile.org/prgu.m3u8
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/98.m3u8
 #EXTINF:-1 group-title="CULTURALES",Mega 
 http://a3live-lh.akamaihd.net/i/mega/megageo_1@328914/index_4_av-b.m3u8
+#EXTINF:-1 group-title="CULTURALES",Miami Tv España
+http://k4.usastreams.com:1935/miamitvlife/miamitvlife/chunklist_w875058297.m3u8
 #EXTINF:-1 group-title="CULTURALES",RT Tv
 http://rt.ashttp14.visionip.tv/live/RT_en_Espanol-SD/chunklist.m3u8
 #EXTINF:-1 group-title="CULTURALES", DW Tv
