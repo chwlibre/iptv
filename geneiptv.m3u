@@ -33,8 +33,6 @@ http://iphone-streaming.ustream.tv/uhls/2950729/streams/live/iphone/playlist.m3u
 http://stream110.digitalproserver.com:443:1935/girovisual/girovisualvivo/livestream1/playlist.m3u8
 #EXTINF:-1 group-title="CHILE",Independencia TV
 http://evo.eltelon.com:443/live/independencia-tv/playlist.m3u8?
-#EXTINF:-1 group-title="CHILE",Sub Tv Santiago 
-mmsh://190.196.9.186:8080/subtv
 #EXTINF:-1 group-title="CHILE",Canal 2 San Antonio 
 rtmp://video.crearchile.com:8080/live/mp4:canal2.mp4
 #EXTINF:-1 group-title="CHILE",TVO San Vicente de tagua Tagua
@@ -59,7 +57,7 @@ http://wow2.cl.digitalproserver.com/aysentv/aysentvvivo/aysentv.smil/BratuMarian
 http://wow2.cl.digitalproserver.com/itv/itvvivo/livestream1/playlist.m3u8
 #EXTINF:-1 group-title="CHILE",El Pinguino Tv Punta Arenas 
 http://streaming.elpinguino.com:1935/live/pinguinotv_360p/BratuMarian.m3u8
-#EXTINF:-1 group-title="CHILE",Patagonia Tv Punta Arenas
+#EXTINF:-1 group-title="CHILE", Tv Red Punta Arenas
 http://69.164.193.177:1935/live/myStream/playlist.m3u8
 
 #EXTM3U
@@ -103,8 +101,6 @@ http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/index_1200_av-b.m3u8
 http://brightcovelive-i.akamaihd.net/hls/live/200018/bcplay-live/Multi/Multimedios.m3u8
 #EXTINF:-1 group-title="LATINOS",Azteca 7 Monterrey MEXICO
 http://38.104.228.230:1938/info7/info7_512/playlist.m3u8
-#EXTINF:-1 group-title="LATINOS",TVMas MEXICO
-rtmp://50.7.98.234/rtv/videortv
 #EXTINF:-1 group-title="LATINOS",Telemax MEXICO
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 #EXTINF:-1 group-title="LATINOS",Canal 7 Mazatlan MEXICO
@@ -154,7 +150,7 @@ rtmp://edge.wms28.lorini.net/canal-i/canal-i
 #EXTINF:-1 group-title="LATINOS",TeVeo MIAMI
 http://iphone-streaming.ustream.tv:80/uhls/14034121/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 group-title="LATINOS",Tv MIAMI
-http://k4.usastreams.com:1935/miamitvlife/miamitvlife/chunklist_w875058297.m3u
+http://k4.usastreams.com:1935/miamitvlife/miamitvlife/chunklist_w875058297.m3u8
 #EXTINF:-1 group-title="LATINOS",Super Canal 33 REPUBLICA DOMINICANA
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/116.m3u8
 #EXTINF:-1 group-title="LATINOS",Canal 13 NICARAGUA
