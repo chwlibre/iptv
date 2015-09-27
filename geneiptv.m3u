@@ -25,7 +25,7 @@ http://cluster.13cmovil.ztreaming.com/13cm/grpz13c/playlist.m3u8
 
 #EXTINF:-1 group-title="REGIONALES",Digital Channel Tv Antofagasta 
 http://evo.eltelon.com:443/live/dch-tv/playlist.m3u8?MegaIPTVArgentina
-#EXTINF:-1 group-title="REGIONALES",Antofagasta Tv 
+#EXTINF:-1 group-title="REGIONALES",Antofagasta Tv Antofagasta
 http://wow2.cl.digitalproserver.com/atv/atvvivo/atv.smil/chunklist_w949479730_b2200000.m3u8
 #EXTINF:-1 group-title="REGIONALES",Holvoet Copiapo 
 http://movilstream.digitalproserver.com/holvoet/holvoetvivo/holvoet.smil/chunklist-b1248000.m3u8
@@ -33,7 +33,7 @@ http://movilstream.digitalproserver.com/holvoet/holvoetvivo/holvoet.smil/chunkli
 http://cdn.streamingmedia.cl:1935/live/rtmp.stream/BratuMarian.m3u8?MegaIPTVArgentina
 #EXTINF:-1 group-title="REGIONALES",Quinta Vision Viña del Mar 
 http://iphone-streaming.ustream.tv/uhls/2950729/streams/live/iphone/playlist.m3u8#MegaIPTVArgentina
-#EXTINF:-1 group-title="REGIONALES",Independencia TV
+#EXTINF:-1 group-title="REGIONALES",Independencia TV Santiago
 http://evo.eltelon.com:443/live/independencia-tv/playlist.m3u8?
 #EXTINF:-1 group-title="REGIONALES",Canal 2 San Antonio 
 rtmp://video.crearchile.com:8080/live/mp4:canal2.mp4
@@ -45,7 +45,7 @@ http://wow2.cl.digitalproserver.com/campustv/campustvvivo/campustv.smil/chunklis
 rtmp://v1.streaminglatinoamerica.com/canal5/canal5
 #EXTINF:-1 group-title="REGIONALES",Contivision Constitución 
 http://wow2.cl.digitalproserver.com/contivisionhd/contivisionhdvivo/contivisionhd.smil/chunklist_w1162159593_b1496000.m3u8
-#EXTINF:-1 group-title="REGIONALES",Canal 9 Bio Bio 
+#EXTINF:-1 group-title="REGIONALES",Canal 9 Bio Bio Concepción
 http://wow2.cl.digitalproserver.com/c9/livestream1/chunklist_w983075885.m3u8
 #EXTINF:-1 group-title="REGIONALES",TVU Concepción 
 http://movilstream.digitalproserver.com/tvu/tvuvivo/livestream1/playlist.m3u8
