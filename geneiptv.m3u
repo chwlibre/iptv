@@ -73,6 +73,8 @@ http://dd65nd24m61wg.cloudfront.net/livec9/smil:C9.smil/chunklist_b796000.m3u8
 http://201.219.100.30:1935/telpintv/ttv.stream_720p/playlist.m3u8
 #EXTINF:-1 group-title="LATINOS",Canal 2 Misiones ARGENTINA
 http://190.57.237.214/live/canal.m3u8
+#EXTINF:-1 group-title="LATINOS",Canal 9 Paraná ARGENTINA
+http://ionlive1-lh.akamaihd.net/i/canal9_1@125365/master.m3u8
 #EXTINF:-1 group-title="LATINOS",TN 24 Horas ARGENTINA
 rtsp://stream.tn.com.ar/live/tnhd1
 #EXTINF:-1 group-title="LATINOS",C5N ARGENTINA 
@@ -235,6 +237,8 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-b.m3u8?sd=10&rebas
 http://iphone-streaming.ustream.tv/uhls/11602466/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES", CDN Sport Max
 http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
+#EXTINF:-1 group-title="DEPORTES",Tododeportes
+http://162.212.176.68:1935/tododeportes/tododeportes/playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES",Autosport
 http://lag2.tv-mobile.org/prgu.m3u8
 
