@@ -83,14 +83,12 @@ rtsp://stream.tn.com.ar/live/tnhd1
 http://c5n.stweb.tv:1935/c5n/live_media/sat.m3u8
 #EXTINF:-1 group-title="LATINOS", Telemax ARGENTINA
 http://live-edge01.telecentro.net.ar/live/tlx-480/playlist.m3u8
-#EXTINF:-1 group-title="LATINOS",360 Tv ARGENTINA
-http://lsd360tvhls-lh.akamaihd.net/i/360TVHLS_1@197877/master.m3u8
 #EXTINF:-1 group-title="LATINOS",Magazine ARGENTINA
 rtsp://stream.mgzn.tv/live/mgzntv/mgzntv
+#EXTINF:-1 group-title="LATINOS",360 Tv ARGENTINA
+http://lsd360tvhls-lh.akamaihd.net/i/360TVHLS_1@197877/master.m3u8
 #EXTINF:-1 group-title="LATINOS",Orbe 21 ARGENTINA
 http://urtmpkal-f.akamaihd.net/i/1b6mj17sk_1@308700/master.m3u8
-#EXTINF:-1 group-title="LATINOS",Acua Federal ARGENTINA
-http://media.tda.gob.ar/ACUA-Federal/smil:acuafederal_pc.smil/playlist.m3u8
 #EXTINF:-1 group-title="LATINOS",Canal de las Estrellas MEXICO
 http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8
 #EXTINF:-1 group-title="LATINOS",Canal de las Estrellas Internacional MEXICO
@@ -143,10 +141,6 @@ http://181.198.10.23:1935/live/mystream/playlist.m3u8
 http://38.96.148.216:1935/live/canelatv/playlist.m3u8
 #EXTINF:-1 group-title="LATINOS",Telesur VENEZUELA
 http://cdn2.telesur.ultrabase.net/livecf/telesurLive/chunklist.m3u8?
-#EXTINF:-1 group-title="LATINOS",Canal i VENEZUELA
-rtmp://edge.wms28.lorini.net/canal-i/canal-i
-#EXTINF:-1 group-title="LATINOS",TeVeo MIAMI
-http://iphone-streaming.ustream.tv:80/uhls/14034121/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 group-title="LATINOS",Super Canal 33 REPUBLICA DOMINICANA
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/116.m3u8
 #EXTINF:-1 group-title="LATINOS",Canal 13 NICARAGUA
@@ -237,8 +231,6 @@ http://lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEZ/tu1_1.m3u8?
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8?
 #EXTINF:-1 group-title="ESTILO Y TENDENCIAS",VMas+ Tv 
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8?
-#EXTINF:-1 group-title="ESTILO Y TENDENCIAS",Canal Rural
-rtsp://streamrural.cmd.com.ar:1935/liverural/crural/rural1
 #EXTINF:-1 group-title="ESTILO Y TENDENCIAS", Hogar Tv 
 http://xhogartvx.api.channel.livestream.com/3.0/playlist.m3u8#megaIPTVArgentina
 #EXTINF:-1 group-title="ESTILO Y TENDENCIAS", Chef Tv 
@@ -255,8 +247,6 @@ http://rt.ashttp14.visionip.tv/live/RT_en_Espanol-SD/chunklist.m3u8
 http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8?
 #EXTINF:-1 group-title="CULTURALES",EuronewsSpain
 http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_es.m3u8
-#EXTINF:-1 group-title="CULTURALES",TV Universidad La Plata
-rtmp://stratus.stream.cespi.unlp.edu.ar:80/stream/tvunlp
 #EXTINF:-1 group-title="CULTURALES", NASA Tv
 http://iphone-streaming.ustream.tv/ustreamVideo/6540154/streams/live/playlist.m3u8
 #EXTINF:-1 group-title="CULTURALES", NASA Space Station Views
