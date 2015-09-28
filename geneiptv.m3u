@@ -197,6 +197,8 @@ http://cls.todostreaming.eu/azahara/lepevision/chunklist.m3u8
 
 #EXTINF:-1 group-title="CINE",Fox Channel
 http://iptvlatam.cf/hls/fox/playlist.m3u8
+#EXTINF:-1 group-title="CINE",Sundance Channel
+http://iptvlatam.cf/hls/sundance/playlist.m3u8
 #EXTINF:-1 group-title="CINE",Ultra Cine 
 http://vemoxhlslive-i.akamaihd.net/hls/live/219940/vemoxchannel1/iOS/vemoxchannel1@219940/stream2/streamPlaylist.m3u8
 #EXTINF:-1 group-title="CINE",Ultra Film 
@@ -241,6 +243,8 @@ http://flashd.localmidia.com.br:1935/cheftv/aovivo/live.m3u8
 
 #EXTINF:-1 group-title="CULTURALES",Mega 
 http://a3live-lh.akamaihd.net/i/mega/megageo_1@328914/index_4_av-b.m3u8
+#EXTINF:-1 group-title="CULTURALES",Odisea
+http://iptvlatam.cf/hls/odisea/playlist.m3u8
 #EXTINF:-1 group-title="CULTURALES",RT Tv
 http://rt.ashttp14.visionip.tv/live/RT_en_Espanol-SD/chunklist.m3u8
 #EXTINF:-1 group-title="CULTURALES", DW Tv
