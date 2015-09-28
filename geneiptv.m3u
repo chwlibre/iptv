@@ -303,8 +303,6 @@ rtmp://109.239.142.62/live/livestream3
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
 #EXTINF:-1 group-title="MUSICA",Vevo 2
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
-#EXTINF:-1 group-title="MUSICA",Vevo 3
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
 #EXTINF:-1 group-title="MUSICA",Dream
 http://212.224.108.80/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
 #EXTINF:-1 group-title="MUSICA",Clubland Tv 
