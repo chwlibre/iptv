@@ -119,6 +119,8 @@ http://74.63.97.188:1935/gpacifico3/videogpacifico3/chunklist_w1501260201.m3u8
 http://cdns840stu1010.multistream.net/telecaribelive/amlst:live/master.m3u8
 #EXTINF:-1 group-title="LATINOS",Señal Institucional COLOMBIA
 http://cdns840stu1010.multistream.net/rtvclive/amlst:live/playlist_b500000.m3u8?
+#EXTINF:-1 group-title="LATINOS",Señal Colombia COLOMBIA
+http://cdns840stu1010.multistream.net/rtvc2live/amlst:scolombia/playlist.m3u8
 #EXTINF:-1 group-title="LATINOS",Canal Capital COLOMBIA
 http://cdns840stu1010.multistream.net/canalcapitallive/amlst:live/master.m3u8
 #EXTINF:-1 group-title="LATINOS",Telecafe COLOMBIA
@@ -127,6 +129,8 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TCAF/tu1_1.m3u8?
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8?
 #EXTINF:-1 group-title="LATINOS",Telemedellin COLOMBIA
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8?
+#EXTINF:-1 group-title="LATINOS", Canal Tro COLOMBIA
+http://cdns840stu1010.multistream.net/canaltro2live/amlst:live/playlist.m3u8
 #EXTINF:-1 group-title="LATINOS",Cablenoticias COLOMBIA
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8?
 #EXTINF:-1 group-title="LATINOS",El Tiempo COLOMBIA
@@ -239,6 +243,10 @@ http://flashd.localmidia.com.br:1935/cheftv/aovivo/live.m3u8
 #EXTM3U
 #EXTINF:0,-Culturales-
 
+#EXTINF:-1 group-title="CULTURALES",Discovery Civilization
+http://iptvlatam.cf/hls/discciv/playlist.m3u8
+#EXTINF:-1 group-title="CULTURALES",Discovery Science
+http://iptvlatam.cf/hls/discsci/playlist.m3u8
 #EXTINF:-1 group-title="CULTURALES",Mega 
 http://a3live-lh.akamaihd.net/i/mega/megageo_1@328914/index_4_av-b.m3u8
 #EXTINF:-1 group-title="CULTURALES",RT Tv
