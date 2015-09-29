@@ -143,6 +143,8 @@ http://ooyalahd2-f.akamaihd.net/i/atv02_delivery@25405/index_1728_av-p.m3u8
 rtmp://willax.mediastream.pe/vv_willax/livestream
 #EXTINF:-1 group-title="LATINOS",Frecuencia Latina PERU
 rtmp://flatina1livefs.fplive.net/flatina1live-live/stream1
+#EXTINF:-1 group-title="LATINOS", RBC Satelital PERU
+rtmp://184.154.28.210:1935/rbcsatelital-hd/rbcsatelital-hd
 #EXTINF:-1 group-title="LATINOS",Tv Satelital ECUADOR  
 http://181.198.10.23:1935/live/mystream/playlist.m3u8
 #EXTINF:-1 group-title="LATINOS",Canela Tv ECUADOR
@@ -349,7 +351,7 @@ http://movilstream.digitalproserver.com/laclavetv/laclavetvvivo/laclavetv.smil/p
 http://cdn.ztreaming.com/t13radio/mobile.m3u8
 
 #EXTM3U
-#EXTINF:0,-Zona de pruebas Gene-
+#EXTINF:0,-Zona de Pruebas GeneIPTV-
 
 #EXTINF:-1,CANAL+
 http://nqashalhob:skype:adil.ana10@movistartdt.mine.nu:8000/1.ch
