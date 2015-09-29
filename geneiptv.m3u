@@ -141,6 +141,8 @@ http://edge-41-us.edge.mdstrm.com/live/smil:c23b8a0a21d215482b4c2703e47f675a/pla
 http://ooyalahd2-f.akamaihd.net/i/atv02_delivery@25405/index_1728_av-p.m3u8
 #EXTINF:-1 group-title="LATINOS", Williax PERU
 rtmp://willax.mediastream.pe/vv_willax/livestream
+#EXTINF:-1 group-title="LATINOS",Frecuencia Latina PERU
+rtmp://flatina1livefs.fplive.net/flatina1live-live/stream1
 #EXTINF:-1 group-title="LATINOS",Tv Satelital ECUADOR  
 http://181.198.10.23:1935/live/mystream/playlist.m3u8
 #EXTINF:-1 group-title="LATINOS",Canela Tv ECUADOR
