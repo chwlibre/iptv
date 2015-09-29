@@ -113,6 +113,8 @@ http://38.104.228.230:1938/info7/info7_512/playlist.m3u8
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 #EXTINF:-1 group-title="LATINOS",Canal 7 Mazatlan MEXICO
 http://74.63.97.188:1935/gpacifico4/videogpacifico4/chunklist_w1774114891.m3u8?
+#EXTINF:-1 group-title="LATINOS",Gala Tv Cancún MEXICO
+http://rightbrainmedia.mpl.miisolutions.net/rightbrainmedia-live-244/_definst_/mp4:GalaTVCancun/playlist.m3u8
 #EXTINF:-1 group-title="LATINOS",Canal 2 Obregon MEXICO
 http://74.63.97.188:1935/gpacifico3/videogpacifico3/chunklist_w1501260201.m3u8
 #EXTINF:-1 group-title="LATINOS",Sintesis Tv MEXICO
