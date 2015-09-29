@@ -257,6 +257,8 @@ http://iptvlatam.cf/hls/discciv/playlist.m3u8
 http://iptvlatam.cf/hls/discsci/playlist.m3u8
 #EXTINF:-1 group-title="CULTURALES",Mega 
 http://a3live-lh.akamaihd.net/i/mega/megageo_1@328914/index_4_av-b.m3u8
+#EXTINF:-1 group-title="CULTURALES",Tv Agro
+http://190.248.81.11:1938/live/myStream22/playlist.m3u8
 #EXTINF:-1 group-title="CULTURALES",RT Tv
 http://rt.ashttp14.visionip.tv/live/RT_en_Espanol-SD/chunklist.m3u8
 #EXTINF:-1 group-title="CULTURALES", DW Tv
