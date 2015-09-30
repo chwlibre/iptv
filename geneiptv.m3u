@@ -347,7 +347,7 @@ http://nflsvgatlgame3-i.akamaihd.net/hls/live/223175/NFL_Mobile/2015Mobile_NFLN_
 http://81.7.13.162/hls/ss1/index.m3u8
 #EXTINF:-1 group-title="DEPORTES",Rete 8 Sport ANGLO
 http://rm-edge-1.cdn2.streamago.tv/streamagoedge/39648/36567/Rete8Sport.m3u8
-#EXTINF:-1 group-title="DEPORTES",Kazsports ANGLO
+#EXTINF:-1 group-title="DEPORTES",Kazsport ANGLO
 http://vs1.cdn.ott.otautv.kz/dtv/id14_KTR_SG--KazSport/02/plst.m3u8
 #EXTINF:-1 group-title="DEPORTES",Silk Sport 2 ANGLO
 http://188.93.94.133/silk_sport/index.m3u8
@@ -355,7 +355,7 @@ http://188.93.94.133/silk_sport/index.m3u8
 http://188.93.94.133/silk_sport2/index.m3u8
 #EXTINF:-1 group-title="DEPORTES",Silk Football ANGLO
 http://188.93.94.133/silk_sport4/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",Fox Sports (AUS) ANGLO
+#EXTINF:-1 group-title="DEPORTES",Motorsport (AUS) ANGLO
 http://motorsport.hopto.org:8080/
 #EXTINF:-1 group-title="DEPORTES",Bein Sports 1 ANGLO
 http://lihattv.toh.info/jhos/beib1.m3u8
