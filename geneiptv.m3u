@@ -295,6 +295,96 @@ http://162.212.176.68:1935/tododeportes/tododeportes/playlist.m3u8
 http://sporttvamericas-i.akamaihd.net/hls/live/222316/sportTV/mastersportTV_1300kbps.m3u8
 #EXTINF:-1 group-title="DEPORTES",Autosport
 http://lag2.tv-mobile.org/prgu.m3u8
+#EXTINF:-1 group-title="DEPORTES",NFL Now
+http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9.m3u8
+#EXTINF:-1 group-title="DEPORTES",NFL Network
+http://nflsvgatlgame3-i.akamaihd.net/hls/live/223175/NFL_Mobile/2015Mobile_NFLN_2000k.m3u8
+#EXTINF:-1 group-title="DEPORTES",Super Sports 
+http://81.7.13.162/hls/ss1/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",Rete 8 Sport
+http://rm-edge-1.cdn2.streamago.tv/streamagoedge/39648/36567/Rete8Sport.m3u8
+#EXTINF:-1 group-title="DEPORTES",Kazsports
+http://vs1.cdn.ott.otautv.kz/dtv/id14_KTR_SG--KazSport/02/plst.m3u8
+#EXTINF:-1 group-title="DEPORTES",Silk Sport 2
+http://188.93.94.133/silk_sport/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",Silk Sport 3
+http://188.93.94.133/silk_sport2/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",Silk Football 
+http://188.93.94.133/silk_sport4/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",Fox Sports (AUS)
+http://motorsport.hopto.org:8080/
+#EXTINF:-1 group-title="DEPORTES",Bein Sports 1
+http://lihattv.toh.info/jhos/beib1.m3u8
+#EXTINF:-1 group-title="DEPORTES",Bein Sports 1
+http://180.250.29.12/jhos/beib1_3/1424681872/playlist.m3u8
+#EXTINF:-1 group-title="DEPORTES",Bein Sports 2
+http://lihattv.toh.info/jhos/beib2.m3u8
+#EXTINF:-1 group-title="DEPORTES",Bein Sports 2
+http://180.250.29.12/jhos/beib2_3/1424681986/playlist.m3u8
+#EXTINF:-1 group-title="DEPORTES",Bein Sports 3
+http://lihattv.toh.info/jhos/beib3.m3u8
+#EXTINF:-1 group-title="DEPORTES",Sport 1 (UA)
+http://193.176.251.228:8000/Sport1
+#EXTINF:-1 group-title="DEPORTES",Sport 2 (UA)
+http://193.176.251.228:8000/Sport2
+#EXTINF:-1 group-title="DEPORTES",Sport 14 (UA)
+http://193.176.251.228:8000/Sport14
+#EXTINF:-1 group-title="DEPORTES", 24 (UA)
+http://193.176.251.228:8000/Sport24
+#EXTINF:-1 group-title="DEPORTES", Sport
+http://hls.peers.tv/streaming/sport/126/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="DEPORTES", Sport 1
+http://87.245.214.43/streaming/sport1/16/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="DEPORTES", Sport 2
+http://3.hls.bolshoe.tv/2/streaming/sport2/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="DEPORTES", Futbol
+http://3.hls.bolshoe.tv/2/streaming/futbol/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="DEPORTES",Futbol 16
+http://87.245.214.43/streaming/futbol/16/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="DEPORTES",Eurosport 
+http://3.hls.bolshoe.tv/1/streaming/eurosport/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="DEPORTES",Eurosport 2 
+http://3.hls.bolshoe.tv/1/streaming/eurosport2/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="DEPORTES", Viasat Sport
+http://3.hls.bolshoe.tv/1/streaming/viasat_sport/tvrec/playlist.m3u8
+#EXTINF:-1 group-title="DEPORTES",Pac-12 ARIZONA 
+http://pac12hd2-lh.akamaihd.net/i/p12ariz_delivery@132836/index_4728_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="DEPORTES",Pac-12 BAY AREA
+http://pac12hd2-lh.akamaihd.net/i/p12baya_delivery@132837/index_4728_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="DEPORTES",Pac-12 LOS ANGELES 
+http://pac12hd2-lh.akamaihd.net/i/p12losa_delivery@132838/index_4728_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="DEPORTES",Pac-12 OREGON
+http://pac12hd2-lh.akamaihd.net/i/p12oreg_delivery@132835/index_4728_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="DEPORTES",Pac-12 MOUNTAIN
+http://pac12hd2-lh.akamaihd.net/i/p12moun_delivery@132839/index_4728_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="DEPORTES",Pac-12 WASHINGTON 
+http://pac12hd2-lh.akamaihd.net/i/p12wash_delivery@132841/index_4728_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="DEPORTES",Pac-12 NETWORK
+http://pac12hd2-lh.akamaihd.net/i/p12netw_delivery@132840/index_4728_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="DEPORTES",BTN
+http://xrxs.net/video/live-btn-3000.m3u8
+#EXTINF:-1 group-title="DEPORTES",A Sport 
+http://origin2.live.web.tv.streamprovider.net/streams/a6784af7d08a9c91dbfa0e4eab17e3bf_live_0_0/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",NTV Sport 
+http://origin.live.web.tv.streamprovider.net/streams/a820629b8abc43c73c76b091086c138a_live_0_0/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",Sporun Kanali
+http://stream.sportstv.com.tr/sportstv/SportsTV3/HasBahCa.m3u8
+#EXTINF:-1 group-title="DEPORTES",SporTv 1
+http://37.203.209.34:443/mobile/bob05sd/playlist.m3u8
+#EXTINF:-1 group-title="DEPORTES",SporTv 2 
+http://37.203.209.34:443/mobile/bob06sd/playlist.m3u8
+#EXTINF:-1 group-title="DEPORTES",SporTv 3 
+http://37.203.209.34:443/mobile/bob50sd/playlist.m3u8
+#EXTINF:-1 group-title="DEPORTES",AD 1 Sports Tv  
+http://origin2.live.web.tv.streamprovider.net/streams/b1ce38c6870c24a64b3d9fbfa2c58b98/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",AD 3 Sports Tv
+http://origin2.live.web.tv.streamprovider.net/streams/35bbb16853a12660e800ba2605999cc5/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",Dubai Sports 3 
+http://origin2.live.web.tv.streamprovider.net/streams/7c7bb92d89f800dc5f0d9e98e7254503/index.m3u8
+#EXTINF:-1 group-title="DEPORTES",Sp5rt 
+http://212.79.96.134:8023/
+#EXTINF:-1 group-title="DEPORTES", Sports Night
+rtmp://freeview.fms.visionip.tv/live/sports_tonight-sports_tonight-live-25f-16x9-HD
 
 #EXTM3U
 #EXTINF:0,-Musica-
@@ -359,113 +449,3 @@ http://cdn.ztreaming.com/t13radio/mobile.m3u8
 #EXTM3U
 #EXTINF:0,-Canales en Observación GeneIPTV-
 
-#EXTINF:-1 tvg-logo="hhttps://imagecomposer.nfl.com/?f=png&l=http://s.nflcdn.com/static/content/public/static/img/now/logo.png",NFL Now
-http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9.m3u8
-
-#EXTINF:-1 tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/6/63/NFL.svg/revision/latest/scale-to-width-down/150?cb=20130414101017",NFL Network
-http://nflsvgatlgame3-i.akamaihd.net/hls/live/223175/NFL_Mobile/2015Mobile_NFLN_2000k.m3u8
-
-#EXTINF:-1,Super sports 
-http://81.7.13.162/hls/ss1/index.m3u8
-
-#EXTINF:0 tvg-logo="http://www.danielamusini.com/wp-content/uploads/2013/08/rete8.png",RETE 8 
-http://rm-edge-1.cdn2.streamago.tv/streamagoedge/39648/36567/Rete8Sport.m3u8
-
-#EXTINF:0,kazsports
-http://vs1.cdn.ott.otautv.kz/dtv/id14_KTR_SG--KazSport/02/plst.m3u8
-
-#EXTINF:-1,SILK SPORT HD 2
-http://188.93.94.133/silk_sport/index.m3u8
-#EXTINF:-1,SILK SPORT HD 3
-http://188.93.94.133/silk_sport2/index.m3u8
-#EXTINF:-1,SILK football HD 
-http://188.93.94.133/silk_sport4/index.m3u8
-
-#EXTINF:0,Fox Sports (AUS)
-http://motorsport.hopto.org:8080/
-
-
-
-#EXTINF:0,beIN SPORTS1
-http://lihattv.toh.info/jhos/beib1.m3u8
-#EXTINF:1,beIN SPORTS1
-http://180.250.29.12/jhos/beib1_3/1424681872/playlist.m3u8
-#EXTINF:0,beIN SPORTS2
-http://lihattv.toh.info/jhos/beib2.m3u8
-#EXTINF:0,beIN SPORTS2
-http://180.250.29.12/jhos/beib2_3/1424681986/playlist.m3u8
-#EXTINF:0,beIN SPORTS3
-http://lihattv.toh.info/jhos/beib3.m3u8
-#EXTINF:0,????? 1 (UA)
-http://193.176.251.228:8000/Sport1
-#EXTINF:0,????? 1 (UA)
-http://193.176.251.228:8000/Sport14
-#EXTINF:0,????? 2 (UA)
-http://193.176.251.228:8000/Sport2
-#EXTINF:0,????? 2 (UA)
-http://193.176.251.228:8000/Sport24
-#EXTINF:0,?????
-http://3.hls.bolshoe.tv/2/streaming/sport2/tvrec/playlist.m3u8
-#EXTINF:0,?????
-http://87.245.214.43/streaming/sport1/16/tvrec/playlist.m3u8
-#EXTINF:0,?????1
-http://87.245.214.43/streaming/sport1/16/tvrec/playlist.m3u8
-#EXTINF:0,?????? 2 
-http://hls.peers.tv/streaming/sport/126/tvrec/playlist.m3u8
-#EXTINF:0,?????? 2
-#EXTINF:-1 tvg-logo="http://sat-one.info/news-imeg/37483.png",??????
-http://3.hls.bolshoe.tv/2/streaming/futbol/tvrec/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://sat-one.info/news-imeg/37483.png",??????
-http://87.245.214.43/streaming/futbol/16/tvrec/playlist.m3u8
-#EXTINF:0,Eurosport 
-http://3.hls.bolshoe.tv/1/streaming/eurosport/tvrec/playlist.m3u8
-#EXTINF:0,Eurosport 2 
-http://3.hls.bolshoe.tv/1/streaming/eurosport2/tvrec/playlist.m3u8
-#EXTINF:-1, viasat_sport
-http://3.hls.bolshoe.tv/1/streaming/viasat_sport/tvrec/playlist.m3u8
-#EXTINF:0 tvg-logo="http://www.mvptoday.com/wp-content/uploads/2011/10/Pac-12-logo-1.png",Pac-12 ARIZONA 
-http://pac12hd2-lh.akamaihd.net/i/p12ariz_delivery@132836/index_4728_av-b.m3u8?sd=10&rebase=on
-#EXTINF:0 tvg-logo="http://www.mvptoday.com/wp-content/uploads/2011/10/Pac-12-logo-1.png",Pac-12 BAY AREA
-http://pac12hd2-lh.akamaihd.net/i/p12baya_delivery@132837/index_4728_av-b.m3u8?sd=10&rebase=on
-#EXTINF:0 tvg-logo="http://www.mvptoday.com/wp-content/uploads/2011/10/Pac-12-logo-1.png",Pac-12 LOS ANGELES 
-http://pac12hd2-lh.akamaihd.net/i/p12losa_delivery@132838/index_4728_av-b.m3u8?sd=10&rebase=on
-#EXTINF:0 tvg-logo="http://www.mvptoday.com/wp-content/uploads/2011/10/Pac-12-logo-1.png",Pac-12 OREGON
-http://pac12hd2-lh.akamaihd.net/i/p12oreg_delivery@132835/index_4728_av-b.m3u8?sd=10&rebase=on
-#EXTINF:0 tvg-logo="http://www.mvptoday.com/wp-content/uploads/2011/10/Pac-12-logo-1.png",Pac-12 MOUNTAIN
-http://pac12hd2-lh.akamaihd.net/i/p12moun_delivery@132839/index_4728_av-b.m3u8?sd=10&rebase=on
-#EXTINF:0 tvg-logo="http://www.mvptoday.com/wp-content/uploads/2011/10/Pac-12-logo-1.png",Pac-12 WASHINGTON 
-http://pac12hd2-lh.akamaihd.net/i/p12wash_delivery@132841/index_4728_av-b.m3u8?sd=10&rebase=on
-#EXTINF:0 tvg-logo="http://www.mvptoday.com/wp-content/uploads/2011/10/Pac-12-logo-1.png",Pac-12 NETWORK
-http://pac12hd2-lh.akamaihd.net/i/p12netw_delivery@132840/index_4728_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1,BTN
-http://xrxs.net/video/live-btn-3000.m3u8
-#EXTINF:-1 tvg-logo="http://i.tmgrup.com.tr/aSpor/i/logo.png",a spor 
-http://origin2.live.web.tv.streamprovider.net/streams/a6784af7d08a9c91dbfa0e4eab17e3bf_live_0_0/index.m3u8
-
-#EXTINF:-1,NTVSpor 
-http://origin.live.web.tv.streamprovider.net/streams/a820629b8abc43c73c76b091086c138a_live_0_0/index.m3u8
-#EXTINF:-1 tvg-logo="http://dijitalgaraj.com/images/clients/client1.png",Sporun Kanali
-http://stream.sportstv.com.tr/sportstv/SportsTV3/HasBahCa.m3u8
-
-#EXTINF:-1,SporTV  
-http://37.203.209.34:443/mobile/bob05sd/playlist.m3u8
-#EXTINF:-1,SporTV 2 
-http://37.203.209.34:443/mobile/bob06sd/playlist.m3u8
-#EXTINF:-1,SporTV 3 
-http://37.203.209.34:443/mobile/bob50sd/playlist.m3u8
-
-
-#EXTINF:-1,AD 1 SPORTS TV  
-http://origin2.live.web.tv.streamprovider.net/streams/b1ce38c6870c24a64b3d9fbfa2c58b98/index.m3u8
-
-#EXTINF:-1,AD 3 SPORTS TV
-http://origin2.live.web.tv.streamprovider.net/streams/35bbb16853a12660e800ba2605999cc5/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.islambox.com/images/products/channels/web/dubaisports3-web.png",DUBAI SPORTS3 
-http://origin2.live.web.tv.streamprovider.net/streams/7c7bb92d89f800dc5f0d9e98e7254503/index.m3u8
-
-#EXTINF:-1,Sp5rt 
-http://212.79.96.134:8023/
-
-
-#EXTINF:-1 group-title="Deportes", Sports Night
-rtmp://freeview.fms.visionip.tv/live/sports_tonight-sports_tonight-live-25f-16x9-HD
