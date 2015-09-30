@@ -273,6 +273,8 @@ http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u
 #EXTM3U
 #EXTINF:0,-Deportes-
 
+#EXTINF:-1 group-title="DEPORTES",Bein 
+http://yiptv2-live.hls.adaptive.level3.net/yiptv2/beinespanov/02.m3u8
 #EXTINF:-1 group-title="DEPORTES",Win Sports
 http://hlslive.lcdn.une.net.co:80/v1/AUTH_HLSLIVE/0001/tu1_1.m3u8
 #EXTINF:-1 group-title="DEPORTES",Canal Deporte Olimpico 
@@ -369,16 +371,8 @@ http://81.7.13.162/hls/ss1/index.m3u8
 #EXTINF:0 tvg-logo="http://www.danielamusini.com/wp-content/uploads/2013/08/rete8.png",RETE 8 
 http://rm-edge-1.cdn2.streamago.tv/streamagoedge/39648/36567/Rete8Sport.m3u8
 
-#EXTINF:0 tvg-logo="http://vignette1.wikia.nocookie.net/football/images/7/70/Olympique_Lyon.png/revision/latest?cb=20110911150224&path-prefix=en",OLTV
-rtmp://cp47203.live.edgefcs.net:1935/live/OL-live-sc@5107
-
 #EXTINF:0,kazsports
 http://vs1.cdn.ott.otautv.kz/dtv/id14_KTR_SG--KazSport/02/plst.m3u8
-
-#EXTINF:-1,SLOVAK SPORT TV1 
-rtmp://195.168.51.178/live/ss1HD
-#EXTINF:-1,SLOVAK SPORT TV2 
-rtmp://195.168.51.178/live/ss2hd
 
 #EXTINF:-1,SILK SPORT HD 2
 http://188.93.94.133/silk_sport/index.m3u8
@@ -390,8 +384,7 @@ http://188.93.94.133/silk_sport4/index.m3u8
 #EXTINF:0,Fox Sports (AUS)
 http://motorsport.hopto.org:8080/
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bein_Sport_en_espa%C3%B1ol_logo.svg/1000px-Bein_Sport_en_espa%C3%B1ol_logo.svg.png",beINñ
-http://yiptv2-live.hls.adaptive.level3.net/yiptv2/beinespanov/02.m3u8
+
 
 #EXTINF:0,beIN SPORTS1
 http://lihattv.toh.info/jhos/beib1.m3u8
@@ -460,15 +453,11 @@ http://37.203.209.34:443/mobile/bob05sd/playlist.m3u8
 http://37.203.209.34:443/mobile/bob06sd/playlist.m3u8
 #EXTINF:-1,SporTV 3 
 http://37.203.209.34:443/mobile/bob50sd/playlist.m3u8
-#EXTINF:-1,ESPN brasil
-http://37.203.209.34:443/mobile/flash01sd/playlist.m3u8
+
 
 #EXTINF:-1,AD 1 SPORTS TV  
 http://origin2.live.web.tv.streamprovider.net/streams/b1ce38c6870c24a64b3d9fbfa2c58b98/index.m3u8
-#EXTINF:-1,AD 1 SPORTS TV 
-http://178.33.88.129:888/udp/239.102.0.28:1234
-#EXTINF:-1,AD 2 SPORTS TV 
-http://178.33.88.129:888/udp/239.102.0.29:1234
+
 #EXTINF:-1,AD 3 SPORTS TV
 http://origin2.live.web.tv.streamprovider.net/streams/35bbb16853a12660e800ba2605999cc5/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.islambox.com/images/products/channels/web/dubaisports3-web.png",DUBAI SPORTS3 
@@ -476,10 +465,7 @@ http://origin2.live.web.tv.streamprovider.net/streams/7c7bb92d89f800dc5f0d9e98e7
 
 #EXTINF:-1,Sp5rt 
 http://212.79.96.134:8023/
-#EXTINF:-1,O Sport 
-http://212.79.96.134:8014/
+
 
 #EXTINF:-1 group-title="Deportes", Sports Night
 rtmp://freeview.fms.visionip.tv/live/sports_tonight-sports_tonight-live-25f-16x9-HD
-#EXTINF:-1 group-title="Deportes", FANATIK SPOR
-rtmp://live.fanatik.cubecdn.net/fanatiktv/stream_720
