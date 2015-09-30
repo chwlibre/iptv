@@ -339,8 +339,6 @@ http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
 http://162.212.176.68:1935/tododeportes/tododeportes/playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES",Sport TV Americas
 http://sporttvamericas-i.akamaihd.net/hls/live/222316/sportTV/mastersportTV_1300kbps.m3u8
-#EXTINF:-1 group-title="DEPORTES",Autosport
-http://lag2.tv-mobile.org/prgu.m3u8
 #EXTINF:-1 group-title="DEPORTES",NFL Now
 http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9.m3u8
 #EXTINF:-1 group-title="DEPORTES",NFL Network
@@ -431,6 +429,10 @@ http://origin2.live.web.tv.streamprovider.net/streams/7c7bb92d89f800dc5f0d9e98e7
 http://212.79.96.134:8023/
 #EXTINF:-1 group-title="DEPORTES", Sports Night
 rtmp://freeview.fms.visionip.tv/live/sports_tonight-sports_tonight-live-25f-16x9-HD
+#EXTINF:-1 group-title="DEPORTES",Sportmax
+http://46.249.213.93/iPhone/HLS_TS/broadcast/sportmax-tablet.3gp/sportmax-tablet.3gp-mr397k.m3u8
+#EXTINF:-1 group-title="DEPORTES",Autosport
+http://lag2.tv-mobile.org/prgu.m3u8
 
 #EXTM3U
 #EXTINF:0,-Radios-
