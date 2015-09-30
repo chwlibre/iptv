@@ -143,8 +143,6 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8?
 http://edge-41-us.edge.mdstrm.com/live/smil:c23b8a0a21d215482b4c2703e47f675a/playlist_b950.m3u8
 #EXTINF:-1 group-title="LATINOS",America Tv PERU
 http://ooyalahd2-f.akamaihd.net/i/atv02_delivery@25405/index_1728_av-p.m3u8
-#EXTINF:-1 group-title="LATINOS", Williax PERU
-rtmp://willax.mediastream.pe/vv_willax/livestream
 #EXTINF:-1 group-title="LATINOS",Frecuencia Latina PERU
 rtmp://flatina1livefs.fplive.net/flatina1live-live/stream1
 #EXTINF:-1 group-title="LATINOS", RBC Satelital PERU
@@ -275,8 +273,6 @@ http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u
 #EXTM3U
 #EXTINF:0,-Deportes-
 
-#EXTINF:-1 group-title="DEPORTES",Bein Latino
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/62.m3u8
 #EXTINF:-1 group-title="DEPORTES",Win Sports
 http://hlslive.lcdn.une.net.co:80/v1/AUTH_HLSLIVE/0001/tu1_1.m3u8
 #EXTINF:-1 group-title="DEPORTES",Canal Deporte Olimpico 
