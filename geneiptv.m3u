@@ -323,6 +323,8 @@ http://70.166.98.130:1935/hmtv/myStream/playlist.m3u8
 http://yiptv2-live.hls.adaptive.level3.net/yiptv2/beinespanov/02.m3u8
 #EXTINF:-1 group-title="DEPORTES",Win Sports SPAIN
 http://hlslive.lcdn.une.net.co:80/v1/AUTH_HLSLIVE/0001/tu1_1.m3u8
+#EXTINF:-1 group-title="DEPORTES",Tododeportes SPAIN
+http://162.212.176.68:1935/tododeportes/tododeportes/playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES",Canal Deporte Olimpico SPAIN
 http://wow2.cl.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist_w913906597_b1064000.m3u8
 #EXTINF:-1 group-title="DEPORTES",Liga BBWA SPAIN
@@ -335,8 +337,6 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-b.m3u8?sd=10&rebas
 http://iphone-streaming.ustream.tv/uhls/11602466/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES", CDN Sport Max SPAIN
 http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES",Tododeportes SPAIN
-http://162.212.176.68:1935/tododeportes/tododeportes/playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES",Sport TV Americas ANGLO
 http://sporttvamericas-i.akamaihd.net/hls/live/222316/sportTV/mastersportTV_1300kbps.m3u8
 #EXTINF:-1 group-title="DEPORTES",NFL Now ANGLO
