@@ -223,12 +223,8 @@ http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3
 http://158.255.6.224:8080/loadchan.php?chan=715&gtoken=8c9f7326770bb525908e17d491673530 
 #EXTINF:-1 group-title="CINE",Fox 1
 http://158.255.6.224:8080/loadchan.php?chan=716&gtoken=8c9f7326770bb525908e17d491673530  
-#EXTINF:-1 group-title="CINE",Fox 2
-http://158.255.6.224:8080/loadchan.php?chan=717&gtoken=8c9f7326770bb525908e17d491673530  
 #EXTINF:-1 group-title="CINE",Fox Family
 http://158.255.6.224:8080/loadchan.php?chan=718&gtoken=8c9f7326770bb525908e17d491673530 
-#EXTINF:-1 group-title="CINE",Fox Comedy
-http://158.255.6.224:8080/loadchan.php?chan=719&gtoken=8c9f7326770bb525908e17d491673530  
 #EXTINF:-1 group-title="CINE",Fox Cinema
 http://158.255.6.224:8080/loadchan.php?chan=720&gtoken=8c9f7326770bb525908e17d491673530  
 #EXTINF:-1 group-title="CINE",Fox Action 1
