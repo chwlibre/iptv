@@ -398,7 +398,7 @@ http://origin2.live.web.tv.streamprovider.net/streams/b1ce38c6870c24a64b3d9fbfa2
 http://origin2.live.web.tv.streamprovider.net/streams/35bbb16853a12660e800ba2605999cc5/index.m3u8
 #EXTINF:-1 group-title="DEPORTES",Dubai Sports 3 ANGLO
 http://origin2.live.web.tv.streamprovider.net/streams/7c7bb92d89f800dc5f0d9e98e7254503/index.m3u8
-#EXTINF:-1 group-title="DEPORTES", Sports Night ANGLO
+#EXTINF:-1 group-title="DEPORTES", Sports Tonight ANGLO
 rtmp://freeview.fms.visionip.tv/live/sports_tonight-sports_tonight-live-25f-16x9-HD
 #EXTINF:-1 group-title="DEPORTES",Sportmax ANGLO
 http://46.249.213.93/iPhone/HLS_TS/broadcast/sportmax-tablet.3gp/sportmax-tablet.3gp-mr397k.m3u8
