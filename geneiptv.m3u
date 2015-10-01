@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:0,-Nacionales-
 
-#EXTINF:-1,Uoct
+#EXTINF:-1 group-title="CAMARAS",,Uoct
 http://mdstrm.com/live-stream-playlist-v/53443c472c6e89675103cc4c.m3u8
 #EXTINF:-1 group-title="NACIONALES", Telecanal 
 http://movilstream.digitalproserver.com/tcsc/tcscvivo/livestream2/playlist.m3u8
@@ -312,6 +312,8 @@ http://70.166.98.130:1935/hmtv/myStream/playlist.m3u8
 
 #EXTINF:0,-Deportes-
 
+#EXTINF:0 group-title="DEPORTES", CDO
+http://wow2.cl.digitalproserver.com:1935/cdo/cdovivo/cdo.smil/chunklist_w2118277262_b1064000.m3u8
 #EXTINF:-1 group-title="DEPORTES",Bein SPAIN
 http://yiptv2-live.hls.adaptive.level3.net/yiptv2/beinespanov/02.m3u8
 #EXTINF:-1 group-title="DEPORTES",Win Sports SPAIN
