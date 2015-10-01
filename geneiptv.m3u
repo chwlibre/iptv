@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:0,-Nacionales-
 
-#EXTINF:-1 tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/4/46/Telecanalogo2011.png/revision/latest?cb=20150109182637" group-title="NACIONALES", Telecanal 
+#EXTINF:-1 group-title="NACIONALES", Telecanal 
 http://movilstream.digitalproserver.com/tcsc/tcscvivo/livestream2/playlist.m3u8
 #EXTINF:-1 group-title="NACIONALES",La Red 
 http://movilstream.digitalproserver.com:443/redtv/redtvvivo/livestream2/playlist.m3u8
