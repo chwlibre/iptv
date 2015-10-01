@@ -269,6 +269,16 @@ http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u
 
 #EXTINF:0,-Musica-
 
+#EXTINF:0 group-title="MUSICA",First Music HD
+rtmp://109.239.142.62/live/livestream3
+#EXTINF:0 group-title="MUSICA",Musica SI
+http://hd.worldkast.com:1935/8436/8436/playlist.m3u8
+#EXTINF:0 group-title="MUSICA",Europa plus TV
+http://europaplus.cdnvideo.ru:1935/europaplus-live/eptv_main.sdp/playlist.m3u8
+#EXTINF:0 group-title="MUSICA",Lobas TV
+http://149.11.34.6:1935/live/lobas.stream/playlist.m3u8
+#EXTINF:0 group-title="MUSICA",VIRGIN
+http://wow01.105.net/live/virgin1/.m3u8
 #EXTINF:-1 group-title="MUSICA",Mi Musica SPAIN
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8?
 #EXTINF:-1 group-title="MUSICA",Tigo Musica SPAIN
