@@ -219,32 +219,6 @@ http://vemoxhlslive-i.akamaihd.net/hls/live/219940/vemoxchannel1/iOS/vemoxchanne
 http://vemoxhlslive-i.akamaihd.net/hls/live/219942/vemoxchannel3/iOS/vemoxchannel3@219942/stream2/streamPlaylist.m3u8
 #EXTINF:-1 group-title="CINE",Plus Cine
 http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8?
-#EXTINF:-1 group-title="CINE",Film Zone
-http://158.255.6.224:8080/loadchan.php?chan=715&gtoken=8c9f7326770bb525908e17d491673530 
-#EXTINF:-1 group-title="CINE",Fox 1
-http://158.255.6.224:8080/loadchan.php?chan=716&gtoken=8c9f7326770bb525908e17d491673530  
-#EXTINF:-1 group-title="CINE",Fox Family
-http://158.255.6.224:8080/loadchan.php?chan=718&gtoken=8c9f7326770bb525908e17d491673530 
-#EXTINF:-1 group-title="CINE",Fox Cinema
-http://158.255.6.224:8080/loadchan.php?chan=720&gtoken=8c9f7326770bb525908e17d491673530  
-#EXTINF:-1 group-title="CINE",Fox Action 1
-http://158.255.6.224:8080/loadchan.php?chan=721&gtoken=8c9f7326770bb525908e17d491673530 
-#EXTINF:-1 group-title="CINE",Fox Action 2
-http://158.255.6.224:8080/loadchan.php?chan=722&gtoken=8c9f7326770bb525908e17d491673530  
-#EXTINF:-1 group-title="CINE",Fox Classic
-http://158.255.6.224:8080/loadchan.php?chan=724&gtoken=8c9f7326770bb525908e17d491673530  
-#EXTINF:-1 group-title="CINE",HBO Latinoamerica
-http://158.255.6.224:8080/loadchan.php?chan=725&gtoken=8c9f7326770bb525908e17d491673530
-#EXTINF:-1 group-title="CINE",HBO Plus Este
-http://158.255.6.224:8080/loadchan.php?chan=726&gtoken=8c9f7326770bb525908e17d491673530  
-#EXTINF:-1 group-title="CINE",HBO Plus Oeste
-http://158.255.6.224:8080/loadchan.php?chan=727&gtoken=8c9f7326770bb525908e17d491673530  
-#EXTINF:-1 group-title="CINE",HBO Family
-http://158.255.6.224:8080/loadchan.php?chan=729&gtoken=8c9f7326770bb525908e17d491673530  
-#EXTINF:-1 group-title="CINE",HBO Signature
-http://158.255.6.224:8080/loadchan.php?chan=730&gtoken=8c9f7326770bb525908e17d491673530  
-#EXTINF:-1 group-title="CINE",Max UP
-http://158.255.6.224:8080/loadchan.php?chan=731&gtoken=8c9f7326770bb525908e17d491673530  
 
 #EXTINF:0,-Anime-
 
