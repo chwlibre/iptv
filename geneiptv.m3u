@@ -372,54 +372,8 @@ http://3.hls.bolshoe.tv/1/streaming/eurosport/tvrec/playlist.m3u8
 http://3.hls.bolshoe.tv/1/streaming/eurosport2/tvrec/playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES", Viasat Sport ANGLO
 http://3.hls.bolshoe.tv/1/streaming/viasat_sport/tvrec/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES",Pac-12 ARIZONA ANGLO
-http://pac12hd2-lh.akamaihd.net/i/p12ariz_delivery@132836/index_4728_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title="DEPORTES",Pac-12 BAY AREA ANGLO
-http://pac12hd2-lh.akamaihd.net/i/p12baya_delivery@132837/index_4728_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title="DEPORTES",Pac-12 LOS ANGELES ANGLO
-http://pac12hd2-lh.akamaihd.net/i/p12losa_delivery@132838/index_4728_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title="DEPORTES",Pac-12 OREGON ANGLO
-http://pac12hd2-lh.akamaihd.net/i/p12oreg_delivery@132835/index_4728_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title="DEPORTES",Pac-12 MOUNTAIN ANGLO
-http://pac12hd2-lh.akamaihd.net/i/p12moun_delivery@132839/index_4728_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title="DEPORTES",Pac-12 WASHINGTON ANGLO
-http://pac12hd2-lh.akamaihd.net/i/p12wash_delivery@132841/index_4728_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title="DEPORTES",Pac-12 NETWORK ANGLO
-http://pac12hd2-lh.akamaihd.net/i/p12netw_delivery@132840/index_4728_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title="DEPORTES", Pac Mountain FHD
-http://xrxs.net/video/live-p12moun-4728.m3u8
-#EXTINF:-1 group-title="DEPORTES", Pac Mountain HD
-http://xrxs.net/video/live-p12mou-2328.m3u8
-#EXTINF:-1 group-title="DEPORTES", Pac National FHD
-http://xrxs.net/video/live-p12netw-4728.m3u8
-#EXTINF:-1 group-title="DEPORTES", PAC National HD
-http://xrxs.net/video/live-p12netw-2328.m3u8
-#EXTINF:-1 group-title="DEPORTES", PAC-12 Arizona HD
-http://xrxs.net/video/live-p12ariz-2328.m3u8
-#EXTINF:-1 group-title="DEPORTES", PAC-12 Arizona FHD
-http://xrxs.net/video/live-p12ariz-4728.m3u8
-#EXTINF:-1 group-title="DEPORTES", PAC-12 Bay Area HD
-http://xrxs.net/video/live-p12baya-2328.m3u8
-#EXTINF:-1 group-title="DEPORTES", PAC-12 Bay Area FHD
-http://xrxs.net/video/live-p12baya-4728.m3u8
-#EXTINF:-1 group-title="DEPORTES", PAC-12 Los Angeles HD
-http://xrxs.net/video/live-p12losa-2328.m3u8
-#EXTINF:-1 group-title="DEPORTES", PAC-12 Los Angeles FHD
-http://xrxs.net/video/live-p12los-4728.m3u8
-#EXTINF:-1 group-title="DEPORTES", PAC-12 Oregon HD
-http://xrxs.net/video/live-p12oreg-2328.m3u8
-#EXTINF:-1 group-title="DEPORTES", PAC-12 Oregon FHD
-http://xrxs.net/video/live-p12oreg-4728.m3u8
-#EXTINF:-1 group-title="DEPORTES", PAC-12 Washington HD
-http://xrxs.net/video/live-p12wash-2328.m3u8
-#EXTINF:-1 group-title="DEPORTES", PAC-12 Washington FHD
-http://xrxs.net/video/live-p12wash-4728.m3u8
-#EXTINF:-1 group-title="DEPORTES",BTN 1 ANGLO
-http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8
-#EXTINF:-1 group-title="DEPORTES",BTN 2 ANGLO
+#EXTINF:-1 group-title="DEPORTES",BTN ANGLO
 http://xrxs.net/video/live-btn-3000.m3u8
-#EXTINF:-1 group-title="DEPORTES",Fanatik Spor
-rtmp://live.fanatik.cubecdn.net/fanatiktv/stream_720
 #EXTINF:-1 group-title="DEPORTES",A Spor ANGLO
 http://origin2.live.web.tv.streamprovider.net/streams/a6784af7d08a9c91dbfa0e4eab17e3bf_live_0_0/index.m3u8
 #EXTINF:-1 group-title="DEPORTES",NTV Sport ANGLO
@@ -440,6 +394,34 @@ http://46.249.213.93/iPhone/HLS_TS/broadcast/sportmax-tablet.3gp/sportmax-tablet
 http://motorsport.hopto.org:8080/
 #EXTINF:-1 group-title="DEPORTES",Autosport ANGLO
 http://lag2.tv-mobile.org/prgu.m3u8
+#EXTINF:-1 group-title="DEPORTES",Pac-12 ARIZONA ANGLO
+http://pac12hd2-lh.akamaihd.net/i/p12ariz_delivery@132836/index_4728_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="DEPORTES",Pac-12 BAY AREA ANGLO
+http://pac12hd2-lh.akamaihd.net/i/p12baya_delivery@132837/index_4728_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="DEPORTES",Pac-12 LOS ANGELES ANGLO
+http://pac12hd2-lh.akamaihd.net/i/p12losa_delivery@132838/index_4728_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="DEPORTES",Pac-12 OREGON ANGLO
+http://pac12hd2-lh.akamaihd.net/i/p12oreg_delivery@132835/index_4728_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="DEPORTES",Pac-12 MOUNTAIN ANGLO
+http://pac12hd2-lh.akamaihd.net/i/p12moun_delivery@132839/index_4728_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="DEPORTES",Pac-12 WASHINGTON ANGLO
+http://pac12hd2-lh.akamaihd.net/i/p12wash_delivery@132841/index_4728_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="DEPORTES",Pac-12 NETWORK ANGLO
+http://pac12hd2-lh.akamaihd.net/i/p12netw_delivery@132840/index_4728_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="DEPORTES", Pac Mountain ANGLO
+http://xrxs.net/video/live-p12moun-4728.m3u8
+#EXTINF:-1 group-title="DEPORTES", Pac National ANGLO
+http://xrxs.net/video/live-p12netw-4728.m3u8
+#EXTINF:-1 group-title="DEPORTES", PAC-12 Arizona ANGLO
+http://xrxs.net/video/live-p12ariz-4728.m3u8
+#EXTINF:-1 group-title="DEPORTES", PAC-12 Bay Area ANGLO
+http://xrxs.net/video/live-p12baya-4728.m3u8
+#EXTINF:-1 group-title="DEPORTES", PAC-12 Los Angeles ANGLO
+http://xrxs.net/video/live-p12los-4728.m3u8
+#EXTINF:-1 group-title="DEPORTES", PAC-12 Oregon ANGLO
+http://xrxs.net/video/live-p12oreg-4728.m3u8
+#EXTINF:-1 group-title="DEPORTES", PAC-12 Washington ANGLO
+http://xrxs.net/video/live-p12wash-4728.m3u8
 
 #EXTINF:0,-Radios-
 
