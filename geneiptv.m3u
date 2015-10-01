@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:0,-Nacionales-
 
-#EXTINF:-1 group-title="CAMARAS", Uoct
-http://mdstrm.com/live-stream-playlist-v/53443c472c6e89675103cc4c.m3u8
 #EXTINF:-1 group-title="NACIONALES", Telecanal 
 http://movilstream.digitalproserver.com/tcsc/tcscvivo/livestream2/playlist.m3u8
 #EXTINF:-1 group-title="NACIONALES",La Red 
@@ -269,16 +267,6 @@ http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u
 
 #EXTINF:0,-Musica-
 
-#EXTINF:0 group-title="MUSICA",First Music HD
-rtmp://109.239.142.62/live/livestream3
-#EXTINF:0 group-title="MUSICA",Musica SI
-http://hd.worldkast.com:1935/8436/8436/playlist.m3u8
-#EXTINF:0 group-title="MUSICA",Europa plus TV
-http://europaplus.cdnvideo.ru:1935/europaplus-live/eptv_main.sdp/playlist.m3u8
-#EXTINF:0 group-title="MUSICA",Lobas TV
-http://149.11.34.6:1935/live/lobas.stream/playlist.m3u8
-#EXTINF:0 group-title="MUSICA",VIRGIN
-http://wow01.105.net/live/virgin1/.m3u8
 #EXTINF:-1 group-title="MUSICA",Mi Musica SPAIN
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8?
 #EXTINF:-1 group-title="MUSICA",Tigo Musica SPAIN
@@ -291,8 +279,6 @@ http://ss7.domint.net:2058/utv_str/urban/playlist.m3u8
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8?
 #EXTINF:-1 group-title="MUSICA",Estudio Tv SPAIN
 rtmp://190.107.176.167:1935/live/estudio-tv
-#EXTINF:-1 group-title="MUSICA",Kiss Tv SPAIN
-rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
 #EXTINF:-1 group-title="MUSICA",Heart Tv ANGLO
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8#MegaIPTVArgentina
 #EXTINF:-1 group-title="MUSICA",First Music ANGLO
@@ -315,15 +301,11 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/04/prog_index.m3u8
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/04/prog_index.m3u8
 #EXTINF:-1 group-title="MUSICA",Vevo 3 ANGLO
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/04/prog_index.m3u8
-#EXTINF:-1 group-title="MUSICA",Vivra ANGLO
-http://iphone-streaming.ustream.tv/uhls/10002020/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 group-title="MUSICA",Heavy Metal Tv ANGLO
 http://70.166.98.130:1935/hmtv/myStream/playlist.m3u8
 
 #EXTINF:0,-Deportes-
 
-#EXTINF:0 group-title="DEPORTES", CDO
-http://wow2.cl.digitalproserver.com:1935/cdo/cdovivo/cdo.smil/chunklist_w2118277262_b1064000.m3u8
 #EXTINF:-1 group-title="DEPORTES",Bein SPAIN
 http://yiptv2-live.hls.adaptive.level3.net/yiptv2/beinespanov/02.m3u8
 #EXTINF:-1 group-title="DEPORTES",Win Sports SPAIN
@@ -360,25 +342,17 @@ http://188.93.94.133/silk_sport/index.m3u8
 http://188.93.94.133/silk_sport2/index.m3u8
 #EXTINF:-1 group-title="DEPORTES",Silk Football ANGLO
 http://188.93.94.133/silk_sport4/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",Motorsport (AUS) ANGLO
-http://motorsport.hopto.org:8080/
-#EXTINF:-1 group-title="DEPORTES",Bein Sports 1 ANGLO
-http://lihattv.toh.info/jhos/beib1.m3u8
 #EXTINF:-1 group-title="DEPORTES",Bein Sports 1 ANGLO
 http://180.250.29.12/jhos/beib1_3/1424681872/playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES",Bein Sports 2 ANGLO
-http://lihattv.toh.info/jhos/beib2.m3u8
-#EXTINF:-1 group-title="DEPORTES",Bein Sports 2 ANGLO
 http://180.250.29.12/jhos/beib2_3/1424681986/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES",Bein Sports 3 ANGLO
-http://lihattv.toh.info/jhos/beib3.m3u8
 #EXTINF:-1 group-title="DEPORTES",Sport 1 (UA) ANGLO
 http://193.176.251.228:8000/Sport1
 #EXTINF:-1 group-title="DEPORTES",Sport 2 (UA) ANGLO
 http://193.176.251.228:8000/Sport2
 #EXTINF:-1 group-title="DEPORTES",Sport 14 (UA) ANGLO
 http://193.176.251.228:8000/Sport14
-#EXTINF:-1 group-title="DEPORTES", 24 (UA) ANGLO
+#EXTINF:-1 group-title="DEPORTES", Sport 24 (UA) ANGLO
 http://193.176.251.228:8000/Sport24
 #EXTINF:-1 group-title="DEPORTES", Sport ANGLO
 http://hls.peers.tv/streaming/sport/126/tvrec/playlist.m3u8
@@ -412,30 +386,24 @@ http://pac12hd2-lh.akamaihd.net/i/p12wash_delivery@132841/index_4728_av-b.m3u8?s
 http://pac12hd2-lh.akamaihd.net/i/p12netw_delivery@132840/index_4728_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1 group-title="DEPORTES",BTN ANGLO
 http://xrxs.net/video/live-btn-3000.m3u8
-#EXTINF:-1 group-title="DEPORTES",A Sport ANGLO
+#EXTINF:-1 group-title="DEPORTES",A Spor ANGLO
 http://origin2.live.web.tv.streamprovider.net/streams/a6784af7d08a9c91dbfa0e4eab17e3bf_live_0_0/index.m3u8
 #EXTINF:-1 group-title="DEPORTES",NTV Sport ANGLO
 http://origin.live.web.tv.streamprovider.net/streams/a820629b8abc43c73c76b091086c138a_live_0_0/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",Sporun Kanali ANGLO
+#EXTINF:-1 group-title="DEPORTES",Sport Tv ANGLO
 http://stream.sportstv.com.tr/sportstv/SportsTV3/HasBahCa.m3u8
-#EXTINF:-1 group-title="DEPORTES",SporTv 1 ANGLO
-http://37.203.209.34:443/mobile/bob05sd/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES",SporTv 2 ANGLO
-http://37.203.209.34:443/mobile/bob06sd/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES",SporTv 3 ANGLO
-http://37.203.209.34:443/mobile/bob50sd/playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES",AD 1 Sports Tv ANGLO 
 http://origin2.live.web.tv.streamprovider.net/streams/b1ce38c6870c24a64b3d9fbfa2c58b98/index.m3u8
 #EXTINF:-1 group-title="DEPORTES",AD 3 Sports Tv ANGLO
 http://origin2.live.web.tv.streamprovider.net/streams/35bbb16853a12660e800ba2605999cc5/index.m3u8
 #EXTINF:-1 group-title="DEPORTES",Dubai Sports 3 ANGLO
 http://origin2.live.web.tv.streamprovider.net/streams/7c7bb92d89f800dc5f0d9e98e7254503/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",Sp5rt ANGLO
-http://212.79.96.134:8023/
 #EXTINF:-1 group-title="DEPORTES", Sports Night ANGLO
 rtmp://freeview.fms.visionip.tv/live/sports_tonight-sports_tonight-live-25f-16x9-HD
 #EXTINF:-1 group-title="DEPORTES",Sportmax ANGLO
 http://46.249.213.93/iPhone/HLS_TS/broadcast/sportmax-tablet.3gp/sportmax-tablet.3gp-mr397k.m3u8
+#EXTINF:-1 group-title="DEPORTES",Motorsport (AUS) ANGLO
+http://motorsport.hopto.org:8080/
 #EXTINF:-1 group-title="DEPORTES",Autosport ANGLO
 http://lag2.tv-mobile.org/prgu.m3u8
 
