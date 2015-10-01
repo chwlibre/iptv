@@ -333,6 +333,8 @@ http://redir.atmcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8?se
 #EXTINF:0 group-title="MUSICA",Musica SI ANGLO
 http://hd.worldkast.com:1935/8436/8436/playlist.m3u8
 http://204.107.26.252:1935/live/691.high.stream/HasBahCa.m3u8
+EXTINF:0 group-title="MUSICA",Virgin Tv ANGLO
+http://wow01.105.net/live/virgin1/.m3u8
 #EXTINF:-1 group-title="MUSICA",Vevo 1 ANGLO
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/04/prog_index.m3u8
 #EXTINF:-1 group-title="MUSICA",Vevo 2 ANGLO
