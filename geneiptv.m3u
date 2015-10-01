@@ -19,6 +19,8 @@ http://live.hls.http.chv.ztreaming.com/chvhddesktop/chvHi.m3u8
 http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8
 #EXTINF:-1 group-title="NACIONALES",Canal 13 Cable 
 http://cluster.13cmovil.ztreaming.com/13cm/grpz13c/playlist.m3u8
+#EXTINF:-1 group-title="NACIONALES",Uoct Santiago
+http://mdstrm.com/live-stream-playlist-v/53443c472c6e89675103cc4c.m3u8
 
 #EXTINF:0,-Regionales-
 
@@ -315,6 +317,8 @@ rtmp://190.107.176.167:1935/live/estudio-tv
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8#MegaIPTVArgentina
 #EXTINF:-1 group-title="MUSICA",First Music ANGLO
 rtmp://109.239.142.62/live/livestream3
+EXTINF:0 group-title="MUSICA",Europa plus TV ANGLO
+http://europaplus.cdnvideo.ru:1935/europaplus-live/eptv_main.sdp/playlist.m3u8
 #EXTINF:-1 group-title="MUSICA",Dream ANGLO
 http://212.224.108.80/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
 #EXTINF:-1 group-title="MUSICA",Clubland Tv ANGLO
@@ -326,6 +330,8 @@ http://www.djing.com/tv/ibiza.m3u8
 #EXTINF:-1 group-title="MUSICA",Amazing Tv ANGLO
 http://redir.atmcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8?sessionId=ABA74CBC0702307FF0B559F938FC9B21.node1&stream=2
 #EXTINF:-1 group-title="MUSICA",Film on Tv ANGLO
+#EXTINF:0 group-title="MUSICA",Musica SI ANGLO
+http://hd.worldkast.com:1935/8436/8436/playlist.m3u8
 http://204.107.26.252:1935/live/691.high.stream/HasBahCa.m3u8
 #EXTINF:-1 group-title="MUSICA",Vevo 1 ANGLO
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/04/prog_index.m3u8
