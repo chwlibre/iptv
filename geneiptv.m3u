@@ -213,8 +213,6 @@ http://cls.todostreaming.eu/azahara/lepevision/chunklist.m3u8
 
 #EXTINF:0,-Cine-
 
-#EXTINF:-1 group-title="CINE",Fox Channel
-http://iptvlatam.cf/hls/fox/playlist.m3u8
 #EXTINF:-1 group-title="CINE",Ultra Cine 
 http://vemoxhlslive-i.akamaihd.net/hls/live/219940/vemoxchannel1/iOS/vemoxchannel1@219940/stream2/streamPlaylist.m3u8
 #EXTINF:-1 group-title="CINE",Ultra Film 
@@ -280,8 +278,6 @@ http://flashd.localmidia.com.br:1935/cheftv/aovivo/live.m3u8
 
 #EXTINF:0,-Culturales-
 
-#EXTINF:-1 group-title="CULTURALES",Discovery Civilization
-http://iptvlatam.cf/hls/discciv/playlist.m3u8
 #EXTINF:-1 group-title="CULTURALES",Discovery Science
 http://iptvlatam.cf/hls/discsci/playlist.m3u8
 #EXTINF:-1 group-title="CULTURALES",Mega 
@@ -315,8 +311,6 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8?
 rtmp://190.107.176.167:1935/live/estudio-tv
 #EXTINF:-1 group-title="MUSICA",Heart Tv ANGLO
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8#MegaIPTVArgentina
-#EXTINF:-1 group-title="MUSICA",First Music ANGLO
-rtmp://109.239.142.62/live/livestream3
 #EXTINF:-1 group-title="MUSICA",Europa plus TV ANGLO
 http://europaplus.cdnvideo.ru:1935/europaplus-live/eptv_main.sdp/playlist.m3u8
 #EXTINF:-1 group-title="MUSICA",Dream ANGLO
