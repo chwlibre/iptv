@@ -91,8 +91,14 @@ http://urtmpkal-f.akamaihd.net/i/1b6mj17sk_1@308700/master.m3u8
 http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8
 #EXTINF:-1 group-title="LATINOS",Canal de las Estrellas Internacional MEXICO
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8?
-#EXTINF:-1 group-title="LATINOS",Telemundo MEXICO
+#EXTINF:-1 group-title="LATINOS",Telemundo 1 MEXICO
 http://iphone-streaming.ustream.tv/uhls/20720323/streams/live/iphone/playlist.m3u8?
+#EXTINF:-1 group-title="LATINOS",Telemundo 2 MEXICO
+http://209.133.208.194:1935/app/telemundox1chivas_69s-channel/playlist.m3u8
+#EXTINF:-1 group-title="LATINOS",Univision MEXICO
+http://209.133.208.26:1935/app/turbomax-hds-channel/playlist.m3u8
+#EXTINF:-1 group-title="LATINOS",Mundomax MEXICO
+http://209.133.208.194:1935/app/ana69s-channel/playlist.m3u8
 #EXTINF:-1 group-title="LATINOS",Azteca 13 MEXICO
 http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
 #EXTINF:-1 group-title="LATINOS",Azteca Noticias MEXICO
@@ -213,6 +219,36 @@ http://vemoxhlslive-i.akamaihd.net/hls/live/219940/vemoxchannel1/iOS/vemoxchanne
 http://vemoxhlslive-i.akamaihd.net/hls/live/219942/vemoxchannel3/iOS/vemoxchannel3@219942/stream2/streamPlaylist.m3u8
 #EXTINF:-1 group-title="CINE",Plus Cine
 http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8?
+#EXTINF:-1 group-title="CINE",Film Zone
+http://158.255.6.224:8080/loadchan.php?chan=715&gtoken=8c9f7326770bb525908e17d491673530 
+#EXTINF:-1 group-title="CINE",Fox 1
+http://158.255.6.224:8080/loadchan.php?chan=716&gtoken=8c9f7326770bb525908e17d491673530  
+#EXTINF:-1 group-title="CINE",Fox 2
+http://158.255.6.224:8080/loadchan.php?chan=717&gtoken=8c9f7326770bb525908e17d491673530  
+#EXTINF:-1 group-title="CINE",Fox Family
+http://158.255.6.224:8080/loadchan.php?chan=718&gtoken=8c9f7326770bb525908e17d491673530 
+#EXTINF:-1 group-title="CINE",Fox Comedy
+http://158.255.6.224:8080/loadchan.php?chan=719&gtoken=8c9f7326770bb525908e17d491673530  
+#EXTINF:-1 group-title="CINE",Fox Cinema
+http://158.255.6.224:8080/loadchan.php?chan=720&gtoken=8c9f7326770bb525908e17d491673530  
+#EXTINF:-1 group-title="CINE",Fox Action 1
+http://158.255.6.224:8080/loadchan.php?chan=721&gtoken=8c9f7326770bb525908e17d491673530 
+#EXTINF:-1 group-title="CINE",Fox Action 2
+http://158.255.6.224:8080/loadchan.php?chan=722&gtoken=8c9f7326770bb525908e17d491673530  
+#EXTINF:-1 group-title="CINE",Fox Classic
+http://158.255.6.224:8080/loadchan.php?chan=724&gtoken=8c9f7326770bb525908e17d491673530  
+#EXTINF:-1 group-title="CINE",HBO Latinoamerica
+http://158.255.6.224:8080/loadchan.php?chan=725&gtoken=8c9f7326770bb525908e17d491673530
+#EXTINF:-1 group-title="CINE",HBO Plus Este
+http://158.255.6.224:8080/loadchan.php?chan=726&gtoken=8c9f7326770bb525908e17d491673530  
+#EXTINF:-1 group-title="CINE",HBO Plus Oeste
+http://158.255.6.224:8080/loadchan.php?chan=727&gtoken=8c9f7326770bb525908e17d491673530  
+#EXTINF:-1 group-title="CINE",HBO Family
+http://158.255.6.224:8080/loadchan.php?chan=729&gtoken=8c9f7326770bb525908e17d491673530  
+#EXTINF:-1 group-title="CINE",HBO Signature
+http://158.255.6.224:8080/loadchan.php?chan=730&gtoken=8c9f7326770bb525908e17d491673530  
+#EXTINF:-1 group-title="CINE",Max UP
+http://158.255.6.224:8080/loadchan.php?chan=731&gtoken=8c9f7326770bb525908e17d491673530  
 
 #EXTINF:0,-Anime-
 
@@ -306,8 +342,10 @@ http://70.166.98.130:1935/hmtv/myStream/playlist.m3u8
 
 #EXTINF:0,-Deportes-
 
-#EXTINF:-1 group-title="DEPORTES",Bein SPAIN
+#EXTINF:-1 group-title="DEPORTES",Bein 1 SPAIN
 http://yiptv2-live.hls.adaptive.level3.net/yiptv2/beinespanov/02.m3u8
+#EXTINF:-1 group-title="DEPORTES",Bein 2 SPAIN
+http://bein-es-us-nex.fubotv.com.a.prod.fastly.net/UT-Origin/ngrp:BeInSports_ES_all/chunklist_b728000.m3u8
 #EXTINF:-1 group-title="DEPORTES",Win Sports SPAIN
 http://hlslive.lcdn.une.net.co:80/v1/AUTH_HLSLIVE/0001/tu1_1.m3u8
 #EXTINF:-1 group-title="DEPORTES",Tododeportes SPAIN
