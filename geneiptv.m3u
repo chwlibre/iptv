@@ -314,6 +314,21 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/04/prog_index.m3u8
 #EXTINF:-1 group-title="MUSICA",Heavy Metal Tv ANGLO
 http://70.166.98.130:1935/hmtv/myStream/playlist.m3u8
 
+#EXTINF:0,-Radios-
+
+#EXTINF:-1 group-title="RADIOS",Freaky Channel Radio Carolina 
+http://movilstream.digitalproserver.com/freakytv//freakytv.smil/playlist.m3u8
+#EXTINF:-1 group-title="RADIOS",Radio Duna 
+http://wow1.dallas.digitalproserver.com/dunatv/dunatvvivo/dunatv.smil/playlist.m3u8
+#EXTINF:-1 group-title="RADIOS",Radio Tiempo 
+http://movilstream.digitalproserver.com/tiempotv/tiempotvvivo/tiempotv.smil/playlist.m3u8
+#EXTINF:-1 group-title="RADIOS",Radio Zero 
+http://movilstream.digitalproserver.com/zerotv/zerotvvivo/zerotv.smil/playlist.m3u8
+#EXTINF:-1 group-title="RADIOS",Radio la Clave 
+http://movilstream.digitalproserver.com/laclavetv/laclavetvvivo/laclavetv.smil/playlist.m3u8
+#EXTINF:-1 group-title="RADIOS",Tele13 Radio 
+http://cdn.ztreaming.com/t13radio/mobile.m3u8
+
 #EXTINF:0,-Deportes-
 
 #EXTINF:-1 group-title="DEPORTES",Bein 1 SPAIN
@@ -322,6 +337,8 @@ http://yiptv2-live.hls.adaptive.level3.net/yiptv2/beinespanov/02.m3u8
 http://bein-es-us-nex.fubotv.com.a.prod.fastly.net/UT-Origin/ngrp:BeInSports_ES_all/chunklist_b728000.m3u8
 #EXTINF:-1 group-title="DEPORTES",Win Sports SPAIN
 http://hlslive.lcdn.une.net.co:80/v1/AUTH_HLSLIVE/0001/tu1_1.m3u8
+#EXTINF:-1 group-title="DEPORTES",SKY Sports SPAIN
+http://192.240.113.42:1935/live/canal008.stream/playlist.m3u8?username=team30&password=team30
 #EXTINF:-1 group-title="DEPORTES",Tododeportes SPAIN
 http://162.212.176.68:1935/tododeportes/tododeportes/playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES",Canal Deporte Olimpico SPAIN
@@ -332,6 +349,8 @@ http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/119.m3u8
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/102.m3u8
 #EXTINF:-1 group-title="DEPORTES",Real Madrid Tv SPAIN                                                                                                                                                                                                                                            
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="DEPORTES",UFC Network SPAIN
+http://192.240.113.42:1935/live/canal009.stream/playlist.m3u8?username=team30&password=team30
 #EXTINF:-1 group-title="DEPORTES", AM Sport SPAIN 
 http://iphone-streaming.ustream.tv/uhls/11602466/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES", CDN Sport Max SPAIN
@@ -434,20 +453,5 @@ http://xrxs.net/video/live-p12los-4728.m3u8
 http://xrxs.net/video/live-p12oreg-4728.m3u8
 #EXTINF:-1 group-title="DEPORTES", PAC-12 Washington ANGLO
 http://xrxs.net/video/live-p12wash-4728.m3u8
-
-#EXTINF:0,-Radios-
-
-#EXTINF:-1 group-title="RADIOS",Freaky Channel Radio Carolina 
-http://movilstream.digitalproserver.com/freakytv//freakytv.smil/playlist.m3u8
-#EXTINF:-1 group-title="RADIOS",Radio Duna 
-http://wow1.dallas.digitalproserver.com/dunatv/dunatvvivo/dunatv.smil/playlist.m3u8
-#EXTINF:-1 group-title="RADIOS",Radio Tiempo 
-http://movilstream.digitalproserver.com/tiempotv/tiempotvvivo/tiempotv.smil/playlist.m3u8
-#EXTINF:-1 group-title="RADIOS",Radio Zero 
-http://movilstream.digitalproserver.com/zerotv/zerotvvivo/zerotv.smil/playlist.m3u8
-#EXTINF:-1 group-title="RADIOS",Radio la Clave 
-http://movilstream.digitalproserver.com/laclavetv/laclavetvvivo/laclavetv.smil/playlist.m3u8
-#EXTINF:-1 group-title="RADIOS",Tele13 Radio 
-http://cdn.ztreaming.com/t13radio/mobile.m3u8
 
 #EXTINF:0,-Canales en Observación GeneIPTV-
