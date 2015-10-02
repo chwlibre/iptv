@@ -168,6 +168,12 @@ http://iphone-streaming.ustream.tv/uhls/13870671/streams/live/iphone/playlist.m3
 
 #EXTINF:0,-Spain-
 
+#EXTINF:-1 group-title="SPAIN",TVE 2 
+http://iphonelive.rtve.es/LA2_LV3_IPH/bitrate_2.m3u8
+#EXTINF:-1 group-title="SPAIN",RTVE 24H 
+http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
+#EXTINF:-1 group-title="SPAIN",Telecinco 
+http://mdsios2-lh.akamaihd.net/i/mitele/esmediaset_21@168473/index_0_av-p.m3u8
 #EXTINF:-1 group-title="SPAIN",Castilla La Mancha 
 http://195.55.74.210/rtvcm/live.flv?GKID=a9b379844fff11e5a75100163ea2c744 
 #EXTINF:-1 group-title="SPAIN",Canal Costa 
@@ -182,12 +188,6 @@ http://media3.crtvg.es/live/tvga/hasbahca.m3u8
 http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/index.m3u8
 #EXTINF:-1 group-title="SPAIN",La Sexta 
 http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel02/la_sexta_hd_1548K_1280x720_main.m3u8
-#EXTINF:-1 group-title="SPAIN",TVE 2 
-http://iphonelive.rtve.es/LA2_LV3_IPH/bitrate_2.m3u8
-#EXTINF:-1 group-title="SPAIN",RTVE 24H 
-http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
-#EXTINF:-1 group-title="SPAIN",Telecinco 
-http://mdsios2-lh.akamaihd.net/i/mitele/esmediaset_21@168473/index_0_av-p.m3u8
 #EXTINF:-1 group-title="SPAIN",La 1 
 http://iphonelive.rtve.es/LA1_LV3_IPH/bitrate_2.m3u8
 #EXTINF:-1 group-title="SPAIN",La 2 
@@ -329,129 +329,132 @@ http://movilstream.digitalproserver.com/laclavetv/laclavetvvivo/laclavetv.smil/p
 #EXTINF:-1 group-title="RADIOS",Tele13 Radio 
 http://cdn.ztreaming.com/t13radio/mobile.m3u8
 
-#EXTINF:0,-Deportes-
+#EXTINF:0,-Deportes en Spain-
 
-#EXTINF:-1 group-title="DEPORTES",Bein 1 SPAIN
+#EXTINF:-1 group-title="DEPORTES EN SPAIN",Bein 1 
 http://yiptv2-live.hls.adaptive.level3.net/yiptv2/beinespanov/02.m3u8
-#EXTINF:-1 group-title="DEPORTES",Bein 2 SPAIN
+#EXTINF:-1 group-title="DEPORTES EN SPAIN",Bein 2 
 http://bein-es-us-nex.fubotv.com.a.prod.fastly.net/UT-Origin/ngrp:BeInSports_ES_all/chunklist_b728000.m3u8
-#EXTINF:-1 group-title="DEPORTES",Win Sports SPAIN
+#EXTINF:-1 group-title="DEPORTES EN SPAIN",Win Sports 
 http://hlslive.lcdn.une.net.co:80/v1/AUTH_HLSLIVE/0001/tu1_1.m3u8
-#EXTINF:-1 group-title="DEPORTES",SKY Sports SPAIN
+#EXTINF:-1 group-title="DEPORTES EN SPAIN",SKY Sports 
 http://192.240.113.42:1935/live/canal008.stream/playlist.m3u8?username=team30&password=team30
-#EXTINF:-1 group-title="DEPORTES",Tododeportes SPAIN
+#EXTINF:-1 group-title="DEPORTES EN SPAIN",Tododeportes 
 http://162.212.176.68:1935/tododeportes/tododeportes/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES",Canal Deporte Olimpico SPAIN
+#EXTINF:-1 group-title="DEPORTES EN SPAIN",Canal Deporte Olimpico 
 http://wow2.cl.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist_w913906597_b1064000.m3u8
-#EXTINF:-1 group-title="DEPORTES",Liga BBWA SPAIN
+#EXTINF:-1 group-title="DEPORTES EN SPAIN",Liga BBWA 
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/119.m3u8
-#EXTINF:-1 group-title="DEPORTES",Barcelona Club Tv SPAIN
+#EXTINF:-1 group-title="DEPORTES EN SPAIN",Barcelona Club Tv 
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/102.m3u8
-#EXTINF:-1 group-title="DEPORTES",Real Madrid Tv SPAIN                                                                                                                                                                                                                                            
+#EXTINF:-1 group-title="DEPORTES EN SPAIN",Real Madrid Tv                                                                                                                                                                                                                                          
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title="DEPORTES",UFC Network SPAIN
+#EXTINF:-1 group-title="DEPORTES EN SPAIN",UFC Network 
 http://192.240.113.42:1935/live/canal009.stream/playlist.m3u8?username=team30&password=team30
-#EXTINF:-1 group-title="DEPORTES", AM Sport SPAIN 
+#EXTINF:-1 group-title="DEPORTES EN SPAIN", AM Sport 
 http://iphone-streaming.ustream.tv/uhls/11602466/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES", CDN Sport Max SPAIN
+#EXTINF:-1 group-title="DEPORTES EN SPAIN", CDN Sport Max 
 http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES",Sport TV Americas ANGLO
+
+#EXTINF:0,-Deportes en Ingles-
+
+#EXTINF:-1 group-title="DEPORTES EN INGLES",Sport TV Americas 
 http://sporttvamericas-i.akamaihd.net/hls/live/222316/sportTV/mastersportTV_1300kbps.m3u8
-#EXTINF:-1 group-title="DEPORTES",NFL Now ANGLO
+#EXTINF:-1 group-title="DEPORTES EN INGLES",NFL Now 
 http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9.m3u8
-#EXTINF:-1 group-title="DEPORTES",NFL Network ANGLO
+#EXTINF:-1 group-title="DEPORTES EN INGLES",NFL Network 
 http://nflsvgatlgame3-i.akamaihd.net/hls/live/223175/NFL_Mobile/2015Mobile_NFLN_2000k.m3u8
-#EXTINF:-1 group-title="DEPORTES",Super Sports 1 ANGLO
+#EXTINF:-1 group-title="DEPORTES EN INGLES",Super Sports 1 
 http://80.80.160.201/http_livestr.m3u8?id=ssnews
-#EXTINF:-1 group-title="DEPORTES",Super Sports 2 ANGLO
+#EXTINF:-1 group-title="DEPORTES EN INGLES",Super Sports 2 
 http://81.7.13.162/hls/ss1/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",Rete 8 Sport ANGLO
+#EXTINF:-1 group-title="DEPORTES EN INGLES",Rete 8 Sport 
 http://rm-edge-1.cdn2.streamago.tv/streamagoedge/39648/36567/Rete8Sport.m3u8
-#EXTINF:-1 group-title="DEPORTES",Kazsport ANGLO
+#EXTINF:-1 group-title="DEPORTES EN INGLES",Kazsport 
 http://vs1.cdn.ott.otautv.kz/dtv/id14_KTR_SG--KazSport/02/plst.m3u8
-#EXTINF:-1 group-title="DEPORTES",Silk Sport 2 ANGLO
+#EXTINF:-1 group-title="DEPORTES EN INGLES",Silk Sport 2 
 http://188.93.94.133/silk_sport/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",Silk Sport 3 ANGLO
+#EXTINF:-1 group-title="DEPORTES EN INGLES",Silk Sport 3 
 http://188.93.94.133/silk_sport2/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",Silk Football ANGLO
+#EXTINF:-1 group-title="DEPORTES EN INGLES",Silk Football 
 http://188.93.94.133/silk_sport4/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",Bein Sports 1 ANGLO
+#EXTINF:-1 group-title="DEPORTES EN INGLES",Bein Sports 1 
 http://180.250.29.12/jhos/beib1_3/1424681872/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES",Bein Sports 2 ANGLO
+#EXTINF:-1 group-title="DEPORTES EN INGLES",Bein Sports 2 
 http://180.250.29.12/jhos/beib2_3/1424681986/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES",Sport 1 (UA) ANGLO
+#EXTINF:-1 group-title="DEPORTES EN INGLES",Sport 1 (UA) 
 http://193.176.251.228:8000/Sport1
-#EXTINF:-1 group-title="DEPORTES",Sport 2 (UA) ANGLO
+#EXTINF:-1 group-title="DEPORTES EN INGLES",Sport 2 (UA) 
 http://193.176.251.228:8000/Sport2
-#EXTINF:-1 group-title="DEPORTES",Sport 14 (UA) ANGLO
+#EXTINF:-1 group-title="DEPORTES EN INGLES",Sport 14 (UA) 
 http://193.176.251.228:8000/Sport14
-#EXTINF:-1 group-title="DEPORTES", Sport 24 (UA) ANGLO
+#EXTINF:-1 group-title="DEPORTES EN INGLES", Sport 24 (UA) 
 http://193.176.251.228:8000/Sport24
-#EXTINF:-1 group-title="DEPORTES", Sport ANGLO
+#EXTINF:-1 group-title="DEPORTES EN INGLES", Sport 
 http://hls.peers.tv/streaming/sport/126/tvrec/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES", Sport 1 ANGLO
+#EXTINF:-1 group-title="DEPORTES EN INGLES", Sport 1 
 http://87.245.214.43/streaming/sport1/16/tvrec/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES", Sport 2 ANGLO
+#EXTINF:-1 group-title="DEPORTES EN INGLES", Sport 2 
 http://3.hls.bolshoe.tv/2/streaming/sport2/tvrec/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES", Futbol ANGLO
+#EXTINF:-1 group-title="DEPORTES EN INGLES", Futbol 
 http://3.hls.bolshoe.tv/2/streaming/futbol/tvrec/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES",Futbol 16 ANGLO
+#EXTINF:-1 group-title="DEPORTES EN INGLES ",Futbol 16 
 http://87.245.214.43/streaming/futbol/16/tvrec/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES",Eurosport ANGLO
+#EXTINF:-1 group-title="DEPORTES EN INGLES",Eurosport 
 http://3.hls.bolshoe.tv/1/streaming/eurosport/tvrec/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES",Eurosport 2 ANGLO
+#EXTINF:-1 group-title="DEPORTES EN INGLES",Eurosport 2 
 http://3.hls.bolshoe.tv/1/streaming/eurosport2/tvrec/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES", Viasat Sport ANGLO
+#EXTINF:-1 group-title="DEPORTES EN INGLES", Viasat Sport 
 http://3.hls.bolshoe.tv/1/streaming/viasat_sport/tvrec/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES",BTN ANGLO
+#EXTINF:-1 group-title="DEPORTES EN INGLES",BTN 
 http://xrxs.net/video/live-btn-3000.m3u8
-#EXTINF:-1 group-title="DEPORTES",A Spor ANGLO
+#EXTINF:-1 group-title="DEPORTES EN INGLES",A Spor 
 http://origin2.live.web.tv.streamprovider.net/streams/a6784af7d08a9c91dbfa0e4eab17e3bf_live_0_0/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",NTV Sport ANGLO
+#EXTINF:-1 group-title="DEPORTES EN INGLES",NTV Sport 
 http://origin.live.web.tv.streamprovider.net/streams/a820629b8abc43c73c76b091086c138a_live_0_0/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",Sport Tv ANGLO
+#EXTINF:-1 group-title="DEPORTES EN INGLES",Sport Tv 
 http://stream.sportstv.com.tr/sportstv/SportsTV3/HasBahCa.m3u8
-#EXTINF:-1 group-title="DEPORTES",AD 1 Sports Tv ANGLO 
+#EXTINF:-1 group-title="DEPORTES EN INGLES",AD 1 Sports Tv 
 http://origin2.live.web.tv.streamprovider.net/streams/b1ce38c6870c24a64b3d9fbfa2c58b98/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",AD 3 Sports Tv ANGLO
+#EXTINF:-1 group-title="DEPORTES EN INGLES",AD 3 Sports Tv 
 http://origin2.live.web.tv.streamprovider.net/streams/35bbb16853a12660e800ba2605999cc5/index.m3u8
-#EXTINF:-1 group-title="DEPORTES",Dubai Sports 3 ANGLO
+#EXTINF:-1 group-title="DEPORTES EN INGLES",Dubai Sports 3 
 http://origin2.live.web.tv.streamprovider.net/streams/7c7bb92d89f800dc5f0d9e98e7254503/index.m3u8
-#EXTINF:-1 group-title="DEPORTES", Sports Tonight ANGLO
+#EXTINF:-1 group-title="DEPORTES EN INGLES", Sports Tonight 
 rtmp://freeview.fms.visionip.tv/live/sports_tonight-sports_tonight-live-25f-16x9-HD
-#EXTINF:-1 group-title="DEPORTES",Sportmax ANGLO
+#EXTINF:-1 group-title="DEPORTES EN INGLES",Sportmax 
 http://46.249.213.93/iPhone/HLS_TS/broadcast/sportmax-tablet.3gp/sportmax-tablet.3gp-mr397k.m3u8
-#EXTINF:-1 group-title="DEPORTES",Motorsport (AUS) ANGLO
+#EXTINF:-1 group-title="DEPORTES EN INGLES",Motorsport (AUS) 
 http://motorsport.hopto.org:8080/
-#EXTINF:-1 group-title="DEPORTES",Autosport ANGLO
+#EXTINF:-1 group-title="DEPORTES EN INGLES",Autosport 
 http://lag2.tv-mobile.org/prgu.m3u8
-#EXTINF:-1 group-title="DEPORTES",Pac-12 ARIZONA ANGLO
+#EXTINF:-1 group-title="DEPORTES EN INGLES",Pac-12 ARIZONA 
 http://pac12hd2-lh.akamaihd.net/i/p12ariz_delivery@132836/index_4728_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title="DEPORTES",Pac-12 BAY AREA ANGLO
+#EXTINF:-1 group-title="DEPORTES EN INGLES",Pac-12 BAY AREA 
 http://pac12hd2-lh.akamaihd.net/i/p12baya_delivery@132837/index_4728_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title="DEPORTES",Pac-12 LOS ANGELES ANGLO
+#EXTINF:-1 group-title="DEPORTES EN INGLES",Pac-12 LOS ANGELES 
 http://pac12hd2-lh.akamaihd.net/i/p12losa_delivery@132838/index_4728_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title="DEPORTES",Pac-12 OREGON ANGLO
+#EXTINF:-1 group-title="DEPORTES EN INGLES",Pac-12 OREGON 
 http://pac12hd2-lh.akamaihd.net/i/p12oreg_delivery@132835/index_4728_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title="DEPORTES",Pac-12 MOUNTAIN ANGLO
+#EXTINF:-1 group-title="DEPORTES EN INGLES",Pac-12 MOUNTAIN 
 http://pac12hd2-lh.akamaihd.net/i/p12moun_delivery@132839/index_4728_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title="DEPORTES",Pac-12 WASHINGTON ANGLO
+#EXTINF:-1 group-title="DEPORTES EN INGLES",Pac-12 WASHINGTON 
 http://pac12hd2-lh.akamaihd.net/i/p12wash_delivery@132841/index_4728_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title="DEPORTES",Pac-12 NETWORK ANGLO
+#EXTINF:-1 group-title="DEPORTES EN INGLES",Pac-12 NETWORK 
 http://pac12hd2-lh.akamaihd.net/i/p12netw_delivery@132840/index_4728_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title="DEPORTES", Pac Mountain ANGLO
+#EXTINF:-1 group-title="DEPORTES EN INGLES", Pac Mountain 
 http://xrxs.net/video/live-p12moun-4728.m3u8
-#EXTINF:-1 group-title="DEPORTES", Pac National ANGLO
+#EXTINF:-1 group-title="DEPORTES EN INGLES", Pac National 
 http://xrxs.net/video/live-p12netw-4728.m3u8
-#EXTINF:-1 group-title="DEPORTES", PAC-12 Arizona ANGLO
+#EXTINF:-1 group-title="DEPORTES EN INGLES", PAC-12 Arizona 
 http://xrxs.net/video/live-p12ariz-4728.m3u8
-#EXTINF:-1 group-title="DEPORTES", PAC-12 Bay Area ANGLO
+#EXTINF:-1 group-title="DEPORTES EN INGLES", PAC-12 Bay Area 
 http://xrxs.net/video/live-p12baya-4728.m3u8
-#EXTINF:-1 group-title="DEPORTES", PAC-12 Los Angeles ANGLO
+#EXTINF:-1 group-title="DEPORTES EN INGLES", PAC-12 Los Angeles 
 http://xrxs.net/video/live-p12los-4728.m3u8
-#EXTINF:-1 group-title="DEPORTES", PAC-12 Oregon ANGLO
+#EXTINF:-1 group-title="DEPORTES EN INGLES", PAC-12 Oregon 
 http://xrxs.net/video/live-p12oreg-4728.m3u8
-#EXTINF:-1 group-title="DEPORTES", PAC-12 Washington ANGLO
+#EXTINF:-1 group-title="DEPORTES EN INGLES", PAC-12 Washington 
 http://xrxs.net/video/live-p12wash-4728.m3u8
 
 #EXTINF:0,-Canales en Observación GeneIPTV-
