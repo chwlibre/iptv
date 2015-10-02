@@ -229,8 +229,6 @@ http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacal
 
 #EXTINF:0,-Estilo y tendencias-
 
-#EXTINF:-1 group-title="ESTILO Y TENDENCIAS",Bajo Techo
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/98.m3u8
 #EXTINF:-1 group-title="ESTILO Y TENDENCIAS",Miami Tv España
 http://k4.usastreams.com:1935/miamitvlife/miamitvlife/chunklist_w875058297.m3u8
 #EXTINF:-1 group-title="ESTILO Y TENDENCIAS",Lifedesing 
@@ -331,14 +329,10 @@ http://cdn.ztreaming.com/t13radio/mobile.m3u8
 
 #EXTINF:0,-Deportes en Spain-
 
-#EXTINF:-1 group-title="DEPORTES EN SPAIN",Bein 1 
+#EXTINF:-1 group-title="DEPORTES EN SPAIN",Bein  
 http://yiptv2-live.hls.adaptive.level3.net/yiptv2/beinespanov/02.m3u8
-#EXTINF:-1 group-title="DEPORTES EN SPAIN",Bein 2 
-http://bein-es-us-nex.fubotv.com.a.prod.fastly.net/UT-Origin/ngrp:BeInSports_ES_all/chunklist_b728000.m3u8
 #EXTINF:-1 group-title="DEPORTES EN SPAIN",Win Sports 
 http://hlslive.lcdn.une.net.co:80/v1/AUTH_HLSLIVE/0001/tu1_1.m3u8
-#EXTINF:-1 group-title="DEPORTES EN SPAIN",SKY Sports 
-http://192.240.113.42:1935/live/canal008.stream/playlist.m3u8?username=team30&password=team30
 #EXTINF:-1 group-title="DEPORTES EN SPAIN",Tododeportes 
 http://162.212.176.68:1935/tododeportes/tododeportes/playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES EN SPAIN",Canal Deporte Olimpico 
@@ -349,8 +343,6 @@ http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/119.m3u8
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/102.m3u8
 #EXTINF:-1 group-title="DEPORTES EN SPAIN",Real Madrid Tv                                                                                                                                                                                                                                          
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title="DEPORTES EN SPAIN",UFC Network 
-http://192.240.113.42:1935/live/canal009.stream/playlist.m3u8?username=team30&password=team30
 #EXTINF:-1 group-title="DEPORTES EN SPAIN", AM Sport 
 http://iphone-streaming.ustream.tv/uhls/11602466/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES EN SPAIN", CDN Sport Max 
