@@ -40,7 +40,7 @@ http://evo.eltelon.com:443/live/independencia-tv/playlist.m3u8?
 rtmp://video.crearchile.com:8080/live/mp4:canal2.mp4
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/tvo-san-vicente_zpsfqsw4wcc.jpg" group-title="REGIONALES",TVO San Vicente de tagua Tagua
 http://movilstream.digitalproserver.com/tvo/tvovivo/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/Logo-CampusTV-Bicolor_zpsxjzzzx6b.png" group-title="REGIONALES",Campus Tv Universidad de Talca 
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/logo%20CAMPUS%20TV_zpsauef49zk.png" group-title="REGIONALES",Campus Tv Universidad de Talca 
 http://wow2.cl.digitalproserver.com/campustv/campustvvivo/campustv.smil/chunklist_w662421777_b848000.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/canal5_linares_cl_zpsodoukjle.png" group-title="REGIONALES",Canal 5 Linares
 rtmp://v1.streaminglatinoamerica.com/canal5/canal5
