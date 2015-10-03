@@ -213,18 +213,18 @@ http://cls.todostreaming.eu/azahara/lepevision/chunklist.m3u8
 
 #EXTINF:0,-Cine-
 
-#EXTINF:-1 group-title="CINE",Ultra Cine 
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/ultra_cine-mediano_zpsyr99nvyr.png" group-title="CINE",Ultra Cine 
 http://vemoxhlslive-i.akamaihd.net:80/hls/live/219940/vemoxchannel1/iOS/vemoxchannel1@219940/stream3/streamPlaylist.m3u8
-#EXTINF:-1 group-title="CINE",Ultra Film 
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/ultra_film-mediano_zps1bl84jqu.png" group-title="CINE",Ultra Film 
 http://vemoxhlslive-i.akamaihd.net/hls/live/219942/vemoxchannel3/iOS/vemoxchannel3@219942/stream2/streamPlaylist.m3u8
-#EXTINF:-1 group-title="CINE",Plus Cine
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/logo-UNIVERSAL_zpspcayltud.jpg" group-title="CINE",Universal Movies
 http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8?
 
 #EXTINF:0,-Anime-
 
-#EXTINF:-1 group-title="ANIME",ETC Tv 
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/etc_tv_cl_zpse9d3a9or.png" group-title="ANIME",ETC Tv 
 http://movilstream.digitalproserver.com/etctv/etctvvivo/livestream1/playlist.m3u8
-#EXTINF:-1 group-title="ANIME",Anime Tv
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/ANimeTV_logo_copy22_zpsrmzdv8ka.jpg" group-title="ANIME",Anime Tv
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
 
 #EXTINF:0,-Estilo y tendencias-
