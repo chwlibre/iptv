@@ -3,7 +3,7 @@
 
 #EXTINF:-1 group-title="NACIONALES", Telecanal 
 http://movilstream.digitalproserver.com/tcsc/tcscvivo/livestream2/playlist.m3u8
-#EXTINF:-1 group-title="NACIONALES",La Red 
+#EXTINF:-1  tvg-name="La Red HD" tvg-logo="http://www.lyngsat-logo.com/hires/ll/la_red_cl.png" group-title="NACIONALES",La Red 
 http://movilstream.digitalproserver.com:443/redtv/redtvvivo/livestream2/playlist.m3u8
 #EXTINF:-1 group-title="NACIONALES",UCV 
 http://movilstream.digitalproserver.com/ucvtv/ucvtv.smil/chunklist-b1248000.m3u8
