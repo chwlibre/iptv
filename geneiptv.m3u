@@ -309,6 +309,8 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/04/prog_index.m3u8
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/04/prog_index.m3u8
 #EXTINF:-1 group-title="MUSICA",Vevo 3 ANGLO
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/04/prog_index.m3u8
+#EXTINF:-1 group-title="MUSICA", RockenGuate Tv ANGLO
+http://198.178.123.170:1935/app/rockenguate/playlist.m3u8
 #EXTINF:-1 group-title="MUSICA",Heavy Metal Tv ANGLO
 http://70.166.98.130:1935/hmtv/myStream/playlist.m3u8
 
