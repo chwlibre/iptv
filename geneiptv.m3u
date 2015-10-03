@@ -214,7 +214,7 @@ http://cls.todostreaming.eu/azahara/lepevision/chunklist.m3u8
 #EXTINF:0,-Cine-
 
 #EXTINF:-1 group-title="CINE",Ultra Cine 
-http://vemoxhlslive-i.akamaihd.net/hls/live/219940/vemoxchannel1/iOS/vemoxchannel1@219940/stream2/streamPlaylist.m3u8
+http://vemoxhlslive-i.akamaihd.net:80/hls/live/219940/vemoxchannel1/iOS/vemoxchannel1@219940/stream3/streamPlaylist.m3u8
 #EXTINF:-1 group-title="CINE",Ultra Film 
 http://vemoxhlslive-i.akamaihd.net/hls/live/219942/vemoxchannel3/iOS/vemoxchannel3@219942/stream2/streamPlaylist.m3u8
 #EXTINF:-1 group-title="CINE",Plus Cine
@@ -276,7 +276,7 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8?
 #EXTINF:-1 group-title="MUSICA",Tigo Musica SPAIN
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8?
 #EXTINF:-1 group-title="MUSICA",Ultra Fiesta SPAIN
-http://vemoxhlslive-i.akamaihd.net/hls/live/219941/vemoxchannel2/iOS/vemoxchannel2@219941/index.m3u8
+http://vemoxhlslive-i.akamaihd.net:80/hls/live/219941/vemoxchannel2/iOS/vemoxchannel2@219941/stream3/streamPlaylist.m3u8
 #EXTINF:-1 group-title="MUSICA",Urban Music Tv SPAIN
 http://ss7.domint.net:2058/utv_str/urban/playlist.m3u8
 #EXTINF:-1 group-title="MUSICA",Cantinazo SPAIN
