@@ -271,10 +271,12 @@ http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u
 
 #EXTINF:0,-Deportes-
 
-#EXTINF:-1 group-title="DEPORTES",Bein  
-http://yiptv2-live.hls.adaptive.level3.net/yiptv2/beinespanov/02.m3u8
 #EXTINF:-1 group-title="DEPORTES",Win Sports 
 http://hlslive.lcdn.une.net.co:80/v1/AUTH_HLSLIVE/0001/tu1_1.m3u8
+#EXTINF:-1 group-title="DEPORTES",Bein 1
+http://yiptv2-live.hls.adaptive.level3.net/yiptv2/beinespanov/02.m3u8
+#EXTINF:-1 group-title="DEPORTES",Bein 2
+http://iptvlatam.ddns.net:9981/play/stream/channel/9c3e62184579177163b24b304acef936?title=%20%3A%20BEIN_LA
 #EXTINF:-1 group-title="DEPORTES",Tododeportes 
 http://162.212.176.68:1935/tododeportes/tododeportes/playlist.m3u8
 #EXTINF:-1 group-title="DEPORTES",Canal Deporte Olimpico 
