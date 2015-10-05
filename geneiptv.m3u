@@ -170,10 +170,18 @@ http://iphone-streaming.ustream.tv/uhls/13870671/streams/live/iphone/playlist.m3
 
 #EXTINF:-1 group-title="SPAIN",TVE 2 
 http://iphonelive.rtve.es/LA2_LV3_IPH/bitrate_2.m3u8
-#EXTINF:-1 group-title="SPAIN",RTVE 24H 
-http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
 #EXTINF:-1 group-title="SPAIN",Telecinco 
 http://mdsios2-lh.akamaihd.net/i/mitele/esmediaset_21@168473/index_0_av-p.m3u8
+#EXTINF:-1 group-title="SPAIN",Antena 3 
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/index.m3u8
+#EXTINF:-1 group-title="SPAIN",La Sexta 
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel02/la_sexta_hd_1548K_1280x720_main.m3u8
+#EXTINF:-1 group-title="SPAIN",La 1 
+http://iphonelive.rtve.es/LA1_LV3_IPH/bitrate_2.m3u8
+#EXTINF:-1 group-title="SPAIN",La 2 
+http://iphonelive.rtve.es/LA2_LV3_IPH/bitrate_2.m3u8
+#EXTINF:-1 group-title="SPAIN",RTVE 24H 
+http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
 #EXTINF:-1 group-title="SPAIN",Castilla La Mancha 
 http://195.55.74.210/rtvcm/live.flv?GKID=a9b379844fff11e5a75100163ea2c744 
 #EXTINF:-1 group-title="SPAIN",Canal Costa 
@@ -184,14 +192,7 @@ http://cls.provideo.es/marbellatv/livestream/playlist.m3u8
 http://corporacionextremena-live.hls.adaptive.level3.net/hls-live/corporacionextremena-channel02/_definst_/live.m3u8
 #EXTINF:0 group-title="SPAIN",Galicia Tv
 http://media3.crtvg.es/live/tvga/hasbahca.m3u8
-#EXTINF:-1 group-title="SPAIN",Antena 3 
-http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/index.m3u8
-#EXTINF:-1 group-title="SPAIN",La Sexta 
-http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel02/la_sexta_hd_1548K_1280x720_main.m3u8
-#EXTINF:-1 group-title="SPAIN",La 1 
-http://iphonelive.rtve.es/LA1_LV3_IPH/bitrate_2.m3u8
-#EXTINF:-1 group-title="SPAIN",La 2 
-http://iphonelive.rtve.es/LA2_LV3_IPH/bitrate_2.m3u8
+
 #EXTINF:-1 group-title="SPAIN",Melilla 
 http://stream.tvmelilla.es:1935/tvmelilla/live/playlist.m3u8
 #EXTINF:-1 group-title="SPAIN",Levante 
