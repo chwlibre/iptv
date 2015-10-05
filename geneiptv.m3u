@@ -173,9 +173,6 @@ http://ipointcablertmp.tulix.tv:1935/cb24stream/myStream.sdp/playlist.m3u8?
 rtmp://k3.usastreams.com:1935/tvuno1/tvuno1
 #EXTINF:-1 group-title="LATINOS",Super Canal 33 REPUBLICA DOMINICANA
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/116.m3u8
-#EXTINF:-1 group-title="LATINOS",Canal 13 NICARAGUA
-http://iphone-streaming.ustream.tv/uhls/13870671/streams/live/iphone/playlist.m3u8
-
 
 #EXTINF:0,-Spain-
 
