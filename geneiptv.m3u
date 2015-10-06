@@ -157,18 +157,32 @@ rtmp://flatina1livefs.fplive.net/flatina1live-live/stream1
 rtmp://184.154.28.210:1935/rbcsatelital-hd/rbcsatelital-hd
 #EXTINF:-1 group-title="LATINOS", Peru Tv PERU
 http://iphone-streaming.ustream.tv/ustreamVideo/17419715/streams/live/playlist.m3u8
-#EXTINF:-1 group-title="LATINOS",Tv Satelital ECUADOR  
-http://181.198.10.23:1935/live/mystream/playlist.m3u8
-#EXTINF:-1 group-title="LATINOS",Canela Tv ECUADOR
-http://38.96.148.216:1935/live/canelatv/playlist.m3u8
-#EXTINF:-1 group-title="LATINOS",Telesur VENEZUELA
-http://cdn2.telesur.ultrabase.net/livecf/telesurLive/chunklist.m3u8?
+#EXTINF:-1 group-title="LATINOS",SMO TV COSTA RICA
+rtmp://199.217.118.90:1935/smotv/stream
 #EXTINF:-1 group-title="LATINOS",CB 24 COSTA RICA
 http://ipointcablertmp.tulix.tv:1935/cb24stream/myStream.sdp/playlist.m3u8?
 #EXTINF:-1 group-title="LATINOS",Tele Uno COSTA RICA
 rtmp://k3.usastreams.com:1935/tvuno1/tvuno1
+#EXTINF:-1 group-title="LATINOS",Tv Satelital ECUADOR  
+http://181.198.10.23:1935/live/mystream/playlist.m3u8
+#EXTINF:-1 group-title="LATINOS",Canela Tv ECUADOR
+http://38.96.148.216:1935/live/canelatv/playlist.m3u8
+#EXTINF:-1 group-title="LATINOS",Teleceiba HONDURAS
+http://162.212.176.83:8080/teleceiba.m3u8
+#EXTINF:-1 group-title="LATINOS",Teleprogreso HONDURAS
+http://162.212.176.83:8080/teleprogreso.m3u8
+#EXTINF:-1 group-title="LATINOS",Tele Antillas REPUBLICA DOMINICANA
+http://mek4.mekstream.com/teleantillas/live3/playlist.m3u8
 #EXTINF:-1 group-title="LATINOS",Super Canal 33 REPUBLICA DOMINICANA
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/116.m3u8
+#EXTINF:-1 group-title="LATINOS",Telesur VENEZUELA
+http://cdn2.telesur.ultrabase.net/livecf/telesurLive/chunklist.m3u8?
+#EXTINF:-1 group-title="LATINOS",Canal Once Punta del Este - URUGUAY
+http://xcanaloncepuntadelestex.api.channel.livestream.com/3.0/playlist.m3u8#
+#EXTINF:-1 group-title="LATINOS", RPC PANAMA
+http://live.rpctv.com/rpctv/tm.smil/playlist.m3u8
+#EXTINF:-1 group-title="LATINOS",Canal 13 NICARAGUA
+http://iphone-streaming.ustream.tv/uhls/13870671/streams/live/iphone/playlist.m3u8
 
 #EXTINF:0,-Spain-
 
