@@ -186,12 +186,8 @@ http://iphone-streaming.ustream.tv/uhls/13870671/streams/live/iphone/playlist.m3
 
 #EXTINF:0,-Spain-
 
-#EXTINF:-1 group-title="SPAIN",Telecinco 
-http://mdsios2-lh.akamaihd.net/i/mitele/esmediaset_21@168473/index_0_av-p.m3u8
-#EXTINF:-1 group-title="SPAIN",Antena 3 
-http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/index.m3u8
 #EXTINF:-1 group-title="SPAIN",La Sexta 
-http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel02/la_sexta_hd_1548K_1280x720_main.m3u8
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
 #EXTINF:-1 group-title="SPAIN",TVE 1 
 http://iphonelive.rtve.es/LA1_LV3_IPH/bitrate_2.m3u8
 #EXTINF:-1 group-title="SPAIN",TVE 2 
@@ -295,6 +291,10 @@ http://hlslive.lcdn.une.net.co:80/v1/AUTH_HLSLIVE/0001/tu1_1.m3u8
 http://yiptv2-live.hls.adaptive.level3.net/yiptv2/beinespanov/02.m3u8
 #EXTINF:-1 group-title="DEPORTES",Canal Deporte Olimpico 
 http://wow2.cl.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist_w913906597_b1064000.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN
+http://199.180.114.174:8000/espn.m3u8
+#EXTINF:-1 group-title="DEPORTES", ESPN 3
+http://199.180.114.174:8000/espn3.m3u8 
 #EXTINF:-1 group-title="DEPORTES",Liga BBWA 
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/119.m3u8
 #EXTINF:-1 group-title="DEPORTES",Barcelona Club Tv 
