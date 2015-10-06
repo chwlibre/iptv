@@ -291,6 +291,12 @@ http://hlslive.lcdn.une.net.co:80/v1/AUTH_HLSLIVE/0001/tu1_1.m3u8
 http://yiptv2-live.hls.adaptive.level3.net/yiptv2/beinespanov/02.m3u8
 #EXTINF:-1 group-title="DEPORTES",Canal Deporte Olimpico 
 http://wow2.cl.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist_w913906597_b1064000.m3u8
+#EXTINF:-1 group-title="DEPORTES",FOX SPORTS
+http://199.180.114.174:8000/foxs.m3u8
+#EXTINF:-1 group-title="DEPORTES", FOX SPORTS 2
+http://199.180.114.174:8000/foxs2.m3u8
+#EXTINF:-1 group-title="DEPORTES", FOX SPORTS 3
+http://199.180.114.174:8000/foxs3.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN
 http://199.180.114.174:8000/espn.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN 3
