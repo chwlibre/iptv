@@ -95,8 +95,6 @@ http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8?
 #EXTINF:-1 group-title="LATINOS",Telemundo 1 MEXICO
 http://iphone-streaming.ustream.tv/uhls/20720323/streams/live/iphone/playlist.m3u8?
-#EXTINF:-1 group-title="LATINOS",Telemundo 2 MEXICO
-http://209.133.208.194:1935/app/telemundox1chivas_69s-channel/playlist.m3u8
 #EXTINF:-1 group-title="LATINOS",Univision MEXICO
 http://209.133.208.26:1935/app/turbomax-hds-channel/playlist.m3u8
 #EXTINF:-1 group-title="LATINOS",Mundomax MEXICO
@@ -145,8 +143,6 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8?
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8?
 #EXTINF:-1 group-title="LATINOS", Canal Tro COLOMBIA
 http://cdns840stu1010.multistream.net/canaltro2live/amlst:live/playlist.m3u8
-#EXTINF:-1 group-title="LATINOS", Canal Tr3ce COLOMBIA
-http://cdns840stu1010.multistream.net/canaltr3celive/live-500/PAZ.m3u8
 #EXTINF:-1 group-title="LATINOS",Cablenoticias COLOMBIA
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8?
 #EXTINF:-1 group-title="LATINOS",El Tiempo COLOMBIA
@@ -198,7 +194,6 @@ http://cls.provideo.es/marbellatv/livestream/playlist.m3u8
 http://corporacionextremena-live.hls.adaptive.level3.net/hls-live/corporacionextremena-channel02/_definst_/live.m3u8
 #EXTINF:0 group-title="SPAIN",Galicia Tv
 http://media3.crtvg.es/live/tvga/hasbahca.m3u8
-
 #EXTINF:-1 group-title="SPAIN",Melilla 
 http://stream.tvmelilla.es:1935/tvmelilla/live/playlist.m3u8
 #EXTINF:-1 group-title="SPAIN",Levante 
