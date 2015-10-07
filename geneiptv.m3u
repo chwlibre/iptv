@@ -167,10 +167,6 @@ rtmp://199.217.118.90:1935/smotv/stream
 http://ipointcablertmp.tulix.tv:1935/cb24stream/myStream.sdp/playlist.m3u8?
 #EXTINF:-1 group-title="LATINOS",Tele Uno COSTA RICA
 rtmp://k3.usastreams.com:1935/tvuno1/tvuno1
-#EXTINF:-1 group-title="LATINOS",Tv Satelital ECUADOR  
-http://181.198.10.23:1935/live/mystream/playlist.m3u8
-#EXTINF:-1 group-title="LATINOS",Canela Tv ECUADOR
-http://38.96.148.216:1935/live/canelatv/playlist.m3u8
 #EXTINF:-1 group-title="LATINOS",Teleceiba HONDURAS
 http://162.212.176.83:8080/teleceiba.m3u8
 #EXTINF:-1 group-title="LATINOS",Teleprogreso HONDURAS
@@ -179,10 +175,12 @@ http://162.212.176.83:8080/teleprogreso.m3u8
 http://mek4.mekstream.com/teleantillas/live3/playlist.m3u8
 #EXTINF:-1 group-title="LATINOS",Super Canal 33 REPUBLICA DOMINICANA
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/116.m3u8
+#EXTINF:-1 group-title="LATINOS",Tv Satelital ECUADOR  
+http://181.198.10.23:1935/live/mystream/playlist.m3u8
 #EXTINF:-1 group-title="LATINOS",Telesur VENEZUELA
 http://cdn2.telesur.ultrabase.net/livecf/telesurLive/chunklist.m3u8?
 #EXTINF:-1 group-title="LATINOS",Canal Once Punta del Este - URUGUAY
-http://xcanaloncepuntadelestex.api.channel.livestream.com/3.0/playlist.m3u8#
+http://xcanaloncepuntadelestex.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:-1 group-title="LATINOS", RPC PANAMA
 http://live.rpctv.com/rpctv/tm.smil/playlist.m3u8
 #EXTINF:-1 group-title="LATINOS",Canal 13 NICARAGUA
@@ -301,12 +299,8 @@ http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u
 
 #EXTINF:0,-Deportes-
 
-#EXTINF:-1 group-title="DEPORTES",Win Sports 
-http://hlslive.lcdn.une.net.co:80/v1/AUTH_HLSLIVE/0001/tu1_1.m3u8
 #EXTINF:-1 group-title="DEPORTES",Bein Sports
-hxxp://yiptv2-live.hls.adaptive.level3.net/yiptv2/beinespanov/03.m3u8
-#EXTINF:-1 group-title="DEPORTES",Canal Deporte Olimpico 
-http://wow2.cl.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist_w913906597_b1064000.m3u8
+http://yiptv2-live.hls.adaptive.level3.net/yiptv2/beinespanov/03.m3u8
 #EXTINF:-1 group-title="DEPORTES",FOX SPORTS
 http://199.180.114.174:8000/foxs.m3u8
 #EXTINF:-1 group-title="DEPORTES", FOX SPORTS 2
@@ -316,7 +310,9 @@ http://199.180.114.174:8000/foxs3.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN
 http://199.180.114.174:8000/espn.m3u8
 #EXTINF:-1 group-title="DEPORTES", ESPN 3
-http://199.180.114.174:8000/espn3.m3u8 
+http://199.180.114.174:8000/espn3.m3u8
+#EXTINF:-1 group-title="DEPORTES",Canal Deporte Olimpico 
+http://wow2.cl.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist_w913906597_b1064000.m3u8
 #EXTINF:-1 group-title="DEPORTES",Liga BBWA 
 http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/119.m3u8
 #EXTINF:-1 group-title="DEPORTES",Barcelona Club Tv 
@@ -350,6 +346,8 @@ http://europaplus.cdnvideo.ru:1935/europaplus-live/eptv_main.sdp/playlist.m3u8
 http://212.224.108.80/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
 #EXTINF:-1 group-title="MUSICA",Clubland Tv ANGLO
 http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8
+#EXTINF:-1 group-title="MUSICA",Best Music Tv 
+rtmp://stream.smcloud.net/live2/best/best_720p
 #EXTINF:-1 group-title="MUSICA",Capital Tv ANGLO
 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8
 #EXTINF:-1 group-title="MUSICA",Ibiza ANGLO
