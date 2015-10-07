@@ -276,6 +276,8 @@ http://flashd.localmidia.com.br:1935/cheftv/aovivo/live.m3u8
 http://a3live-lh.akamaihd.net/i/mega/megageo_1@328914/index_4_av-b.m3u8
 #EXTINF:-1 group-title="CULTURALES", Nat Geo
 http://o12team.tk:8080/natgeo/mono.m3u8?token=-eQCj6RSV0
+#EXTINF:-1 group-title="CULTURALES",CI
+http://o12team.tk:8080/ci/mono.m3u8?token=-eQCj6RSV0
 #EXTINF:-1 group-title="CULTURALES",CNN en Spain
 http://iptvlatam.ddns.net:9981/stream/service/9ab1ec364dca527912f1a7710c09cf86
 #EXTINF:-1 group-title="CULTURALES",Ta Te Ti
@@ -301,8 +303,10 @@ http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u
 
 #EXTINF:0,-Deportes-
 
-#EXTINF:-1 group-title="DEPORTES",Bein Sports
+#EXTINF:-1 group-title="DEPORTES",Bein Sports 1
 http://yiptv2-live.hls.adaptive.level3.net/yiptv2/beinespanov/03.m3u8
+#EXTINF:-1 group-title="DEPORTES",Bein Sports 2
+http://iptvlatam.ddns.net:9981/play/stream/channel/9c3e62184579177163b24b304acef936?title=%20%3A%20BEIN_LA
 #EXTINF:-1 group-title="DEPORTES",Fox Sports
 http://199.180.114.174:8000/foxs.m3u8
 #EXTINF:-1 group-title="DEPORTES", Fox Sports 2
