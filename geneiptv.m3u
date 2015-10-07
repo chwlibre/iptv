@@ -239,6 +239,8 @@ http://vemoxhlslive-i.akamaihd.net:80/hls/live/219940/vemoxchannel1/iOS/vemoxcha
 http://vemoxhlslive-i.akamaihd.net/hls/live/219942/vemoxchannel3/iOS/vemoxchannel3@219942/stream2/streamPlaylist.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/logo-UNIVERSAL_zpspcayltud.jpg" group-title="CINE",Universal Movies
 http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8?
+#EXTINF:-1 group-title="CINE",Fox Classics
+http://o12team.tk:8080/iptvlatam/foxclassics/index.m3u8
 
 #EXTINF:0,-Anime-
 
