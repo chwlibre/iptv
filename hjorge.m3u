@@ -127,74 +127,6 @@ http://str105mb.setplex.net:1935/str2iosmd5/alb_humor/playlist.m3u8
 #EXTINF: 0, Cine5
 RTMP: //cine5.stream.cubecdn.net/cine5/stream_1
 
-#EXTINF: 0, HBO Rusia
-RTMP: //tvo.sytes.net/live/1hbo1234567
-
-#EXTINF: 0, HBO 2 Rusia
-RTMP: //tvo.sytes.net/live/2hboo
-
-#EXTINF: 0, HBO COMEDIA Rusia
-RTMP: //tvo.sytes.net/live/hbocom
-‪
-#EXTINF: 0, Club1 Francia
-http://tv.ut.cx/club1.mp4
-
-#EXTINF: -1, Club 1 (corriente 2) Francia
-http://teleclub.fr/club1.mp4
-
-#EXTINF: -1, Cine Fil Francia
-http://teleclub.fr/cinefil.mp4
-
-#EXTINF: -1, CINEFIL (corriente 2) Francia
-http://tv.ut.cx/cinefil.mp4
-
-#EXTINF: -1, Cinetoile Francia
-http://teleclub.fr/cinetoile.mp4
-
-#EXTINF: -1, Cinetoile (corriente 2) Francia
-http://tv.ut.cx/cinetoile.mp4
-
-# EXTINF: -1, Toons salvajes
-http://72.13.93.186:80/3stooges?MSWMExt=.asf
-
-#EXTINF: -1, Sinema 1 Turquía 
-http://yayin5.canliyayin.org/sinema1
-
-#EXTINF: -1, Sinema 2 Turquía 
-http://yayin5.canliyayin.org/sinema2
-
-#EXTINF: -1, Sinema 3 Turquía 
-http://yayin5.canliyayin.org/sinema3
-
-#EXTINF: -1, Sinema 4 Turquía 
-http://yayin5.canliyayin.org/sinema4
-
-#EXTINF: -1, Sinema 5 Turquía 
-http://yayin5.canliyayin.org/sinema5
-
-#EXTINF: -1, Sinema 6 Turquía 
-http://yayin5.canliyayin.org/sinema6
-
-#EXTINF: -1, Sinema Turk
-http://yayin5.canliyayin.org/sinematurk
-
-#EXTINF: -1, HBO 2 Polonia
-RTMP: //tvo.sytes.net/live/2hboo
-
-#EXTINF: -1, HBO Polonia
-RTMP: //tvo.sytes.net/live/1hbo1234567
-
-#EXTINF: -1, HBO COMEDIA Polonia
-RTMP: //tvo.sytes.net/live/hbocom
-
-#EXTINF: -1, TVN ESTILO Polonia
-RTMP: //tvo.sytes.net/live/tvnstyle
-
-#EXTINF: -1, AXN NEGRO Polonia
-RTMP: //178.16.220.163: 1935 / live / blackaxn
-
-#EXTINF: -1, AXN WHITE Polonia
-RTMP: //178.16.220.163: 1935 / live / whiteaxn
 
 #EXTINF: -1, Ultra Cine HD (México)
 http://vemoxhlslive-i.akamaihd.net/hls/live/219940/vemoxchannel1/iOS/vemoxchannel1@219940/stream2/streamPlaylist.m3u8
@@ -237,17 +169,6 @@ RTMP: //web3.iptv-planet.com: 1937 playpath / live2 = Hi_mbcmax clave = 07011410
 #EXTINF: -1, MBC_BOLLYWOOD (Arabia)
 http://63.237.48.23/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
 
-#EXTINF: -1, MBC_BOLLYWOOD
-RTMP: //63.237.48.3: 1935 / live / MBC_BOLLYWOOD
-
-#EXTINF: -1, Fox Películas árabe
-http://185.5.222.227:4242/bysid/5608
-
-#EXTINF: -1, Fox árabe
-http://185.5.222.227:4242/bysid/5603
-
-#EXTINF: -1, PAKISTÁN: iFILM
-RTMP: //mtv.fms-01.visionip.tv/live//mtv-ifilm-ifilm-live-16x9-SDq
 
 #EXTINF: -1, PELÍCULAS UNIVERSAL
 http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8?=-1
