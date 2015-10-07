@@ -301,8 +301,8 @@ http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u
 
 #EXTINF:-1 group-title="DEPORTES",Win Sports 
 http://hlslive.lcdn.une.net.co:80/v1/AUTH_HLSLIVE/0001/tu1_1.m3u8
-#EXTINF:-1 group-title="DEPORTES",Bein 1
-http://yiptv2-live.hls.adaptive.level3.net/yiptv2/beinespanov/02.m3u8
+#EXTINF:-1 group-title="DEPORTES",Bein Sports
+hxxp://yiptv2-live.hls.adaptive.level3.net/yiptv2/beinespanov/03.m3u8
 #EXTINF:-1 group-title="DEPORTES",Canal Deporte Olimpico 
 http://wow2.cl.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist_w913906597_b1064000.m3u8
 #EXTINF:-1 group-title="DEPORTES",FOX SPORTS
