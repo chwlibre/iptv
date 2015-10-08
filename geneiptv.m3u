@@ -101,8 +101,6 @@ http://209.133.208.26:1935/app/turbomax-hds-channel/playlist.m3u8
 http://209.133.208.202:1935/app/turbomax-hds-channel/chunklist_w4270402.m3u8
 #EXTINF:-1 group-title="LATINOS",Mundomax MEXICO
 http://209.133.208.194:1935/app/ana69s-channel/playlist.m3u8
-#EXTINF:-1 group-title="LATINOS",Azteca 7 MEXICO
-http://201.161.59.3/azteca7.isml/QualityLevels(1328000)/manifest(format=m3u8-aapl).m3u8
 #EXTINF:-1 group-title="LATINOS",Azteca 13 MEXICO
 http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
 #EXTINF:-1 group-title="LATINOS",Azteca Noticias MEXICO
@@ -245,23 +243,6 @@ http://vemoxhlslive-i.akamaihd.net/hls/live/219942/vemoxchannel3/iOS/vemoxchanne
 http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8?
 #EXTINF:-1 group-title="CINE",Fox Classics
 http://o12team.tk:8080/iptvlatam/foxclassics/index.m3u8
-#EXTINF:-1 group-title="CINE",,FX
-http://201.161.59.6/fx.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1 group-title="CINE",De Película
-http://201.161.59.7/depelicula.isml/QualityLevels(1703000)/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1 group-title="CINE",Canal DHE
-http://201.161.59.7/dhe.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1 group-title="CINE",Lifetime
-http://201.161.59.7/lifetime.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1 group-title="CINE",Fox Life
-http://201.161.59.7/foxlife.isml/QualityLevels(1253000)/manifest(format=m3u8-aapl).m3u8
-
-#EXTINF:0,-Animados-
-
-#EXTINF:-1 group-title="ANIMADOS",Cartoon Network
-http://201.161.59.6/cartoonnetwork.isml/QualityLevels(1253000)/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1 group-title="ANIMADOS",Disney XD
-http://201.161.59.4/disneyxd.isml/QualityLevels(1253000)/manifest(format=m3u8-aapl).m3u8
 
 #EXTINF:0,-Anime-
 
@@ -274,8 +255,6 @@ http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacal
 
 #EXTINF:-1 group-title="ESTILO Y TENDENCIAS",Miami Tv España
 http://k4.usastreams.com:1935/miamitvlife/miamitvlife/chunklist_w875058297.m3u8
-#EXTINF:-1 group-title="ESTILO Y TENDENCIAS",Travel Tv
-rtmp://87.106.219.140:1935/live/myStream_2
 #EXTINF:-1 group-title="ESTILO Y TENDENCIAS",Lifedesing 
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/LDTV/tu1_1.m3u8?
 #EXTINF:-1 group-title="ESTILO Y TENDENCIAS",Canal Antiestres 
@@ -311,10 +290,6 @@ http://190.248.81.11:1938/live/myStream22/playlist.m3u8
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANU/tu1_1.m3u8?
 #EXTINF:-1 group-title="CULTURALES",RT Tv
 http://rt.ashttp14.visionip.tv/live/RT_en_Espanol-SD/chunklist.m3u8
-#EXTINF:-1 group-title="CULTURALES", DW Tv
-http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8?
-#EXTINF:-1 group-title="CULTURALES",EuronewsSpain
-http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_es.m3u8
 #EXTINF:-1 group-title="CULTURALES", NASA Tv
 http://iphone-streaming.ustream.tv/ustreamVideo/6540154/streams/live/playlist.m3u8
 #EXTINF:-1 group-title="CULTURALES", NASA Tv HD
@@ -330,18 +305,6 @@ http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u
 http://yiptv2-live.hls.adaptive.level3.net/yiptv2/beinespanov/03.m3u8
 #EXTINF:-1 group-title="DEPORTES",Bein Sports 2
 http://iptvlatam.ddns.net:9981/play/stream/channel/9c3e62184579177163b24b304acef936?title=%20%3A%20BEIN_LA
-#EXTINF:-1 group-title="DEPORTES",Fox Sports 1
-http://201.161.59.6/foxsports.isml/QualityLevels(1178000)/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1 group-title="DEPORTES",Fox Sports 2
-http://199.180.114.174:8000/foxs.m3u8
-#EXTINF:-1 group-title="DEPORTES", Fox Sports 2
-http://199.180.114.174:8000/foxs2.m3u8
-#EXTINF:-1 group-title="DEPORTES", Fox Sports 3
-http://199.180.114.174:8000/foxs3.m3u8
-#EXTINF:-1 group-title="DEPORTES", Espn
-http://199.180.114.174:8000/espn.m3u8
-#EXTINF:-1 group-title="DEPORTES", Espn 3
-http://199.180.114.174:8000/espn3.m3u8
 #EXTINF:-1 group-title="DEPORTES",Canal Deporte Olimpico 
 http://wow2.cl.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist_w913906597_b1064000.m3u8
 #EXTINF:-1 group-title="DEPORTES",Liga BBWA 
@@ -391,12 +354,6 @@ http://204.107.26.252:1935/live/691.high.stream/HasBahCa.m3u8
 http://hd.worldkast.com:1935/8436/8436/playlist.m3u8
 #EXTINF:0 group-title="MUSICA",Virgin Tv ANGLO
 http://wow01.105.net/live/virgin1/.m3u8
-#EXTINF:-1 group-title="MUSICA",Vevo 1 ANGLO
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/04/prog_index.m3u8
-#EXTINF:-1 group-title="MUSICA",Vevo 2 ANGLO
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/04/prog_index.m3u8
-#EXTINF:-1 group-title="MUSICA",Vevo 3 ANGLO
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/04/prog_index.m3u8
 #EXTINF:-1 group-title="MUSICA",Vevo Hits ANGLO
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/04/prog_index.m3u8
 #EXTINF:-1 group-title="MUSICA",Vevo Flow ANGLO
@@ -423,7 +380,7 @@ http://movilstream.digitalproserver.com/laclavetv/laclavetvvivo/laclavetv.smil/p
 #EXTINF:-1 group-title="RADIOS",Tele13 Radio 
 http://cdn.ztreaming.com/t13radio/mobile.m3u8
 
-#EXTINF:0,-Premium-
+#EXTINF:0,-Canales temporales-
 
 #EXTINF:-1,AXN
 http://192.240.113.42:1935/live/canal019.stream/playlist.m3u8?username=.agustin&password=123
