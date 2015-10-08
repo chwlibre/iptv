@@ -159,6 +159,8 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8?
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8?
 #EXTINF:-1 group-title="LATINOS",Andina Tv PERU
 http://edge-41-us.edge.mdstrm.com/live/smil:c23b8a0a21d215482b4c2703e47f675a/playlist_b950.m3u8
+#EXTINF:-1 group-title="LATINOS",Latina Tv PERU
+https://www.youtube.com/watch?v=4zrg6XLcF2c
 #EXTINF:-1 group-title="LATINOS",America Tv PERU
 http://ooyalahd2-f.akamaihd.net/i/atv02_delivery@25405/index_1728_av-p.m3u8
 #EXTINF:-1 group-title="LATINOS",Frecuencia Latina PERU
