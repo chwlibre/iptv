@@ -241,8 +241,6 @@ http://vemoxhlslive-i.akamaihd.net:80/hls/live/219940/vemoxchannel1/iOS/vemoxcha
 http://vemoxhlslive-i.akamaihd.net/hls/live/219942/vemoxchannel3/iOS/vemoxchannel3@219942/stream2/streamPlaylist.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/logo-UNIVERSAL_zpspcayltud.jpg" group-title="CINE",Universal Movies
 http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8?
-#EXTINF:-1 group-title="CINE",Fox Classics
-http://o12team.tk:8080/iptvlatam/foxclassics/index.m3u8
 
 #EXTINF:0,-Anime-
 
@@ -338,8 +336,6 @@ http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8#Mega
 http://europaplus.cdnvideo.ru:1935/europaplus-live/eptv_main.sdp/playlist.m3u8
 #EXTINF:-1 group-title="MUSICA",Dream ANGLO
 http://212.224.108.80/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
-#EXTINF:-1 group-title="MUSICA",Clubland Tv ANGLO
-http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8
 #EXTINF:-1 group-title="MUSICA",Best Music Tv 
 rtmp://stream.smcloud.net/live2/best/best_720p
 #EXTINF:-1 group-title="MUSICA",Capital Tv ANGLO
@@ -381,102 +377,4 @@ http://movilstream.digitalproserver.com/laclavetv/laclavetvvivo/laclavetv.smil/p
 http://cdn.ztreaming.com/t13radio/mobile.m3u8
 
 #EXTINF:0,-Canales temporales-
-
-#EXTINF:-1,AXN
-http://192.240.113.42:1935/live/canal019.stream/playlist.m3u8?username=.agustin&password=123
-#EXTINF:-1,FX
-http://192.240.113.42:1935/live/canal017.stream/playlist.m3u8?username=.agustin&password=123
-#EXTINF:-1,Telemundo
-http://192.240.113.42:1935/live/canal012.stream/playlist.m3u8?username=.agustin&password=123
-#EXTINF:-1,BEIN SPORTS HD
-http://192.240.113.42:1935/live/canal006.stream/playlist.m3u8?username=.agustin&password=123
-#EXTINF:-1,BIG BROTHER 1
-http://192.240.113.42:1935/live/canal078.stream/playlist.m3u8?username=.agustin&password=123
-#EXTINF:-1,BIG BROTHER 2
-http://192.240.113.42:1935/live/canal079.stream/playlist.m3u8?username=.agustin&password=123
-#EXTINF:-1,BIG BROTHER 3
-http://192.240.113.42:1935/live/canal080.stream/playlist.m3u8?username=.agustin&password=123
-#EXTINF:-1,BIG BROTHER 4
-http://192.240.113.42:1935/live/canal077.stream/playlist.m3u8?username=.agustin&password=123
-#EXTINF:-1,UFC HD
-http://192.240.113.42:1935/live/canal009.stream/playlist.m3u8?username=.agustin&password=123
-#EXTINF:-1,TELEMUNDO USA
-http://192.240.113.42:1935/live/canal007.stream/playlist.m3u8?username=.agustin&password=123
-#EXTINF:-1,AZTECA 7 HD
-http://192.240.113.42:1935/live/canal002.stream/playlist.m3u8?username=.agustin&password=123
-#EXTINF:-1,TDN MEX
-http://192.240.113.42:1935/live/canal088.stream/playlist.m3u8?username=.agustin&password=123
-#EXTINF:-1,NFL NETWORK
-http://192.240.113.42:1935/live/canal087.stream/playlist.m3u8?username=.agustin&password=123
-#EXTINF:-1,OUTDOOR CHANNEL
-http://192.240.113.42:1935/live/canal086.stream/playlist.m3u8?username=.agustin&password=123
-#EXTINF:-1,CANAL E
-http://192.240.113.42:1935/live/canal075.stream/playlist.m3u8?username=.agustin&password=123
-#EXTINF:-1,XEW Canal 2
-http://192.240.113.42:1935/live/canal045.stream/playlist.m3u8?username=.agustin&password=123
-#EXTINF:-1,XHIMT Canal 7
-http://192.240.113.42:1935/live/canal047.stream/playlist.m3u8?username=.agustin&password=123
-#EXTINF:-1,XHGC Canal 5
-http://192.240.113.42:1935/live/canal046.stream/playlist.m3u8?username=.agustin&password=123
-#EXTINF:-1,XHDF Canal 13
-http://192.240.113.42:1935/live/canal049.stream/playlist.m3u8?username=.agustin&password=123
-#EXTINF:-1,Cartoon Network Norte
-http://192.240.113.42:1935/live/canal043.stream/playlist.m3u8?username=.agustin&password=123
-#EXTINF:-1,Disney Junior Norte
-http://192.240.113.42:1935/live/canal042.stream/playlist.m3u8?username=.agustin&password=123
-#EXTINF:-1,Nat Geo Wild
-http://192.240.113.42:1935/live/canal044.stream/playlist.m3u8?username=.agustin&password=123
-#EXTINF:-1,FX Latin
-http://192.240.113.42:1935/live/canal017.stream/playlist.m3u8?username=.agustin&password=123
-#EXTINF:-1,Fox Life
-http://192.240.113.42:1935/live/canal018.stream/playlist.m3u8?username=.agustin&password=123
-#EXTINF:-1,AXN Latino America
-http://192.240.113.42:1935/live/canal019.stream/playlist.m3u8?username=.agustin&password=123
-#EXTINF:-1,Fox Sport 1
-http://192.240.113.42:1935/live/canal020.stream/playlist.m3u8?username=.agustin&password=123
-#EXTINF:-1,Fox Sport 2
-http://192.240.113.42:1935/live/canal021.stream/playlist.m3u8?username=.agustin&password=123
-#EXTINF:-1,ESPN America Latina
-http://192.240.113.42:1935/live/canal022.stream/playlist.m3u8?username=.agustin&password=123
-#EXTINF:-1,ESPN2 Mexico
-http://192.240.113.42:1935/live/canal023.stream/playlist.m3u8?username=.agustin&password=123
-#EXTINF:-1,HBO Latino America
-http://192.240.113.42:1935/live/canal041.stream/playlist.m3u8?username=.agustin&password=123
-#EXTINF:-1,Cantinflas
-http://192.240.113.42:1935/live/canal037.stream/playlist.m3u8?username=.agustin&password=123
-#EXTINF:-1,Naturaleza Salvaje
-http://192.240.113.42:1935/live/canal039.stream/playlist.m3u8?username=.agustin&password=123
-#EXTINF:-1,Canal FOX Mexico
-http://192.240.113.42:1935/live/canal016.stream/playlist.m3u8?username=.agustin&password=123
-#EXTINF:-1,Los Picapiedra
-http://192.240.113.42:1935/live/canal033.stream/playlist.m3u8?username=.agustin&password=123
-#EXTINF:-1,Pedro Infante
-http://192.240.113.42:1935/live/canal038.stream/playlist.m3u8?username=.agustin&password=123
-#EXTINF:-1,Baby Einstein
-http://192.240.113.42:1935/live/canal015.stream/playlist.m3u8?username=.agustin&password=123
-#EXTINF:-1,La Ninera
-http://192.240.113.42:1935/live/canal014.stream/playlist.m3u8?username=.agustin&password=123
-#EXTINF:-1,Don Gato
-http://192.240.113.42:1935/live/canal031.stream/playlist.m3u8?username=.agustin&password=123
-#EXTINF:-1,Derbez En Cuando
-http://192.240.113.42:1935/live/canal024.stream/playlist.m3u8?username=.agustin&password=123
-#EXTINF:-1,NCIS
-http://192.240.113.42:1935/live/canal032.stream/playlist.m3u8?username=.agustin&password=123
-#EXTINF:-1,La Pantera Rosa
-http://192.240.113.42:1935/live/canal034.stream/playlist.m3u8?username=.agustin&password=123
-#EXTINF:-1,Familia Moderna
-http://192.240.113.42:1935/live/canal035.stream/playlist.m3u8?username=.agustin&password=123
-#EXTINF:-1,La Familia Peluche
-http://192.240.113.42:1935/live/canal025.stream/playlist.m3u8?username=.agustin&password=123
-#EXTINF:-1,Futurama
-http://192.240.113.42:1935/live/canal026.stream/playlist.m3u8?username=.agustin&password=123
-#EXTINF:-1,Avengers
-http://192.240.113.42:1935/live/canal028.stream/playlist.m3u8?username=.agustin&password=123
-#EXTINF:-1,South Park
-http://192.240.113.42:1935/live/canal029.stream/playlist.m3u8?username=.agustin&password=123
-#EXTINF:-1,2 Hombres Y Medio
-http://192.240.113.42:1935/live/canal027.stream/playlist.m3u8?username=.agustin&password=123
-#EXTINF:-1,Los Simpson Channel
-http://192.240.113.42:1935/live/canal036.stream/playlist.m3u8?username=.agustin&password=123
-
 
