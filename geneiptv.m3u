@@ -101,6 +101,8 @@ http://209.133.208.26:1935/app/turbomax-hds-channel/playlist.m3u8
 http://209.133.208.202:1935/app/turbomax-hds-channel/chunklist_w4270402.m3u8
 #EXTINF:-1 group-title="LATINOS",Mundomax MEXICO
 http://209.133.208.194:1935/app/ana69s-channel/playlist.m3u8
+#EXTINF:-1 group-title="LATINOS",Azteca 7 MEXICO
+http://201.161.59.3/azteca7.isml/QualityLevels(1328000)/manifest(format=m3u8-aapl).m3u8
 #EXTINF:-1 group-title="LATINOS",Azteca 13 MEXICO
 http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
 #EXTINF:-1 group-title="LATINOS",Azteca Noticias MEXICO
@@ -243,6 +245,23 @@ http://vemoxhlslive-i.akamaihd.net/hls/live/219942/vemoxchannel3/iOS/vemoxchanne
 http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8?
 #EXTINF:-1 group-title="CINE",Fox Classics
 http://o12team.tk:8080/iptvlatam/foxclassics/index.m3u8
+#EXTINF:-1 group-title="CINE",,FX
+http://201.161.59.6/fx.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 group-title="CINE",De Película
+http://201.161.59.7/depelicula.isml/QualityLevels(1703000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 group-title="CINE",Canal DHE
+http://201.161.59.7/dhe.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 group-title="CINE",Lifetime
+http://201.161.59.7/lifetime.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 group-title="CINE",Fox Life
+http://201.161.59.7/foxlife.isml/QualityLevels(1253000)/manifest(format=m3u8-aapl).m3u8
+
+#EXTINF:0,-Animados-
+
+#EXTINF:-1 group-title="ANIMADOS",Cartoon Network
+http://201.161.59.6/cartoonnetwork.isml/QualityLevels(1253000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 group-title="ANIMADOS",Disney XD
+http://201.161.59.4/disneyxd.isml/QualityLevels(1253000)/manifest(format=m3u8-aapl).m3u8
 
 #EXTINF:0,-Anime-
 
@@ -311,7 +330,9 @@ http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u
 http://yiptv2-live.hls.adaptive.level3.net/yiptv2/beinespanov/03.m3u8
 #EXTINF:-1 group-title="DEPORTES",Bein Sports 2
 http://iptvlatam.ddns.net:9981/play/stream/channel/9c3e62184579177163b24b304acef936?title=%20%3A%20BEIN_LA
-#EXTINF:-1 group-title="DEPORTES",Fox Sports
+#EXTINF:-1 group-title="DEPORTES",Fox Sports 1
+http://201.161.59.6/foxsports.isml/QualityLevels(1178000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 group-title="DEPORTES",Fox Sports 2
 http://199.180.114.174:8000/foxs.m3u8
 #EXTINF:-1 group-title="DEPORTES", Fox Sports 2
 http://199.180.114.174:8000/foxs2.m3u8
@@ -375,6 +396,12 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/04/prog_index.m3u8
 #EXTINF:-1 group-title="MUSICA",Vevo 2 ANGLO
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/04/prog_index.m3u8
 #EXTINF:-1 group-title="MUSICA",Vevo 3 ANGLO
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/04/prog_index.m3u8
+#EXTINF:-1 group-title="MUSICA",Vevo Hits ANGLO
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/04/prog_index.m3u8
+#EXTINF:-1 group-title="MUSICA",Vevo Flow ANGLO
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/04/prog_index.m3u8
+#EXTINF:-1 group-title="MUSICA",Vevo Nashville ANGLO
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/04/prog_index.m3u8
 #EXTINF:-1 group-title="MUSICA", RockenGuate Tv ANGLO
 http://198.178.123.170:1935/app/rockenguate/playlist.m3u8
