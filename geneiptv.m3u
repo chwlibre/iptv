@@ -71,27 +71,27 @@ https://www.youtube.com/watch?v=Hytby2q7c0c
 https://www.youtube.com/watch?v=4rmsEf46f7I
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/el_trece_ar_zpsee2fshkp.png" group-title="LATINOS",El Trece ARGENTINA
 rtsp://stream.eltrecetv.com.ar/live13/13tv/13tv1
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/america24_zpsw8zhmeap.png" group-title="LATINOS",Canal 2 Misiones ARGENTINA
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/sml_gallery_1155_2_1378_zpsgu9pwm97.png" group-title="LATINOS",Canal 2 Misiones ARGENTINA
 http://190.57.237.214/live/canal.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/canal_26_ar_zpsnrfnzfhv.png" group-title="LATINOS",Canal 26 ARGENTINA
 http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/canal_9_ar_zpshzpda182.png" group-title="LATINOS",Canal 9 ARGENTINA
 http://dd65nd24m61wg.cloudfront.net/livec9/smil:C9.smil/chunklist_b796000.m3u8
-#EXTINF:-1 group-title="LATINOS",Canal 2 Telpin ARGENTINA
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/photo_zpsf6miblsk.jpg" group-title="LATINOS",Canal 2 Telpin ARGENTINA
 http://201.219.100.30:1935/telpintv/ttv.stream_720p/playlist.m3u8
-#EXTINF:-1 group-title="LATINOS",Canal 9 Paraná ARGENTINA
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/Parana-c9_zpsnq24ao39.gif" group-title="LATINOS",Canal 9 Paraná ARGENTINA
 http://ionlive1-lh.akamaihd.net/i/canal9_1@125365/master.m3u8
-#EXTINF:-1 group-title="LATINOS",TN 24 Horas ARGENTINA
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/todo_noticias_zpsjqxwnjku.png" group-title="LATINOS",TN 24 Horas ARGENTINA
 rtsp://stream.tn.com.ar/live/tnhd1
-#EXTINF:-1 group-title="LATINOS",C5N ARGENTINA 
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/c5n_zpsgsjltzc7.png" group-title="LATINOS",C5N ARGENTINA 
 http://c5n.stweb.tv:1935/c5n/live_media/sat.m3u8
-#EXTINF:-1 group-title="LATINOS", Telemax ARGENTINA
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/Telemax_zpsfwgioj0v.png" group-title="LATINOS", Telemax ARGENTINA
 http://live-edge01.telecentro.net.ar/live/tlx-480/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/america24_zpsw8zhmeap.png" group-title="LATINOS",Magazine ARGENTINA
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/magazine_zpslhekhagb.png" group-title="LATINOS",Magazine ARGENTINA
 rtsp://stream.mgzn.tv/live/mgzntv/mgzntv
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/america24_zpsw8zhmeap.png" group-title="LATINOS",360 Tv ARGENTINA
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/360_tv_ar_zpsi4xnp98q.png" group-title="LATINOS",360 Tv ARGENTINA
 http://lsd360tvhls-lh.akamaihd.net/i/360TVHLS_1@197877/master.m3u8
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/america24_zpsw8zhmeap.png" group-title="LATINOS",Orbe 21 ARGENTINA
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/canal_orbe_21_ar_zpsdy3pafus.png" group-title="LATINOS",Orbe 21 ARGENTINA
 http://urtmpkal-f.akamaihd.net/i/1b6mj17sk_1@308700/master.m3u8
 #EXTINF:-1 group-title="LATINOS",Canal de las Estrellas MEXICO
 http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8
