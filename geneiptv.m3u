@@ -65,6 +65,10 @@ http://69.164.193.177:1935/live/myStream/playlist.m3u8
 
 #EXTINF:0,-Latinos-
 
+#EXTINF:-1 group-title="LATINOS",America Tv ARGENTINA
+https://www.youtube.com/watch?v=Hytby2q7c0c
+#EXTINF:-1 group-title="LATINOS",A24 ARGENTINA
+https://www.youtube.com/watch?v=4rmsEf46f7I
 #EXTINF:-1 group-title="LATINOS",El Trece ARGENTINA
 rtsp://stream.eltrecetv.com.ar/live13/13tv/13tv1
 #EXTINF:-1 group-title="LATINOS",Canal 2 Misiones ARGENTINA
@@ -380,5 +384,4 @@ http://cdn.ztreaming.com/t13radio/mobile.m3u8
 
 #EXTINF:0,-Canales temporales-
 
-#EXTINF:-1,A24
-https://www.youtube.com/watch?v=4rmsEf46f7I
+
