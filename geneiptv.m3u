@@ -165,8 +165,6 @@ http://edge-41-us.edge.mdstrm.com/live/smil:c23b8a0a21d215482b4c2703e47f675a/pla
 https://www.youtube.com/watch?v=4zrg6XLcF2c
 #EXTINF:-1 group-title="LATINOS",America Tv PERU
 http://ooyalahd2-f.akamaihd.net/i/atv02_delivery@25405/index_1728_av-p.m3u8
-#EXTINF:-1 group-title="LATINOS",Frecuencia Latina PERU
-rtmp://flatina1livefs.fplive.net/flatina1live-live/stream1
 #EXTINF:-1 group-title="LATINOS", RBC Satelital PERU
 rtmp://184.154.28.210:1935/rbcsatelital-hd/rbcsatelital-hd
 #EXTINF:-1 group-title="LATINOS", Peru Tv PERU
@@ -183,14 +181,10 @@ http://162.212.176.83:8080/teleceiba.m3u8
 http://162.212.176.83:8080/teleprogreso.m3u8
 #EXTINF:-1 group-title="LATINOS",Tele Antillas REPUBLICA DOMINICANA
 http://mek4.mekstream.com/teleantillas/live3/playlist.m3u8
-#EXTINF:-1 group-title="LATINOS",Super Canal 33 REPUBLICA DOMINICANA
-http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls2/116.m3u8
 #EXTINF:-1 group-title="LATINOS",Tv Satelital ECUADOR  
 http://181.198.10.23:1935/live/mystream/playlist.m3u8
 #EXTINF:-1 group-title="LATINOS",Telesur VENEZUELA
 http://cdn2.telesur.ultrabase.net/livecf/telesurLive/chunklist.m3u8?
-#EXTINF:-1 group-title="LATINOS",Canal Once Punta del Este - URUGUAY
-http://xcanaloncepuntadelestex.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:-1 group-title="LATINOS", RPC PANAMA
 http://live.rpctv.com/rpctv/tm.smil/playlist.m3u8
 #EXTINF:-1 group-title="LATINOS",Canal 13 NICARAGUA
@@ -249,10 +243,6 @@ http://vemoxhlslive-i.akamaihd.net:80/hls/live/219940/vemoxchannel1/iOS/vemoxcha
 http://vemoxhlslive-i.akamaihd.net/hls/live/219942/vemoxchannel3/iOS/vemoxchannel3@219942/stream2/streamPlaylist.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/logo-UNIVERSAL_zpspcayltud.jpg" group-title="CINE",Universal Movies
 http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8?
-#EXTINF:-1 group-title="CINE",FX
-http://onetv.hol.es/iptvking.php?canal=fx&numero=431&f=.m3u8
-#EXTINF:-1 group-title="CINE",TCM
-http://onetv.hol.es/iptvking.php?canal=tcm&numero=481&f=.m3u8
 
 #EXTINF:0,-Anime-
 
@@ -286,12 +276,6 @@ http://flashd.localmidia.com.br:1935/cheftv/aovivo/live.m3u8
 
 #EXTINF:-1 group-title="CULTURALES",Mega 
 http://a3live-lh.akamaihd.net/i/mega/megageo_1@328914/index_4_av-b.m3u8
-#EXTINF:-1 group-title="CULTURALES",Discovery Civilization
-http://onetv.hol.es/iptvking.php?canal=dcivilization&numero=281&f=.m3u8
-#EXTINF:-1 group-title="CULTURALES",Discovery CSI
-http://onetv.hol.es/iptvking.php?canal=discoverysci&numero=277&f=.m3u8
-#EXTINF:-1 group-title="CULTURALES",History Channel
-http://onetv.hol.es/iptvking.php?canal=history&numero=3704&f=.m3u8
 #EXTINF:-1 group-title="CULTURALES",Tec Tv
 http://tectvhls-lh.akamaihd.net/i/tectvHLS_1@334993/master.m3u8
 #EXTINF:-1 group-title="CULTURALES",Ta Te Ti
@@ -317,8 +301,6 @@ http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u
 http://yiptv2-live.hls.adaptive.level3.net/yiptv2/beinespanov/03.m3u8
 #EXTINF:-1 group-title="DEPORTES",Bein Sports 2
 http://iptvlatam.ddns.net:9981/play/stream/channel/9c3e62184579177163b24b304acef936?title=%20%3A%20BEIN_LA
-#EXTINF:-1 group-title="DEPORTES",Teledeporte
-http://o12team.tk:8080/teledeporte/mono.m3u8?token=-eQCj6RSV0
 #EXTINF:-1 group-title="DEPORTES",Canal Deporte Olimpico 
 http://wow2.cl.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist_w913906597_b1064000.m3u8
 #EXTINF:-1 group-title="DEPORTES",Liga BBWA 
