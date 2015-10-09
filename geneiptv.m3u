@@ -251,6 +251,10 @@ http://vemoxhlslive-i.akamaihd.net/hls/live/219942/vemoxchannel3/iOS/vemoxchanne
 http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8?
 #EXTINF:-1 group-title="CINE",Fox 1
 http://199.180.114.174:8000/fox1.m3u8
+#EXTINF:-1 group-title="CINE",TNT
+http://alturl.com/4567c 
+#EXTINF:-1 group-title="CINE",Cine Latino
+http://bit.do/bmHCA
 
 #EXTINF:0,-Anime-
 
