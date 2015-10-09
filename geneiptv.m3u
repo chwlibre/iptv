@@ -249,12 +249,6 @@ http://vemoxhlslive-i.akamaihd.net:80/hls/live/219940/vemoxchannel1/iOS/vemoxcha
 http://vemoxhlslive-i.akamaihd.net/hls/live/219942/vemoxchannel3/iOS/vemoxchannel3@219942/stream2/streamPlaylist.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/logo-UNIVERSAL_zpspcayltud.jpg" group-title="CINE",Universal Movies
 http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8?
-#EXTINF:-1 group-title="CINE",Fox 1
-http://199.180.114.174:8000/fox1.m3u8
-#EXTINF:-1 group-title="CINE",TNT
-http://alturl.com/4567c 
-#EXTINF:-1 group-title="CINE",Cine Latino
-http://bit.do/bmHCA
 #EXTINF:-1 group-title="CINE",FX
 http://onetv.hol.es/iptvking.php?canal=fx&numero=431&f=.m3u8
 
@@ -290,12 +284,6 @@ http://flashd.localmidia.com.br:1935/cheftv/aovivo/live.m3u8
 
 #EXTINF:-1 group-title="CULTURALES",Mega 
 http://a3live-lh.akamaihd.net/i/mega/megageo_1@328914/index_4_av-b.m3u8
-#EXTINF:-1 group-title="CULTURALES", Nat Geo
-http://o12team.tk:8080/natgeo/mono.m3u8?token=-eQCj6RSV0
-#EXTINF:-1 group-title="CULTURALES",CI
-http://o12team.tk:8080/ci/mono.m3u8?token=-eQCj6RSV0
-#EXTINF:-1 group-title="CULTURALES",CNN en Spain
-http://iptvlatam.ddns.net:9981/stream/service/9ab1ec364dca527912f1a7710c09cf86
 #EXTINF:-1 group-title="CULTURALES",Discovery Civilization
 http://onetv.hol.es/iptvking.php?canal=dcivilization&numero=281&f=.m3u8
 #EXTINF:-1 group-title="CULTURALES",Discovery CSI
