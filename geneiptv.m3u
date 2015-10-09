@@ -288,6 +288,8 @@ http://o12team.tk:8080/natgeo/mono.m3u8?token=-eQCj6RSV0
 http://o12team.tk:8080/ci/mono.m3u8?token=-eQCj6RSV0
 #EXTINF:-1 group-title="CULTURALES",CNN en Spain
 http://iptvlatam.ddns.net:9981/stream/service/9ab1ec364dca527912f1a7710c09cf86
+#EXTINF:-1 group-title="CULTURALES",Tec Tv
+http://tectvhls-lh.akamaihd.net/i/tectvHLS_1@334993/master.m3u8
 #EXTINF:-1 group-title="CULTURALES",Ta Te Ti
 http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/index_724_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 group-title="CULTURALES",Tv Agro
