@@ -81,8 +81,10 @@ http://dd65nd24m61wg.cloudfront.net/livec9/smil:C9.smil/chunklist_b796000.m3u8
 http://201.219.100.30:1935/telpintv/ttv.stream_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/Parana-c9_zpsnq24ao39.gif" group-title="LATINOS",Canal 9 Paraná ARGENTINA
 http://ionlive1-lh.akamaihd.net/i/canal9_1@125365/master.m3u8
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/todo_noticias_zpsjqxwnjku.png" group-title="LATINOS",TN 24 Horas ARGENTINA
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/todo_noticias_zpsjqxwnjku.png" group-title="LATINOS",TN 24 Horas 1 ARGENTINA
 rtsp://stream.tn.com.ar/live/tnhd1
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/todo_noticias_zpsjqxwnjku.png" group-title="LATINOS",TN 24 Horas 2 ARGENTINA
+http://200.42.92.142/live/tnhd1/master.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/c5n_zpsgsjltzc7.png" group-title="LATINOS",C5N ARGENTINA 
 http://c5n.stweb.tv:1935/c5n/live_media/sat.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/Telemax_zpsfwgioj0v.png" group-title="LATINOS", Telemax ARGENTINA
