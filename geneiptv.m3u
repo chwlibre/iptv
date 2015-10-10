@@ -356,19 +356,19 @@ http://cdn.ztreaming.com/t13radio/mobile.m3u8
 
 #EXTINF:0,-Cristianos-
 
-#EXTINF:-1 group-title="CRISTIANOS",EsperanzaTv [SD]
+#EXTINF:-1 group-title="CRISTIANOS",Esperanza Tv SD
 http://bcliveuniv-lh.akamaihd.net/i/Esperanza_1@193090/index_1192_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title="CRISTIANOS",EsperanzaTv [HD]
+#EXTINF:-1 group-title="CRISTIANOS",Esperanza Tv HD
 http://bcliveuniv-lh.akamaihd.net/i/Esperanza_1@193090/master.m3u8
-#EXTINF:-1 group-title="CRISTIANOS",3ABN Latino [SD]
+#EXTINF:-1 group-title="CRISTIANOS",3ABN Latino 
 http://moiptvus-lh.akamaihd.net/i/moiptv2_1@304497/index_1200_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title="CRISTIANOS",Nuevo Tiempo [SD]
+#EXTINF:-1 group-title="CRISTIANOS",Nuevo Tiempo 
 rtsp://stream.novotempo.com:1935/tv/tvnuevotiempo.stream
-#EXTINF:-1 group-title="CRISTIANOS",llbn latino [SD]
+#EXTINF:-1 group-title="CRISTIANOS",llbn Latino 
 rtmp://cp45648.live.edgefcs.net/live/T01587-latino@94847
-#EXTINF:-1 group-title="CRISTIANOS",Red Advenir [SD]
+#EXTINF:-1 group-title="CRISTIANOS",Red Advenir 
 http://streamer1.streamhost.org:1935/salive/GMIredadvenirh/playlist.m3u8
-#EXTINF:-1 group-title="CRISTIANOS",Alfa tv [SD]
+#EXTINF:-1 group-title="CRISTIANOS",Alfa Tv 
 http://streamer1.streamhost.org:1935/salive/GMIalfah/playlist.m3u8
 
 Esta lista contiene solo canales FTA encontrados por la web, para uso de entretenimiento casero.
