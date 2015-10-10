@@ -354,6 +354,23 @@ http://movilstream.digitalproserver.com/laclavetv/laclavetvvivo/laclavetv.smil/p
 #EXTINF:-1 group-title="RADIOS",Tele13 Radio 
 http://cdn.ztreaming.com/t13radio/mobile.m3u8
 
+#EXTINF:0,-Cristianos-
+
+#EXTINF:-1 group-title="CRISTIANOS",EsperanzaTv [SD]
+http://bcliveuniv-lh.akamaihd.net/i/Esperanza_1@193090/index_1192_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="CRISTIANOS",EsperanzaTv [HD]
+http://bcliveuniv-lh.akamaihd.net/i/Esperanza_1@193090/master.m3u8
+#EXTINF:-1 group-title="CRISTIANOS",3ABN Latino [SD]
+http://moiptvus-lh.akamaihd.net/i/moiptv2_1@304497/index_1200_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="CRISTIANOS",Nuevo Tiempo [SD]
+rtsp://stream.novotempo.com:1935/tv/tvnuevotiempo.stream
+#EXTINF:-1 group-title="CRISTIANOS",llbn latino [SD]
+rtmp://cp45648.live.edgefcs.net/live/T01587-latino@94847
+#EXTINF:-1 group-title="CRISTIANOS",Red Advenir [SD]
+http://streamer1.streamhost.org:1935/salive/GMIredadvenirh/playlist.m3u8
+#EXTINF:-1 group-title="CRISTIANOS",Alfa tv [SD]
+http://streamer1.streamhost.org:1935/salive/GMIalfah/playlist.m3u8
+
 Esta lista contiene solo canales FTA encontrados por la web, para uso de entretenimiento casero.
 Canales premium me los reservo para uso personal, ya que algunos los usan para lucrar.-
 
