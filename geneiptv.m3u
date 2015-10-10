@@ -65,10 +65,6 @@ http://69.164.193.177:1935/live/myStream/playlist.m3u8
 
 #EXTINF:0,-Latinos-
 
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/america_ar_zpshwaahbon.png" group-title="LATINOS",America Tv ARGENTINA
-https://www.youtube.com/watch?v=Hytby2q7c0c
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/america24_zpsw8zhmeap.png" group-title="LATINOS",A24 ARGENTINA
-https://www.youtube.com/watch?v=4rmsEf46f7I
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/el_trece_ar_zpsee2fshkp.png" group-title="LATINOS",El Trece ARGENTINA
 rtsp://stream.eltrecetv.com.ar/live13/13tv/13tv1
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/sml_gallery_1155_2_1378_zpsgu9pwm97.png" group-title="LATINOS",Canal 2 Misiones ARGENTINA
@@ -81,10 +77,8 @@ http://dd65nd24m61wg.cloudfront.net/livec9/smil:C9.smil/chunklist_b796000.m3u8
 http://201.219.100.30:1935/telpintv/ttv.stream_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/Parana-c9_zpsnq24ao39.gif" group-title="LATINOS",Canal 9 Paraná ARGENTINA
 http://ionlive1-lh.akamaihd.net/i/canal9_1@125365/master.m3u8
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/todo_noticias_zpsjqxwnjku.png" group-title="LATINOS",TN 24 Horas 1 ARGENTINA
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/todo_noticias_zpsjqxwnjku.png" group-title="LATINOS",TN 24 Horas ARGENTINA
 rtsp://stream.tn.com.ar/live/tnhd1
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/todo_noticias_zpsjqxwnjku.png" group-title="LATINOS",TN 24 Horas 2 ARGENTINA
-http://200.42.92.142/live/tnhd1/master.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/c5n_zpsgsjltzc7.png" group-title="LATINOS",C5N ARGENTINA 
 http://c5n.stweb.tv:1935/c5n/live_media/sat.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/Telemax_zpsfwgioj0v.png" group-title="LATINOS", Telemax ARGENTINA
@@ -101,12 +95,6 @@ http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8?
 #EXTINF:-1 group-title="LATINOS",Telemundo MEXICO
 http://iphone-streaming.ustream.tv/uhls/20720323/streams/live/iphone/playlist.m3u8?
-#EXTINF:-1 group-title="LATINOS",Univision 1 MEXICO
-http://209.133.208.26:1935/app/turbomax-hds-channel/playlist.m3u8
-#EXTINF:-1 group-title="LATINOS",Univision 2 MEXICO
-http://209.133.208.202:1935/app/turbomax-hds-channel/chunklist_w4270402.m3u8
-#EXTINF:-1 group-title="LATINOS",Mundomax MEXICO
-http://209.133.208.194:1935/app/ana69s-channel/playlist.m3u8
 #EXTINF:-1 group-title="LATINOS",Azteca 13 MEXICO
 http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
 #EXTINF:-1 group-title="LATINOS",Azteca Noticias MEXICO
@@ -137,8 +125,6 @@ http://brightcove03-f.akamaihd.net/milenio_centro_512k@101956
 http://dl-dgtve.xsn.com.mx/dgtve/canal30dgtve.mp4/playlist.m3u8?
 #EXTINF:-1 group-title="LATINOS",Aprende MEXICO
 http://dl-dgtve.xsn.com.mx/dgtve/canal24dgtve.mp4/playlist.m3u8?
-#EXTINF:-1 group-title="LATINOS",Caracol COLOMBIA
-http://iptvlatam.cf/hls/caracol/playlist.m3u8
 #EXTINF:-1 group-title="LATINOS",Telecaribe COLOMBIA
 http://cdns840stu1010.multistream.net/telecaribelive/amlst:live/master.m3u8
 #EXTINF:-1 group-title="LATINOS",Señal Institucional COLOMBIA
@@ -161,8 +147,6 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8?
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8?
 #EXTINF:-1 group-title="LATINOS",Andina Tv PERU
 http://edge-41-us.edge.mdstrm.com/live/smil:c23b8a0a21d215482b4c2703e47f675a/playlist_b950.m3u8
-#EXTINF:-1 group-title="LATINOS",Latina Tv PERU
-https://www.youtube.com/watch?v=4zrg6XLcF2c
 #EXTINF:-1 group-title="LATINOS",America Tv PERU
 http://ooyalahd2-f.akamaihd.net/i/atv02_delivery@25405/index_1728_av-p.m3u8
 #EXTINF:-1 group-title="LATINOS", RBC Satelital PERU
@@ -297,10 +281,6 @@ http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u
 
 #EXTINF:0,-Deportes-
 
-#EXTINF:-1 group-title="DEPORTES",Bein Sports 1
-http://yiptv2-live.hls.adaptive.level3.net/yiptv2/beinespanov/03.m3u8
-#EXTINF:-1 group-title="DEPORTES",Bein Sports 2
-http://iptvlatam.ddns.net:9981/play/stream/channel/9c3e62184579177163b24b304acef936?title=%20%3A%20BEIN_LA
 #EXTINF:-1 group-title="DEPORTES",Canal Deporte Olimpico 
 http://wow2.cl.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist_w913906597_b1064000.m3u8
 #EXTINF:-1 group-title="DEPORTES",Liga BBWA 
@@ -374,6 +354,7 @@ http://movilstream.digitalproserver.com/laclavetv/laclavetvvivo/laclavetv.smil/p
 #EXTINF:-1 group-title="RADIOS",Tele13 Radio 
 http://cdn.ztreaming.com/t13radio/mobile.m3u8
 
-#EXTINF:0,-Canales temporales-
+Esta lista contiene solo canales FTA encontrados por la web, para uso de entretenimiento casero.
+Canales premium me los reservo para uso personal, ya que algunos los usan para lucrar.-
 
 
