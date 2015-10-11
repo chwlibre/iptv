@@ -421,6 +421,16 @@ http://acaooyalahd2-lh.akamaihd.net/i/TBN01_delivery@186239/index_2528_av-b.m3u8
 http://acaooyalahd2-lh.akamaihd.net/i/TBN01_delivery@186239/index_1164_av-b.m3u8
 #EXTINF:0,--Adultos--
 http://separador.m3u
+#EXTINF:0,PLAYBOY 
+http://89.163.145.119:8000/live/casa/casa/156.m3u8
+#EXTINF:0,VENUS 
+http://89.163.145.119:8000/live/casa/casa/157.m3u8
+#EXTINF:0,HOT 
+http://89.163.145.119:8000/live/casa/casa/158.m3u8
+#EXTINF:0,PRIVATE 
+http://89.163.145.119:8000/live/casa/casa/155.m3u8
+#EXTINF:0,BLUE HUSTELER 
+http://89.163.145.119:8000/live/casa/casa/154.m3u8 
 #EXTINF:0, Playboy TV
 http://46.61.226.21/hls/CH_PLAYBOY/variant.m3u8?version=2
 #EXTINF:0, Private
