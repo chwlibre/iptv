@@ -355,8 +355,6 @@ http://37.58.85.156/rlo001/ngrp:rlo001.stream_all/chunklist_b856000.m3u8
 http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/france24_en/ls_satlink/b_828.m3u8
 #EXTINF:0, France24 Arabia
 http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/france24_ar/ls_satlink/b_828.m3u8
-#EXTINF: -1, Travel chanell HD Rusia
-http://5.105.27.129:1234/udp/239.0.0.16:1234
 #EXTINF:0,--Musica--
 http://separador.m3u
 #EXTINF:0, ClubLandTV
@@ -423,8 +421,6 @@ http://acaooyalahd2-lh.akamaihd.net/i/TBN01_delivery@186239/index_2528_av-b.m3u8
 http://acaooyalahd2-lh.akamaihd.net/i/TBN01_delivery@186239/index_1164_av-b.m3u8
 #EXTINF:0,--Adultos--
 http://separador.m3u
-#EXTINF:0,Playboy TV Update
-http://89.254.252.156:81/udp/233.99.61.246:5000
 #EXTINF:0, Playboy TV
 http://46.61.226.21/hls/CH_PLAYBOY/variant.m3u8?version=2
 #EXTINF:0, Private
