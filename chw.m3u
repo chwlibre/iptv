@@ -381,6 +381,8 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
 #EXTINF:0, MiamiTV HD
 http://k4.usastreams.com:1935/miamitv/smile:miamitv/chunklist_w667654953_b1550000.m3u8
+#EXTINF:0, PortalFoxMix TV
+http://mediacp.streamingchilenos.cl:1935/portalfoxmix/portalfoxmix/playlist.m3u8
 #EXTINF:0,--Radios TV Studio Chile--
 http://separador.m3u
 #EXTINF:-1, Radio Carolina
