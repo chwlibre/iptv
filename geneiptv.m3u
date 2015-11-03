@@ -108,41 +108,6 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8?time=143988114221
 http://iphonelive.rtve.es/LA2_LV3_IPH/bitrate_2.m3u8
 #EXTINF:-1 group-title="SPAIN",RTVE 24H 
 http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
-#EXTINF:-1 group-title="SPAIN",Onda Azul
-http://dsn6jqegjeixj.cloudfront.net/ondaazul-live/video/playlist.m3u8
-#EXTINF:-1 group-title="SPAIN",Castilla La Mancha 
-http://195.55.74.210/rtvcm/live.flv?GKID=a9b379844fff11e5a75100163ea2c744 
-#EXTINF:-1 group-title="SPAIN",Canal Costa 
-http://cls.todostreaming.eu/azahara/lepevision/playlist.m3u8
-#EXTINF:-1 group-title="SPAIN",Marbella Tv 
-http://cls.provideo.es/marbellatv/livestream/playlist.m3u8
-#EXTINF:-1 group-title="SPAIN",Extremadura 
-http://corporacionextremena-live.hls.adaptive.level3.net/hls-live/corporacionextremena-channel02/_definst_/live.m3u8
-#EXTINF:0 group-title="SPAIN",Galicia Tv
-http://media3.crtvg.es/live/tvga/hasbahca.m3u8
-#EXTINF:-1 group-title="SPAIN",Melilla 
-http://stream.tvmelilla.es:1935/tvmelilla/live/playlist.m3u8
-#EXTINF:-1 group-title="SPAIN",Levante 
-http://teledifusion.tv:1935/levantetvlive/levantetvlive/playlist.m3u8
-#EXTINF:-1 group-title="SPAIN",Canarias Net 
-http://streamrtvcdrb.mad.idec.net/rtvcnet/rtvcnet.drb.stream/playlist.m3u8 
-#EXTINF:-1 group-title="SPAIN",IB3
-http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/IB3.m3u8 
-#EXTINF:-1 group-title="SPAIN",ETB 
-http://etbvhlsnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@123113/master.m3u8 
-#EXTINF:-1 group-title="SPAIN",Tv Granada 
-http://cdns724ste1010.multistream.net/tgsietelive/amlst:tvgranada/chunklist_b750000.m3u8
-#EXTINF:-1 group-title="SPAIN",8 Tv
-http://91.121.143.193:1935/liverepeater/8TV/8aldia-directe /playlist.m3u8 
-#EXTINF:-1 group-title="SPAIN",Correo Tv Sevilla 
-http://cls.elitehd-audiovisuales.com/luztv/livestream/playlist.m3u8 
-#EXTINF:-1 group-title="SPAIN",Huelvacosta 
-http://cls.todostreaming.eu/azahara/lepevision/chunklist.m3u8 
-
-#EXTINF:0,-Anime-
-
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/ANimeTV_logo_copy22_zpsrmzdv8ka.jpg" group-title="ANIME",Anime Tv
-http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
 
 #EXTINF:0,-Estilo y tendencias-
 
@@ -274,23 +239,6 @@ http://movilstream.digitalproserver.com/zerotv/zerotvvivo/zerotv.smil/playlist.m
 http://movilstream.digitalproserver.com/laclavetv/laclavetvvivo/laclavetv.smil/playlist.m3u8
 #EXTINF:-1 group-title="RADIOS",Tele13 Radio 
 http://cdn.ztreaming.com/t13radio/mobile.m3u8
-
-#EXTINF:0,-Cristianos-
-
-#EXTINF:-1 group-title="CRISTIANOS",Esperanza Tv SD
-http://bcliveuniv-lh.akamaihd.net/i/Esperanza_1@193090/index_1192_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title="CRISTIANOS",Esperanza Tv HD
-http://bcliveuniv-lh.akamaihd.net/i/Esperanza_1@193090/master.m3u8
-#EXTINF:-1 group-title="CRISTIANOS",3ABN Latino 
-http://moiptvus-lh.akamaihd.net/i/moiptv2_1@304497/index_1200_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title="CRISTIANOS",Nuevo Tiempo 
-rtsp://stream.novotempo.com:1935/tv/tvnuevotiempo.stream
-#EXTINF:-1 group-title="CRISTIANOS",llbn Latino 
-rtmp://cp45648.live.edgefcs.net/live/T01587-latino@94847
-#EXTINF:-1 group-title="CRISTIANOS",Red Advenir 
-http://streamer1.streamhost.org:1935/salive/GMIredadvenirh/playlist.m3u8
-#EXTINF:-1 group-title="CRISTIANOS",Alfa Tv 
-http://streamer1.streamhost.org:1935/salive/GMIalfah/playlist.m3u8
 
 #EXTINF:0,-Premium-
 
