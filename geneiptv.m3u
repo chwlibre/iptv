@@ -582,6 +582,208 @@ http://iptv.latino-webtv.com/server2.m3u8?canal=FoxSports3SD&cm=445&f=.m3u8
 #EXTINF:-1,F1
 http://iptv.latino-webtv.com/server2.m3u8?canal=F1LA&cm=1695&f=.m3u8
 
+#EXTINF:-1 tvg-logo="Azteca Noticias.png",Azteca Noticias
+http://iptvcanales.com/xw/cable.php?canal=61&player=playlist.m3u8
+#EXTINF:-1 tvg-id="Canal Azteca 13 (México)" tvg-logo="el-trece.png",Canal Azteca 13 (México)
+http://iptvcanales.com/xw/cable.php?canal=08&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="canal-2-HD.png",Canal De Las Estrellas
+http://iptvcanales.com/xw/cable.php?canal=03&player=playlist.m3u8
+#EXTINF:-1 tvg-id="Canal 5 de México (XHGC)" tvg-logo="canal-5-HD.png",Canal 5 de México (XHGC)
+http://iptvcanales.com/xw/cable.php?canal=04&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="azteca-internacional.png",Canal Azteca Honduras
+http://iptvcanales.com/xw/cable.php?canal=60&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="azteca-7.png",Azteca 7
+http://iptvcanales.com/xw/cable.php?canal=06&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="Gala TV.png",Gala TV Cancun
+http://iptvcanales.com/xw/cable.php?canal=45&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="gala-tv-hd.png",Gala TV
+http://iptvcanales.com/xw/cable.php?canal=11&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="cadena-3.png",Cadena 3
+http://iptvcanales.com/xw/cable.php?canal=05&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="proyecto-40.png" tvg-id="I140.309213908.microsoft.com",Proyecto 40
+http://iptvcanales.com/xw/cable.php?canal=43&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="once-tv.png",Once TV
+http://iptvcanales.com/xw/cable.php?canal=07&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="foro-tv-HD.png" tvg-id="Canal Foro TV",FORO Tv
+http://iptvcanales.com/xw/cable.php?canal=44&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="canal-52mx.png",Canal 52MX
+http://iptvcanales.com/xw/cable.php?canal=09&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="multimedios-monterrey.png",Multimedios Plus
+http://iptvcanales.com/xw/cable.php?canal=47&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="c44.png",Canal 44 Ciudad Juarez
+http://iptvcanales.com/xw/cable.php?canal=48&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="teleformula.png",Teleformula
+http://iptvcanales.com/xw/cable.php?canal=69&player=playlist.m3u8
+ #EXTINF:-1 tvg-logo="azteca-novelas.png",AZ Corazon
+http://iptvcanales.com/xw/cable.php?canal=79&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="tlnovelas.png",Tlnovelas America
+http://iptvcanales.com/xw/cable.php?canal=13&player=playlist.m3u8
+ #EXTINF:-1 tvg-logo="trutv.png",Tru TV America Latina
+http://iptvcanales.com/xw/cable.php?canal=72&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="a_e.png",A&E Latinoamerica
+http://iptvcanales.com/xw/cable.php?canal=26&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="lifetime.png",Lifetime Latinoamerica
+http://iptvcanales.com/xw/cable.php?canal=55&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="history-hd.png",History en Español
+http://iptvcanales.com/xw/cable.php?canal=38&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="natgeo.png",National Geographic Latinoamerica
+http://iptvcanales.com/xw/cable.php?canal=37&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="home-and-health.png",Discovery Home & Health Latinoamerica
+http://iptvcanales.com/xw/cable.php?canal=95&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="animalplanet.png",Animal Planet Latinoamerica
+http://iptvcanales.com/xw/cable.php?canal=83&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="Investigacion-Discovery.png",Investigation Discovery Latinoamerica
+http://iptvcanales.com/xw/cable.php?canal=84&player=playlist.m3u8
+ #EXTINF:-1 tvg-logo="fox.png",Fox Latinoamerica
+http://iptvcanales.com/xw/cable.php?canal=01&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="syfy.png",Syfy Latinoamerica
+http://iptvcanales.com/xw/cable.php?canal=02&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="fox-life.png",FOX Life
+http://iptvcanales.com/xw/cable.php?canal=27&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="distrito-comedia.png",Distrito Comedia
+http://iptvcanales.com/xw/cable.php?canal=40&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="sony.png",Canal Sony
+http://iptvcanales.com/xw/cable.php?canal=14&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="warner-hd.png",Warner Channel Latinoamerica
+http://iptvcanales.com/xw/cable.php?canal=18&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="studio-universal.png",Studio Universal
+http://iptvcanales.com/xw/cable.php?canal=70&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="AXN.png",AXN Latinoamerica
+http://iptvcanales.com/xw/cable.php?canal=71&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="comedy-central-hd.png",Comedy Central Latinoamerica
+http://iptvcanales.com/xw/cable.php?canal=73&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="bbc-entertainment.png",BBC Entertainment Latinoamerica
+http://iptvcanales.com/xw/cable.php?canal=74&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="universal-channel.png",Universal Channel America Latina
+http://iptvcanales.com/xw/cable.php?canal=75&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="TNT_Serie.png",TNT Series Latinoamerica
+http://iptvcanales.com/xw/cable.php?canal=76&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="tbs.png",TBS America Latina
+http://iptvcanales.com/xw/cable.php?canal=77&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="i.sat.png",I-Sat
+http://iptvcanales.com/xw/cable.php?canal=78&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="wobi-tv.png",WOBI TV
+http://iptvcanales.com/xw/cable.php?canal=25&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="e!-entertainment-television.png",E!
+http://iptvcanales.com/xw/cable.php?canal=12&player=playlist.m3u8
+ #EXTINF:-1 tvg-logo="space.png",SPACE
+http://iptvcanales.com/xw/cable.php?canal=21&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="fx-hd.png",FX Latino
+http://iptvcanales.com/xw/cable.php?canal=17&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="cinema.png",AZ Cinema
+http://iptvcanales.com/xw/cable.php?canal=85&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="fox1_oeste.png",Fox 1 Oeste
+http://iptvcanales.com/xw/cable.php?canal=86&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="fox-movies-HD.png",Fox Movies Latinoamerica
+http://iptvcanales.com/xw/cable.php?canal=87&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="fox_action_oeste.png",Fox Action Oeste
+#EXTINF:-1 tvg-logo="fox-movies-HD.png",Fox Movies Latinoamerica
+http://iptvcanales.com/xw/cable.php?canal=88&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="fox-cinema.png",Fox Cinema
+http://iptvcanales.com/xw/cable.php?canal=89&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="fox-family.png",Fox Family
+http://iptvcanales.com/xw/cable.php?canal=90&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="cinecanal-(W).png",CineCanal
+http://iptvcanales.com/xw/cable.php?canal=91&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="tnt.png",TNT America Latina
+http://iptvcanales.com/xw/cable.php?canal=92&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="the-film-zone-hd.png",Film Zone
+http://iptvcanales.com/xw/cable.php?canal=93&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="amc.png",AMC
+http://iptvcanales.com/xw/cable.php?canal=94&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="cinemax.png",Cinemax Latinoamerica
+http://iptvcanales.com/xw/cable.php?canal=15&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="paramount.png",Paramount Channel Latinoamerica
+http://iptvcanales.com/xw/cable.php?canal=16&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="golden.png",Golden
+http://iptvcanales.com/xw/cable.php?canal=19&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="golden-edge.png",Golden Edge
+http://iptvcanales.com/xw/cable.php?canal=20&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="multicinema.png",Multicinema
+http://iptvcanales.com/xw/cable.php?canal=22&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="de-pelicula.png",De Película
+http://iptvcanales.com/xw/cable.php?canal=23&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="dhe.png",Canal DHE
+http://iptvcanales.com/xw/cable.php?canal=24&player=playlist.m3u8
+ #EXTINF:-1 tvg-logo="nickelodeon.png",Nickelodeon Latinoamerica
+http://iptvcanales.com/xw/cable.php?canal=28&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="cartoon-network.png",Cartoon Network Latinoamerica
+http://iptvcanales.com/xw/cable.php?canal=29&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="disney-xd.png",Disney XD Norte
+http://iptvcanales.com/xw/cable.php?canal=30&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="discovery-kids.png",Discovery Kids America Latina
+http://iptvcanales.com/xw/cable.php?canal=80&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="tooncast.png",Tooncast
+http://iptvcanales.com/xw/cable.php?canal=81&player=playlist.m3u8
+ #EXTINF:-1 tvg-logo="ritmoson-latino.png",Ritmoson Latino
+http://iptvcanales.com/xw/cable.php?canal=42&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="telehit-hd.png",Telehit
+http://iptvcanales.com/xw/cable.php?canal=36&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="bandamax.png",Bandamax
+http://iptvcanales.com/xw/cable.php?canal=39&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="vh1-classisc.png",VH1 Classic Europe
+http://iptvcanales.com/xw/cable.php?canal=96&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="mtv-live-hd.png",MTV Live
+http://iptvcanales.com/xw/cable.php?canal=97&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="vh1.png",VH1 Latino Norte
+http://iptvcanales.com/xw/cable.php?canal=98&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="mtv.png",MTV Latinoamerica
+http://iptvcanales.com/xw/cable.php?canal=99&player=playlist.m3u8
+ #EXTINF:-1 tvg-logo="tyc-sports.png",TyC Sports
+http://iptvcanales.com/xw/cable.php?canal=31&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="fox-sports-hd.png",Fox Sports Latinoamerica
+http://iptvcanales.com/xw/cable.php?canal=32&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="espn.png",ESPN Latinoamerica
+http://iptvcanales.com/xw/cable.php?canal=33&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="espn-2.png",ESPN 2 Latinoamerica
+http://iptvcanales.com/xw/cable.php?canal=34&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="espn-3-hd.png",ESPN 3 Latinoamerica
+http://iptvcanales.com/xw/cable.php?canal=35&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="BeinSports.png",BeinSports en Español
+http://iptvcanales.com/xw/cable.php?canal=56&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="BeinSports.png",BeinSports USA
+http://iptvcanales.com/xw/cable.php?canal=57&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="NFL Network.png",NFL Network
+http://iptvcanales.com/xw/cable.php?canal=67&player=playlist.m3u8
+ #EXTINF:-1 tvg-logo="milenio-tv.png",Milenio TV
+http://iptvcanales.com/xw/cable.php?canal=41&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="RT International.png",RT Español
+http://iptvcanales.com/xw/cable.php?canal=46&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="excelsior-tv-redes.png",Excelsior TV
+http://iptvcanales.com/xw/cable.php?canal=50&player=playlist.m3u8
+ #EXTINF:-1 tvg-logo="unicable.png",Unicable
+http://iptvcanales.com/xw/cable.php?canal=10&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="Telemundo.png",Telemundo
+http://iptvcanales.com/xw/cable.php?canal=51&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="antena-latina.png",Antena Latina
+http://iptvcanales.com/xw/cable.php?canal=53&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="tvn.png",TVN HD
+http://iptvcanales.com/xw/cable.php?canal=64&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="rtve.png",La 2
+http://iptvcanales.com/xw/cable.php?canal=66&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="Euronews.png",Euronews
+http://iptvcanales.com/xw/cable.php?canal=68&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="MEGA.png",Mega
+http://iptvcanales.com/xw/cable.php?canal=54&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="Telefe.png",Telefe
+http://iptvcanales.com/xw/cable.php?canal=52&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="c42.png",Canal 42
+http://iptvcanales.com/xw/cable.php?canal=49&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="canal-6-repretel-online.png",Canal 6
+http://iptvcanales.com/xw/cable.php?canal=58&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="7.png",Teletica 7
+http://iptvcanales.com/xw/cable.php?canal=59&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="9.png",Canal 9
+http://iptvcanales.com/xw/cable.php?canal=60&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="colosal.png",Colosal
+http://iptvcanales.com/xw/cable.php?canal=61&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="tvuno.png",TVUno
+http://iptvcanales.com/xw/cable.php?canal=62&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="xpertv.png",XperTV
+http://iptvcanales.com/xw/cable.php?canal=63&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="pcha.png",Positive Channel
+http://iptvcanales.com/xw/cable.php?canal=65&player=playlist.m3u8
+
 Esta lista contiene solo canales FTA encontrados por la web, para uso de entretenimiento casero.
 Canales premium me los reservo para uso personal, ya que algunos los usan para lucrar.-
 
