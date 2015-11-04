@@ -13,6 +13,8 @@ http://edge-11-mvstr.edge.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f
 http://edge-11-mvstr.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist_b1500.m3u8
 #EXTINF:0, CHV HD
 http://mi.chv.cl/playlist/stream.m3u8?s=hd
+#EXTINF:0, CHV
+http://live.hls.http.chv.ztreaming.com/chvhd/chvHi.m3u8
 #EXTINF:0, La Red HD
 http://movilstream.digitalproserver.com:443/redtv/redtvvivo/livestream1/playlist.m3u8
 #EXTINF:0, Canal 13 HD
