@@ -1,4 +1,5 @@
 #EXTM3U
+#
 #EXTINF:-1 group-title="Canales Chile", .: Canales Chile :.
 
 #EXTINF:-1 group-title="Canales Chile", RedTV HD
@@ -17,8 +18,6 @@ http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8
 http://cluster.13cmovil.ztreaming.com/13cm/grpz13c/playlist.m3u8
 #EXTINF:-1 group-title="Canales Chile", RecTV
 http://13rec.movil.ztreaming.com/13rec/13rec/playlist.m3u8
-#EXTINF:-1 group-title="Canales Chile", ETC TV
-http://movilstream.digitalproserver.com/etctv/etctvvivo/livestream1/playlist.m3u8
 #EXTINF:-1 group-title="Canales Chile", CDO Premium
 http://wow2.cl.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist_w913906597_b1064000.m3u8
 #EXTINF:-1 group-title="Canales Chile", TV Chile
@@ -52,26 +51,12 @@ http://mdstrm.com/live-stream-playlist-v/53443c472c6e89675103cc4c.m3u8
 http://rt-a.akamaihd.net/ch_05@325609/720p.m3u8
 #EXTINF:-1 group-title="Cultura", Nasa HD
 http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_1000_av-p.m3u8
-#EXTINF:-1 group-title="Cultura", Natgeo
-http://201.161.59.3/natgeo.isml/QualityLevels(1628000)/manifest(format=m3u8-aapl).m3u
-#EXTINF:-1 group-title="Cultura", National Geographic
-http://201.161.59.3/natgeo.isml/QualityLevels(1928000)/manifest(format=m3u8-aapl).m3u8?
-#EXTINF:-1 group-title="Cultura", Natgeo Salvaje
-http://201.161.59.3/natgeowild.isml/QualityLevels(3503000)/manifest(format=m3u8-aapl).m3u8?
-#EXTINF:-1 group-title="Cultura", History 2
-http://201.161.59.3/h2.isml/QualityLevels(1817984)/manifest(format=m3u8-aapl).m3u8?
 
 
 
 
 #EXTINF:-1 group-title="Kids", .: Kids :.
 
-#EXTINF:-1 group-title="Kids", Disney XD
-http://201.161.59.4/disneyxd.isml/QualityLevels(1253000)/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1 group-title="Kids", Nick
-http://201.161.59.6/nick.isml/QualityLevels(1328000)/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1 group-title="Kids", CN
-http://201.161.59.6/cartoonnetwork.isml/QualityLevels(1253000)/manifest(format=m3u8-aapl).m3u8
 #EXTINF:-1 group-title="Kids", Anime en Español
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
 
@@ -110,59 +95,18 @@ http://iptvnation.com/bobs.mp4
 
 #EXTINF:-1 group-title="Cable", .: Cable :.
 
-#EXTINF:-1 group-title="Cable", E!
-http://201.161.59.6/e.isml/QualityLevels(1928000)/manifest(format=m3u8-aapl).m3u8?
-#EXTINF:-1 group-title="Cable", Warner
-http://201.161.59.6/warner.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1 group-title="Cable", Syfy
-http://201.161.59.4/syfy.isml/QualityLevels(1628000)/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1 group-title="Cable", Fox SD
-http://201.161.59.6/fox.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1 group-title="Cable", Fox Life
-http://201.161.59.7/foxlife.isml/manifest%28format=m3u8-aapl%29.m3u8
-#EXTINF:-1 group-title="Cable", Fx
-http://201.161.59.6/fx.isml/manifest%28format=m3u8-aapl%29.m3u8
-#EXTINF:-1 group-title="Cable", Sony
-http://201.161.59.6/sony.isml/manifest%28format=m3u8-aapl%29.m3u8
-#EXTINF:-1 group-title="Cable", Warner
-http://201.161.59.6/warner.isml/manifest%28format=m3u8-aapl%29.m3u8
-#EXTINF:-1 group-title="Cable", Golden
-http://201.161.59.4/golden.isml/manifest%28format=m3u8-aapl%29.m3u8
-#EXTINF:-1 group-title="Cable", CineLatino
-http://201.161.59.4/cinelatino.isml/manifest%28format=m3u8-aapl%29.m3u8
-#EXTINF:-1 group-title="Cable", Unicable
-http://201.161.59.6/unicable.isml/manifest%28format=m3u8-aapl%29.m3u8
-#EXTINF:-1 group-title="Cable", Distrito Comedia
-http://201.161.59.6/clasicotv.isml/manifest%28format=m3u8-aapl%29.m3u8
-#EXTINF:-1 group-title="Cable", E!
-http://201.161.59.6/e.isml/manifest%28format=m3u8-aapl%29.m3u8
-#EXTINF:-1 group-title="Cable", Lifetime
-http://201.161.59.7/lifetime.isml/manifest%28format=m3u8-aapl%29.m3u8
-#EXTINF:-1 group-title="Cable", Universal Movies
-http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 group-title="Cable", LaSexta HD
-http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel02/la_sexta_hd_1548K_1280x720_main.m3u8
+#EXTINF:-1 group-title="Cable", no hay canales
 
 
 
 #EXTINF:-1 group-title="Deportes": .:Deportes:.
 
-#EXTINF:-1 group-title="Deportes", Fox Sports
-http://201.161.59.6/foxsports.isml/manifest%28format=m3u8-aapl%29.m3u8
-#EXTINF:-1 group-title="Deportes", ESPN
-http://201.161.59.4/espn2.isml/manifest%28format=m3u8-aapl%29.m3u8
-#EXTINF:-1 group-title="Deportes", Win Sport Colombia
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1_1.m3u8
 #EXTINF:-1 group-title="Deportes",  CDN Sport Max
 http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
 #EXTINF:-1 group-title="Deportes", AutoSport TV
 mms://83.222.173.94/100livesport
 #EXTINF:-1 group-title="Deportes", Azteca Deportes
 http://aztecalive-lh.akamaihd.net/i/0sa0dg2r9_1@167681/index_2_av-p.m3u8
-#EXTINF:-1 group-title="Deportes", Real Madrid TV
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-p.m3u8
-#EXTINF:-1 group-title="Deportes", SuperSport 1
-http://80.80.160.201/http_livestr.m3u8?id=ssnews
 #EXTINF:-1 group-title="Deportes", Xtreme Impacts
 http://46.249.213.93/iPhone/broadcast/xtremeimpacts-tablet.3gp/xtremeimpacts-tablet.3gp-mr647k.m3u8
 #EXTINF:-1 group-title="Deportes", Pac Mountain FHD
@@ -195,34 +139,6 @@ http://xrxs.net/video/live-p12wash-2328.m3u8
 http://xrxs.net/video/live-p12wash-4728.m3u8
 #EXTINF:-1 group-title="Deportes", FANATIK SPOR
 rtmp://live.fanatik.cubecdn.net/fanatiktv/stream_720
-#EXTINF:-1 group-title="Deportes", Big 10 Network
-http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8
-#EXTINF:-1 group-title="Deportes", TyC Sports
-http://201.161.59.4/tycdeportes.isml/QualityLevels(1328000)/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1 group-title="Deportes", Fox Sports
-http://201.161.59.6/foxsports.isml/QualityLevels(1178000)/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1 group-title="Deportes", ESPN
-http://201.161.59.3/espn.isml/QualityLevels(1628000)/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1 group-title="Deportes", ESPN 2
-http://201.161.59.4/espn2.isml/QualityLevels(1628000)/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1 group-title="Deportes", ESPN 3
-http://201.161.59.4/espn3.isml/QualityLevels(1628000)/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1 group-title="Deportes", Sport Time TV 1HD
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel1_1200
-#EXTINF:-1 group-title="Deportes", Sport Time TV 2HD
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel2_1200
-#EXTINF:-1 group-title="Deportes", Sport Time TV 3HD
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel3_1200
-#EXTINF:-1 group-title="Deportes", Sport Time TV 4HD
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel4_1200
-#EXTINF:-1 group-title="Deportes", Sport Time TV 5HD
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel5_1200
-#EXTINF:-1 group-title="Deportes", Sport Time TV 6HD
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel6_1200
-#EXTINF:-1 group-title="Deportes", Sport Time TV 7HD
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel7_1200
-#EXTINF:-1 group-title="Deportes", Big 10 Network
-http://xrxs.net/video/live-btn-1240.m3u8
 #EXTINF:-1 group-title="Deportes", Sportmax
 http://46.249.213.93/iPhone/HLS_TS/broadcast/sportmax-tablet.3gp/sportmax-tablet.3gp-mr397k.m3u8
 
@@ -236,46 +152,28 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
 #EXTINF:-1 group-title="Musica", VEVO 3
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
+#EXTINF:-1 group-title="Musica", QMusica
+mms://streamqm.uigc.net/qmusica
 #EXTINF:-1 group-title="Musica", BigPound Music
 mmsh://ken-cdn220-is-2.se.bptvlive.ngcdn.telstra.com/bp_online_bpmusic_high
 #EXTINF:-1 group-title="Musica", Capital TV
 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8
-#EXTINF:-1 group-title="Musica", VH1 Europa
-http://193.176.251.228:8000/VH1euro
 #EXTINF:-1 group-title="Musica", Heart TV
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
-#EXTINF:2933642502,Rock One
+#EXTINF:-1 group-title="Musica", Rock One
 mmsh://mediatv2.topix.it/24RockOne66
 #EXTINF:-1 group-title="Musica", Electrosound
 rtmp://www.electrosound.tv:1935/public/stream
-#EXTINF:-1 group-title="Musica", Clubland
-http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8
-#EXTINF:-1 group-title="Musica", DJING Ibiza
-http://www.djing.com/tv/ibiza.m3u8
 #EXTINF:-1 group-title="Musica", ESKA Party
 rtmp://stream.smcloud.net/live2/eska_party/eska_party_720p
-#EXTINF:-1 group-title="Musica", ESKA TV
-rtmp://stream.smcloud.net/live/eskatv
 #EXTINF:-1 group-title="Musica", ESKA Go
 rtmp://stream.smcloud.net/live2/best/best_360p
 #EXTINF:-1 group-title="Musica", ESKA Rock
 rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_720p
 #EXTINF:-1 group-title="Musica", ESKA Music Vox
 rtmp://stream.smcloud.net/live2/vox/vox_720p
-#EXTINF:-1 group-title="Musica", Dream TV
-http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
 #EXTINF:-1 group-title="Musica", Amazing
 http://redir.atmcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8?sessionId=ABA74CBC0702307FF0B559F938FC9B21.node1&stream=2
-#EXTINF:-1 group-title="Musica", Europa Plus TV
-http://europaplus.cdnvideo.ru:1935/europaplus-live/mp4:eptv_main.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Musica", Yumor TV
-http://msk1.peers.tv/streaming/yumor_tv/16/tvrec/playlist.m3u8
-#EXTINF:-1 group-title="Musica", Ultra Fiesta
-http://vemoxhlslive-i.akamaihd.net/hls/live/219941/vemoxchannel2/iOS/vemoxchannel2@219941/index.m3u8
-#EXTINF:-1 group-title="Musica", QMusica
-mms://streamqm.uigc.net/qmusica
-#EXTINF:-1 group-title="Musica",Canal U
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANU/tu1_1.m3u8
 #EXTINF:-1 group-title="Musica",Treny Musica
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8
 
@@ -283,92 +181,455 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8
 
 #EXTINF:-1 group-title="Test", .: Test :.
 
-#EXTINF:-1 group-title="Test", Cine Dinamita
-http://www.iptvsmart.net/app/getDecodingChannel.php?id=7d01c43c-5044-408b-a5c7-c7f3b83f6c93&channel=3465
-#EXTINF:-1 group-title="Test", Cinecanal
-http://www.iptvsmart.net/app/getDecodingChannel.php?id=7d01c43c-5044-408b-a5c7-c7f3b83f6c93&channel=2495
-#EXTINF:-1 group-title="Test", CineLatino
-http://www.iptvsmart.net/app/getDecodingChannel.php?id=7d01c43c-5044-408b-a5c7-c7f3b83f6c93&channel=477
-#EXTINF:-1 group-title="Test", Fox
-http://www.iptvsmart.net/app/getDecodingChannel.php?id=7d01c43c-5044-408b-a5c7-c7f3b83f6c93&channel=3947
-#EXTINF:-1 group-title="Test", Paramount Channel Latinoamerica
-http://www.iptvsmart.net/app/getDecodingChannel.php?id=7d01c43c-5044-408b-a5c7-c7f3b83f6c93&channel=260
-#EXTINF:-1 group-title="Test", Mundo Fox
-http://www.iptvsmart.net/app/getDecodingChannel.php?id=7d01c43c-5044-408b-a5c7-c7f3b83f6c93&channel=429
-#EXTINF:-1 group-title="Test", SyFy
-http://www.iptvsmart.net/app/getDecodingChannel.php?id=7d01c43c-5044-408b-a5c7-c7f3b83f6c93&channel=447
-#EXTINF:-1 group-title="Test", Fox 1 HD
-http://www.iptvsmart.net/app/getDecodingChannel.php?id=7d01c43c-5044-408b-a5c7-c7f3b83f6c93&channel=433
-#EXTINF:-1 group-title="Test", Fox 1 HD
-http://www.iptvsmart.net/app/getDecodingChannel.php?id=7d01c43c-5044-408b-a5c7-c7f3b83f6c93&channel=439
-#EXTINF:-1 group-title="Test", Fox Action HD
-http://www.iptvsmart.net/app/getDecodingChannel.php?id=7d01c43c-5044-408b-a5c7-c7f3b83f6c93&channel=435
-#EXTINF:-1 group-title="Test", Fox Action HD
-http://www.iptvsmart.net/app/getDecodingChannel.php?id=7d01c43c-5044-408b-a5c7-c7f3b83f6c93&channel=437
-#EXTINF:-1 group-title="Test", Fox Movies HD
-http://www.iptvsmart.net/app/getDecodingChannel.php?id=7d01c43c-5044-408b-a5c7-c7f3b83f6c93&channel=463
-#EXTINF:-1 group-title="Test", Fox Cinéma
-http://www.iptvsmart.net/app/getDecodingChannel.php?id=7d01c43c-5044-408b-a5c7-c7f3b83f6c93&channel=457
-#EXTINF:-1 group-title="Test", Fox Family
-http://www.iptvsmart.net/app/getDecodingChannel.php?id=7d01c43c-5044-408b-a5c7-c7f3b83f6c93&channel=467
-#EXTINF:-1 group-title="Test", Fox Comedy
-http://www.iptvsmart.net/app/getDecodingChannel.php?id=7d01c43c-5044-408b-a5c7-c7f3b83f6c93&channel=461
-#EXTINF:-1 group-title="Test", HBO
-http://www.iptvsmart.net/app/getDecodingChannel.php?id=7d01c43c-5044-408b-a5c7-c7f3b83f6c93&channel=385
-#EXTINF:-1 group-title="Test", HBO2
-http://www.iptvsmart.net/app/getDecodingChannel.php?id=7d01c43c-5044-408b-a5c7-c7f3b83f6c93&channel=365
-#EXTINF:-1 group-title="Test", HBO plus ESTE
-http://www.iptvsmart.net/app/getDecodingChannel.php?id=7d01c43c-5044-408b-a5c7-c7f3b83f6c93&channel=453
-#EXTINF:-1 group-title="Test", HBO plus OESTE
-http://www.iptvsmart.net/app/getDecodingChannel.php?id=7d01c43c-5044-408b-a5c7-c7f3b83f6c93&channel=369
-#EXTINF:-1 group-title="Test", HBO Family
-http://www.iptvsmart.net/app/getDecodingChannel.php?id=7d01c43c-5044-408b-a5c7-c7f3b83f6c93&channel=449
-#EXTINF:-1 group-title="Test", Max UP
-http://www.iptvsmart.net/app/getDecodingChannel.php?id=7d01c43c-5044-408b-a5c7-c7f3b83f6c93&channel=469
-#EXTINF:-1 group-title="Test", MAX
-http://www.iptvsmart.net/app/getDecodingChannel.php?id=7d01c43c-5044-408b-a5c7-c7f3b83f6c93&channel=381
-#EXTINF:-1 group-title="Test", Max Prime Este
-http://www.iptvsmart.net/app/getDecodingChannel.php?id=7d01c43c-5044-408b-a5c7-c7f3b83f6c93&channel=377
-#EXTINF:-1 group-title="Test", MaxPrime Oeste
-http://www.iptvsmart.net/app/getDecodingChannel.php?id=7d01c43c-5044-408b-a5c7-c7f3b83f6c93&channel=379
-#EXTINF:-1 group-title="Test", AMC
-http://www.iptvsmart.net/app/getDecodingChannel.php?id=7d01c43c-5044-408b-a5c7-c7f3b83f6c93&channel=485
-#EXTINF:-1 group-title="Test", Universal
-http://www.iptvsmart.net/app/getDecodingChannel.php?id=7d01c43c-5044-408b-a5c7-c7f3b83f6c93&channel=387
-#EXTINF:-1 group-title="Test", Studio Universal
-http://www.iptvsmart.net/app/getDecodingChannel.php?id=7d01c43c-5044-408b-a5c7-c7f3b83f6c93&channel=345
-#EXTINF:-1 group-title="Test", I.Sat
-http://www.iptvsmart.net/app/getDecodingChannel.php?id=7d01c43c-5044-408b-a5c7-c7f3b83f6c93&channel=1703
-#EXTINF:-1 group-title="Test", Sony HD
-http://www.iptvsmart.net/app/getDecodingChannel.php?id=7d01c43c-5044-408b-a5c7-c7f3b83f6c93&channel=2501
-#EXTINF:-1 group-title="Test", Warner HD
-http://www.iptvsmart.net/app/getDecodingChannel.php?id=7d01c43c-5044-408b-a5c7-c7f3b83f6c93&channel=2499
-#EXTINF:-1 group-title="Test", FX HD
-http://www.iptvsmart.net/app/getDecodingChannel.php?id=7d01c43c-5044-408b-a5c7-c7f3b83f6c93&channel=431
-#EXTINF:-1 group-title="Test", Tru TVHD
-http://www.iptvsmart.net/app/getDecodingChannel.php?id=7d01c43c-5044-408b-a5c7-c7f3b83f6c93&channel=337
-#EXTINF:-1 group-title="Test", A E
-http://www.iptvsmart.net/app/getDecodingChannel.php?id=7d01c43c-5044-408b-a5c7-c7f3b83f6c93&channel=258
-#EXTINF:-1 group-title="Test", E!
-http://www.iptvsmart.net/app/getDecodingChannel.php?id=7d01c43c-5044-408b-a5c7-c7f3b83f6c93&channel=427
-#EXTINF:-1 group-title="Test", AXN HD
-http://www.iptvsmart.net/app/getDecodingChannel.php?id=7d01c43c-5044-408b-a5c7-c7f3b83f6c93&channel=2493
-#EXTINF:-1 group-title="Test", Cinemax
-http://www.iptvsmart.net/app/getDecodingChannel.php?id=7d01c43c-5044-408b-a5c7-c7f3b83f6c93&channel=343
-#EXTINF:-1 group-title="Test", Europa Europa
-http://www.iptvsmart.net/app/getDecodingChannel.php?id=7d01c43c-5044-408b-a5c7-c7f3b83f6c93&channel=1597
-#EXTINF:-1 group-title="Test", Film & Arts
-http://www.iptvsmart.net/app/getDecodingChannel.php?id=7d01c43c-5044-408b-a5c7-c7f3b83f6c93&channel=1599
-#EXTINF:-1 group-title="Test", The Film Zone HD
-http://www.iptvsmart.net/app/getDecodingChannel.php?id=7d01c43c-5044-408b-a5c7-c7f3b83f6c93&channel=1055
-#EXTINF:-1 group-title="Test", TNT HD
-http://www.iptvsmart.net/app/getDecodingChannel.php?id=7d01c43c-5044-408b-a5c7-c7f3b83f6c93&channel=262
-#EXTINF:-1 group-title="Test", TNT Series
-http://www.iptvsmart.net/app/getDecodingChannel.php?id=7d01c43c-5044-408b-a5c7-c7f3b83f6c93&channel=331
-#EXTINF:-1 group-title="Test", MultiPremier
-http://www.iptvsmart.net/app/getDecodingChannel.php?id=7d01c43c-5044-408b-a5c7-c7f3b83f6c93&channel=3293
-#EXTINF:-1 group-title="Test", Golden Premier 1
-http://www.iptvsmart.net/app/getDecodingChannel.php?id=7d01c43c-5044-408b-a5c7-c7f3b83f6c93&channel=1487
-#EXTINF:-1 group-title="Test", Golden Multiplex
-http://www.iptvsmart.net/app/getDecodingChannel.php?id=7d01c43c-5044-408b-a5c7-c7f3b83f6c93&channel=1035
+#EXTINF:-1 tvg-logo="trutv.png",Tru TV America Latina
+http://iptvcanales.com/xw/cable.php?canal=72&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="a_e.png",A&E Latinoamerica
+http://iptvcanales.com/xw/cable.php?canal=26&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="lifetime.png",Lifetime Latinoamerica
+http://iptvcanales.com/xw/cable.php?canal=55&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="history-hd.png",History en Español
+http://iptvcanales.com/xw/cable.php?canal=38&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="natgeo.png",National Geographic Latinoamerica
+http://iptvcanales.com/xw/cable.php?canal=37&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="home-and-health.png",Discovery Home & Health Latinoamerica
+http://iptvcanales.com/xw/cable.php?canal=95&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="animalplanet.png",Animal Planet Latinoamerica
+http://iptvcanales.com/xw/cable.php?canal=83&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="Investigacion-Discovery.png",Investigation Discovery Latinoamerica
+http://iptvcanales.com/xw/cable.php?canal=84&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="fox.png",Fox Latinoamerica
+http://iptvcanales.com/xw/cable.php?canal=01&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="syfy.png",Syfy Latinoamerica
+http://iptvcanales.com/xw/cable.php?canal=02&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="fox-life.png",FOX Life
+http://iptvcanales.com/xw/cable.php?canal=27&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="distrito-comedia.png",Distrito Comedia
+http://iptvcanales.com/xw/cable.php?canal=40&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="sony.png",Canal Sony
+http://iptvcanales.com/xw/cable.php?canal=14&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="warner-hd.png",Warner Channel Latinoamerica
+http://iptvcanales.com/xw/cable.php?canal=18&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="studio-universal.png",Studio Universal
+http://iptvcanales.com/xw/cable.php?canal=70&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="AXN.png",AXN Latinoamerica
+http://iptvcanales.com/xw/cable.php?canal=71&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="comedy-central-hd.png",Comedy Central Latinoamerica
+http://iptvcanales.com/xw/cable.php?canal=73&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="bbc-entertainment.png",BBC Entertainment Latinoamerica
+http://iptvcanales.com/xw/cable.php?canal=74&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="universal-channel.png",Universal Channel America Latina
+http://iptvcanales.com/xw/cable.php?canal=75&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="TNT_Serie.png",TNT Series Latinoamerica
+http://iptvcanales.com/xw/cable.php?canal=76&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="tbs.png",TBS America Latina
+http://iptvcanales.com/xw/cable.php?canal=77&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="i.sat.png",I-Sat
+http://iptvcanales.com/xw/cable.php?canal=78&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="wobi-tv.png",WOBI TV
+http://iptvcanales.com/xw/cable.php?canal=25&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="e!-entertainment-television.png",E!
+http://iptvcanales.com/xw/cable.php?canal=12&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="space.png",SPACE
+http://iptvcanales.com/xw/cable.php?canal=21&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="fx-hd.png",FX Latino
+http://iptvcanales.com/xw/cable.php?canal=17&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="cinema.png",AZ Cinema
+http://iptvcanales.com/xw/cable.php?canal=85&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="fox1_oeste.png",Fox 1 Oeste
+http://iptvcanales.com/xw/cable.php?canal=86&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="fox-movies-HD.png",Fox Movies Latinoamerica
+http://iptvcanales.com/xw/cable.php?canal=87&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="fox_action_oeste.png",Fox Action Oeste
+#EXTINF:-1 tvg-logo="fox-movies-HD.png",Fox Movies Latinoamerica
+http://iptvcanales.com/xw/cable.php?canal=88&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="fox-cinema.png",Fox Cinema
+http://iptvcanales.com/xw/cable.php?canal=89&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="fox-family.png",Fox Family
+http://iptvcanales.com/xw/cable.php?canal=90&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="cinecanal-(W).png",CineCanal
+http://iptvcanales.com/xw/cable.php?canal=91&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="tnt.png",TNT America Latina
+http://iptvcanales.com/xw/cable.php?canal=92&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="the-film-zone-hd.png",Film Zone
+http://iptvcanales.com/xw/cable.php?canal=93&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="amc.png",AMC
+http://iptvcanales.com/xw/cable.php?canal=94&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="cinemax.png",Cinemax Latinoamerica
+http://iptvcanales.com/xw/cable.php?canal=15&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="paramount.png",Paramount Channel Latinoamerica
+http://iptvcanales.com/xw/cable.php?canal=16&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="golden.png",Golden
+http://iptvcanales.com/xw/cable.php?canal=19&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="golden-edge.png",Golden Edge
+http://iptvcanales.com/xw/cable.php?canal=20&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="multicinema.png",Multicinema
+http://iptvcanales.com/xw/cable.php?canal=22&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="de-pelicula.png",De Película
+http://iptvcanales.com/xw/cable.php?canal=23&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="dhe.png",Canal DHE
+http://iptvcanales.com/xw/cable.php?canal=24&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="nickelodeon.png",Nickelodeon Latinoamerica
+http://iptvcanales.com/xw/cable.php?canal=28&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="cartoon-network.png",Cartoon Network Latinoamerica
+http://iptvcanales.com/xw/cable.php?canal=29&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="disney-xd.png",Disney XD Norte
+http://iptvcanales.com/xw/cable.php?canal=30&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="discovery-kids.png",Discovery Kids America Latina
+http://iptvcanales.com/xw/cable.php?canal=80&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="tooncast.png",Tooncast
+http://iptvcanales.com/xw/cable.php?canal=81&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="ritmoson-latino.png",Ritmoson Latino
+http://iptvcanales.com/xw/cable.php?canal=42&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="telehit-hd.png",Telehit
+http://iptvcanales.com/xw/cable.php?canal=36&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="bandamax.png",Bandamax
+http://iptvcanales.com/xw/cable.php?canal=39&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="vh1-classisc.png",VH1 Classic Europe
+http://iptvcanales.com/xw/cable.php?canal=96&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="mtv-live-hd.png",MTV Live
+http://iptvcanales.com/xw/cable.php?canal=97&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="vh1.png",VH1 Latino Norte
+http://iptvcanales.com/xw/cable.php?canal=98&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="mtv.png",MTV Latinoamerica
+http://iptvcanales.com/xw/cable.php?canal=99&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="tyc-sports.png",TyC Sports
+http://iptvcanales.com/xw/cable.php?canal=31&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="fox-sports-hd.png",Fox Sports Latinoamerica
+http://iptvcanales.com/xw/cable.php?canal=32&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="espn.png",ESPN Latinoamerica
+http://iptvcanales.com/xw/cable.php?canal=33&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="espn-2.png",ESPN 2 Latinoamerica
+http://iptvcanales.com/xw/cable.php?canal=34&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="espn-3-hd.png",ESPN 3 Latinoamerica
+http://iptvcanales.com/xw/cable.php?canal=35&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="BeinSports.png",BeinSports en Español
+http://iptvcanales.com/xw/cable.php?canal=56&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="BeinSports.png",BeinSports USA
+http://iptvcanales.com/xw/cable.php?canal=57&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="NFL Network.png",NFL Network
+http://iptvcanales.com/xw/cable.php?canal=67&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="milenio-tv.png",Milenio TV
+http://iptvcanales.com/xw/cable.php?canal=41&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="RT International.png",RT Español
+http://iptvcanales.com/xw/cable.php?canal=46&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="excelsior-tv-redes.png",Excelsior TV
+http://iptvcanales.com/xw/cable.php?canal=50&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="unicable.png",Unicable
+http://iptvcanales.com/xw/cable.php?canal=10&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="Telemundo.png",Telemundo
+http://iptvcanales.com/xw/cable.php?canal=51&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="antena-latina.png",Antena Latina
+http://iptvcanales.com/xw/cable.php?canal=53&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="tvn.png",TVN HD
+http://iptvcanales.com/xw/cable.php?canal=64&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="rtve.png",La 2
+http://iptvcanales.com/xw/cable.php?canal=66&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="Euronews.png",Euronews
+http://iptvcanales.com/xw/cable.php?canal=68&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="MEGA.png",Mega
+http://iptvcanales.com/xw/cable.php?canal=54&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="Telefe.png",Telefe
+http://iptvcanales.com/xw/cable.php?canal=52&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="c42.png",Canal 42
+http://iptvcanales.com/xw/cable.php?canal=49&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="canal-6-repretel-online.png",Canal 6
+http://iptvcanales.com/xw/cable.php?canal=58&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="7.png",Teletica 7
+http://iptvcanales.com/xw/cable.php?canal=59&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="9.png",Canal 9
+http://iptvcanales.com/xw/cable.php?canal=60&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="colosal.png",Colosal
+http://iptvcanales.com/xw/cable.php?canal=61&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="tvuno.png",TVUno
+http://iptvcanales.com/xw/cable.php?canal=62&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="xpertv.png",XperTV
+http://iptvcanales.com/xw/cable.php?canal=63&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="pcha.png",Positive Channel
+http://iptvcanales.com/xw/cable.php?canal=65&player=playlist.m3u8
 
+
+
+#EXTINF:-1 group-title="Peliculas", .: Peliculas :.
+
+#EXTINF:-1,50 SOMBRAS DE GREY
+http://iptvcanales.com/xw/peliculas.php?movie=001
+#EXTINF:-1,ALEXANDER Y UN DÍA TERRIBLE, HORRIBLE, MALO… ¡MUY MALO! (2014)
+http://iptvcanales.com/xw/peliculas.php?movie=002
+#EXTINF:-1,APARTAMENTO 1303
+http://iptvcanales.com/xw/peliculas.php?movie=003
+#EXTINF:-1,BARELY LETHAL (2015)
+http://iptvcanales.com/xw/peliculas.php?movie=004
+#EXTINF:-1,BUSQUEDA IMPLACABLE 1
+http://iptvcanales.com/xw/peliculas.php?movie=005
+#EXTINF:-1,CAPITAN AMERICA 1
+http://iptvcanales.com/xw/peliculas.php?movie=006
+#EXTINF:-1,CAPITAN AMERICA 2
+http://iptvcanales.com/xw/peliculas.php?movie=007
+#EXTINF:-1,CARTAS AL CIELO (SUB)
+http://iptvcanales.com/xw/peliculas.php?movie=008
+#EXTINF:-1,CHAPIE
+http://iptvcanales.com/xw/peliculas.php?movie=009
+#EXTINF:-1,CHEQUE EN BLANCO (1994)
+http://iptvcanales.com/xw/peliculas.php?movie=010
+#EXTINF:-1,COLMILLO BLANCO (1991)
+http://iptvcanales.com/xw/peliculas.php?movie=011
+#EXTINF:-1,CONFESIONES DE UNA TÍPICA ADOLESCENTE (2004)
+http://iptvcanales.com/xw/peliculas.php?movie=012
+#EXTINF:-1,CUENTOS QUE NO SON CUENTO (2008)
+http://iptvcanales.com/xw/peliculas.php?movie=013
+#EXTINF:-1,CUERNOS (2013)
+http://iptvcanales.com/xw/peliculas.php?movie=014
+#EXTINF:-1,DALE DURO
+http://iptvcanales.com/xw/peliculas.php?movie=015
+#EXTINF:-1,DESTINO JUPITER
+http://iptvcanales.com/xw/peliculas.php?movie=016
+#EXTINF:-1,DINOSAURIO (2000)
+http://iptvcanales.com/xw/peliculas.php?movie=017
+#EXTINF:-1,EL AMANECER DEL PLANETA DE LOS SIMIOS
+http://iptvcanales.com/xw/peliculas.php?movie=018
+#EXTINF:-1,EL APRENDIZ DE BRUJO (2010)
+http://iptvcanales.com/xw/peliculas.php?movie=019
+#EXTINF:-1,EL ARDOR
+http://iptvcanales.com/xw/peliculas.php?movie=020
+#EXTINF:-1,EL DIARIO DE LA PRINCESA (2001)
+http://iptvcanales.com/xw/peliculas.php?movie=021
+#EXTINF:-1,EL DIARIO DE LA PRINCESA 2 (2004)
+http://iptvcanales.com/xw/peliculas.php?movie=022
+#EXTINF:-1,EL GUARDIAN DEL ZOOLOGICO
+http://iptvcanales.com/xw/peliculas.php?movie=023
+#EXTINF:-1,EL HOMBRE DE ACERO
+http://iptvcanales.com/xw/peliculas.php?movie=024
+#EXTINF:-1,EL JOVEN CORCEL NEGRO (2003)
+http://iptvcanales.com/xw/peliculas.php?movie=025
+#EXTINF:-1,EL LLANERO SOLITARIO (2013)
+http://iptvcanales.com/xw/peliculas.php?movie=026
+#EXTINF:-1,EL MISTERIO DE LOS EXCAVADORES (2003)
+http://iptvcanales.com/xw/peliculas.php?movie=027
+#EXTINF:-1,EL MUNDO MÁGICO DE TERABITHIA (2005)
+http://iptvcanales.com/xw/peliculas.php?movie=028
+#EXTINF:-1,EL PRÍNCIPE DE PERSIA: LAS ARENAS DEL TIEMPO (2010)
+http://iptvcanales.com/xw/peliculas.php?movie=029
+#EXTINF:-1,EL RITUAL
+http://iptvcanales.com/xw/peliculas.php?movie=030
+#EXTINF:-1,EL SECRETO DE LA CALABAZA MÁGICA (2009)
+http://iptvcanales.com/xw/peliculas.php?movie=031
+#EXTINF:-1,EL SUEÑO DE WALT (2013)
+http://iptvcanales.com/xw/peliculas.php?movie=032
+#EXTINF:-1,EN EL BOSQUE (2014)
+http://iptvcanales.com/xw/peliculas.php?movie=033
+#EXTINF:-1,EN EL BOSQUE (INTO THE WOODS)
+http://iptvcanales.com/xw/peliculas.php?movie=034
+#EXTINF:-1,ENCANTADA (2007)
+http://iptvcanales.com/xw/peliculas.php?movie=035
+#EXTINF:-1,ESTE CUERPO NO ES MIO
+http://iptvcanales.com/xw/peliculas.php?movie=036
+#EXTINF:-1,FIN DE CURSO (2011)
+http://iptvcanales.com/xw/peliculas.php?movie=037
+#EXTINF:-1,FLUBBER (1997)
+http://iptvcanales.com/xw/peliculas.php?movie=038
+#EXTINF:-1,FOCUS
+http://iptvcanales.com/xw/peliculas.php?movie=039
+#EXTINF:-1,FRANCOTIRADOR
+http://iptvcanales.com/xw/peliculas.php?movie=040
+#EXTINF:-1,FRÍO DE PERROS (2002)
+http://iptvcanales.com/xw/peliculas.php?movie=041
+#EXTINF:-1,FUERZA G (2009)
+http://iptvcanales.com/xw/peliculas.php?movie=042
+#EXTINF:-1,GEORGE DE LA SELVA (1997)
+http://iptvcanales.com/xw/peliculas.php?movie=043
+#EXTINF:-1,GIGANTES DE ACERO
+http://iptvcanales.com/xw/peliculas.php?movie=044
+#EXTINF:-1,GNOMEO Y JULIETA
+http://iptvcanales.com/xw/peliculas.php?movie=045
+#EXTINF:-1,GODZILLA
+http://iptvcanales.com/xw/peliculas.php?movie=046
+#EXTINF:-1,HARTS WAR
+http://iptvcanales.com/xw/peliculas.php?movie=047
+#EXTINF:-1,HERBIE: A TODA MARCHA (2005)
+http://iptvcanales.com/xw/peliculas.php?movie=048
+#EXTINF:-1,HERMOSAS CRIATURAS
+http://iptvcanales.com/xw/peliculas.php?movie=049
+#EXTINF:-1,HOMBRES EN GUERRA
+http://iptvcanales.com/xw/peliculas.php?movie=050
+#EXTINF:-1,INTERESTELAR 2015
+http://iptvcanales.com/xw/peliculas.php?movie=051
+#EXTINF:-1,IRON MAN 3
+http://iptvcanales.com/xw/peliculas.php?movie=052
+#EXTINF:-1,JACK Y JILL
+http://iptvcanales.com/xw/peliculas.php?movie=053
+#EXTINF:-1,JAMAICA BAJO CERO (1993)
+http://iptvcanales.com/xw/peliculas.php?movie=054
+#EXTINF:-1,JIM Y EL DURAZNO GIGANTE (1996)
+http://iptvcanales.com/xw/peliculas.php?movie=055
+#EXTINF:-1,JUEGO DE GEMELAS (1998)
+http://iptvcanales.com/xw/peliculas.php?movie=056
+#EXTINF:-1,JUEGOS LETAL
+http://iptvcanales.com/xw/peliculas.php?movie=057
+#EXTINF:-1,JUMANJI (1995)
+http://iptvcanales.com/xw/peliculas.php?movie=058
+#EXTINF:-1,JURASSIC WORLD
+http://iptvcanales.com/xw/peliculas.php?movie=059
+#EXTINF:-1,LA DICTADURA PERFECTA
+http://iptvcanales.com/xw/peliculas.php?movie=060
+#EXTINF:-1,LA EXTRAÑA VIDA DE TIMOTHY GREEN (2012)
+http://iptvcanales.com/xw/peliculas.php?movie=061
+#EXTINF:-1,LA FAMILIA BELIER
+http://iptvcanales.com/xw/peliculas.php?movie=062
+#EXTINF:-1,LA HIJA DE MOCTEZUMA
+http://iptvcanales.com/xw/peliculas.php?movie=063
+#EXTINF:-1,LA HIJA DE ROBIN HOOD (1991)
+http://iptvcanales.com/xw/peliculas.php?movie=064
+#EXTINF:-1,LA LEYENDA DEL TESORO PERDIDO
+http://iptvcanales.com/xw/peliculas.php?movie=065
+#EXTINF:-1,LA LEYENDA DEL TESORO PERDIDO 2 (2007)
+http://iptvcanales.com/xw/peliculas.php?movie=066
+#EXTINF:-1,LA MONTAÑA EMBRUJADA (2009)
+http://iptvcanales.com/xw/peliculas.php?movie=067
+#EXTINF:-1,LA VUELTA AL MUNDO EN 80 DÍAS (2004)
+http://iptvcanales.com/xw/peliculas.php?movie=068
+#EXTINF:-1,LAS CRÓNICAS DE NARNIA: EL LEÓN, LA BRUJA Y EL ROPERO (2005)
+http://iptvcanales.com/xw/peliculas.php?movie=069
+#EXTINF:-1,LAS CRÓNICAS DE NARNIA: EL PRÍNCIPE CASPIAN (2008)
+http://iptvcanales.com/xw/peliculas.php?movie=070
+#EXTINF:-1,LAS CRÓNICAS DE NARNIA: LA TRAVESÍA DEL VIAJERO DEL ALBA (2010)
+http://iptvcanales.com/xw/peliculas.php?movie=071
+#EXTINF:-1,LAS LOCURAS DE KRONK (2005)
+http://iptvcanales.com/xw/peliculas.php?movie=072
+#EXTINF:-1,LAS LOCURAS DEL EMPERADOR (2000)
+http://iptvcanales.com/xw/peliculas.php?movie=073
+#EXTINF:-1,LAS NOVIAS DE MIS AMIGOS
+http://iptvcanales.com/xw/peliculas.php?movie=074
+#EXTINF:-1,LINEA DE EMERGENCIA
+http://iptvcanales.com/xw/peliculas.php?movie=075
+#EXTINF:-1,LIZZIE MCGUIRE: ESTRELLA POP (2003)
+http://iptvcanales.com/xw/peliculas.php?movie=076
+#EXTINF:-1,LLAMANDO A ECCO (2014)
+http://iptvcanales.com/xw/peliculas.php?movie=077
+#EXTINF:-1,LOS INDESTRUCTIBLES 3
+http://iptvcanales.com/xw/peliculas.php?movie=078
+#EXTINF:-1,LOS JUEGOS DEL HAMBRE SINSAJO PARTE 1
+http://iptvcanales.com/xw/peliculas.php?movie=079
+#EXTINF:-1,LO MEJOR DE MI
+http://iptvcanales.com/xw/peliculas.php?movie=080
+#EXTINF:-1,LOS TRES CABALLEROS (1944)
+http://iptvcanales.com/xw/peliculas.php?movie=081
+#EXTINF:-1,MALDITOS VECINOS
+http://iptvcanales.com/xw/peliculas.php?movie=082
+#EXTINF:-1,MALÉFICA (2014)
+http://iptvcanales.com/xw/peliculas.php?movie=083
+#EXTINF:-1,MARY POPPINS (1964)
+http://iptvcanales.com/xw/peliculas.php?movie=084
+#EXTINF:-1,MENTES PELIGROSAS
+http://iptvcanales.com/xw/peliculas.php?movie=085
+#EXTINF:-1,MI ENCUENTRO CONMIGO (2000)
+http://iptvcanales.com/xw/peliculas.php?movie=086
+#EXTINF:-1,MIL PALABRAS
+http://iptvcanales.com/xw/peliculas.php?movie=087
+#EXTINF:-1,MÚSICA MAESTRO (1946)
+http://iptvcanales.com/xw/peliculas.php?movie=088
+#EXTINF:-1,NO SE ACEPTAN DEVOLUCIONES
+http://iptvcanales.com/xw/peliculas.php?movie=089
+#EXTINF:-1,OJOS EN EL BOSQUE (1980)
+http://iptvcanales.com/xw/peliculas.php?movie=090
+#EXTINF:-1,OZ, EL PODEROSO (2013)
+http://iptvcanales.com/xw/peliculas.php?movie=091
+#EXTINF:-1,PERDIENDO EL NORTE
+http://iptvcanales.com/xw/peliculas.php?movie=092
+#EXTINF:-1,PESOS COMPLETOS (1995)
+http://iptvcanales.com/xw/peliculas.php?movie=093
+#EXTINF:-1,PIRATAS DEL CARIBE: LA MALDICIÓN DEL PERLA NEGRA (2003)
+http://iptvcanales.com/xw/peliculas.php?movie=094
+#EXTINF:-1,PIRATAS DEL CARIBE: EL COFRE DE LA MUERTE (2006)
+http://iptvcanales.com/xw/peliculas.php?movie=095
+#EXTINF:-1,PIRATAS DEL CARIBE: EN EL FIN DEL MUNDO (2007)
+http://iptvcanales.com/xw/peliculas.php?movie=096
+#EXTINF:-1,PIRATAS DEL CARIBE: NAVEGANDO AGUAS MISTERIOSAS (2011)
+http://iptvcanales.com/xw/peliculas.php?movie=097
+#EXTINF:-1,QUE PASO AYER 3
+http://iptvcanales.com/xw/peliculas.php?movie=098
+#EXTINF:-1,RAPIDOS Y FURIOSOS 1
+http://iptvcanales.com/xw/peliculas.php?movie=099
+#EXTINF:-1,RAPIDOS Y FURIOSOS 2
+http://iptvcanales.com/xw/peliculas.php?movie=100
+#EXTINF:-1,RAPIDOS Y FURIOSOS 3
+http://iptvcanales.com/xw/peliculas.php?movie=101
+#EXTINF:-1,RAPIDOS Y FURIOSOS 4
+http://iptvcanales.com/xw/peliculas.php?movie=102
+#EXTINF:-1,RAPIDOS Y FURIOSOS 5
+http://iptvcanales.com/xw/peliculas.php?movie=103
+#EXTINF:-1,RAPIDOS Y FURIOSOS 6
+http://iptvcanales.com/xw/peliculas.php?movie=104
+#EXTINF:-1,RAPIDOS Y FURIOSOS 7
+http://iptvcanales.com/xw/peliculas.php?movie=105
+#EXTINF:-1,RESCATANDO A PAPA
+http://iptvcanales.com/xw/peliculas.php?movie=106
+#EXTINF:-1,RESCATE EN LA ANTÁRTIDA (2006)
+http://iptvcanales.com/xw/peliculas.php?movie=107
+#EXTINF:-1,RESIDENT EVIL 1
+http://iptvcanales.com/xw/peliculas.php?movie=108
+#EXTINF:-1,RESIDENT EVIL 2
+http://iptvcanales.com/xw/peliculas.php?movie=109
+#EXTINF:-1,RESIDENT EVIL 3
+http://iptvcanales.com/xw/peliculas.php?movie=110
+#EXTINF:-1,RESIDENT EVIL 4
+http://iptvcanales.com/xw/peliculas.php?movie=111
+#EXTINF:-1,RESIDENT EVIL 5
+http://iptvcanales.com/xw/peliculas.php?movie=112
+#EXTINF:-1,ROBIN HOOD (1973)
+http://iptvcanales.com/xw/peliculas.php?movie=113
+#EXTINF:-1,SECRETARIAT (2010)
+http://iptvcanales.com/xw/peliculas.php?movie=114
+#EXTINF:-1,SED DE VENGANZA
+http://iptvcanales.com/xw/peliculas.php?movie=115
+#EXTINF:-1,SI DECIDO QUEDARME
+http://iptvcanales.com/xw/peliculas.php?movie=116
+#EXTINF:-1,SOLO PARA PAREJAS
+http://iptvcanales.com/xw/peliculas.php?movie=117
+#EXTINF:-1,STEP UP ALL IN
+http://iptvcanales.com/xw/peliculas.php?movie=118
+#EXTINF:-1,SUEÑOS SOBRE HIELO (2005)
+http://iptvcanales.com/xw/peliculas.php?movie=119
+#EXTINF:-1,TAMMY
+http://iptvcanales.com/xw/peliculas.php?movie=120
+#EXTINF:-1,TED
+http://iptvcanales.com/xw/peliculas.php?movie=121
+#EXTINF:-1,THE GUNMAN: EN LA MIRA (SUBTITULADA)
+http://iptvcanales.com/xw/peliculas.php?movie=122
+#EXTINF:-1,THOR 2 (2013)
+http://iptvcanales.com/xw/peliculas.php?movie=123
+#EXTINF:-1,TITANES DEL PACIFICO
+http://iptvcanales.com/xw/peliculas.php?movie=124
+#EXTINF:-1,TRANSFORMERS 1
+http://iptvcanales.com/xw/peliculas.php?movie=125
+#EXTINF:-1,TRANSFORMERS 2
+http://iptvcanales.com/xw/peliculas.php?movie=126
+#EXTINF:-1,TRANSFORMERS 3
+http://iptvcanales.com/xw/peliculas.php?movie=127
+#EXTINF:-1,UN DESMADRE DE MADRES
+http://iptvcanales.com/xw/peliculas.php?movie=128
+#EXTINF:-1,UN DESMADRE DE VIAJE
+http://iptvcanales.com/xw/peliculas.php?movie=129
+#EXTINF:-1,UN GOLPE DE TALENTO
+http://iptvcanales.com/xw/peliculas.php?movie=130
+#EXTINF:-1,UNA LOCA ENTREVISTA
+http://iptvcanales.com/xw/peliculas.php?movie=131
+#EXTINF:-1,WHIPLASH
+http://iptvcanales.com/xw/peliculas.php?movie=132
+#EXTINF:-1,X-MEN DIAS DEL FUTURO PASADO
+http://iptvcanales.com/xw/peliculas.php?movie=133
+#EXTINF:-1,TRON: EL LEGADO (2010)
+http://iptvcanales.com/xw/peliculas.php?movie=134
+#EXTINF:-1,VIDA SALVAJE (2006)
+http://iptvcanales.com/xw/peliculas.php?movie=135
+#EXTINF:-1,VOLUNTAD DE HIERRO (1994)
+http://iptvcanales.com/xw/peliculas.php?movie=136
+#EXTINF:-1,FRANCOTIRADOR
+http://iptvcanales.com/xw/peliculas.php?movie=137
+#EXTINF:-1,EL JUGADOR
+http://iptvcanales.com/xw/peliculas.php?movie=138
+#EXTINF:-1,EL HOBBIT: UN VIAJE INESPERADO
+http://iptvcanales.com/xw/peliculas.php?movie=139
+#EXTINF:-1,EL HOBBIT: LA DESOLACION DE SMAUG
+http://iptvcanales.com/xw/peliculas.php?movie=140
+#EXTINF:-1,EL HOBBIT: LA BATALLA DE LOS 5 EJERCITOS
+http://iptvcanales.com/xw/peliculas.php?movie=141
