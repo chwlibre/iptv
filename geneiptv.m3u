@@ -242,751 +242,752 @@ http://cdn.ztreaming.com/t13radio/mobile.m3u8
 
 #EXTINF:0,-Premium-
 
-#EXTINF:-1,ESPN HD
+#EXTINF:-1 group-title="PREMIUM",ESPN HD
 http://iptv.latino-webtv.com/tp.m3u8?ch=516&cl=5
 
-#EXTINF:-1,ESPN
+#EXTINF:-1 group-title="PREMIUM",ESPN
 http://iptv.latino-webtv.com/tp.m3u8?ch=558&cl=3
 
-#EXTINF:-1,ESPN 2
+#EXTINF:-1 group-title="PREMIUM",ESPN 2
 http://iptv.latino-webtv.com/tp.m3u8?ch=561&cl=3
 
-#EXTINF:-1,ESPN 3
+#EXTINF:-1 group-title="PREMIUM",ESPN 3
 http://iptv.latino-webtv.com/tp.m3u8?ch=520&cl=3
 
-#EXTINF:-1,Fox Sports
+#EXTINF:-1 group-title="PREMIUM",Fox Sports
 http://iptv.latino-webtv.com/tp.m3u8?ch=522&cl=3
 
-#EXTINF:-1,Fox Sports 2
+#EXTINF:-1 group-title="PREMIUM",Fox Sports 2
 http://iptv.latino-webtv.com/tp.m3u8?ch=527&cl=3
 
-#EXTINF:-1,Fox Sports 3
+#EXTINF:-1 group-title="PREMIUM",Fox Sports 3
 http://iptv.latino-webtv.com/stkr.php?canal=FoxSports3SD&cm=3806
 
-#EXTINF:-1,Bein Ñ Sports
+#EXTINF:-1 group-title="PREMIUM",Bein Ñ Sports
 http://iptv.latino-webtv.com/stkr.php?canal=BeinSportsLA&cm=2527
 
-#EXTINF:-1,Win Sports
+#EXTINF:-1 group-title="PREMIUM",Win Sports
 http://iptv.latino-webtv.com/win.m3u8
 
-#EXTINF:-1,UFC Network
+#EXTINF:-1 group-title="PREMIUM",UFC Network
 http://iptv.latino-webtv.com/stkr.php?canal=UFCNetworkLA&cm=1047
 
-#EXTINF:0,Planeta Futbol
+#EXTINF:-1 group-title="PREMIUM",Planeta Futbol
 http://iptv.latino-webtv.com/stkr.php?canal=PlanetaFutbolLA&cm=1477
 
-#EXTINF:0,F1 Latino
+#EXTINF:-1 group-title="PREMIUM",F1 Latino
 http://iptv.latino-webtv.com/stkr.php?canal=F1LA&cm=1695
 
-#EXTINF:-1,Fox
+#EXTINF:-1 group-title="PREMIUM",Fox
 http://iptv.latino-webtv.com/tp.m3u8?ch=201&cl=3
 
-#EXTINF:-1,Fox HD
+#EXTINF:-1 group-title="PREMIUM",Fox HD
 http://iptv.latino-webtv.com/stkr.php?canal=FOXHDLA&cm=3947
 
-#EXTINF:-1,Fox 1 HD
+#EXTINF:-1 group-title="PREMIUM",Fox 1 HD
 http://iptv.latino-webtv.com/tp.m3u8?ch=415&cl=3
 
-#EXTINF:-1,Cinecanal
+#EXTINF:-1 group-title="PREMIUM",Cinecanal
 http://iptv.latino-webtv.com/tp.m3u8?ch=480&cl=3
 
-#EXTINF:-1,Cinecanal HD
+#EXTINF:-1 group-title="PREMIUM",Cinecanal HD
 http://iptv.latino-webtv.com/tp.m3u8?ch=430&cl=3
 
-#EXTINF:-1,AXN
+#EXTINF:-1 group-title="PREMIUM",AXN
 http://iptv.latino-webtv.com/tp.m3u8?ch=213&cl=3
 
-#EXTINF:-1,Universal Channel
+#EXTINF:-1 group-title="PREMIUM",Universal Channel
 http://iptv.latino-webtv.com/tp.m3u8?ch=207&cl=3
 
-#EXTINF:-1,HBO
+#EXTINF:-1 group-title="PREMIUM",HBO
 http://iptv.latino-webtv.com/stkr.php?canal=HBOLASD&cm=385
 
-#EXTINF:-1,HBO 2
+#EXTINF:-1 group-title="PREMIUM",HBO 2
 http://iptv.latino-webtv.com/stkr.php?canal=HBO2SD&cm=365
 
-#EXTINF:-1,HBO Plus
+#EXTINF:-1 group-title="PREMIUM",HBO Plus
 http://iptv.latino-webtv.com/stkr.php?canal=HBOPlusLASD&cm=453
 
-#EXTINF:-1,HBO Plus 2
+#EXTINF:-1 group-title="PREMIUM",HBO Plus 2
 http://iptv.latino-webtv.com/stkr.php?canal=HBOPus2LASD&cm=369
 
-#EXTINF:-1,HBO Family
+#EXTINF:-1 group-title="PREMIUM",HBO Family
 http://iptv.latino-webtv.com/stkr.php?canal=HBOFamilyLASD&cm=449
 
-#EXTINF:-1,HBO Signature
+#EXTINF:-1 group-title="PREMIUM",HBO Signature
 http://iptv.latino-webtv.com/stkr.php?canal=HBOSignatureLASD&cm=451
 
-#EXTINF:-1,MaxPrime
+#EXTINF:-1 group-title="PREMIUM",MaxPrime
 http://iptv.latino-webtv.com/stkr.php?canal=MaxPrimeLASD&cm=377
 
-#EXTINF:-1,MAX
+#EXTINF:-1 group-title="PREMIUM",MAX
 http://iptv.latino-webtv.com/stkr.php?canal=MaxLASD&cm=381
 
-#EXTINF:-1,Max UP
+#EXTINF:-1 group-title="PREMIUM",Max UP
 http://iptv.latino-webtv.com/stkr.php?canal=MaxUPSD&cm=469
 
-#EXTINF:-1,TNT
+#EXTINF:-1 group-title="PREMIUM",TNT
 http://iptv.latino-webtv.com/tp.m3u8?ch=435&cl=3
 
-#EXTINF:-1,TNT HD
+#EXTINF:-1 group-title="PREMIUM",TNT HD
 http://iptv.latino-webtv.com/stkr.php?canal=TNTAmericaLatinaHD&cm=262
 
-#EXTINF:-1,TNT Series
+#EXTINF:-1 group-title="PREMIUM",TNT Series
 http://iptv.latino-webtv.com/tp.m3u8?ch=266&cl=3
 
-#EXTINF:-1,FX
+#EXTINF:-1 group-title="PREMIUM",FX
 http://iptv.latino-webtv.com/stkr.php?canal=FXLASD&cm=431
 
-#EXTINF:-1,FX HD
+#EXTINF:-1 group-title="PREMIUM",FX HD
 http://iptv.latino-webtv.com/tp.m3u8?ch=209&cl=1
 
-#EXTINF:-1,Sony
+#EXTINF:-1 group-title="PREMIUM",Sony
 http://iptv.latino-webtv.com/tp.m3u8?ch=203&cl=3
 
-#EXTINF:-1,Space
+#EXTINF:-1 group-title="PREMIUM",Space
 http://iptv.latino-webtv.com/stkr.php?canal=SpaceLA&cm=2489
 
-#EXTINF:-1,Space HD
+#EXTINF:-1 group-title="PREMIUM",Space HD
 http://iptv.latino-webtv.com/tp.m3u8?ch=445&cl=3
 
-#EXTINF:-1,Warner Channel
+#EXTINF:-1 group-title="PREMIUM",Warner Channel
 http://iptv.latino-webtv.com/tp.m3u8?ch=492&cl=3
 
-#EXTINF:-1,AMC
+#EXTINF:-1 group-title="PREMIUM",AMC
 http://iptv.latino-webtv.com/tp.m3u8?ch=444&cl=3
 
-#EXTINF:-1,Cinemax
+#EXTINF:-1 group-title="PREMIUM",Cinemax
 http://iptv.latino-webtv.com/tp.m3u8?ch=481&cl=3
 
-#EXTINF:-1,Fox Action HD
+#EXTINF:-1 group-title="PREMIUM",Fox Action HD
 http://iptv.latino-webtv.com/tp.m3u8?ch=416&cl=3
 
-#EXTINF:-1,Fox Cinèma
+#EXTINF:-1 group-title="PREMIUM",Fox Cinèma
 http://iptv.latino-webtv.com/tp.m3u8?ch=421&cl=3
 
-#EXTINF:-1,Fox Classics
+#EXTINF:-1 group-title="PREMIUM",Fox Classics
 http://iptv.latino-webtv.com/tp.m3u8?ch=424&cl=3
 
-#EXTINF:-1,Fox Family
+#EXTINF:-1 group-title="PREMIUM",Fox Family
 http://iptv.latino-webtv.com/stkr.php?canal=FOXFamilyLASD&cm=467
 
-#EXTINF:-1,Fox Movies HD
+#EXTINF:-1 group-title="PREMIUM",Fox Movies HD
 http://iptv.latino-webtv.com/tp.m3u8?ch=417&cl=3
 
-#EXTINF:-1,Golden HD
+#EXTINF:-1 group-title="PREMIUM",Golden HD
 http://iptv.latino-webtv.com/tp.m3u8?ch=436&cl=3
 
-#EXTINF:-1,Golden Edge
+#EXTINF:-1 group-title="PREMIUM",Golden Edge
 http://iptv.latino-webtv.com/tp.m3u8?ch=484&cl=3
 
-#EXTINF:-1,Golden Premier 1
+#EXTINF:-1 group-title="PREMIUM",Golden Premier 1
 http://iptv.latino-webtv.com/stkr.php?canal=GoldenPremier1LA&cm=4777
 
-#EXTINF:-1,Golden Premier 2
+#EXTINF:-1 group-title="PREMIUM",Golden Premier 2
 http://iptv.latino-webtv.com/stkr.php?canal=GoldenPremiere2LA&cm=4772
 
-#EXTINF:-1,Studio Universal
+#EXTINF:-1 group-title="PREMIUM",Studio Universal
 http://iptv.latino-webtv.com/tp.m3u8?ch=492&cl=3
 
-#EXTINF:-1,Paramount Channel
+#EXTINF:-1 group-title="PREMIUM",Paramount Channel
 http://iptv.latino-webtv.com/stkr.php?canal=ParamountChannelLatinAmericaHD&cm=260
 
-#EXTINF:-1,MTV
+#EXTINF:-1 group-title="PREMIUM",MTV
 http://iptv.latino-webtv.com/tp.m3u8?ch=726&cl=3
 
-#EXTINF:-1,MTV Hits
+#EXTINF:-1 group-title="PREMIUM",MTV Hits
 http://iptv.latino-webtv.com/tp.m3u8?ch=727&cl=3
 
-#EXTINF:-1,Cine Dinamita
+#EXTINF:-1 group-title="PREMIUM",Cine Dinamita
 http://iptv.latino-webtv.com/stkr.php?canal=CineDinamitaLA&cm=3465
 
-#EXTINF:-1,CineLatino
+#EXTINF:-1 group-title="PREMIUM",CineLatino
 http://iptv.latino-webtv.com/stkr.php?canal=CineLatinoSD&cm=477
 
-#EXTINF:-1,BBC Entertainment
+#EXTINF:-1 group-title="PREMIUM",BBC Entertainment
 http://iptv.latino-webtv.com/tp.m3u8?ch=253&cl=3
 
-#EXTINF:-1,E!
+#EXTINF:-1 group-title="PREMIUM",E!
 http://iptv.latino-webtv.com/tp.m3u8?ch=255&cl=3
 
-#EXTINF:-1,Film Zone
+#EXTINF:-1 group-title="PREMIUM",Film Zone
 http://iptv.latino-webtv.com/tp.m3u8?ch=440&cl=3
 
-#EXTINF:-1,MundoFox
+#EXTINF:-1 group-title="PREMIUM",MundoFox
 http://iptv.latino-webtv.com/stkr.php?canal=MundoFoxSD&cm=429
 
-#EXTINF:-1,MultiPremier
+#EXTINF:-1 group-title="PREMIUM",MultiPremier
 http://iptv.latino-webtv.com/stkr.php?canal=MultiPremierLA&cm=3293
 
-#EXTINF:-1,Discovery Channel
+#EXTINF:-1 group-title="PREMIUM",Discovery Channel
 http://iptv.latino-webtv.com/tp.m3u8?ch=371&cl=3
 
-#EXTINF:-1,Investigacion Discovery
+#EXTINF:-1 group-title="PREMIUM",Investigacion Discovery
 http://iptv.latino-webtv.com/tp.m3u8?ch=263&cl=3
 
-#EXTINF:-1,National Geographic
+#EXTINF:-1 group-title="PREMIUM",National Geographic
 http://iptv.latino-webtv.com/tp.m3u8?ch=377&cl=3
 
-#EXTINF:-1,NatGeo Wild HD
+#EXTINF:-1 group-title="PREMIUM",NatGeo Wild HD
 http://iptv.latino-webtv.com/tp.m3u8?ch=355&cl=3
 
-#EXTINF:-1,History HD
+#EXTINF:-1 group-title="PREMIUM",History HD
 http://iptv.latino-webtv.com/tp.m3u8?ch=353&cl=3
 
-#EXTINF:-1,H2
+#EXTINF:-1 group-title="PREMIUM",H2
 http://iptv.latino-webtv.com/stkr.php?canal=H2LASD&cm=297
 
-#EXTINF:-1,Animal Planet
+#EXTINF:-1 group-title="PREMIUM",Animal Planet
 http://iptv.latino-webtv.com/tp.m3u8?ch=373&cl=3
 
-#EXTINF:-1,A&E HD
+#EXTINF:-1 group-title="PREMIUM",A&E HD
 http://iptv.latino-webtv.com/tp.m3u8?ch=259&cl=3
 
-#EXTINF:-1,Fox Life
+#EXTINF:-1 group-title="PREMIUM",Fox Life
 http://iptv.latino-webtv.com/tp.m3u8?ch=271&cl=3
 
-#EXTINF:-1,Casa Club TV
+#EXTINF:-1 group-title="PREMIUM",Casa Club TV
 http://iptv.latino-webtv.com/tp.m3u8?ch=274&cl=3
 
-#EXTINF:-1,Canal de las Estrellas
+#EXTINF:-1 group-title="PREMIUM",Canal de las Estrellas
 http://iptv.latino-webtv.com/tp.m3u8?ch=102&cl=3
 
-#EXTINF:-1,Comedy Central
+#EXTINF:-1 group-title="PREMIUM",Comedy Central
 http://iptv.latino-webtv.com/tp.m3u8?ch=217&cl=3
 
-#EXTINF:-1,Discovery Theather HD
+#EXTINF:-1 group-title="PREMIUM",Discovery Theather HD
 http://iptv.latino-webtv.com/tp.m3u8?ch=351&cl=3
 
-#EXTINF:-1,Discovery Science
+#EXTINF:-1 group-title="PREMIUM",Discovery Science
 http://iptv.latino-webtv.com/tp.m3u8?ch=381&cl=3
 
-#EXTINF:-1,Discovery Civilization
+#EXTINF:-1 group-title="PREMIUM",Discovery Civilization
 http://iptv.latino-webtv.com/tp.m3u8?ch=382&cl=3
 
-#EXTINF:-1,Discovery Turbo
+#EXTINF:-1 group-title="PREMIUM",Discovery Turbo
 http://iptv.latino-webtv.com/tp.m3u8?ch=383&cl=3
 
-#EXTINF:-1,Home and Health
+#EXTINF:-1 group-title="PREMIUM",Home and Health
 http://iptv.latino-webtv.com/tp.m3u8?ch=374&cl=3
 
-#EXTINF:-1,El Gourmet
+#EXTINF:-1 group-title="PREMIUM",El Gourmet
 http://iptv.latino-webtv.com/stkr.php?canal=ElgourmetLA&cm=1033
 
-#EXTINF:-1,TruTV
+#EXTINF:-1 group-title="PREMIUM",TruTV
 http://iptv.latino-webtv.com/tp.m3u8?ch=215&cl=3
 
-#EXTINF:-1,Telemundo
+#EXTINF:-1 group-title="PREMIUM",Telemundo
 http://iptv.latino-webtv.com/tp.m3u8?ch=277&cl=3
 
-#EXTINF:-1,Lifetime
+#EXTINF:-1 group-title="PREMIUM",Lifetime
 http://iptv.latino-webtv.com/tp.m3u8?ch=379&cl=3
 
-#EXTINF:-1,Distrito Comedia
+#EXTINF:-1 group-title="PREMIUM",Distrito Comedia
 http://iptv.latino-webtv.com/tp.m3u8?ch=272&cl=3
 
-#EXTINF:-1,Tlnovelas
+#EXTINF:-1 group-title="PREMIUM",Tlnovelas
 http://iptv.latino-webtv.com/tp.m3u8?ch=275&cl=3
 
-#EXTINF:-1,Glitz
+#EXTINF:-1 group-title="PREMIUM",Glitz
 http://iptv.latino-webtv.com/tp.m3u8?ch=270&cl=3
 
-#EXTINF:-1,SyFy
+#EXTINF:-1 group-title="PREMIUM",SyFy
 http://iptv.latino-webtv.com/tp.m3u8?ch=257&cl=3
 
-#EXTINF:-1,TLC
+#EXTINF:-1 group-title="PREMIUM",TLC
 http://iptv.latino-webtv.com/tp.m3u8?ch=386&cl=3
 
-#EXTINF:-1,Enlace TV
+#EXTINF:-1 group-title="PREMIUM",Enlace TV
 http://iptv.latino-webtv.com/tp.m3u8?ch=391&cl=3
 
-#EXTINF:-1,Disney Channel
+#EXTINF:-1 group-title="PREMIUM",Disney Channel
 http://iptv.latino-webtv.com/tp.m3u8?ch=312&cl=3
 
-#EXTINF:-1,Cartoon Network
+#EXTINF:-1 group-title="PREMIUM",Cartoon Network
 http://iptv.latino-webtv.com/tp.m3u8?ch=320&cl=3
 
-#EXTINF:-1,Disney XD
+#EXTINF:-1 group-title="PREMIUM",Disney XD
 http://iptv.latino-webtv.com/tp.m3u8?ch=322&cl=3
 
-#EXTINF:-1,Nickelodeon
+#EXTINF:-1 group-title="PREMIUM",Nickelodeon
 http://iptv.latino-webtv.com/tp.m3u8?ch=317&cl=3
 
-#EXTINF:-1,Nick HD
+#EXTINF:-1 group-title="PREMIUM",Nick HD
 http://iptv.latino-webtv.com/tp.m3u8?ch=315&cl=3
 
-#EXTINF:-1,Nicktoons
+#EXTINF:-1 group-title="PREMIUM",Nicktoons
 http://iptv.latino-webtv.com/tp.m3u8?ch=314&cl=3
 
-#EXTINF:-1,Boomerang
+#EXTINF:-1 group-title="PREMIUM",Boomerang
 http://iptv.latino-webtv.com/tp.m3u8?ch=324&cl=3
 
-#EXTINF:-1,Tooncast
+#EXTINF:-1 group-title="PREMIUM",Tooncast
 http://iptv.latino-webtv.com/tp.m3u8?ch=328&cl=3
 
-#EXTINF:-1,Discovery Kids
+#EXTINF:-1 group-title="PREMIUM",Discovery Kids
 http://iptv.latino-webtv.com/tp.m3u8?ch=303&cl=3
 
-#EXTINF:-1,Disney Jr
+#EXTINF:-1 group-title="PREMIUM",Disney Jr
 http://iptv.latino-webtv.com/tp.m3u8?ch=308&cl=3
 
-#EXTINF:-1,Nick Jr
+#EXTINF:-1 group-title="PREMIUM",Nick Jr
 http://iptv.latino-webtv.com/tp.m3u8?ch=310&cl=3
 
-#EXTINF:-1,BabyTV
+#EXTINF:-1 group-title="PREMIUM",BabyTV
 http://iptv.latino-webtv.com/stkr.php?canal=BabyTVLASD&cm=317
 
-#EXTINF:0,RCN HD
+#EXTINF:-1 group-title="PREMIUM",RCN HD
 http://iptv.latino-webtv.com/stream/RCN-HD.m3u8
 
-#EXTINF:-1,CNN En Español
+#EXTINF:-1 group-title="PREMIUM",CNN En Español
 http://iptv.latino-webtv.com/stkr.php?canal=CNNLASD&cm=1855
 
-#EXTINF:0,RCN Novelas
+#EXTINF:-1 group-title="PREMIUM",RCN Novelas
 http://iptv.latino-webtv.com/stkr.php?canal=RCNnovelasLA&cm=1493
 
-#EXTINF:-1,Pasiones
+#EXTINF:-1 group-title="PREMIUM",Pasiones
 http://iptv.latino-webtv.com/stkr.php?canal=PasionesSD&cm=295
 
-#EXTINF:-1,NTN 24
+#EXTINF:-1 group-title="PREMIUM",NTN 24
 http://iptv.latino-webtv.com/stkr.php?canal=NTN24LA&cm=1601
 
-#EXTINF:-1,TCM
+#EXTINF:-1 group-title="PREMIUM",TCM
 http://iptv.latino-webtv.com/stkr.php?canal=TCMSD&cm=481
 
-#EXTINF:-1,Multimedios
+#EXTINF:-1 group-title="PREMIUM",Multimedios
 http://iptv.latino-webtv.com/stkr.php?canal=MultimediosLA&cm=1459
 
-#EXTINF:-1,TVE
+#EXTINF:-1 group-title="PREMIUM",TVE
 http://iptv.latino-webtv.com/stkr.php?canal=TVELASD&cm=981
 
-#EXTINF:0,TDN Mexico
+#EXTINF:-1 group-title="PREMIUM",TDN Mexico
 http://iptv.latino-webtv.com/stkr.php?canal=TDNMXLA&cm=1059
 
-#EXTINF:-1,ESTRELLAS_HD
+#EXTINF:-1 group-title="PREMIUM",ESTRELLAS_HD
 http://200.76.77.237/LIVE/H01/CANAL102/PROFILE02.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,FOROTV_HD
+#EXTINF:-1 group-title="PREMIUM",FOROTV_HD
 http://200.76.77.237/LIVE/H01/CANAL104/PROFILE02.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,CANAL5_HD
+#EXTINF:-1 group-title="PREMIUM",CANAL5_HD
 http://200.76.77.237/LIVE/H01/CANAL105/PROFILE02.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,AZTECA7
+#EXTINF:-1 group-title="PREMIUM",AZTECA7
 http://200.76.77.237/LIVE/H01/CANAL107/PROFILE02.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,GALATV_HD
+#EXTINF:-1 group-title="PREMIUM",GALATV_HD
 http://200.76.77.237/LIVE/H01/CANAL109/PROFILE02.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,ONCE_HD
+#EXTINF:-1 group-title="PREMIUM",ONCE_HD
 http://200.76.77.237/LIVE/H01/CANAL111/PROFILE02.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,TRECE_HD
+#EXTINF:-1 group-title="PREMIUM",TRECE_HD
 http://200.76.77.237/LIVE/H01/CANAL113/PROFILE02.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,PROYECTO40_HD
+#EXTINF:-1 group-title="PREMIUM",PROYECTO40_HD
 http://200.76.77.237/LIVE/H01/CANAL140/PROFILE02.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,CANAL28
+#EXTINF:-1 group-title="PREMIUM",CANAL28
 http://200.76.77.237/LIVE/H01/CANAL143/PROFILE02.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,UNO_MAS_UNO
+#EXTINF:-1 group-title="PREMIUM",UNO_MAS_UNO
 http://200.76.77.237/LIVE/H01/CANAL145/PROFILE02.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,TELEFORMULA
+#EXTINF:-1 group-title="PREMIUM",TELEFORMULA
 http://200.76.77.237/LIVE/H01/CANAL161/PROFILE02.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,MULTIMEDIOS_HD
+#EXTINF:-1 group-title="PREMIUM",MULTIMEDIOS_HD
 http://200.76.77.237/LIVE/H01/CANAL167/PROFILE02.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,HMX
+#EXTINF:-1 group-title="PREMIUM",HMX
 http://200.76.77.237/LIVE/H01/CANAL169/PROFILE02.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,FOX
+#EXTINF:-1 group-title="PREMIUM",FOX
 http://200.76.77.237/LIVE/H01/CANAL201/PROFILE02.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,SONY
+#EXTINF:-1 group-title="PREMIUM",SONY
 http://200.76.77.237/LIVE/H01/CANAL203/PROFILE02.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,WARNER_HD
+#EXTINF:-1 group-title="PREMIUM",WARNER_HD
 http://200.76.77.237/LIVE/H01/CANAL205/PROFILE02.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,UNIVERSAL_HD
+#EXTINF:-1 group-title="PREMIUM",UNIVERSAL_HD
 http://200.76.77.237/LIVE/H01/CANAL207/PROFILE02.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,FX_HD
+#EXTINF:-1 group-title="PREMIUM",FX_HD
 http://200.76.77.237/LIVE/H01/CANAL209/PROFILE02.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,AE
+#EXTINF:-1 group-title="PREMIUM",AE
 http://200.76.77.237/LIVE/H01/CANAL211/PROFILE02.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,AXN
+#EXTINF:-1 group-title="PREMIUM",AXN
 http://200.76.77.237/LIVE/H01/CANAL213/PROFILE02.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,TRUTV_HD
+#EXTINF:-1 group-title="PREMIUM",TRUTV_HD
 http://200.76.77.237/LIVE/H01/CANAL215/PROFILE02.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,COMEDY_CENTRAL
+#EXTINF:-1 group-title="PREMIUM",COMEDY_CENTRAL
 http://200.76.77.237/LIVE/H01/CANAL217/PROFILE02.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,UNIVISION
+#EXTINF:-1 group-title="PREMIUM",UNIVISION
 http://200.76.77.237/LIVE/H01/CANAL218/PROFILE02.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,AZTECA_CORAZON
+#EXTINF:-1 group-title="PREMIUM",AZTECA_CORAZON
 http://200.76.77.237/LIVE/H01/CANAL250/PROFILE02.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,FOX
+#EXTINF:-1 group-title="PREMIUM",FOX
 http://200.76.77.237/LIVE/H01/CANAL251/PROFILE02.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,BBC
+#EXTINF:-1 group-title="PREMIUM",BBC
 http://200.76.77.237/LIVE/H01/CANAL253/PROFILE02.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,E
+#EXTINF:-1 group-title="PREMIUM",E
 http://200.76.77.237/LIVE/H01/CANAL255/PROFILE02.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,UNIVERSAL
+#EXTINF:-1 group-title="PREMIUM",UNIVERSAL
 http://200.76.77.237/LIVE/H01/CANAL256/PROFILE02.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,SYFY
+#EXTINF:-1 group-title="PREMIUM",SYFY
 http://200.76.77.237/LIVE/H01/CANAL257/PROFILE02.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,FX
+#EXTINF:-1 group-title="PREMIUM",FX
 http://200.76.77.237/LIVE/H01/CANAL258/PROFILE02.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,ID
+#EXTINF:-1 group-title="PREMIUM",ID
 http://200.76.77.237/LIVE/H01/CANAL263/PROFILE02.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,TNT_SERIES
+#EXTINF:-1 group-title="PREMIUM",TNT_SERIES
 http://200.76.77.237/LIVE/H01/CANAL266/PROFILE02.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,GOURMET
+#EXTINF:-1 group-title="PREMIUM",GOURMET
 http://200.76.77.237/LIVE/H01/CANAL268/PROFILE02.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,GARAGE_TV
+#EXTINF:-1 group-title="PREMIUM",GARAGE_TV
 http://200.76.77.237/LIVE/H01/CANAL269/PROFILE02.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,GLITZ
+#EXTINF:-1 group-title="PREMIUM",GLITZ
 http://200.76.77.237/LIVE/H01/CANAL270/PROFILE02.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,FOX_LIFE
+#EXTINF:-1 group-title="PREMIUM",FOX_LIFE
 http://200.76.77.237/LIVE/H01/CANAL271/PROFILE02.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,DISTRITO_COMEDIA
+#EXTINF:-1 group-title="PREMIUM",DISTRITO_COMEDIA
 http://200.76.77.237/LIVE/H01/CANAL272/PROFILE02.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,TBS
+#EXTINF:-1 group-title="PREMIUM",TBS
 http://200.76.77.237/LIVE/H01/CANAL273/PROFILE02.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,CASA
+#EXTINF:-1 group-title="PREMIUM",CASA
 http://200.76.77.237/LIVE/H01/CANAL274/PROFILE02.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,TLNOVELAS
+#EXTINF:-1 group-title="PREMIUM",TLNOVELAS
 http://200.76.77.237/LIVE/H01/CANAL275/PROFILE02.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,DISCOVERY_KIDS
+#EXTINF:-1 group-title="PREMIUM",DISCOVERY_KIDS
 http://200.76.77.237/LIVE/H01/CANAL303/PROFILE02.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,CBEEBIES
+#EXTINF:-1 group-title="PREMIUM",CBEEBIES
 http://200.76.77.237/LIVE/H01/CANAL305/PROFILE02.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,DISNEY_JR
+#EXTINF:-1 group-title="PREMIUM",DISNEY_JR
 http://200.76.77.237/LIVE/H01/CANAL308/PROFILE02.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,NICK_JR
+#EXTINF:-1 group-title="PREMIUM",NICK_JR
 http://200.76.77.237/LIVE/H01/CANAL310/PROFILE02.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,DISNEY_CHANNEL
+#EXTINF:-1 group-title="PREMIUM",DISNEY_CHANNEL
 http://200.76.77.237/LIVE/H01/CANAL312/PROFILE02.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,NICKTOONS
+#EXTINF:-1 group-title="PREMIUM",NICKTOONS
 http://200.76.77.237/LIVE/H01/CANAL314/PROFILE02.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,NICK_HD
+#EXTINF:-1 group-title="PREMIUM",NICK_HD
 http://200.76.77.237/LIVE/H01/CANAL315/PROFILE02.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,NICK
+#EXTINF:-1 group-title="PREMIUM",NICK
 http://200.76.77.237/LIVE/H01/CANAL317/PROFILE02.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,CARTOON_NETWORK
+#EXTINF:-1 group-title="PREMIUM",CARTOON_NETWORK
 http://200.76.77.237/LIVE/H01/CANAL320/PROFILE02.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,DISNEY_XD
+#EXTINF:-1 group-title="PREMIUM",DISNEY_XD
 http://200.76.77.237/LIVE/H01/CANAL322/PROFILE02.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,BOOMERANG
+#EXTINF:-1 group-title="PREMIUM",BOOMERANG
 http://200.76.77.237/LIVE/H01/CANAL324/PROFILE02.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,TIIN
+#EXTINF:-1 group-title="PREMIUM",TIIN
 http://200.76.77.237/LIVE/H01/CANAL325/PROFILE02.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,TOONCAST
+#EXTINF:-1 group-title="PREMIUM",TOONCAST
 http://200.76.77.237/LIVE/H01/CANAL328/PROFILE02.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,DISC_THEATER
+#EXTINF:-1 group-title="PREMIUM",DISC_THEATER
 http://200.76.77.237/LIVE/H01/CANAL351/PROFILE02.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,TU_HISTORY
+#EXTINF:-1 group-title="PREMIUM",TU_HISTORY
 http://200.76.77.237/LIVE/H01/CANAL353/PROFILE02.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,NATGEO_WILD
+#EXTINF:-1 group-title="PREMIUM",NATGEO_WILD
 http://200.76.77.237/LIVE/H01/CANAL355/PROFILE02.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,DISC_WORLD
+#EXTINF:-1 group-title="PREMIUM",DISC_WORLD
 http://200.76.77.237/LIVE/H01/CANAL356/PROFILE02.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,DISCOVERY_CHANNEL
+#EXTINF:-1 group-title="PREMIUM",DISCOVERY_CHANNEL
 http://200.76.77.237/LIVE/H01/CANAL371/PROFILE02.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,ANIMAL_PLANET
+#EXTINF:-1 group-title="PREMIUM",ANIMAL_PLANET
 http://200.76.77.237/LIVE/H01/CANAL373/PROFILE02.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,H_AND_H
+#EXTINF:-1 group-title="PREMIUM",H_AND_H
 http://200.76.77.237/LIVE/H01/CANAL374/PROFILE02.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,NATGEO_CHANNEL
+#EXTINF:-1 group-title="PREMIUM",NATGEO_CHANNEL
 http://200.76.77.237/LIVE/H01/CANAL377/PROFILE02.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,LIFETIME
+#EXTINF:-1 group-title="PREMIUM",LIFETIME
 http://200.76.77.237/LIVE/H01/CANAL379/PROFILE02.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,DISC_SCIENCE
+#EXTINF:-1 group-title="PREMIUM",DISC_SCIENCE
 http://200.76.77.237/LIVE/H01/CANAL381/PROFILE02.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,DISC_CIVILZATION
+#EXTINF:-1 group-title="PREMIUM",DISC_CIVILZATION
 http://200.76.77.237/LIVE/H01/CANAL382/PROFILE02.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,TURBO
+#EXTINF:-1 group-title="PREMIUM",TURBO
 http://200.76.77.237/LIVE/H01/CANAL383/PROFILE02.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,TLC
+#EXTINF:-1 group-title="PREMIUM",TLC
 http://200.76.77.237/LIVE/H01/CANAL386/PROFILE02.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,WOBI
+#EXTINF:-1 group-title="PREMIUM",WOBI
 http://200.76.77.237/LIVE/H01/CANAL387/PROFILE02.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,FOX1_HD
+#EXTINF:-1 group-title="PREMIUM",FOX1_HD
 http://200.76.77.237/LIVE/H01/CANAL415/PROFILE02.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,FOX_ACTION_HD
+#EXTINF:-1 group-title="PREMIUM",FOX_ACTION_HD
 http://200.76.77.237/LIVE/H01/CANAL416/PROFILE02.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,FOX_MOVIES_HD
+#EXTINF:-1 group-title="PREMIUM",FOX_MOVIES_HD
 http://200.76.77.237/LIVE/H01/CANAL417/PROFILE02.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,FOX_CINEMA
+#EXTINF:-1 group-title="PREMIUM",FOX_CINEMA
 http://200.76.77.237/LIVE/H01/CANAL421/PROFILE02.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,FOX_CLASSICS
+#EXTINF:-1 group-title="PREMIUM",FOX_CLASSICS
 http://200.76.77.237/LIVE/H01/CANAL424/PROFILE02.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,CINECANAL+
+#EXTINF:-1 group-title="PREMIUM",CINECANAL+
 http://200.76.77.237/LIVE/H01/CANAL430/PROFILE02.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,TNT_HD
+#EXTINF:-1 group-title="PREMIUM",TNT_HD
 http://200.76.77.237/LIVE/H01/CANAL435/PROFILE02.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,GOLDEN_HD
+#EXTINF:-1 group-title="PREMIUM",GOLDEN_HD
 http://200.76.77.237/LIVE/H01/CANAL436/PROFILE02.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,FILM_ZONE
+#EXTINF:-1 group-title="PREMIUM",FILM_ZONE
 http://200.76.77.237/LIVE/H01/CANAL440/PROFILE02.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,DEPELICULA_HD
+#EXTINF:-1 group-title="PREMIUM",DEPELICULA_HD
 http://200.76.77.237/LIVE/H01/CANAL442/PROFILE02.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,AMC
+#EXTINF:-1 group-title="PREMIUM",AMC
 http://200.76.77.237/LIVE/H01/CANAL444/PROFILE02.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,SPACE
+#EXTINF:-1 group-title="PREMIUM",SPACE
 http://200.76.77.237/LIVE/H01/CANAL445/PROFILE02.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,FOX_CINEMA
+#EXTINF:-1 group-title="PREMIUM",FOX_CINEMA
 http://200.76.77.237/LIVE/H01/CANAL472/PROFILE02.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,FOX_FAMILY
+#EXTINF:-1 group-title="PREMIUM",FOX_FAMILY
 http://200.76.77.237/LIVE/H01/CANAL475/PROFILE02.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,FOX_CLASSICS
+#EXTINF:-1 group-title="PREMIUM",FOX_CLASSICS
 http://200.76.77.237/LIVE/H01/CANAL478/PROFILE02.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,CINECANAL
+#EXTINF:-1 group-title="PREMIUM",CINECANAL
 http://200.76.77.237/LIVE/H01/CANAL480/PROFILE02.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,CINEMAX
+#EXTINF:-1 group-title="PREMIUM",CINEMAX
 http://200.76.77.237/LIVE/H01/CANAL481/PROFILE02.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,TNT
+#EXTINF:-1 group-title="PREMIUM",TNT
 http://200.76.77.237/LIVE/H01/CANAL482/PROFILE02.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,EDGE
+#EXTINF:-1 group-title="PREMIUM",EDGE
 http://200.76.77.237/LIVE/H01/CANAL484/PROFILE02.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,AMC
+#EXTINF:-1 group-title="PREMIUM",AMC
 http://200.76.77.237/LIVE/H01/CANAL490/PROFILE02.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,SPACE
+#EXTINF:-1 group-title="PREMIUM",SPACE
 http://200.76.77.237/LIVE/H01/CANAL491/PROFILE02.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,STUDIO
+#EXTINF:-1 group-title="PREMIUM",STUDIO
 http://200.76.77.237/LIVE/H01/CANAL492/PROFILE02.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,iSAT
+#EXTINF:-1 group-title="PREMIUM",iSAT
 http://200.76.77.237/LIVE/H01/CANAL495/PROFILE02.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,TMC
+#EXTINF:-1 group-title="PREMIUM",TMC
 http://200.76.77.237/LIVE/H01/CANAL496/PROFILE02.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,ESPN_HD
+#EXTINF:-1 group-title="PREMIUM",ESPN_HD
 http://200.76.77.237/LIVE/H01/CANAL516/PROFILE02.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,ESPN_3
+#EXTINF:-1 group-title="PREMIUM",ESPN_3
 http://200.76.77.237/LIVE/H01/CANAL520/PROFILE02.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,FOXSPORTS
+#EXTINF:-1 group-title="PREMIUM",FOXSPORTS
 http://200.76.77.237/LIVE/H01/CANAL522/PROFILE02.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,FOXSPORTS_2
+#EXTINF:-1 group-title="PREMIUM",FOXSPORTS_2
 http://200.76.77.237/LIVE/H01/CANAL527/PROFILE02.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,PX
+#EXTINF:-1 group-title="PREMIUM",PX
 http://200.76.77.237/LIVE/H01/CANAL528/PROFILE02.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,ESPN
+#EXTINF:-1 group-title="PREMIUM",ESPN
 http://200.76.77.237/LIVE/H01/CANAL558/PROFILE02.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,ESPN_2
+#EXTINF:-1 group-title="PREMIUM",ESPN_2
 http://200.76.77.237/LIVE/H01/CANAL561/PROFILE02.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,AYM_SPORTS
+#EXTINF:-1 group-title="PREMIUM",AYM_SPORTS
 http://200.76.77.237/LIVE/H01/CANAL576/PROFILE02.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,MILENIO_TV
+#EXTINF:-1 group-title="PREMIUM",MILENIO_TV
 http://200.76.77.237/LIVE/H01/CANAL603/PROFILE02.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,BLOOMBERG
+#EXTINF:-1 group-title="PREMIUM",BLOOMBERG
 http://200.76.77.237/LIVE/H01/CANAL610/PROFILE02.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,MTVLIVE_HD
+#EXTINF:-1 group-title="PREMIUM",MTVLIVE_HD
 http://200.76.77.237/LIVE/H01/CANAL701/PROFILE02.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,TELEHIT_HD
+#EXTINF:-1 group-title="PREMIUM",TELEHIT_HD
 http://200.76.77.237/LIVE/H01/CANAL702/PROFILE02.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,VHI_HD
+#EXTINF:-1 group-title="PREMIUM",VHI_HD
 http://200.76.77.237/LIVE/H01/CANAL703/PROFILE02.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,MTV
+#EXTINF:-1 group-title="PREMIUM",MTV
 http://200.76.77.237/LIVE/H01/CANAL726/PROFILE02.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,MTV_HITS
+#EXTINF:-1 group-title="PREMIUM",MTV_HITS
 http://200.76.77.237/LIVE/H01/CANAL727/PROFILE02.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,1CLASSIC
+#EXTINF:-1 group-title="PREMIUM",1CLASSIC
 http://200.76.77.237/LIVE/H01/CANAL728/PROFILE02.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,RITMOSON
+#EXTINF:-1 group-title="PREMIUM",RITMOSON
 http://200.76.77.237/LIVE/H01/CANAL731/PROFILE02.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,BANDAMAX
+#EXTINF:-1 group-title="PREMIUM",BANDAMAX
 http://200.76.77.237/LIVE/H01/CANAL732/PROFILE02.m3u8?supertvlat=%2F.ts
-#EXTINF:-1,ESPN_HD
+#EXTINF:-1 group-title="PREMIUM",ESPN_HD
 http://200.76.77.237/LIVE/H01/CANAL924/PROFILE02.m3u8?supertvlat=%2F.ts
-
-#EXTINF:-1 tvg-logo="Azteca Noticias.png",Azteca Noticias
+#EXTINF:-1 tvg-logo="Azteca Noticias.png" group-title="PREMIUM",Azteca Noticias
 http://iptvcanales.com/xw/cable.php?canal=61&player=playlist.m3u8
-#EXTINF:-1 tvg-id="Canal Azteca 13 (México)" tvg-logo="el-trece.png",Canal Azteca 13 (México)
+#EXTINF:-1 tvg-id="Canal Azteca 13 (México)" tvg-logo="el-trece.png" group-title="PREMIUM",Canal Azteca 13 (México)
 http://iptvcanales.com/xw/cable.php?canal=08&player=playlist.m3u8
-#EXTINF:-1 tvg-logo="canal-2-HD.png",Canal De Las Estrellas
+#EXTINF:-1 tvg-logo="canal-2-HD.png" group-title="PREMIUM",Canal De Las Estrellas
 http://iptvcanales.com/xw/cable.php?canal=03&player=playlist.m3u8
-#EXTINF:-1 tvg-id="Canal 5 de México (XHGC)" tvg-logo="canal-5-HD.png",Canal 5 de México (XHGC)
+#EXTINF:-1 tvg-id="Canal 5 de México (XHGC)" tvg-logo="canal-5-HD.png" group-title="PREMIUM",Canal 5 de México (XHGC)
 http://iptvcanales.com/xw/cable.php?canal=04&player=playlist.m3u8
-#EXTINF:-1 tvg-logo="azteca-internacional.png",Canal Azteca Honduras
+#EXTINF:-1 tvg-logo="azteca-internacional.png" group-title="PREMIUM",Canal Azteca Honduras
 http://iptvcanales.com/xw/cable.php?canal=60&player=playlist.m3u8
-#EXTINF:-1 tvg-logo="azteca-7.png",Azteca 7
+#EXTINF:-1 tvg-logo="azteca-7.png" group-title="PREMIUM",Azteca 7
 http://iptvcanales.com/xw/cable.php?canal=06&player=playlist.m3u8
-#EXTINF:-1 tvg-logo="Gala TV.png",Gala TV Cancun
+#EXTINF:-1 tvg-logo="Gala TV.png" group-title="PREMIUM",Gala TV Cancun
 http://iptvcanales.com/xw/cable.php?canal=45&player=playlist.m3u8
-#EXTINF:-1 tvg-logo="gala-tv-hd.png",Gala TV
+#EXTINF:-1 tvg-logo="gala-tv-hd.png" group-title="PREMIUM",Gala TV
 http://iptvcanales.com/xw/cable.php?canal=11&player=playlist.m3u8
-#EXTINF:-1 tvg-logo="cadena-3.png",Cadena 3
+#EXTINF:-1 tvg-logo="cadena-3.png" group-title="PREMIUM",Cadena 3
 http://iptvcanales.com/xw/cable.php?canal=05&player=playlist.m3u8
-#EXTINF:-1 tvg-logo="proyecto-40.png" tvg-id="I140.309213908.microsoft.com",Proyecto 40
+#EXTINF:-1 tvg-logo="proyecto-40.png" tvg-id="I140.309213908.microsoft.com" group-title="PREMIUM",Proyecto 40
 http://iptvcanales.com/xw/cable.php?canal=43&player=playlist.m3u8
-#EXTINF:-1 tvg-logo="once-tv.png",Once TV
+#EXTINF:-1 tvg-logo="once-tv.png" group-title="PREMIUM",Once TV
 http://iptvcanales.com/xw/cable.php?canal=07&player=playlist.m3u8
-#EXTINF:-1 tvg-logo="foro-tv-HD.png" tvg-id="Canal Foro TV",FORO Tv
+#EXTINF:-1 tvg-logo="foro-tv-HD.png" tvg-id="Canal Foro TV" group-title="PREMIUM",FORO Tv
 http://iptvcanales.com/xw/cable.php?canal=44&player=playlist.m3u8
-#EXTINF:-1 tvg-logo="canal-52mx.png",Canal 52MX
+#EXTINF:-1 tvg-logo="canal-52mx.png" group-title="PREMIUM",Canal 52MX
 http://iptvcanales.com/xw/cable.php?canal=09&player=playlist.m3u8
-#EXTINF:-1 tvg-logo="multimedios-monterrey.png",Multimedios Plus
+#EXTINF:-1 tvg-logo="multimedios-monterrey.png" group-title="PREMIUM",Multimedios Plus
 http://iptvcanales.com/xw/cable.php?canal=47&player=playlist.m3u8
-#EXTINF:-1 tvg-logo="c44.png",Canal 44 Ciudad Juarez
+#EXTINF:-1 tvg-logo="c44.png" group-title="PREMIUM",Canal 44 Ciudad Juarez
 http://iptvcanales.com/xw/cable.php?canal=48&player=playlist.m3u8
-#EXTINF:-1 tvg-logo="teleformula.png",Teleformula
+#EXTINF:-1 tvg-logo="teleformula.png" group-title="PREMIUM",Teleformula
 http://iptvcanales.com/xw/cable.php?canal=69&player=playlist.m3u8
- #EXTINF:-1 tvg-logo="azteca-novelas.png",AZ Corazon
+#EXTINF:-1 tvg-logo="azteca-novelas.png" group-title="PREMIUM",AZ Corazon
 http://iptvcanales.com/xw/cable.php?canal=79&player=playlist.m3u8
-#EXTINF:-1 tvg-logo="tlnovelas.png",Tlnovelas America
+#EXTINF:-1 tvg-logo="tlnovelas.png" group-title="PREMIUM",Tlnovelas America
 http://iptvcanales.com/xw/cable.php?canal=13&player=playlist.m3u8
- #EXTINF:-1 tvg-logo="trutv.png",Tru TV America Latina
+#EXTINF:-1 tvg-logo="trutv.png" group-title="PREMIUM",Tru TV America Latina
 http://iptvcanales.com/xw/cable.php?canal=72&player=playlist.m3u8
-#EXTINF:-1 tvg-logo="a_e.png",A&E Latinoamerica
+#EXTINF:-1 tvg-logo="a_e.png" group-title="PREMIUM",A&E Latinoamerica
 http://iptvcanales.com/xw/cable.php?canal=26&player=playlist.m3u8
-#EXTINF:-1 tvg-logo="lifetime.png",Lifetime Latinoamerica
+#EXTINF:-1 tvg-logo="lifetime.png" group-title="PREMIUM",Lifetime Latinoamerica
 http://iptvcanales.com/xw/cable.php?canal=55&player=playlist.m3u8
-#EXTINF:-1 tvg-logo="history-hd.png",History en Español
+#EXTINF:-1 tvg-logo="history-hd.png" group-title="PREMIUM",History en Español
 http://iptvcanales.com/xw/cable.php?canal=38&player=playlist.m3u8
-#EXTINF:-1 tvg-logo="natgeo.png",National Geographic Latinoamerica
+#EXTINF:-1 tvg-logo="natgeo.png" group-title="PREMIUM",National Geographic Latinoamerica
 http://iptvcanales.com/xw/cable.php?canal=37&player=playlist.m3u8
-#EXTINF:-1 tvg-logo="home-and-health.png",Discovery Home & Health Latinoamerica
+#EXTINF:-1 tvg-logo="home-and-health.png" group-title="PREMIUM",Discovery Home & Health Latinoamerica
 http://iptvcanales.com/xw/cable.php?canal=95&player=playlist.m3u8
-#EXTINF:-1 tvg-logo="animalplanet.png",Animal Planet Latinoamerica
+#EXTINF:-1 tvg-logo="animalplanet.png" group-title="PREMIUM",Animal Planet Latinoamerica
 http://iptvcanales.com/xw/cable.php?canal=83&player=playlist.m3u8
-#EXTINF:-1 tvg-logo="Investigacion-Discovery.png",Investigation Discovery Latinoamerica
+#EXTINF:-1 tvg-logo="Investigacion-Discovery.png" group-title="PREMIUM",Investigation Discovery Latinoamerica
 http://iptvcanales.com/xw/cable.php?canal=84&player=playlist.m3u8
- #EXTINF:-1 tvg-logo="fox.png",Fox Latinoamerica
+#EXTINF:-1 tvg-logo="fox.png" group-title="PREMIUM",Fox Latinoamerica
 http://iptvcanales.com/xw/cable.php?canal=01&player=playlist.m3u8
-#EXTINF:-1 tvg-logo="syfy.png",Syfy Latinoamerica
+#EXTINF:-1 tvg-logo="syfy.png" group-title="PREMIUM",Syfy Latinoamerica
 http://iptvcanales.com/xw/cable.php?canal=02&player=playlist.m3u8
-#EXTINF:-1 tvg-logo="fox-life.png",FOX Life
+#EXTINF:-1 tvg-logo="fox-life.png" group-title="PREMIUM",FOX Life
 http://iptvcanales.com/xw/cable.php?canal=27&player=playlist.m3u8
-#EXTINF:-1 tvg-logo="distrito-comedia.png",Distrito Comedia
+#EXTINF:-1 tvg-logo="distrito-comedia.png" group-title="PREMIUM",Distrito Comedia
 http://iptvcanales.com/xw/cable.php?canal=40&player=playlist.m3u8
-#EXTINF:-1 tvg-logo="sony.png",Canal Sony
+#EXTINF:-1 tvg-logo="sony.png" group-title="PREMIUM",Canal Sony
 http://iptvcanales.com/xw/cable.php?canal=14&player=playlist.m3u8
-#EXTINF:-1 tvg-logo="warner-hd.png",Warner Channel Latinoamerica
+#EXTINF:-1 tvg-logo="warner-hd.png" group-title="PREMIUM",Warner Channel Latinoamerica
 http://iptvcanales.com/xw/cable.php?canal=18&player=playlist.m3u8
-#EXTINF:-1 tvg-logo="studio-universal.png",Studio Universal
+#EXTINF:-1 tvg-logo="studio-universal.png" group-title="PREMIUM",Studio Universal
 http://iptvcanales.com/xw/cable.php?canal=70&player=playlist.m3u8
-#EXTINF:-1 tvg-logo="AXN.png",AXN Latinoamerica
+#EXTINF:-1 tvg-logo="AXN.png" group-title="PREMIUM",AXN Latinoamerica
 http://iptvcanales.com/xw/cable.php?canal=71&player=playlist.m3u8
-#EXTINF:-1 tvg-logo="comedy-central-hd.png",Comedy Central Latinoamerica
+#EXTINF:-1 tvg-logo="comedy-central-hd.png" group-title="PREMIUM",Comedy Central Latinoamerica
 http://iptvcanales.com/xw/cable.php?canal=73&player=playlist.m3u8
-#EXTINF:-1 tvg-logo="bbc-entertainment.png",BBC Entertainment Latinoamerica
+#EXTINF:-1 tvg-logo="bbc-entertainment.png" group-title="PREMIUM",BBC Entertainment Latinoamerica
 http://iptvcanales.com/xw/cable.php?canal=74&player=playlist.m3u8
-#EXTINF:-1 tvg-logo="universal-channel.png",Universal Channel America Latina
+#EXTINF:-1 tvg-logo="universal-channel.png" group-title="PREMIUM",Universal Channel America Latina
 http://iptvcanales.com/xw/cable.php?canal=75&player=playlist.m3u8
-#EXTINF:-1 tvg-logo="TNT_Serie.png",TNT Series Latinoamerica
+#EXTINF:-1 tvg-logo="TNT_Serie.png" group-title="PREMIUM",TNT Series Latinoamerica
 http://iptvcanales.com/xw/cable.php?canal=76&player=playlist.m3u8
-#EXTINF:-1 tvg-logo="tbs.png",TBS America Latina
+#EXTINF:-1 tvg-logo="tbs.png" group-title="PREMIUM",TBS America Latina
 http://iptvcanales.com/xw/cable.php?canal=77&player=playlist.m3u8
-#EXTINF:-1 tvg-logo="i.sat.png",I-Sat
+#EXTINF:-1 tvg-logo="i.sat.png" group-title="PREMIUM",I-Sat
 http://iptvcanales.com/xw/cable.php?canal=78&player=playlist.m3u8
-#EXTINF:-1 tvg-logo="wobi-tv.png",WOBI TV
+#EXTINF:-1 tvg-logo="wobi-tv.png" group-title="PREMIUM",WOBI TV
 http://iptvcanales.com/xw/cable.php?canal=25&player=playlist.m3u8
-#EXTINF:-1 tvg-logo="e!-entertainment-television.png",E!
+#EXTINF:-1 tvg-logo="e!-entertainment-television.png" group-title="PREMIUM",E!
 http://iptvcanales.com/xw/cable.php?canal=12&player=playlist.m3u8
- #EXTINF:-1 tvg-logo="space.png",SPACE
+#EXTINF:-1 tvg-logo="space.png" group-title="PREMIUM",SPACE
 http://iptvcanales.com/xw/cable.php?canal=21&player=playlist.m3u8
-#EXTINF:-1 tvg-logo="fx-hd.png",FX Latino
+#EXTINF:-1 tvg-logo="fx-hd.png" group-title="PREMIUM",FX Latino
 http://iptvcanales.com/xw/cable.php?canal=17&player=playlist.m3u8
-#EXTINF:-1 tvg-logo="cinema.png",AZ Cinema
+#EXTINF:-1 tvg-logo="cinema.png" group-title="PREMIUM",AZ Cinema
 http://iptvcanales.com/xw/cable.php?canal=85&player=playlist.m3u8
-#EXTINF:-1 tvg-logo="fox1_oeste.png",Fox 1 Oeste
+#EXTINF:-1 tvg-logo="fox1_oeste.png" group-title="PREMIUM",Fox 1 Oeste
 http://iptvcanales.com/xw/cable.php?canal=86&player=playlist.m3u8
-#EXTINF:-1 tvg-logo="fox-movies-HD.png",Fox Movies Latinoamerica
+#EXTINF:-1 tvg-logo="fox-movies-HD.png" group-title="PREMIUM",Fox Movies Latinoamerica
 http://iptvcanales.com/xw/cable.php?canal=87&player=playlist.m3u8
-#EXTINF:-1 tvg-logo="fox_action_oeste.png",Fox Action Oeste
-#EXTINF:-1 tvg-logo="fox-movies-HD.png",Fox Movies Latinoamerica
+#EXTINF:-1 tvg-logo="fox_action_oeste.png" group-title="PREMIUM",Fox Action Oeste
+#EXTINF:-1 tvg-logo="fox-movies-HD.png" group-title="PREMIUM",Fox Movies Latinoamerica
 http://iptvcanales.com/xw/cable.php?canal=88&player=playlist.m3u8
-#EXTINF:-1 tvg-logo="fox-cinema.png",Fox Cinema
+#EXTINF:-1 tvg-logo="fox-cinema.png" group-title="PREMIUM",Fox Cinema
 http://iptvcanales.com/xw/cable.php?canal=89&player=playlist.m3u8
-#EXTINF:-1 tvg-logo="fox-family.png",Fox Family
+#EXTINF:-1 tvg-logo="fox-family.png" group-title="PREMIUM",Fox Family
 http://iptvcanales.com/xw/cable.php?canal=90&player=playlist.m3u8
-#EXTINF:-1 tvg-logo="cinecanal-(W).png",CineCanal
+#EXTINF:-1 tvg-logo="cinecanal-(W).png" group-title="PREMIUM",CineCanal
 http://iptvcanales.com/xw/cable.php?canal=91&player=playlist.m3u8
-#EXTINF:-1 tvg-logo="tnt.png",TNT America Latina
+#EXTINF:-1 tvg-logo="tnt.png" group-title="PREMIUM",TNT America Latina
 http://iptvcanales.com/xw/cable.php?canal=92&player=playlist.m3u8
-#EXTINF:-1 tvg-logo="the-film-zone-hd.png",Film Zone
+#EXTINF:-1 tvg-logo="the-film-zone-hd.png" group-title="PREMIUM",Film Zone
 http://iptvcanales.com/xw/cable.php?canal=93&player=playlist.m3u8
-#EXTINF:-1 tvg-logo="amc.png",AMC
+#EXTINF:-1 tvg-logo="amc.png" group-title="PREMIUM",AMC
 http://iptvcanales.com/xw/cable.php?canal=94&player=playlist.m3u8
-#EXTINF:-1 tvg-logo="cinemax.png",Cinemax Latinoamerica
+#EXTINF:-1 tvg-logo="cinemax.png" group-title="PREMIUM",Cinemax Latinoamerica
 http://iptvcanales.com/xw/cable.php?canal=15&player=playlist.m3u8
-#EXTINF:-1 tvg-logo="paramount.png",Paramount Channel Latinoamerica
+#EXTINF:-1 tvg-logo="paramount.png" group-title="PREMIUM",Paramount Channel Latinoamerica
 http://iptvcanales.com/xw/cable.php?canal=16&player=playlist.m3u8
-#EXTINF:-1 tvg-logo="golden.png",Golden
+#EXTINF:-1 tvg-logo="golden.png" group-title="PREMIUM",Golden
 http://iptvcanales.com/xw/cable.php?canal=19&player=playlist.m3u8
-#EXTINF:-1 tvg-logo="golden-edge.png",Golden Edge
+#EXTINF:-1 tvg-logo="golden-edge.png" group-title="PREMIUM",Golden Edge
 http://iptvcanales.com/xw/cable.php?canal=20&player=playlist.m3u8
-#EXTINF:-1 tvg-logo="multicinema.png",Multicinema
+#EXTINF:-1 tvg-logo="multicinema.png" group-title="PREMIUM",Multicinema
 http://iptvcanales.com/xw/cable.php?canal=22&player=playlist.m3u8
-#EXTINF:-1 tvg-logo="de-pelicula.png",De Película
+#EXTINF:-1 tvg-logo="de-pelicula.png" group-title="PREMIUM",De Película
 http://iptvcanales.com/xw/cable.php?canal=23&player=playlist.m3u8
-#EXTINF:-1 tvg-logo="dhe.png",Canal DHE
+#EXTINF:-1 tvg-logo="dhe.png" group-title="PREMIUM",Canal DHE
 http://iptvcanales.com/xw/cable.php?canal=24&player=playlist.m3u8
- #EXTINF:-1 tvg-logo="nickelodeon.png",Nickelodeon Latinoamerica
+#EXTINF:-1 tvg-logo="nickelodeon.png" group-title="PREMIUM",Nickelodeon Latinoamerica
 http://iptvcanales.com/xw/cable.php?canal=28&player=playlist.m3u8
-#EXTINF:-1 tvg-logo="cartoon-network.png",Cartoon Network Latinoamerica
+#EXTINF:-1 tvg-logo="cartoon-network.png" group-title="PREMIUM",Cartoon Network Latinoamerica
 http://iptvcanales.com/xw/cable.php?canal=29&player=playlist.m3u8
-#EXTINF:-1 tvg-logo="disney-xd.png",Disney XD Norte
+#EXTINF:-1 tvg-logo="disney-xd.png" group-title="PREMIUM",Disney XD Norte
 http://iptvcanales.com/xw/cable.php?canal=30&player=playlist.m3u8
-#EXTINF:-1 tvg-logo="discovery-kids.png",Discovery Kids America Latina
+#EXTINF:-1 tvg-logo="discovery-kids.png" group-title="PREMIUM",Discovery Kids America Latina
 http://iptvcanales.com/xw/cable.php?canal=80&player=playlist.m3u8
-#EXTINF:-1 tvg-logo="tooncast.png",Tooncast
+#EXTINF:-1 tvg-logo="tooncast.png" group-title="PREMIUM",Tooncast
 http://iptvcanales.com/xw/cable.php?canal=81&player=playlist.m3u8
- #EXTINF:-1 tvg-logo="ritmoson-latino.png",Ritmoson Latino
+#EXTINF:-1 tvg-logo="ritmoson-latino.png" group-title="PREMIUM",Ritmoson Latino
 http://iptvcanales.com/xw/cable.php?canal=42&player=playlist.m3u8
-#EXTINF:-1 tvg-logo="telehit-hd.png",Telehit
+#EXTINF:-1 tvg-logo="telehit-hd.png" group-title="PREMIUM",Telehit
 http://iptvcanales.com/xw/cable.php?canal=36&player=playlist.m3u8
-#EXTINF:-1 tvg-logo="bandamax.png",Bandamax
+#EXTINF:-1 tvg-logo="bandamax.png" group-title="PREMIUM",Bandamax
 http://iptvcanales.com/xw/cable.php?canal=39&player=playlist.m3u8
-#EXTINF:-1 tvg-logo="vh1-classisc.png",VH1 Classic Europe
+#EXTINF:-1 tvg-logo="vh1-classisc.png" group-title="PREMIUM",VH1 Classic Europe
 http://iptvcanales.com/xw/cable.php?canal=96&player=playlist.m3u8
-#EXTINF:-1 tvg-logo="mtv-live-hd.png",MTV Live
+#EXTINF:-1 tvg-logo="mtv-live-hd.png" group-title="PREMIUM",MTV Live
 http://iptvcanales.com/xw/cable.php?canal=97&player=playlist.m3u8
-#EXTINF:-1 tvg-logo="vh1.png",VH1 Latino Norte
+#EXTINF:-1 tvg-logo="vh1.png" group-title="PREMIUM",VH1 Latino Norte
 http://iptvcanales.com/xw/cable.php?canal=98&player=playlist.m3u8
-#EXTINF:-1 tvg-logo="mtv.png",MTV Latinoamerica
+#EXTINF:-1 tvg-logo="mtv.png" group-title="PREMIUM",MTV Latinoamerica
 http://iptvcanales.com/xw/cable.php?canal=99&player=playlist.m3u8
- #EXTINF:-1 tvg-logo="tyc-sports.png",TyC Sports
+#EXTINF:-1 tvg-logo="tyc-sports.png" group-title="PREMIUM",TyC Sports
 http://iptvcanales.com/xw/cable.php?canal=31&player=playlist.m3u8
-#EXTINF:-1 tvg-logo="fox-sports-hd.png",Fox Sports Latinoamerica
+#EXTINF:-1 tvg-logo="fox-sports-hd.png" group-title="PREMIUM",Fox Sports Latinoamerica
 http://iptvcanales.com/xw/cable.php?canal=32&player=playlist.m3u8
-#EXTINF:-1 tvg-logo="espn.png",ESPN Latinoamerica
+#EXTINF:-1 tvg-logo="espn.png" group-title="PREMIUM",ESPN Latinoamerica
 http://iptvcanales.com/xw/cable.php?canal=33&player=playlist.m3u8
-#EXTINF:-1 tvg-logo="espn-2.png",ESPN 2 Latinoamerica
+#EXTINF:-1 tvg-logo="espn-2.png" group-title="PREMIUM",ESPN 2 Latinoamerica
 http://iptvcanales.com/xw/cable.php?canal=34&player=playlist.m3u8
-#EXTINF:-1 tvg-logo="espn-3-hd.png",ESPN 3 Latinoamerica
+#EXTINF:-1 tvg-logo="espn-3-hd.png" group-title="PREMIUM",ESPN 3 Latinoamerica
 http://iptvcanales.com/xw/cable.php?canal=35&player=playlist.m3u8
-#EXTINF:-1 tvg-logo="BeinSports.png",BeinSports en Español
+#EXTINF:-1 tvg-logo="BeinSports.png" group-title="PREMIUM",BeinSports en Español
 http://iptvcanales.com/xw/cable.php?canal=56&player=playlist.m3u8
-#EXTINF:-1 tvg-logo="BeinSports.png",BeinSports USA
+#EXTINF:-1 tvg-logo="BeinSports.png" group-title="PREMIUM",BeinSports USA
 http://iptvcanales.com/xw/cable.php?canal=57&player=playlist.m3u8
-#EXTINF:-1 tvg-logo="NFL Network.png",NFL Network
+#EXTINF:-1 tvg-logo="NFL Network.png" group-title="PREMIUM",NFL Network
 http://iptvcanales.com/xw/cable.php?canal=67&player=playlist.m3u8
- #EXTINF:-1 tvg-logo="milenio-tv.png",Milenio TV
+#EXTINF:-1 tvg-logo="milenio-tv.png" group-title="PREMIUM",Milenio TV
 http://iptvcanales.com/xw/cable.php?canal=41&player=playlist.m3u8
-#EXTINF:-1 tvg-logo="RT International.png",RT Español
+#EXTINF:-1 tvg-logo="RT International.png" group-title="PREMIUM",RT Español
 http://iptvcanales.com/xw/cable.php?canal=46&player=playlist.m3u8
-#EXTINF:-1 tvg-logo="excelsior-tv-redes.png",Excelsior TV
+#EXTINF:-1 tvg-logo="excelsior-tv-redes.png" group-title="PREMIUM",Excelsior TV
 http://iptvcanales.com/xw/cable.php?canal=50&player=playlist.m3u8
- #EXTINF:-1 tvg-logo="unicable.png",Unicable
+#EXTINF:-1 tvg-logo="unicable.png" group-title="PREMIUM",Unicable
 http://iptvcanales.com/xw/cable.php?canal=10&player=playlist.m3u8
-#EXTINF:-1 tvg-logo="Telemundo.png",Telemundo
+#EXTINF:-1 tvg-logo="Telemundo.png" group-title="PREMIUM",Telemundo
 http://iptvcanales.com/xw/cable.php?canal=51&player=playlist.m3u8
-#EXTINF:-1 tvg-logo="antena-latina.png",Antena Latina
+#EXTINF:-1 tvg-logo="antena-latina.png" group-title="PREMIUM",Antena Latina
 http://iptvcanales.com/xw/cable.php?canal=53&player=playlist.m3u8
-#EXTINF:-1 tvg-logo="tvn.png",TVN HD
+#EXTINF:-1 tvg-logo="tvn.png" group-title="PREMIUM",TVN HD
 http://iptvcanales.com/xw/cable.php?canal=64&player=playlist.m3u8
-#EXTINF:-1 tvg-logo="rtve.png",La 2
+#EXTINF:-1 tvg-logo="rtve.png" group-title="PREMIUM",La 2
 http://iptvcanales.com/xw/cable.php?canal=66&player=playlist.m3u8
-#EXTINF:-1 tvg-logo="Euronews.png",Euronews
+#EXTINF:-1 tvg-logo="Euronews.png" group-title="PREMIUM",Euronews
 http://iptvcanales.com/xw/cable.php?canal=68&player=playlist.m3u8
-#EXTINF:-1 tvg-logo="MEGA.png",Mega
+#EXTINF:-1 tvg-logo="MEGA.png" group-title="PREMIUM",Mega
 http://iptvcanales.com/xw/cable.php?canal=54&player=playlist.m3u8
-#EXTINF:-1 tvg-logo="Telefe.png",Telefe
+#EXTINF:-1 tvg-logo="Telefe.png" group-title="PREMIUM",Telefe
 http://iptvcanales.com/xw/cable.php?canal=52&player=playlist.m3u8
-#EXTINF:-1 tvg-logo="c42.png",Canal 42
+#EXTINF:-1 tvg-logo="c42.png" group-title="PREMIUM",Canal 42
 http://iptvcanales.com/xw/cable.php?canal=49&player=playlist.m3u8
-#EXTINF:-1 tvg-logo="canal-6-repretel-online.png",Canal 6
+#EXTINF:-1 tvg-logo="canal-6-repretel-online.png" group-title="PREMIUM",Canal 6
 http://iptvcanales.com/xw/cable.php?canal=58&player=playlist.m3u8
-#EXTINF:-1 tvg-logo="7.png",Teletica 7
+#EXTINF:-1 tvg-logo="7.png" group-title="PREMIUM",Teletica 7
 http://iptvcanales.com/xw/cable.php?canal=59&player=playlist.m3u8
-#EXTINF:-1 tvg-logo="9.png",Canal 9
+#EXTINF:-1 tvg-logo="9.png" group-title="PREMIUM",Canal 9
 http://iptvcanales.com/xw/cable.php?canal=60&player=playlist.m3u8
-#EXTINF:-1 tvg-logo="colosal.png",Colosal
+#EXTINF:-1 tvg-logo="colosal.png" group-title="PREMIUM",Colosal
 http://iptvcanales.com/xw/cable.php?canal=61&player=playlist.m3u8
-#EXTINF:-1 tvg-logo="tvuno.png",TVUno
+#EXTINF:-1 tvg-logo="tvuno.png" group-title="PREMIUM",TVUno
 http://iptvcanales.com/xw/cable.php?canal=62&player=playlist.m3u8
-#EXTINF:-1 tvg-logo="xpertv.png",XperTV
+#EXTINF:-1 tvg-logo="xpertv.png" group-title="PREMIUM",XperTV
 http://iptvcanales.com/xw/cable.php?canal=63&player=playlist.m3u8
-#EXTINF:-1 tvg-logo="pcha.png",Positive Channel
+#EXTINF:-1 tvg-logo="pcha.png" group-title="PREMIUM",Positive Channel
 http://iptvcanales.com/xw/cable.php?canal=65&player=playlist.m3u8
 
-Esta lista contiene solo canales FTA encontrados por la web, para uso de entretenimiento casero.
-Canales premium me los reservo para uso personal, ya que algunos los usan para lucrar.-
+Esta lista contiene canales encontrados por la web.
+Solo para uso personal.
+Prohibida su venta.
+"GeneIPTV 2015"
 
 
