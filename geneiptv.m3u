@@ -119,8 +119,6 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8?
 http://live.vodgc.com:1935/kLive/smil:0_a5h483eu_all.smil/master.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/bein_zpsy5gqnxos.png" group-title="DEPORTES",Bein Sports Ñ 
 http://yiptv5-live.hls.adaptive.level3.net/yiptv5/beinespgov/04.m3u8?
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/200px-BeIN_Sport.svg_zpsc9k7jnpi.png" group-title="DEPORTES",Bein Sports 
-http://tedilive-aka-pub.telecable.es/akamai/10/03.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/GItbD_zpsiqiln6to.png" group-title="DEPORTES",Win Sports 
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1_manifest.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/deportv_zpslussgupq.png" group-title="DEPORTES",DXTV 
