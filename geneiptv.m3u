@@ -136,7 +136,9 @@ http://mediacp.streamingchilenos.cl:1935/portalfoxmix/portalfoxmix/playlist.m3u8
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8?
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/tigo_zps9u7l0tan.png" group-title="MUSICA",Tigo Musica 
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8?
-#EXTINF:-1 group-title="MUSICA",Estudio Tv SPAIN
+#EXTINF:-1 group-title="MUSICA",Onda Latina
+http://ondalatina_tv-lh.akamaihd.net/i/OndaLatinaTv_1@42007/master.m3u8
+#EXTINF:-1 group-title="MUSICA",Estudio Tv 
 rtmp://190.107.176.167:1935/live/estudio-tv
 #EXTINF:0 group-title="MUSICA",Musica SI 
 http://hd.worldkast.com:1935/8436/8436/playlist.m3u8
