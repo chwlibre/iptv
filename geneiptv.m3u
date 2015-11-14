@@ -62,7 +62,7 @@ http://190.107.176.167:1935/live/tv4-television/playlist.m3u8?MegaIPTVArgentina
 http://wow2.cl.digitalproserver.com/itv/itvvivo/livestream1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/el_pinguino_cl_zpsvhkttrc0.png" group-title="REGIONALES",El Pinguino Tv Punta Arenas 
 http://streaming.elpinguino.com:1935/live/pinguinotv_360p/BratuMarian.m3u8
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/umag_zpsijajqcz3.png" group-title="REGIONALES", UMAG Tv Universidad de Magallanes, Punta Arenas
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/umag_zpsijajqcz3.png" group-title="REGIONALES", UMAG Tv Universidad de Magallanes Punta Arenas
 http://cluster.ztreaming.com:80/tser5/tser5.sdp/playlist.m3u8
 
 #EXTINF:0,-Argentina-
