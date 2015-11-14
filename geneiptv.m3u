@@ -13,9 +13,15 @@ http://edge-81-cl.edge.mdstrm.com/live/smil:c7726799c6c30cecf3971e9d3b1966c3/pla
 http://live.hls.http.chv.ztreaming.com/chvhddesktop/chvHi.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/canal13_cl_zpsckqtjlod.png" group-title="NACIONALES",Canal 13 
 http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/canal13_c_cl_zpsoueja6s7.png" group-title="NACIONALES", C13 Cable
+http://cluster.13cmovil.ztreaming.com/13cm/grpz13c/playlist.m3u8
 
 #EXTINF:0,-Regionales-
 
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/cap_zpsaosigst3.png" group-title="REGIONALES", Cappissima Multimedial Arica
+http://scl.streaminghd.cl/8032/8032/chunklist_w1970467867.m3u8
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/vive_zpsb7x15dmx.png" group-title="REGIONALES", Vive Chile Antofagasta 
+http://190.107.176.167:1935/live/vive-chile-antofagasta/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/dch_tv_cl_zpsekztvb2k.png" group-title="REGIONALES",Digital Channel Tv Antofagasta 
 http://evo.eltelon.com:443/live/dch-tv/playlist.m3u8?MegaIPTVArgentina
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/antofagasta_tv_cl_zps9q2wlmjw.png" group-title="REGIONALES",Antofagasta Tv Antofagasta
@@ -24,14 +30,28 @@ http://wow2.cl.digitalproserver.com/atv/atvvivo/atv.smil/chunklist_w949479730_b2
 http://movilstream.digitalproserver.com/holvoet/holvoetvivo/holvoet.smil/chunklist-b1248000.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/vtv_zpspdx6gfwt.png" group-title="REGIONALES",VTV Valle de Aconcagua
 http://cdn.streamingmedia.cl:1935/live/vtv2/livestream3/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/canal2_zpsiwfsrgy0.png" group-title="REGIONALES",Canal 2 San Antonio
+rtsp://video.crearchile.com:8080/live/canal2.mp4
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/vtv_zpspdx6gfwt.png" group-title="REGIONALES",VTV Valparaiso y VIña del Mar
 http://cdn.streamingmedia.cl:1935/live/vtvvina/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/inde_zpsxkru671e.png" group-title="REGIONALES",Independencia Tv Santiago
 http://evo.eltelon.com:443/live/independencia-tv/playlist.m3u8?
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/logo1_zpskeh6nk1u.png" group-title="REGIONALES", Fm Hot Tv Santiago
+http://190.107.176.167:1935/live/fm-hot-tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/logo_head_zps7e04gkdx.png" group-title="REGIONALES", NIU Tv Santiago
+http://cl.origin.grupoz.cl/niutv/smil:live.smil/chunklist_w224088368_b750000_slesp.m3u8
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/estudio_zpsfnlhlrob.png" group-title="REGIONALES",Estudio Tv Santiago
+rtmp://190.107.176.167:1935/live/estudio-tv
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/Logotipo_TVO_San_Vicente_zpslsws5ap0.png" group-title="REGIONALES",TVO San Vicente de tagua Tagua
 http://movilstream.digitalproserver.com/tvo/tvovivo/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/cnc_zpsdful5w9u.png" group-title="REGIONALES", CNC Colchagua Santa Cruz
+http://audio.streaminghd.cl/8014/8014/chunklist_w1154290519.m3u8
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/campus_zps8hgdc5lg.png" group-title="REGIONALES",Campus Tv Talca
+http://movilstream.digitalproserver.com/campustv/campustvvivo/livestream1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/contivision_cl_musica_zpsmzgyv5id.png" group-title="REGIONALES",Contivision Constitución 
 http://wow2.cl.digitalproserver.com/contivisionhd/contivisionhdvivo/contivisionhd.smil/chunklist_w1162159593_b1496000.m3u8
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/contivision_cl_musica_zpsmzgyv5id.png" group-title="REGIONALES", Contivision Musica Constitucion
+http://wow2.cl.digitalproserver.com/contivisionmusica/contivisionmusicavivomp4:livestream1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/canal%209%20regional_zpsjsxxzhzf.png" group-title="REGIONALES",Canal 9 Bio Bio Concepción
 http://wow2.cl.digitalproserver.com/c9/livestream1/chunklist_w983075885.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/TVUConcepcionLogo_zpsxkgivlcq.png" group-title="REGIONALES",TVU Concepción 
@@ -42,8 +62,10 @@ http://190.107.176.167:1935/live/tv4-television/playlist.m3u8?MegaIPTVArgentina
 http://wow2.cl.digitalproserver.com/itv/itvvivo/livestream1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/el_pinguino_cl_zpsvhkttrc0.png" group-title="REGIONALES",El Pinguino Tv Punta Arenas 
 http://streaming.elpinguino.com:1935/live/pinguinotv_360p/BratuMarian.m3u8
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/umag_zpsijajqcz3.png" group-title="REGIONALES", UMAG Tv Universidad de Magallanes, Punta Arenas
+http://cluster.ztreaming.com:80/tser5/tser5.sdp/playlist.m3u8
 
-#EXTINF:0,-Latinos-
+#EXTINF:0,-Argentina-
 
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/america_ar_zpshwaahbon.png" group-title="ARGENTINA",America Tv 
 https://www.youtube.com/watch?v=Hytby2q7c0c
@@ -61,18 +83,38 @@ https://www.youtube.com/watch?v=cdy85qJH_Ds
 http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/canal_9_ar_zpshzpda182.png" group-title="ARGENTINA",Canal 9 
 http://dd65nd24m61wg.cloudfront.net/livec9/smil:C9.smil/chunklist_b796000.m3u8
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/c5n_zpsgsjltzc7.png" group-title="ARGENTINA", C5N
+http://c5n.stweb.tv:1935/c5n/live_media/playlist.m3u8
+
+#EXTINF:0,-Peru-
+
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/gallery_1163_2_34091_zpssseoh1n1.png" group-title="PERU",Andina Tv 
 http://edge-41-us.edge.mdstrm.com/live/smil:c23b8a0a21d215482b4c2703e47f675a/playlist_b950.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/dragon-tv-hd_zps88l2narb.png" group-title="PERU",America Tv 
 http://ooyalahd2-f.akamaihd.net/i/atv02_delivery@25405/index_1728_av-p.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/latina_pe_zps5evuplhq.png" group-title="PERU",Latina Tv 
-https://www.youtube.com/watch?v=4zrg6XLcF2c
+http://ooyalahd2-f.akamaihd.net/i/latinalim_delivery@128959/master.m3u8
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/PANAMERICANA_TELEVISION_PE__zpsgdwcxmsn.png" group-title="PERU",Panamericana Tv
+http://stream-03.sv6.dailymotion.com/03/dm/1/x18w5up/live.isml/live.m3u8?e=1447515439&st=uNA0NthzTiBKmEmqRRp4Pg
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/ucvsa_zpsucuc3hvt.png" group-title="PERU",UCV Satelital
 http://wowzacontrol.net:1935/8050/8050/playlist.m3u8
+
+#EXTINF:0,-Colombia-
+
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/gallery_1163_2_2085_zpsxcmktk80.png" group-title="COLOMBIA",Caracol 
+http://hyperurl.co/CaracolColombiaHD
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/logo-rcn_10_1_zpskiejaaq8.png" group-title="COLOMBIA",RCN
+http://hyperurl.co/RCNColombiaHD
+
+#EXTINF:0,-Bolivia-
+
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/redpat_zpsemuhxjks.png" group-title="BOLIVIA",Red Pat
 http://www.server.tevemi.com:1935/8092/8092/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/reduno_zpsvvo8rl9f.png" group-title="BOLIVIA",Red Uno
 http://iphone-streaming.ustream.tv/ustreamVideo/10248660/streams/live/playlist.m3u8
+
+#EXTINF:0,-Mexico-
+
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/canal_estrellas_lam_zpsqvy9egdu.png" group-title="MEXICO",Canal de las Estrellas 
 http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/Telemundo-nuevo-logo_zpswjzw2tpv.png" group-title="MEXICO",Telemundo 
@@ -138,8 +180,6 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8?
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8?
 #EXTINF:-1 group-title="MUSICA",Onda Latina
 http://ondalatina_tv-lh.akamaihd.net/i/OndaLatinaTv_1@42007/master.m3u8
-#EXTINF:-1 group-title="MUSICA",Estudio Tv 
-rtmp://190.107.176.167:1935/live/estudio-tv
 #EXTINF:0 group-title="MUSICA",Musica SI 
 http://hd.worldkast.com:1935/8436/8436/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/heart_zps86mbd2bk.png" group-title="MUSICA",Heart Tv 
