@@ -564,6 +564,61 @@ http://200.76.77.237/LIVE/H01/CANAL610/PROFILE02.m3u8?-1332%2F1499-20150816T1535
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,TVE
 http://200.76.77.237/LIVE/H01/CANAL651/PROFILE02.m3u8?-1332%2F1499-20150816T153535.ts
 
+#EXTINF:0,-Adultos-
+
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/play_zps6mp3huks.png" group-title="Adultos",Venus
+http://vps237.dyndns.org:8000/http/pubiptv.dyndns.org:4222/udp/239.100.26.10:1234
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/play_zps6mp3huks.png" group-title="Adultos",Playboy Red
+http://vps237.dyndns.org:8000/http/pubiptv.dyndns.org:4222/udp/239.100.28.18:1234
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/play_zps6mp3huks.png" group-title="Adultos",Playboy
+http://78.30.254.27:8989/udp/239.0.0.200:4000
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/play_zps6mp3huks.png" group-title="Adultos",Wow Girls
+http://cdn5.iviplanet.com:1935/TVMIA-ARG-VODLive4/smil:tvmia-arg-vodlive4.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/play_zps6mp3huks.png" group-title="Adultos",Redtube
+http://cdn5.iviplanet.com:1935/TVMIA-ARG-VODLive1/smil:tvmia-arg-vodlive1.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/play_zps6mp3huks.png" group-title="Adultos",Private
+http://178.33.126.213:1935/leved/privateCom/.m3u8
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/play_zps6mp3huks.png" group-title="Adultos",Jazmin Tv
+rtmp://109.71.162.112:1935/live/sd.jasminchannel.stream
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/play_zps6mp3huks.png" group-title="Adultos",Jazmin Channel HD 
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/PAZ_Chega_de_Guerras.m3u8
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/play_zps6mp3huks.png" group-title="Adultos",Sex Station
+http://publish.thewebstream.co:1935/bsx24/mpegts1.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/play_zps6mp3huks.png" group-title="Adultos",Hot XXX
+http://hdrtv-team.dyndns.tv:8000/live/gatto/gatto/5.ts
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/play_zps6mp3huks.png" group-title="Adultos",Ask Tv 
+http://edge2.everyon.tv:1935/etv2/phd1005/paz.m3u8
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/play_zps6mp3huks.png" group-title="Adultos",LiveSex
+http://publish.thewebstream.co:1935/cellcast/encoder21/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/play_zps6mp3huks.png" group-title="Adultos",LiveSex Latinas
+http://178.33.126.213:1935/leved/livesexlatinas/chunklist.m3u8?
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/play_zps6mp3huks.png" group-title="Adultos",PassieXXX
+http://publish.thewebstream.co:1935/leved/_definst_/passielivestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/play_zps6mp3huks.png" group-title="Adultos",Hot Shots
+http://46.249.213.93/iPhone/HLS_TS/broadcast/hotshots-tablet.3gp/hotshots-tablet.3gp-mr649k.m3u8
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/play_zps6mp3huks.png" group-title="Adultos",Power Girls
+http://46.249.213.93/iPhone/broadcast/powergirls-tablet.3gp/powergirls-tablet.3gp-mr648k.m3u8
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/play_zps6mp3huks.png" group-title="Adultos",Bella Club
+http://stream01.yamgo.com/iPhone/broadcast/bella_club_luz-tablet.3gp/bella_club_luz-tablet.3gp-mr647k.m3u8
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/play_zps6mp3huks.png" group-title="Adultos",Hot 100
+http://stream02.yamgo.com/iPhone/HLS_TS/broadcast/hot_100-tablet.3gp/hot_100-tablet.3gp-mr647k.m3u8
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/play_zps6mp3huks.png" group-title="Adultos",Latinas
+http://tinyurl.com/pyumlyd
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/play_zps6mp3huks.png" group-title="Adultos",Passie XXX
+http://publish.thewebstream.co:1935/leved/_definst_/passielivestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/play_zps6mp3huks.png" group-title="Adultos",Passie XXX
+http://q.gs/9830047/sex3todokodi
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/play_zps6mp3huks.png" group-title="Adultos",BabeStation X-Treme
+http://178.33.126.213:1935/bsx24/mpegts1.stream/.m3u8
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/play_zps6mp3huks.png" group-title="Adultos",BabeStation Sporting
+http://46.249.213.93/iPhone/broadcast/babespotting-tablet.3gp/babespotting-tablet.3gp-mr397k.m3u8
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/play_zps6mp3huks.png" group-title="Adultos",BabeStation Unleashed 2
+http://178.33.126.213:1935/cellcast/encoder32/.m3u8
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/play_zps6mp3huks.png" group-title="Adultos",BabeStation Xtra
+http://46.105.116.159:1935/cellcast/encoder72/.m3u8
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/play_zps6mp3huks.png" group-title="Adultos",Babestation Blue
+http://178.33.126.213:1935/cellcast/encoder32/.m3u8
+
 Esta lista contiene canales encontrados por la web.
 Solo para uso personal.
 Prohibida su venta.
