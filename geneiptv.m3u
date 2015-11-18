@@ -20,10 +20,14 @@ http://cluster.13cmovil.ztreaming.com/13cm/grpz13c/playlist.m3u8
 
 #EXTINF:0,-Regionales-
 
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/vemastv_zpsyhmymsvg.png" group-title="REGIONALES", Mas Tv Arica 
+http://186.67.39.227:1935/Mastv/myStream/playlist.m3u8?
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/morrovision_zpsgualkdpl.png" group-title="REGIONALES", Morro Visión Arica 
+http://video.crearchile.com:8080/live/mp4:morrovision.mp4/playlist.m3u8?
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/cap_zpsaosigst3.png" group-title="REGIONALES", Cappissima Multimedial Arica
 http://scl.streaminghd.cl/8032/8032/chunklist_w1970467867.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/arica_zpssvguoat9.png" group-title="REGIONALES",Arica Tv
-http:///aricatv/aricatvvivomp4:livestream1/chunklist_w1714400561.m3u8
+http://wow2.cl.digitalproserver.com/aricatv/aricatvvivo/aricatv.smil/chunklist_w725671068_b848000.m3u8?
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/vive_zpsb7x15dmx.png" group-title="REGIONALES", Vive Chile Antofagasta 
 http://190.107.176.167:1935/live/vive-chile-antofagasta/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/dch_tv_cl_zpsekztvb2k.png" group-title="REGIONALES",Digital Channel Tv Antofagasta 
@@ -32,29 +36,59 @@ http://evo.eltelon.com:443/live/dch-tv/playlist.m3u8?MegaIPTVArgentina
 http://wow2.cl.digitalproserver.com/atv/atvvivo/atv.smil/chunklist_w949479730_b2200000.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/am_zpslbw9inor.png" group-title="REGIONALES",Am Antofagasta
 http://190.107.176.167:1935/live/am-tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/cmds_zpss1x4t0fg.png" group-title="REGIONALES", CMDS Antofagasta 
+http://190.107.176.167:1935/live/corporacion-antofagasta/playlist.m3u8?
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/calama%20televison_zpstiwjmawd.png" group-title="REGIONALES", Calama Tv
+http://iphone-streaming.ustream.tv/ustreamVideo/10819022/streams/live/playlist.m3u8?
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/cl-reg-holvoet_zpsox7uxnwt.png" group-title="REGIONALES",Holvoet Copiapo 
 http://movilstream.digitalproserver.com/holvoet/holvoetvivo/holvoet.smil/chunklist-b1248000.m3u8
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/tv33_zpsmb5drfvg.png" group-title="REGIONALES", TV33 Copiapo 
+http://192.186.154.195:80/mcopiapo/tdq7m.sdp/playlist.m3u8?
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/choapa_zpsxqzh3jpt.png" group-title="REGIONALES", Choapa Tv Canal 2 Illapel
+http://wow2.cl.digitalproserver.com/tv2/tv2vivo/tv2.smil/playlist.m3u8?
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/tele%208%20illapel_zpstk0q9pzl.png" group-title="REGIONALES", Tele 8 Illapel 
+http://wow2.cl.digitalproserver.com/tele8/tele8vivo/tele8.smil/playlist.m3u8?
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/ultravision_zpsmgbfcegd.png" group-title="REGIONALES", Ultravision Los Vilos
+http://iphone-streaming.ustream.tv/ustreamVideo/13961215/streams/live/playlist.m3u8?
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/canal5_linares_cl_zpsodoukjle.png" group-title="REGIONALES", TV5 Linares 
+http://v1.streaminglatinoamerica.com:1935/canal5/canal5/playlist.m3u8?
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/telecanal_cl_zpsdazlzkau.png" group-title="REGIONALES", Telecanal Santa Cruz 
+http://movilstream.digitalproserver.com/tcsc/tcscvivo/livestream2/playlist.m3u8?
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/telecanal_cl_zpsdazlzkau.png" group-title="REGIONALES", Telecanal Curico 
+http://wow2.cl.digitalproserver.com/tccr/tccrvivo/tccr.smil/playlist.m3u8?
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/vtv_zpspdx6gfwt.png" group-title="REGIONALES",VTV Valle de Aconcagua
 http://cdn.streamingmedia.cl:1935/live/vtv2/livestream3/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/canal2_zpsiwfsrgy0.png" group-title="REGIONALES",Canal 2 San Antonio
 rtsp://video.crearchile.com:8080/live/canal2.mp4
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/camara%20dipi_zpsnmwwmqq7.png" group-title="REGIONALES", Camara de Diputados Valparaiso
+http://camara.ztreaming.com:80/camara8/streamcam8.sdp/playlist.m3u8?
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/sporting_zpsbqeg5in1.png" group-title="REGIONALES", Sporting Tv Valparaiso
+http://movilstream.digitalproserver.com/sportinghd/sportinghdvivo/mp4:livestream2/playlist.m3u8?
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/vtv_zpspdx6gfwt.png" group-title="REGIONALES",VTV Valparaiso y VIña del Mar
 http://cdn.streamingmedia.cl:1935/live/vtvvina/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/sexta_zpssstx7vmz.png" group-title="REGIONALES",SextaVision Rancagua
 http://scl.streaminghd.cl/8028/8028/chunklist_w1777070189.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/tumblr_inline_mmsyp4OxUu1qz4rgp_zpsas2q2vil.png" group-title="REGIONALES",Fail Army Santiago
 http://sacapunta.eltelon.com/channels/failarmytv/mid.m3u8
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/agro_zpszhznrscr.png" group-title="REGIONALES", Agro Tv Santiago
+http://v2movil.tustreaming.cl/tustreaming/live4/playlist.m3u8?
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/maipu_zpsh675y8t4.png" group-title="REGIONALES", Maipu Television
+http://movilstream.digitalproserver.com:1935/maipu/maipuvivo/mp4:livestream2/playlist.m3u8?
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/inde_zpsxkru671e.png" group-title="REGIONALES",Independencia Tv Santiago
 http://evo.eltelon.com:443/live/independencia-tv/playlist.m3u8?
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/laflo_zpsiiadsad8.png" group-title="REGIONALES",La Florida Tv
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/laflo_zpsiiadsad8.png" group-title="REGIONALES",La Florida Tv Santiago
 http://190.107.176.167:1935/live/la-florida-tv/chunklist_w1951352505.m3u8
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/graneros%20tv_zpsup0mp2j1.png" group-title="REGIONALES", Graneros Television Santiago
+http://movilstream.digitalproserver.com:1935/graneros/granerosvivo/graneros.smil/playlist.m3u8?
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/ibs_zpssp9xnbtd.png" group-title="REGIONALES", ISB San Bernardo Santiago 
+http://wow2.cl.digitalproserver.com/isb/isbvivo/isb.smil/playlist.m3u8?
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/pra_zpsxcgxmiie.png" group-title="REGIONALES",Pura Noticia Tv Santiago
 http://movilstream.digitalproserver.com/puranoti/puranotivivo/puranoti.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/Liv_TV_logo.svg_zpscpvmqxop.png" group-title="REGIONALES",Liv Tv Santiago
 http://cdn.ztreaming.com/tustreaming/live2/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/logo1_zpskeh6nk1u.png" group-title="REGIONALES", Fm Hot Tv Santiago
 http://190.107.176.167:1935/live/fm-hot-tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/32679_zpskreromvk.png" group-title="REGIONALES",PortalFoxMix TV Santiago
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/32679_zpskreromvk.png" group-title="REGIONALES",PortalFoxMix Tv Santiago
 http://mediacp.streamingchilenos.cl:1935/portalfoxmix/portalfoxmix/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/logo_head_zps7e04gkdx.png" group-title="REGIONALES", NIU Tv Santiago
 http://cl.origin.grupoz.cl/niutv/smil:live.smil/chunklist_w224088368_b750000_slesp.m3u8
@@ -62,8 +96,8 @@ http://cl.origin.grupoz.cl/niutv/smil:live.smil/chunklist_w224088368_b750000_sle
 http://cl.origin.grupoz.cl/uestv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/estudio_zpsfnlhlrob.png" group-title="REGIONALES",Estudio Tv Santiago
 rtmp://190.107.176.167:1935/live/estudio-tv
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/sentildealuv_zpsyc3mmrcp.png" group-title="REGIONALES",Señal UC Santiago
-http://www.senaluc.cl/playlist/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/sentildealuv_zpsyc3mmrcp.png" group-title="REGIONALES", señal Uc Santiago
+http://www.senaluc.cl:80/playlist/stream.m3u8?s=vdmfcom
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/cesfam_zpsniwj8tf4.png" group-title="REGIONALES",Cesfam Santiago
 http://evo.eltelon.com:443/live/cesfamtv/chunklist_w781127916.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/Logotipo_TVO_San_Vicente_zpslsws5ap0.png" group-title="REGIONALES",TVO San Vicente de tagua Tagua
@@ -83,19 +117,31 @@ http://movilstream.digitalproserver.com/tvu/tvuvivo/livestream1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/ncc_zpsetirncdh.png" group-title="REGIONALES",NCC Tv Tome
 http://evo.eltelon.com:1935/live/ncc-tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/etg_zpsupswvbid.png" group-title="REGIONALES",Etchegoyen Tv Talcahuano
-http://stream110.digitalproserver.com:443:1935/etgtv/etgtvvivo/livestream1/playlist.m3u8
+http://movilstream.digitalproserver.com:1935/etgtv/etgtvvivo/livestream1/playlist.m3u8?
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/dina_zpshgnxt8vg.png" group-title="REGIONALES",Dinamica Tv Coronel
 http://evo.eltelon.com:1935/live/dinamica-television/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/cl-reg-tv4lota_zps1hymhpeo.png" group-title="REGIONALES",Tv 4 Lota 
 http://190.107.176.167:1935/live/tv4-television/playlist.m3u8?MegaIPTVArgentina
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/canal5_zpsy1rplyz7.png" group-title="REGIONALES",Canal 5 Puerto Mntt
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/tectv_zpsqqgbih8g.png" group-title="REGIONALES", TEC Television Temuco
+http://evo.eltelon.com:443/live/tec-tv/playlist.m3u8?
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/atv_valdivia_cl_zpsgmzz36y8.png" group-title="REGIONALES",Atv Valdivia 
+http://190.107.176.167:1935/live/atv-valdivia/playlist.m3u8?
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/cool%20tv_zpswzj5wmyk.png" group-title="REGIONALES", Cool Tv Valdivia
+http://iphone-streaming.ustream.tv/uhls/5383481/streams/live/iphone/playlist.m3u8?
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/inettv_zpsl8vzhgko.png" group-title="REGIONALES", Inet 2 Tv Osorno 
+http://wow2.cl.digitalproserver.com/inet2/inet2vivo/inet2.smil/playlist.m3u8?
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/canal5_zpsy1rplyz7.png" group-title="REGIONALES",Canal 5 Puerto Montt
 http://iphone-streaming.ustream.tv/ustreamVideo/16911585/streams/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/rocco_zpsjjszbdd5.png" group-title="REGIONALES",Rocco Tv Coyhaique
 http://evo.eltelon.com:443/live/rocco-tv/chunklist_w1957411020.m3u8
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/santa%20maria_zpsxfn6hfkf.png" group-title="REGIONALES", Santa Maria Tv Coyhaique
+http://v1.tustreaming.cl:1935/santamaria/santamaria/playlist.m3u8?
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/itv_patagonia_cl_zps3yvz2vwm.png" group-title="REGIONALES",ITV Punta Arenas 
 http://wow2.cl.digitalproserver.com/itv/itvvivo/livestream1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/el_pinguino_cl_zpsvhkttrc0.png" group-title="REGIONALES",El Pinguino Tv Punta Arenas 
 http://streaming.elpinguino.com:1935/live/pinguinotv_360p/BratuMarian.m3u8
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/tv_red_cl_zpsbyvrtowk.png" group-title="REGIONALES", TvRed Punta Arenas 
+http://69.164.193.177:1935/live/myStream/playlist.m3u8?
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/umag_zpsijajqcz3.png" group-title="REGIONALES", UMAG Tv Universidad de Magallanes Punta Arenas
 http://cluster.ztreaming.com:80/tser5/tser5.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/sobe_zpsgqbxhurc.png" group-title="REGIONALES",Soberania TV Magallanes y Antartica Chilena
