@@ -181,6 +181,21 @@ http://stream-03.sv6.dailymotion.com/03/dm/1/x18w5up/live.isml/live.m3u8?e=14475
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/ucvsa_zpsucuc3hvt.png" group-title="PERU",UCV Satelital
 http://wowzacontrol.net:1935/8050/8050/playlist.m3u8
 
+#EXTINF:0,-Colombia-
+
+#EXTINF:-1 group-title="COLOMBIA",Lifedesing 
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/LDTV/tu1_1.m3u8?
+#EXTINF:-1 group-title="COLOMBIA",Canal Antiestres 
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8?
+#EXTINF:-1 group-title="COLOMBIA",Cosmovision 
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8?
+#EXTINF:-1 group-title="COLOMBIA",Une Tv 
+http://lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEZ/tu1_1.m3u8?
+#EXTINF:-1 group-title="COLOMBIA",Trendy Channel 
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8?
+#EXTINF:-1 group-title="COLOMBIA",VMas+ Tv 
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8?
+
 #EXTINF:0,-Bolivia-
 
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/redpat_zpsemuhxjks.png" group-title="BOLIVIA",Red Pat
@@ -212,24 +227,12 @@ http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/index_1200_av-b.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/multimedios_tv_zpsgw1mtkzz.png" group-title="MEXICO",Multimedios Tv 
 http://brightcovelive-i.akamaihd.net/hls/live/200018/bcplay-live/Multi/Multimedios.m3u8
 
-#EXTINF:0,-Estilo y tendencias-
+#EXTINF:0,-España-
 
-#EXTINF:-1 group-title="ESTILO Y TENDENCIAS",Mega 
+#EXTINF:-1 group-title="ESPAÑA",Mega 
 http://a3live-lh.akamaihd.net/i/mega/megageo_1@328914/index_4_av-b.m3u8
-#EXTINF:-1 group-title="ESTILO Y TENDENCIAS",Miami Tv España
+#EXTINF:-1 group-title="ESPAÑA",Miami Tv España
 http://k4.usastreams.com:1935/miamitvlife/miamitvlife/chunklist_w875058297.m3u8
-#EXTINF:-1 group-title="ESTILO Y TENDENCIAS",Lifedesing 
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/LDTV/tu1_1.m3u8?
-#EXTINF:-1 group-title="ESTILO Y TENDENCIAS",Canal Antiestres 
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8?
-#EXTINF:-1 group-title="ESTILO Y TENDENCIAS",Cosmovision 
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8?
-#EXTINF:-1 group-title="ESTILO Y TENDENCIAS",Une Tv 
-http://lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEZ/tu1_1.m3u8?
-#EXTINF:-1 group-title="ESTILO Y TENDENCIAS",Trendy Channel 
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8?
-#EXTINF:-1 group-title="ESTILO Y TENDENCIAS",VMas+ Tv 
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8?
 
 #EXTINF:0,-Deportes-
 
