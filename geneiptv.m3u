@@ -167,6 +167,8 @@ http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
 http://dd65nd24m61wg.cloudfront.net/livec9/smil:C9.smil/chunklist_b796000.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/c5n_zpsgsjltzc7.png" group-title="ARGENTINA", C5N
 http://c5n.stweb.tv:1935/c5n/live_media/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/todo_noticias_zpsjqxwnjku.png" group-title="ARGENTINA", TN 24 Horas
+rtsp://stream.tn.com.ar/live/tnhd1
 
 #EXTINF:0,-Peru-
 
@@ -183,17 +185,17 @@ http://wowzacontrol.net:1935/8050/8050/playlist.m3u8
 
 #EXTINF:0,-Colombia-
 
-#EXTINF:-1 group-title="COLOMBIA",Lifedesing 
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/life_design_tv_zpsr2fpkas2.png" group-title="COLOMBIA",Lifedesing 
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/LDTV/tu1_1.m3u8?
-#EXTINF:-1 group-title="COLOMBIA",Canal Antiestres 
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/logo3d_zpsakhksl9c.png" group-title="COLOMBIA",Canal Antiestres 
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8?
-#EXTINF:-1 group-title="COLOMBIA",Cosmovision 
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/logo-cosmovision_zpshckniupi.png" group-title="COLOMBIA",Cosmovision 
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8?
-#EXTINF:-1 group-title="COLOMBIA",Une Tv 
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/logo_une_zpsqshssvec.png" group-title="COLOMBIA",Une Tv 
 http://lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEZ/tu1_1.m3u8?
-#EXTINF:-1 group-title="COLOMBIA",Trendy Channel 
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/TC_LOGO_zpsc6o4wa49.png" group-title="COLOMBIA",Trendy Channel 
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8?
-#EXTINF:-1 group-title="COLOMBIA",VMas+ Tv 
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/v_mas_tv_co_zpse3gay9xn.png" group-title="COLOMBIA",VMas+ Tv 
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8?
 
 #EXTINF:0,-Bolivia-
@@ -229,9 +231,9 @@ http://brightcovelive-i.akamaihd.net/hls/live/200018/bcplay-live/Multi/Multimedi
 
 #EXTINF:0,-España-
 
-#EXTINF:-1 group-title="ESPAÑA",Mega 
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/MEGA_zpshdpgggua.png" group-title="ESPAÑA", Mega 
 http://a3live-lh.akamaihd.net/i/mega/megageo_1@328914/index_4_av-b.m3u8
-#EXTINF:-1 group-title="ESPAÑA",Miami Tv España
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/miamitvlogoiptvsat---Copy_zps31pixgh9.png" group-title="ESPAÑA",Miami Tv España   
 http://k4.usastreams.com:1935/miamitvlife/miamitvlife/chunklist_w875058297.m3u8
 
 #EXTINF:0,-Deportes-
@@ -288,17 +290,17 @@ http://70.166.98.130:1935/hmtv/myStream/playlist.m3u8
 
 #EXTINF:0,-Radios-
 
-#EXTINF:-1 group-title="RADIOS",Radio Carolina 
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/caro_zps8qfrszg9.png" group-title="RADIOS",Radio Carolina 
 http://movilstream.digitalproserver.com/freakytv//freakytv.smil/playlist.m3u8
-#EXTINF:-1 group-title="RADIOS",Radio Duna 
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/84184_zpsd0gzhp6h.png" group-title="RADIOS",Radio Duna 
 http://wow1.dallas.digitalproserver.com/dunatv/dunatvvivo/dunatv.smil/playlist.m3u8
-#EXTINF:-1 group-title="RADIOS",Radio Tiempo 
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/s98741q_zps0vnfywxj.png" group-title="RADIOS",Radio Tiempo 
 http://movilstream.digitalproserver.com/tiempotv/tiempotvvivo/tiempotv.smil/playlist.m3u8
-#EXTINF:-1 group-title="RADIOS",Radio Zero 
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/logo-zero-light_zpstwvtq006.png" group-title="RADIOS",Radio Zero 
 http://movilstream.digitalproserver.com/zerotv/zerotvvivo/zerotv.smil/playlist.m3u8
-#EXTINF:-1 group-title="RADIOS",Radio la Clave 
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/mqdefault_zpsdijxexti.jpg" group-title="RADIOS",Radio la Clave 
 http://movilstream.digitalproserver.com/laclavetv/laclavetvvivo/laclavetv.smil/playlist.m3u8
-#EXTINF:-1 group-title="RADIOS",Tele13 Radio 
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/Tele13_Radio_zpspn4m8raf.png" group-title="RADIOS",Tele13 Radio 
 http://cdn.ztreaming.com/t13radio/mobile.m3u8
 
 #EXTINF:0,-Premium GENEIPTV-
