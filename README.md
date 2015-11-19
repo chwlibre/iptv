@@ -10,14 +10,6 @@ Repositorio de listas de canales abierto, colaborativo y buena onda que surgió 
 
     `https://raw.githubusercontent.com/chwlibre/iptv/master/list1.m3u`
 
-* lista 2:
-
-    `https://raw.githubusercontent.com/chwlibre/iptv/master/list2.m3u`
-
-* lista 4:
-
-    `https://raw.githubusercontent.com/chwlibre/iptv/master/list4.m3u`
-
 * lista chw:
 
     `https://raw.githubusercontent.com/chwlibre/iptv/master/chw.m3u`
@@ -29,10 +21,6 @@ Repositorio de listas de canales abierto, colaborativo y buena onda que surgió 
 * lista makiavelo:
 
     `https://raw.githubusercontent.com/chwlibre/iptv/master/makiavelo.m3u`
-
-* lista premium:
-
-    `https://raw.githubusercontent.com/chwlibre/iptv/master/premium.m3u`
 
 * lista radios:
 
