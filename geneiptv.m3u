@@ -150,7 +150,7 @@ http://evo.eltelon.com:443/live/soberania/chunklist_w725687300.m3u8
 #EXTINF:0,-Argentina-
 
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/america_ar_zpshwaahbon.png" group-title="ARGENTINA",America Tv 
-https://www.youtube.com/watch?v=Hytby2q7c0c
+https://www.youtube.com/watch?v=9B85F_piGV8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/TV_Puacuteblica_zpsrztvazm5.png" group-title="ARGENTINA",Tv Publica 
 http://live-edge01.telecentro.net.ar/live/smil:tvp.smil/master.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/el_trece_ar_zpsee2fshkp.png" group-title="ARGENTINA",El Trece 
@@ -242,10 +242,6 @@ http://rt.ashttp14.visionip.tv/live/RT_en_Espanol-HD/chunklist.m3u8?-1332%2F1499
 
 #EXTINF:0,-Deportes-
 
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/tyc-sports-tv_zps98dncr5p.png" group-title="DEPORTES",T y C Sports 
-http://live.vodgc.com:1935/kLive/smil:0_a5h483eu_all.smil/master.m3u8
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/bein_zpsy5gqnxos.png" group-title="DEPORTES",Bein Sports Ñ 
-http://yiptv5-live.hls.adaptive.level3.net/yiptv5/beinespgov/04.m3u8?
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/GItbD_zpsiqiln6to.png" group-title="DEPORTES",Win Sports 
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1_manifest.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/deportv_zpslussgupq.png" group-title="DEPORTES",DXTV 
