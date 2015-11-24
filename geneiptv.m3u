@@ -165,6 +165,8 @@ https://www.youtube.com/watch?v=cdy85qJH_Ds
 http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/canal_9_ar_zpshzpda182.png" group-title="ARGENTINA",Canal 9 
 http://dd65nd24m61wg.cloudfront.net/livec9/smil:C9.smil/chunklist_b796000.m3u8
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/canal_9_ar_zpshzpda182.png" group-title="ARGENTINA",9 Litoral 
+http://ionlive1-lh.akamaihd.net/i/canal9_1@125365/master.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/c5n_zpsgsjltzc7.png" group-title="ARGENTINA", C5N
 http://c5n.stweb.tv:1935/c5n/live_media/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/todo_noticias_zpsjqxwnjku.png" group-title="ARGENTINA", TN 24 Horas
@@ -209,6 +211,8 @@ http://iphone-streaming.ustream.tv/ustreamVideo/10248660/streams/live/playlist.m
 
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/200px-Rts_logo_zpsv8e80rvg.png" group-title="ECUADOR", RTS Ecuador
 http://d2rcb4pdmqg3cg.cloudfront.net/liverts/smil:liverts.smil/chunklist_b899152.m3u8
+#EXTINF:-1 tvg-logo="http://foromedios.com/uploads/gallery/category_2/gallery_5610_2_5038.png" group-title="ECUADOR", Ecuador Tv
+http://ecuadortv_livehd-lh.akamaihd.net/i/0n0xzqt3o_1@323283/master.m3u8
 
 #EXTINF:0,-Mexico-
 
@@ -302,6 +306,8 @@ http://movilstream.digitalproserver.com/zerotv/zerotvvivo/zerotv.smil/playlist.m
 http://movilstream.digitalproserver.com/laclavetv/laclavetvvivo/laclavetv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/Tele13_Radio_zpspn4m8raf.png" group-title="RADIOS",Tele13 Radio 
 http://cdn.ztreaming.com/t13radio/mobile.m3u8
+#EXTINF:-1 tvg-logo="http://radioenvivo.me/wp-content/uploads/2013/11/radio-activa-chile.jpg" group-title="RADIOS",Radio Activa
+http://5143.live.streamtheworld.com/ACTIVAAAC?swf
 
 #EXTINF:0,-Premium GENEIPTV-
 
@@ -565,15 +571,15 @@ http://200.76.77.237/LIVE/H01/CANAL651/PROFILE03.m3u8?-1332%2F1499-20150816T1535
 #EXTINF:0,-Adultos-
 
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/play_zps6mp3huks.png" group-title="Adultos",Venus
-http://vps237.dyndns.org:8000/http/pubiptv.dyndns.org:4222/udp/239.100.26.10:1234
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/play_zps6mp3huks.png" group-title="Adultos",Playboy Red
-http://vps237.dyndns.org:8000/http/pubiptv.dyndns.org:4222/udp/239.100.28.18:1234
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/play_zps6mp3huks.png" group-title="Adultos",Playboy
-http://78.30.254.27:8989/udp/239.0.0.200:4000
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/play_zps6mp3huks.png" group-title="Adultos",Wow Girls
-http://cdn5.iviplanet.com:1935/TVMIA-ARG-VODLive4/smil:tvmia-arg-vodlive4.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/play_zps6mp3huks.png" group-title="Adultos",Redtube
-http://cdn5.iviplanet.com:1935/TVMIA-ARG-VODLive1/smil:tvmia-arg-vodlive1.smil/playlist.m3u8
+http://46.182.25.34:1935/tv/1420/chunklist_w1894981632.m3u8
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/play_zps6mp3huks.png" group-title="Adultos",Brazzers Tv
+http://4BA9EBDB07C05883:@5.159.96.170:8000/brazzers
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/play_zps6mp3huks.png" group-title="Adultos",Olala
+http://4BA9EBDB07C05883:@5.159.96.170:8000/olala
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/play_zps6mp3huks.png" group-title="Adultos",Pasiones 
+http://publish.thewebstream.co:1935/leved/_definst_/passielivestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/play_zps6mp3huks.png" group-title="Adultos",Brasileirinhas 
+http://212.129.30.215/brasileirinhas/brasileirinhas/live.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/play_zps6mp3huks.png" group-title="Adultos",Private
 http://178.33.126.213:1935/leved/privateCom/.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/play_zps6mp3huks.png" group-title="Adultos",Jazmin Tv
