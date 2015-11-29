@@ -174,16 +174,14 @@ rtsp://stream.tn.com.ar/live/tnhd1
 
 #EXTINF:0,-Peru-
 
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/gallery_1163_2_34091_zpssseoh1n1.png" group-title="PERU",Andina Tv 
-http://edge-41-us.edge.mdstrm.com/live/smil:c23b8a0a21d215482b4c2703e47f675a/playlist_b950.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/dragon-tv-hd_zps88l2narb.png" group-title="PERU",America Tv 
 http://ooyalahd2-f.akamaihd.net/i/atv02_delivery@25405/index_1728_av-p.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/latina_pe_zps5evuplhq.png" group-title="PERU",Latina Tv 
 http://ooyalahd2-f.akamaihd.net/i/latinalim_delivery@128959/master.m3u8
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/PANAMERICANA_TELEVISION_PE__zpsgdwcxmsn.png" group-title="PERU",Panamericana Tv
-http://stream-03.sv6.dailymotion.com/03/dm/1/x18w5up/live.isml/live.m3u8?e=1447515439&st=uNA0NthzTiBKmEmqRRp4Pg
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/ucvsa_zpsucuc3hvt.png" group-title="PERU",UCV Satelital
 http://wowzacontrol.net:1935/8050/8050/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.tvperu.gob.pe/sites/all/themes/stability/images/tvperu_avatar.png" group-title="PERU", TV Perú
+http://iphone-streaming.ustream.tv/ustreamVideo/17419715/streams/live/playlist.m3u8
 
 #EXTINF:0,-Colombia-
 
@@ -567,6 +565,191 @@ http://200.76.77.237/LIVE/H01/CANAL603/PROFILE03.m3u8?-1332%2F1499-20150816T1535
 http://200.76.77.237/LIVE/H01/CANAL610/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts 
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,TVE
 http://200.76.77.237/LIVE/H01/CANAL651/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+
+#EXTINF:0,-Peliculas-
+
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/mp4_zpspcacspsd.png" group-title="PELICULAS",los 33 
+https://archive.org/download/Los.33.2015.1080p.Latino.HD/Los.33.2015.1080p.Latino.HD.mkv
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/mp4_zpspcacspsd.png" group-title="PELICULAS",Mision imposible: Nacion secreta
+https://lh3.googleusercontent.com/hNXj1AUtB2kn9HfuCK-LovN1EB5msrlNyiiGDjW1WBA=m22
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/mp4_zpspcacspsd.png" group-title="PELICULAS",El corredor del laberinto: Las pruebas
+https://lh3.googleusercontent.com/WlRQXHAxQDggBnivUw3UfdUrzq2k7wydHwddwwG8Hq4=m37
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/mp4_zpspcacspsd.png" group-title="PELICULAS",Ted 2
+https://lh3.googleusercontent.com/3iuPbTxgl4DeuqyRTGzaBY1wk33fzudzU6K6oYpkA0s=m37
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/mp4_zpspcacspsd.png" group-title="PELICULAS",Hitman: Agente 47
+https://lh3.googleusercontent.com/jjtDmmO3Gc4N3fn57XE7lxfmzqIAmRsQA065QXDkW3Y=m37
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/mp4_zpspcacspsd.png" group-title="PELICULAS",Ant-Man
+https://lh3.googleusercontent.com/dKhaBcSq8PtRf20tZGceVSHxqpHwd7e5WliOC-Z8k9Y=m37
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/mp4_zpspcacspsd.png" group-title="PELICULAS",Cuatro fantásticos
+https://lh3.googleusercontent.com/r_lQGT85Xwm4tHmn0-8U_1fj1GzZ6pkM2H5g3CDZB_Y=m37
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/mp4_zpspcacspsd.png" group-title="PELICULAS",temblores 5
+https://lh3.googleusercontent.com/1bxhg8RIjBIftRtL0ZKDz38qcln94jAKB7iOo7PrkKU=m37
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/mp4_zpspcacspsd.png" group-title="PELICULAS",El Hombre de los Puños de Hierro 2
+https://lh3.googleusercontent.com/RK7kv_x2svBc7XEta4mW2IvbLfqY69x5xBnWiwtSY0I=m37
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/mp4_zpspcacspsd.png" group-title="PELICULAS",El instituto Atticus
+https://lh3.googleusercontent.com/5CkLgcat0brSOoy4-nwYJg1H-00LwRDT9zIJwIeAxao=m37
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/mp4_zpspcacspsd.png" group-title="PELICULAS",Operación U.N.C.L.E
+https://lh3.googleusercontent.com/uTkhgow9fq0pni2v-PTxcgm9wkxAip7SNat75rv0fLc=m37
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/mp4_zpspcacspsd.png" group-title="PELICULAS",Golpe de estado
+https://lh3.googleusercontent.com/V9qoIWHKSpDwp_6PTX4_naTikgYA7_UvlGe-8GwTHyg_=m37
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/mp4_zpspcacspsd.png" group-title="PELICULAS",Y de repente tú
+https://lh3.googleusercontent.com/l836qeCIydBWq_k_8c607OKHlNIz-yArAppWPFnSfxQ=m22
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/mp4_zpspcacspsd.png" group-title="PELICULAS",La espada de la venganza
+https://lh3.googleusercontent.com/7h3UYBtfuX6k1Y0kQYlvGFyTocckzcIOtm4DixK70bo=m37
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/mp4_zpspcacspsd.png" group-title="PELICULAS",Lugares oscuros
+https://lh3.googleusercontent.com/SH7T9Evpzdf_lmLFqIkodKG8hVZIfAaerFyP2W3VO-U=m37
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/mp4_zpspcacspsd.png" group-title="PELICULAS",Los Minions
+https://lh3.googleusercontent.com/9_cNr_2SalPRNHmmzLdw8xVVbcKutION1s1VAJanEOA=m37
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/mp4_zpspcacspsd.png" group-title="PELICULAS",intensamente
+https://lh3.googleusercontent.com/02BKZzeWuDqdLLyTPx5nhCz1jYTRQGIJ03en0saaJZQ=m37
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/mp4_zpspcacspsd.png" group-title="PELICULAS",Exorcismo en el Vaticano
+https://lh3.googleusercontent.com/3TmcOI7_uFJgdpUtVu6wH_5hp8xU1osDiZRyI-zVcbs=m37
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/mp4_zpspcacspsd.png" group-title="PELICULAS",La Horca
+https://lh3.googleusercontent.com/satEWb2K52Sm3v-IX_ELkKwX_tQSUw3WAg5ZEIkmqHU=m22
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/mp4_zpspcacspsd.png" group-title="PELICULAS",El rey Escorpión 4: La búsqueda del poder
+https://lh3.googleusercontent.com/ZZc_Ipglvp2NNBi51MmQSbVBCJTujCP1E2S2xSkDFO0=m37
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/mp4_zpspcacspsd.png" group-title="PELICULAS",pixels
+https://lh3.googleusercontent.com/vMM2B0DcwJ2CcCIThv3m2tqS7IO8t-4pq6kvGYmoF-0=m37
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/mp4_zpspcacspsd.png" group-title="PELICULAS",max
+https://lh3.googleusercontent.com/61YJ3LAY3Zt6OWvU7QQWdFBRwvjJ2NFDl44Q1an6j_0=m22
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/mp4_zpspcacspsd.png" group-title="PELICULAS",poltergeist
+https://lh3.googleusercontent.com/tnzCgUfLx1EDYyUIzn1nx2Fj288_ws9w9JGQ5iNQpnI=m22
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/mp4_zpspcacspsd.png" group-title="PELICULAS",la noche del demonio 3
+https://lh3.googleusercontent.com/7eupnz87bSSaHXb_Jj2BcZL3ICuTdG6WYPL-d6UrHg=m37
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/mp4_zpspcacspsd.png" group-title="PELICULAS",terminaiotr genesis
+https://lh3.googleusercontent.com/Y1oGCzwsMeTDoXoso1X-jJGAp_T77qRBBFjoRpUR5w=m37
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/mp4_zpspcacspsd.png" group-title="PELICULAS",san andres
+https://lh3.googleusercontent.com/pqTdKWzE182PQvE41ARqAk2zdaICrpXAc9lIIpTkOw=m37
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/mp4_zpspcacspsd.png" group-title="PELICULAS",los vengadores:la era de ultron
+https://lh3.googleusercontent.com/Vf4jaYQZNOpN2i434cZ-UC4BDcqLWCNu0LN26d_plw=m37
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/mp4_zpspcacspsd.png" group-title="PELICULAS",espias
+https://lh3.googleusercontent.com/w9w_o270iOxdJTuoeZx_hgiP4rWIfF3QdLZvFsAh2Q=m37
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/mp4_zpspcacspsd.png" group-title="PELICULAS",mad max
+https://lh3.googleusercontent.com/o_jCd6TJvXDAR5bSCijbwrRcghP8-mnRIi0Fw7VUPAU=m22 
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/mp4_zpspcacspsd.png" group-title="PELICULAS",jurassic world
+https://lh3.googleusercontent.com/xEXCWyVx_iaeFU-9jFTJ9u8WMUnrfQhEcgJ4qmz-aSI=m37
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/mp4_zpspcacspsd.png" group-title="PELICULAS",rapido y furioso 7
+https://lh3.googleusercontent.com/rm5slhL7s9rcPnqeXEhvePu0i5bHebkZIXMhugY9fYk=m22
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/mp4_zpspcacspsd.png" group-title="PELICULAS",guardianes de os
+https://lh3.googleusercontent.com/ZOiRcsJUqIa03P6TXma20gm9YMriG-uKYreA_vJSkcE=m37
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/mp4_zpspcacspsd.png" group-title="PELICULAS",pisandonos los tacones
+https://lh3.googleusercontent.com/oKYj7yO-QCqrqNFI72olg5ow1zLJ-zMwC9xZ8R7EgMY=m37
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/mp4_zpspcacspsd.png" group-title="PELICULAS",demonic
+https://lh3.googleusercontent.com/_GtlHHjHPg9IKsGMBrXTEuieM5VgJk2kgFYFvMh6sVo=m37
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/mp4_zpspcacspsd.png" group-title="PELICULAS",The Lazarus Effect
+https://lh3.googleusercontent.com/dkzpC11CpJcEGVqqPRmqzlitXJTqNlUt7XrwbZEC4Eo=m37
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/mp4_zpspcacspsd.png" group-title="PELICULAS",divergente
+https://lh3.googleusercontent.com/zGytAKZPybT_X2bDxJeuixIO82Q_yka7f0EtDWCplmU=m37
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/mp4_zpspcacspsd.png" group-title="PELICULAS",superpoli en las vegas
+https://lh3.googleusercontent.com/NXj_pwMvmop9MU4uNjteDtMKMJjsKI_a19FVmwcy3iY=m37
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/mp4_zpspcacspsd.png" group-title="PELICULAS",Blackhat - Amenaza en la red
+https://lh3.googleusercontent.com/kqhvIkF0s3OSdSaf89cS1LLXaQg0l0AgxSUJW94pNKw=m37
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/mp4_zpspcacspsd.png" group-title="PELICULAS",chappie
+https://lh3.googleusercontent.com/tlBA7y-qxAu-e4QhY2dxaMUFjhcLki309SVAebSS9TA=m37
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/mp4_zpspcacspsd.png" group-title="PELICULAS",Una noche para sobrevivir
+https://lh3.googleusercontent.com/QdxBEhFU2tRoqwYjToVwTQKMmcFOlGx1KFtS0Eot6yA=m22
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/mp4_zpspcacspsd.png" group-title="PELICULAS",el destino de jupiter
+https://lh3.googleusercontent.com/I2OBhUIt1pqJPJsgqOn5vvY32btHoGOf-D0PcOsUsVs=m37
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/mp4_zpspcacspsd.png" group-title="PELICULAS",Ex Machina
+https://lh3.googleusercontent.com/PpVxhokBwK2HNzKVsW_0bdG78u1j77-Y65t6I47-nQ0=m37
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/mp4_zpspcacspsd.png" group-title="PELICULAS",focus
+https://lh3.googleusercontent.com/qjH6stagxP3LkLJQa4Biai0H4FXPauyrqOD39zT8kvM=m37
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/mp4_zpspcacspsd.png" group-title="PELICULAS",Cincuenta sombras de Grey
+https://lh3.googleusercontent.com/tW0c8Um-5OKVjGJMZhJSKqUvpGDG64-dN1SJpPhhxBw=m37
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/mp4_zpspcacspsd.png" group-title="PELICULAS",Obsesión
+https://lh3.googleusercontent.com/KtCZxDRDUhJ_EVdOm1ZpFYP-7KCRKaHCOq8J5lBtRA=m22
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/mp4_zpspcacspsd.png" group-title="PELICULAS",Home Sweet Hell
+https://lh3.googleusercontent.com/yuqPC5p7Oi_0cmt_M56H6cMc9IrbICERYSQWAqOhPto=m37
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/mp4_zpspcacspsd.png" group-title="PELICULAS",AntMan
+https://onedrive.live.com/download.aspx?resid=E3B55F5CD685660A!125&authkey=!AGNtTEpQX09rPyw&ithint=video%2cavi
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/mp4_zpspcacspsd.png" group-title="PELICULAS",AntMan [Sub]
+https://onedrive.live.com/download.aspx?resid=E3B55F5CD685660A!126&authkey=!AF_4FghSRqItiIc&ithint=video%2cmp4
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/mp4_zpspcacspsd.png" group-title="PELICULAS",Intensamente (Dual)
+https://onedrive.live.com/download.aspx?resid=F7DB6A0710466612!146&authkey=!AKJH5jc4CG1u-eE&ithint=file%2cmkv
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/mp4_zpspcacspsd.png" group-title="PELICULAS",Cuatro fantásticos (Dual)
+https://onedrive.live.com/download.aspx?resid=F7DB6A0710466612!145&authkey=!ADOr8gXDx17hwa4&ithint=file%2cmkv
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/mp4_zpspcacspsd.png" group-title="PELICULAS",Misión Imposible: Nación secreta (Dual)
+https://onedrive.live.com/download.aspx?resid=F7DB6A0710466612!144&authkey=!AJ-fcKMBvWIjhlg&ithint=file%2cmkv
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/mp4_zpspcacspsd.png" group-title="PELICULAS",Bikini Model Academy (subs)
+https://onedrive.live.com/download.aspx?resid=F7DB6A0710466612!131&authkey=!AJPr5XPDFgqnny4&ithint=video%2cavi
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/mp4_zpspcacspsd.png" group-title="PELICULAS",Road Wars
+https://onedrive.live.com/download.aspx?resid=F7DB6A0710466612!130&authkey=!AIsHzE5u8l6KHDg&ithint=file%2cmkv
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/mp4_zpspcacspsd.png" group-title="PELICULAS", Estreno
+https://onedrive.live.com/download.aspx?resid=20DB96EF45C3AAC6!150&authkey=!AFKO0Befeo0_a5g&ithint=file%2cmkv
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/mp4_zpspcacspsd.png" group-title="PELICULAS",Beasts of No Nation Latino Dual
+https://onedrive.live.com/download.aspx?resid=E5E4B2D86DAC038B!169&authkey=!AO6tNCwsfEQ8Qbw&ithint=file%2cmkv
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/mp4_zpspcacspsd.png" group-title="PELICULAS",Coche policial
+https://onedrive.live.com/download.aspx?resid=E5E4B2D86DAC038B!164&authkey=!AJaSmKadK9jNogw&ithint=file%2cmkv
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/mp4_zpspcacspsd.png" group-title="PELICULAS",Vicio Dual
+https://onedrive.live.com/download.aspx?resid=20DB96EF45C3AAC6!129&authkey=!AFB5cXazuuQDIes&ithint=file%2cmkv
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/mp4_zpspcacspsd.png" group-title="PELICULAS",Howl
+https://onedrive.live.com/download.aspx?resid=20DB96EF45C3AAC6!131&authkey=!APEObOMoKRL0phY&ithint=video%2cavi
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/mp4_zpspcacspsd.png" group-title="PELICULAS",Atrapado en los 90s
+https://onedrive.live.com/download.aspx?resid=20DB96EF45C3AAC6!149&authkey=!APL72pt3Xboo76o&ithint=file%2cmkv
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/mp4_zpspcacspsd.png" group-title="PELICULAS",Los Minions
+https://onedrive.live.com/download.aspx?resid=20DB96EF45C3AAC6!130&authkey=!AFu4BYBIctIlM2c&ithint=file%2cmkv
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/mp4_zpspcacspsd.png" group-title="PELICULAS",Dragon Ball Z: La Resurrección de Freezer
+https://onedrive.live.com/download.aspx?resid=E5E4B2D86DAC038B!121&authkey=!APN7EmYyEcLcVEA&ithint=file%2cmkv
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/mp4_zpspcacspsd.png" group-title="PELICULAS",AREA 51
+https://onedrive.live.com/download.aspx?resid=E5E4B2D86DAC038B!112&authkey=!ALhgRVsmdIjxyH0&ithint=video%2cavi
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/mp4_zpspcacspsd.png" group-title="PELICULAS",The Contract
+https://onedrive.live.com/download.aspx?resid=67C6DAD95A0F8A91!196&authkey=!AOc_5A-yJXWT5Wk&ithint=video%2cavi
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/mp4_zpspcacspsd.png" group-title="PELICULAS",Vacaciones
+https://onedrive.live.com/download.aspx?resid=40534DEEF5C841BB!1009&authkey=!AMC7z1svQs0fGk8&ithint=video%2cmp4
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/mp4_zpspcacspsd.png" group-title="PELICULAS",Exorcismo En El Vaticano
+https://onedrive.live.com/download.aspx?resid=40534DEEF5C841BB!1008&authkey=!APTbXvMQA5MxSzg&ithint=video%2cmp4
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/mp4_zpspcacspsd.png" group-title="PELICULAS",The Exorcism of Molly Hartley
+https://onedrive.live.com/download.aspx?resid=A494AA8BFCA8883!435&authkey=!AAfEmKos2YvjGwQ&ithint=video%2cavi
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/mp4_zpspcacspsd.png" group-title="PELICULAS",Knock Knock
+https://onedrive.live.com/download.aspx?resid=A494AA8BFCA8883!437&authkey=!ALjq5lSi6-ntWNM&ithint=file%2cmkv
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/mp4_zpspcacspsd.png" group-title="PELICULAS",Escupire Sobre Tu Tumba 3 [Sub]
+https://onedrive.live.com/download.aspx?resid=40534DEEF5C841BB!996&authkey=!AFcD5lnhom26Uv8&ithint=video%2cmp4
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/mp4_zpspcacspsd.png" group-title="PELICULAS",La Revancha 1080p (Dual)
+https://onedrive.live.com/download.aspx?resid=2AF26E78CEF408D2!119&authkey=!AHZKAvDzN7doxHU&ithint=file%2cmkv
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/mp4_zpspcacspsd.png" group-title="PELICULAS",Yo -  él y Raquel Latino(Dual)(1080p)
+https://onedrive.live.com/download.aspx?resid=2AF26E78CEF408D2!122&authkey=!ANszxGEEqmrNGU4&ithint=file%2cmkv
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/mp4_zpspcacspsd.png" group-title="PELICULAS",Jugada Salvage (1080p) Dual
+https://onedrive.live.com/download.aspx?resid=4D3138D45E55F8C1!109&authkey=!ABGLvXmemEReiJo&ithint=video%2cmp4
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/mp4_zpspcacspsd.png" group-title="PELICULAS",Disney Nature El reino de los monos
+https://onedrive.live.com/download.aspx?resid=4D3138D45E55F8C1!111&authkey=!APQLSuo7x7UIHZc&ithint=video%2cmp4
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/mp4_zpspcacspsd.png" group-title="PELICULAS",Aire (latino) (1080)
+https://onedrive.live.com/download.aspx?resid=4D3138D45E55F8C1!113&authkey=!AH5TuBYcuSKVl_c&ithint=file%2cmkv
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/mp4_zpspcacspsd.png" group-title="PELICULAS",El Secreto De Adaline (latino)
+https://onedrive.live.com/download.aspx?resid=4D3138D45E55F8C1!112&authkey=!AMp60SpEvCK_z6o&ithint=video%2cavi
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/mp4_zpspcacspsd.png" group-title="PELICULAS",Tracers (Dual)1080p
+https://onedrive.live.com/download.aspx?resid=4D3138D45E55F8C1!115&authkey=!ACVUONn8OQlsm60&ithint=file%2cmkv
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/mp4_zpspcacspsd.png" group-title="PELICULAS",Terminator Génesis(Dual)
+https://onedrive.live.com/download.aspx?resid=4D3138D45E55F8C1!114&authkey=!AOVW4iPGIzv6-aU&ithint=file%2cmkv
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/mp4_zpspcacspsd.png" group-title="PELICULAS",La Horca [dual]
+https://onedrive.live.com/download.aspx?resid=2AF26E78CEF408D2!118&authkey=!ANs1AbnoxDvz08A&ithint=file%2cmkv
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/mp4_zpspcacspsd.png" group-title="PELICULAS",Ciudades De Papel
+https://onedrive.live.com/download.aspx?resid=A494AA8BFCA8883!431&authkey=!ALWIfn4zeTzUl9o&ithint=file%2cmkv
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/mp4_zpspcacspsd.png" group-title="PELICULAS",Magic Mike XXL [dual]
+https://onedrive.live.com/download.aspx?resid=9019C8D6D3F2A237!516&authkey=!ADXBQuKDqYvTXsY&ithint=file%2cmkv
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/mp4_zpspcacspsd.png" group-title="PELICULAS",Shaun el cordero [lat]
+https://onedrive.live.com/download.aspx?resid=9019C8D6D3F2A237!531&authkey=!ANZNU4aBv6dIeI4&ithint=video%2cmp4
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/mp4_zpspcacspsd.png" group-title="PELICULAS",Tomorrowland: El Mundo del Mañana 
+https://onedrive.live.com/download.aspx?resid=2AF26E78CEF408D2!114&authkey=!AEgXYZxuD3gIeKU&ithint=file%2cmkv
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/mp4_zpspcacspsd.png" group-title="PELICULAS",Pixeles [BrScreener]
+https://onedrive.live.com/download.aspx?resid=40534DEEF5C841BB!1002&authkey=!AJYDv-y7Z4VbyN8&ithint=video%2cmp4
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/mp4_zpspcacspsd.png" group-title="PELICULAS",La Noche Del Demonio 3
+https://onedrive.live.com/download.aspx?resid=D7D05EA36C9AC105!226&authkey=!AF8f8HX22xDQGeg&ithint=video%2cmp4
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/mp4_zpspcacspsd.png" group-title="PELICULAS",El Gran Pequeño
+https://onedrive.live.com/download.aspx?resid=D7D05EA36C9AC105!217&authkey=!ABWBQFfi5w4LlTk&ithint=video%2cmp4
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/mp4_zpspcacspsd.png" group-title="PELICULAS",Los Vengadores: La Era de Ultrón [Dual]
+https://onedrive.live.com/download.aspx?resid=40534DEEF5C841BB!988&authkey=!AIkgN34Obsw2Dvc&ithint=video%2cmp4
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/mp4_zpspcacspsd.png" group-title="PELICULAS",Una última y nos vamos Opcion 2
+https://onedrive.live.com/download.aspx?resid=8F8E52C3E63CF853!1810&authkey=!ADxysPcJZHoaTpI&ithint=file%2cmkv
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/mp4_zpspcacspsd.png" group-title="PELICULAS",Terremoto La Falla De San Andrés [Web DL]
+https://onedrive.live.com/download.aspx?resid=D7D05EA36C9AC105!236&authkey=!AMsX3JkTfM8nsWs&ithint=video%2cmp4
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/mp4_zpspcacspsd.png" group-title="PELICULAS",Jurassic World [Brscreener]
+https://onedrive.live.com/download.aspx?resid=D7D05EA36C9AC105!237&authkey=!AH6aw5sOxn8Lf54&ithint=video%2cmp4
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/mp4_zpspcacspsd.png" group-title="PELICULAS",Heroe De Centro Comercial 2
+https://onedrive.live.com/download.aspx?resid=40534DEEF5C841BB!120&authkey=!AI69kIiLDce2CrQ&ithint=video%2cmp4
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/mp4_zpspcacspsd.png" group-title="PELICULAS",La serie Divergente: Insurgente [ Dual ]
+https://onedrive.live.com/download.aspx?resid=40534DEEF5C841BB!233&authkey=!AIsnDN6JCcFF6cg&ithint=video%2cmp4
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/mp4_zpspcacspsd.png" group-title="PELICULAS",Resucitados [ Dual ]
+https://onedrive.live.com/download.aspx?resid=40534DEEF5C841BB!283&authkey=!AHnvu6c3-ihLIjw&ithint=video%2cmp4
 
 #EXTINF:0,-Adultos-
 
