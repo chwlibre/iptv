@@ -295,8 +295,6 @@ http://45.55.81.38:1382/discoverykids/playlist.m3u8
 
 #EXTINF:0,-Deportes-
 
-#EXTINF:-1 tvg-logo="http://lh6.googleusercontent.com/-5cREtSCrSwU/U4WLgrcq4rI/AAAAAAAAA7E/THFedMmQMKI/s154/tyc-sports-tv.png" group-title="DEPORTES",TyC Sports 
-http://live.vodgc.com:1935/kLive/smil:0_a5h483eu_all.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/GItbD_zpsiqiln6to.png" group-title="DEPORTES",Win Sports 
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1_manifest.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/deportv_zpslussgupq.png" group-title="DEPORTES",DXTV 
@@ -312,8 +310,6 @@ http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/logo-mimusica_zpsvx6th2vd.png" group-title="MUSICA",Mi Musica 
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/1328367291_zpsnk7smybe.png" group-title="MUSICA",Vh1 
-http://104.236.232.245:1382/hls/vh1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/tigo_zps9u7l0tan.png" group-title="MUSICA",Tigo Musica 
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8?
 #EXTINF:-1 group-title="MUSICA",Onda Latina
