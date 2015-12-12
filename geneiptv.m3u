@@ -191,6 +191,10 @@ http://iphone-streaming.ustream.tv/ustreamVideo/17419715/streams/live/playlist.m
 
 #EXTINF:0,-Colombia-
 
+#EXTINF:-1 tvg-logo="http://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/062014/logo_caracol_television.jpg?itok=dcTy5zzy" group-title="COLOMBIA",Caracol 
+http://199.180.114.174:84/ccaracol.m3u8
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/logo-rcn_10_1_zpskiejaaq8.png" group-title="COLOMBIA",RCN
+http://199.180.114.174:84/crcn.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/life_design_tv_zpsr2fpkas2.png" group-title="COLOMBIA",Lifedesing 
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/LDTV/tu1_1.m3u8?
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/logo3d_zpsakhksl9c.png" group-title="COLOMBIA",Canal Antiestres 
