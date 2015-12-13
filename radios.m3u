@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:0, Radio Carolina (Chile)
-http://movilstream.digitalproserver.com/freakytv//freakytv.smil/playlist.m3u8
+http://movilstream.digitalproserver.com/freakytv/freakytv.smil/playlist.m3u8
 #EXTINF:0, Radio Tiempo (Chile)
 http://movilstream.digitalproserver.com/tiempotv/tiempotvvivo/tiempotv.smil/playlist.m3u8
 #EXTINF:0, Radio Duna (Chile)
