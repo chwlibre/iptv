@@ -10,10 +10,6 @@ Repositorio de listas de canales abierto, colaborativo y buena onda que surgió 
 
     `https://raw.githubusercontent.com/chwlibre/iptv/master/list1.m3u`
 
-* lista chw:
-
-    `https://raw.githubusercontent.com/chwlibre/iptv/master/chw.m3u`
-
 * lista geneiptv:
 
     `https://raw.githubusercontent.com/chwlibre/iptv/master/geneiptv.m3u`
