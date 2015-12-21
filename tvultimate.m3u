@@ -15,7 +15,27 @@ http://t.tvultimate.mx
 
 
 
+#EXTM3U
+#EXTINF:0,-Nacionales-
 
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/la_red_cl_zpstevkunxj.png" group-title="NACIONALES",La Red 
+http://movilstream.digitalproserver.com:443/redtv/redtvvivo/livestream2/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/ucv_tv_cl_zpsquly9vvk.png" group-title="NACIONALES",UCV 
+http://movilstream.digitalproserver.com/ucvtv/ucvtv.smil/chunklist-b1248000.m3u8
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/tvn_cl_zpsctcjmoub.png" group-title="NACIONALES",TVN 
+http://tvn-vod.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/tvn_cl_zpsctcjmoub.png" group-title="NACIONALES",TVN Internacional
+http://edge-11-mvstr.edge.mdstrm.com/tvn-live/smil:285a5c6dade574d5f111419c85c6cf17/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/mega_zpspdvnwvzq.png" group-title="NACIONALES",Mega 
+http://edge-12-cl.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist_b1500.m3u8
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/chilevision_cl_zpsx06ngmet.png" group-title="NACIONALES",CHV 
+http://live.hls.http.chv.ztreaming.com/chvhddesktop/chvHi.m3u8
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/canal13_cl_zpsckqtjlod.png" group-title="NACIONALES",Canal 13 
+http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/canal13_cl_zpsckqtjlod.png" group-title="NACIONALES",Canal 13 OP2
+http://13.live.cdn.cl/13hddesktop/13hd-900.m3u8
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/canal13_c_cl_zpsoueja6s7.png" group-title="NACIONALES", C13 Cable
+http://cluster.13cmovil.ztreaming.com/13cm/grpz13c/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="Latino-FOX.png",Fox
