@@ -1,21 +1,4 @@
 #EXTM3U
-
-#EXTINF:-1, [COLOR yellow]Actualizado 19/12/2015 @ 10:00 PM  (MEXICO)[/COLOR]  
-http://t.tvultimate.mx
-
-
-
-
-
-
-
-
-#EXTINF:-1,[COLOR red]----------[/COLOR][COLOR blue]TvUltimate[/COLOR][COLOR skyblue] SD[/COLOR][COLOR red]--------------[/COLOR]
-http://t.tvultimate.mx
-
-
-
-#EXTM3U
 #EXTINF:0,-Nacionales-
 
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/la_red_cl_zpstevkunxj.png" group-title="NACIONALES",La Red 
@@ -37,6 +20,7 @@ http://13.live.cdn.cl/13hddesktop/13hd-900.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/canal13_c_cl_zpsoueja6s7.png" group-title="NACIONALES", C13 Cable
 http://cluster.13cmovil.ztreaming.com/13cm/grpz13c/playlist.m3u8
 
+#EXTINF:1,-Cable-
 
 #EXTINF:-1 tvg-logo="Latino-FOX.png",Fox
 http://tvultimate.ddns.net/LIVE/H01/CANAL201/PROFILE03.m3u8?tvultimate=%2F.ts
@@ -426,75 +410,6 @@ http://t.tvultimate.mx
 http://t.tvultimate.mx
 #EXTINF:-1 tvg-logo="tvultimate.png",Per:AMERICA TV HD 
 http://ooyalahd2-f.akamaihd.net/i/atv02_delivery@25405/index_564_av-p.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1,[COLOR red]----------[/COLOR][COLOR blue]Canales[/COLOR][COLOR skyblue]Musica[/COLOR][COLOR red]--------------[/COLOR]
-http://t.tvultimate.mx
-#EXTINF:-1 tvg-logo="musica.png" group-title="Audio - Radio",80's USA
-http://buecrplb01.cienradios.com.ar/Los_Numero_1_de_los_80_USA_32000.aac
-#EXTINF:-1 tvg-logo="musica.png" group-title="Audio - Radio",90's Internacional
-http://buecrplb01.cienradios.com.ar/90_Internacional_32000.aac
-#EXTINF:-1 tvg-logo="musica.png" group-title="Audio - Radio",Baladas
-http://buecrplb01.cienradios.com.ar/Power_Ballads_32000.aac
-#EXTINF:-1 tvg-logo="musica.png" group-title="Audio - Radio",Chillout
-http://buecrplb01.cienradios.com.ar/Chillout_32000.aac
-#EXTINF:-1 tvg-logo="musica.png" group-title="Audio - Radio",Clasica
-http://buecrplb01.cienradios.com.ar/Clasica_32000.aac
-#EXTINF:-1 tvg-logo="musica.png",Clasica Cine
-http://buecrplb01.cienradios.com.ar/Classic_Cinema_32000.aac
-#EXTINF:-1 tvg-logo="musica.png" group-title="Audio - Radio",Estrenos
-http://buecrplb01.cienradios.com.ar/Estrenos_32000.aac
-#EXTINF:-1 tvg-logo="musica.png" group-title="Audio - Radio",Electronica
-http://buecrplb01.cienradios.com.ar/Electronico_32000.aac
-#EXTINF:-1 tvg-logo="musica.png" group-title="Audio - Radio",Fiesta Dance
-http://buecrplb01.cienradios.com.ar/Fiesta_Dance_32000.aac
-#EXTINF:-1 tvg-logo="musica.png" group-title="Audio - Radio"",Lentos
-http://buecrplb01.cienradios.com.ar/Lentos_32000.aac
-#EXTINF:-1 tvg-logo="musica.png" group-title="Audio - Radio",Live music
-http://buecrplb01.cienradios.com.ar/Vivo_32000.aac
-#EXTINF:-1 tvg-logo="musica.png" group-title="Audio - Radio",Top 40
-http://buecrplb01.cienradios.com.ar/Top_40_32000.aac
-#EXTINF:-1 tvg-logo="musica.png" group-title="Audio - Radio",Top Europa
-http://buecrplb01.cienradios.com.ar/Top_Europa_32000.aac
-#EXTINF:-1 tvg-logo="musica.png",Movie Soundtracks
-http://pub1.radiotunes.com:80/radiotunes_soundtracks?c99c0d59b19e3b7c9f99d515
-#EXTINF:-1 tvg-logo="musica.png",Best of the 60's
-http://pub7.radiotunes.com:80/radiotunes_hit60s?c99c0d59b19e3b7c9f99d515
-#EXTINF:-1 tvg-logo="musica.png",Classic Hip-Hop
-http://pub8.radiotunes.com:80/radiotunes_classicrap?c99c0d59b19e3b7c9f99d515
-#EXTINF:-1 tvg-logo="musica.png"1,90's R&B1
-http://pub2.radiotunes.com:80/radiotunes_90srnb?c99c0d59b19e3b7c9f99d515
-#EXTINF:1 tvg-logo="musica.png",Romantica
-http://pub2.radiotunes.com:80/radiotunes_romantica?c99c0d59b19e3b7c9f99d515
-#EXTINF:1 tvg-logo="musica.png",Dance Hits
-http://pub1.radiotunes.com:80/radiotunes_dancehits?c99c0d59b19e3b7c9f99d515
-#EXTINF:1 tvg-logo="musica.png",Hit 70's
-http://pub6.radiotunes.com:80/radiotunes_hit70s?c99c0d59b19e3b7c9f99d515
-#EXTINF:1 tvg-logo="musica.png",60's Rock
-http://pub7.radiotunes.com:80/radiotunes_60srock?c99c0d59b19e3b7c9f99d515
-#EXTINF:1 tvg-logo="musica.png",Oldies
-http://pub7.radiotunes.com:80/radiotunes_oldies?c99c0d59b19e3b7c9f99d515
-#EXTINF:1 tvg-logo="musica.png",Best of the 80's
-http://pub7.radiotunes.com:80/radiotunes_the80s?c99c0d59b19e3b7c9f99d515
-#EXTINF:1 tvg-logo="musica.png",Country
-http://pub8.radiotunes.com:80/radiotunes_country?c99c0d59b19e3b7c9f99d515
-#EXTINF:1 tvg-logo="musica.png",World
-http://pub8.radiotunes.com:80/radiotunes_world?c99c0d59b19e3b7c9f99d515
-
-
-
-
-
 
 
 
