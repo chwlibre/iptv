@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+  
+    
+<channels>
+
+<channel>
+      <name>[COLOR lime]adrian[/COLOR]</name>
+  <thumbnail>direccion de la portada</thumbnail>
+<fanart>direccion del logo</fanart>
+<link>http://ignoreme</link>
+   <externallink>https://raw.githubusercontent.com/adrianhn/adryanlist/master/list.xml>
+</channel>
+  </channels>
+
+  
+<channels>
+
+<channel>
+      <name>[COLOR lime]mis pelis[/COLOR]</name>
+  <thumbnail>direccion de la portada</thumbnail>
+<fanart>direccion del logo</fanart>
+<link>http://ignoreme</link>
+   <externallink>https://raw.githubusercontent.com/chwlibre/iptv/master/genepeliculas.m3u>
+</channel>
+  </channels>
+  
+  
+  
+  <channels>
+
+<channel>
+      <name>[COLOR lime]nombre de tu lista[/COLOR]</name>
+  <thumbnail>direccion de la portada</thumbnail>
+<fanart>direccion del logo</fanart>
+<link>http://ignoreme</link>
+   <externallink>direccion del m3u/externallink>
+</channel>
+  </channels>
+  
+  
+  
+  <channels>
+
+<channel>
+      <name>[COLOR lime]nombre de tu lista[/COLOR]</name>
+  <thumbnail>direccion de la portada</thumbnail>
+<fanart>direccion del logo</fanart>
+<link>http://ignoreme</link>
+   <externallink>direccion del m3u/externallink>
+</channel>
+  </channels>
