@@ -141,13 +141,6 @@
 <ExternalLink> http://adrian.kodistream.info/adryan/mx.xml </ ExternalLink>
 </ item>
 
-<item>
-<title> [cal COLOR] • [/ COLOR] [COLOR celeste] [B] Mi coleccion de Peliculas [/ B] [/ COLOR] </ title>
-<link>http://ignorame</link><thumbnail>https://www.dropbox.com/s/ugs6zan0b7nx2o3/icon.png?dl=0</thumbnail><fanart>https://www.dropbox.com/s/uc90b4dgfwogbux/fanart.jpg?dl=0</fanart>
-<ExternalLink> https://raw.githubusercontent.com/chwlibre/iptv/master/genepeliculas.m3u </ ExternalLink>
-</ item>
-
-
 
 <item>
 <title> [cal COLOR] • [/ COLOR] [COLOR deepskyblue] acosador [/ COLOR] [COLOR celeste] [Nescafé] [/ COLOR] </ title>
@@ -216,7 +209,11 @@
 <ExternalLink> http://adrian.kodistream.info/adryan/lists.xml </ ExternalLink>
 </ item>
 
-
+<item>
+<title> [cal COLOR] • [/ COLOR] [COLOR celeste] [B] Mi coleccion de Peliculas [/ B] [/ COLOR] </ title>
+<link>http://ignorame</link><thumbnail>https://www.dropbox.com/s/ugs6zan0b7nx2o3/icon.png?dl=0</thumbnail><fanart>https://www.dropbox.com/s/uc90b4dgfwogbux/fanart.jpg?dl=0</fanart>
+<ExternalLink> https://raw.githubusercontent.com/chwlibre/iptv/master/genepeliculas.m3u </ ExternalLink>
+</ item>
 
 
 
