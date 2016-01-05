@@ -5,9 +5,9 @@
 
 <channel>
       <name>[COLOR lime]adrian[/COLOR]</name>
-  <thumbnail>direccion de la portada</thumbnail>
-<fanart>direccion del logo</fanart>
-<link>http://ignoreme</link>
+  <thumbnail>https://www.dropbox.com/s/uc90b4dgfwogbux/fanart.jpg?dl=0</thumbnail>
+<fanart>https://www.dropbox.com/s/uc90b4dgfwogbux/fanart.jpg?dl=0</fanart>
+<link>https://raw.githubusercontent.com/adrianhn/adryanlist/master/list.xml</link>
    <externallink>https://raw.githubusercontent.com/adrianhn/adryanlist/master/list.xml>
 </channel>
   </channels>
@@ -17,9 +17,9 @@
 
 <channel>
       <name>[COLOR lime]mis pelis[/COLOR]</name>
-  <thumbnail>direccion de la portada</thumbnail>
-<fanart>direccion del logo</fanart>
-<link>http://ignoreme</link>
+  <thumbnail>https://www.dropbox.com/s/uc90b4dgfwogbux/fanart.jpg?dl=0</thumbnail>
+<fanart>https://www.dropbox.com/s/uc90b4dgfwogbux/fanart.jpg?dl=0</fanart>
+<link>https://raw.githubusercontent.com/chwlibre/iptv/master/genepeliculas.m3u</link>
    <externallink>https://raw.githubusercontent.com/chwlibre/iptv/master/genepeliculas.m3u>
 </channel>
   </channels>
