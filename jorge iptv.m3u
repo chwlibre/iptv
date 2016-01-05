@@ -1,209 +1,164 @@
-# EXTM3U
-
-# EXTM3U
-#EXTINF: -1,1 CLÁSICO
-http://206.190.150.95/hash/526/10/asd/477.m3u8
-#EXTINF: -1, A & E
-http://206.190.150.95/hash/526/10/asd/105.m3u8
-#EXTINF: -1, AMC
-http://206.190.150.95/hash/526/10/asd/329.m3u8
-#EXTINF: -1, AMC
-http://206.190.150.95/hash/526/10/asd/365.m3u8
-#EXTINF: -1, Animal Planet
-http://206.190.150.95/hash/526/10/asd/261.m3u8
-#EXTINF: -1, AXN
-http://206.190.150.95/hash/526/10/asd/109.m3u8
-#EXTINF: -1, DEPORTES AYM
-http://206.190.150.95/hash/526/10/asd/465.m3u8
-#EXTINF: -1, AZTECA NOTICIAS
-http://206.190.150.95/hash/526/10/asd/002.m3u8
-#EXTINF: -1, AZTECA SIETE
-http://206.190.150.95/hash/526/10/asd/056.m3u8
-#EXTINF: -1, AZTECA SIETE
-http://206.190.150.95/hash/526/10/asd/006.m3u8
-#EXTINF: -1, AZTECA TRECE
-http://206.190.150.95/hash/526/10/asd/068.m3u8
-#EXTINF: -1, Bandamax
-http://206.190.150.95/hash/526/10/asd/449.m3u8
-#EXTINF: -1, BBC Entretenimiento
-http://206.190.150.95/hash/526/10/asd/129.m3u8
-#EXTINF: -1, BLOOMBERG
-http://206.190.150.95/hash/526/10/asd/462.m3u8
-#EXTINF: -1, BOOMERANG
-http://206.190.150.95/hash/526/10/asd/230.m3u8
-#EXTINF: -1, CANAL 5
-http://206.190.150.95/hash/526/10/asd/037.m3u8
-#EXTINF: -1, CANAL 5
-http://206.190.150.95/hash/526/10/asd/049.m3u8
-#EXTINF: -1, Canal de las Estrellas
-http://206.190.150.95/hash/526/10/asd/041.m3u8
-#EXTINF: -1, CBeebies
-http://206.190.150.95/hash/526/10/asd/198.m3u8
-#EXTINF: -1, Cinecanal
-http://206.190.150.95/hash/526/10/asd/349.m3u8
-#EXTINF: -1, Cinemax
-http://206.190.150.95/hash/526/10/asd/353.m3u8
-#EXTINF: -1, Cinecanal +
-http://206.190.150.95/hash/526/10/asd/309.m3u8
-#EXTINF: -1, CINE COMEDIA
-http://206.190.150.95/hash/526/10/asd/117.m3u8
-#EXTINF: -1, DEPELICULA
-http://206.190.150.95/hash/526/10/asd/325.m3u8
-#EXTINF: -1, Canal de descubrimiento
-http://206.190.150.95/hash/526/10/asd/257.m3u8
-#EXTINF: -1, CIVILIZACIÓN DESCUBRIMIENTO
-http://206.190.150.95/hash/526/10/asd/281.m3u8
-#EXTINF: -1, DISCOVERY H & H
-http://206.190.150.95/hash/526/10/asd/266.m3u8
-#EXTINF: -1, DISCOVERY KIDS
-http://206.190.150.95/hash/526/10/asd/194.m3u8
-#EXTINF: -1, DESCUBRIMIENTO SCI
-http://206.190.150.95/hash/526/10/asd/278.m3u8
-#EXTINF: -1, TURBO DESCUBRIMIENTO
-http://206.190.150.95/hash/526/10/asd/286.m3u8
-#EXTINF: -1, MUNDO DISCOVERY
-http://206.190.150.95/hash/526/10/asd/253.m3u8
-#EXTINF: -1, DISNEY CHANNEL
-http://206.190.150.95/hash/526/10/asd/210.m3u8
-#EXTINF: -1, DISNEY JR
-http://206.190.150.95/hash/526/10/asd/201.m3u8
-#EXTINF: -1, DISNEY XD
-http://206.190.150.95/hash/526/10/asd/225.m3u8
-#EXTINF: -1, Distrito Comedia
-http://206.190.150.95/hash/526/10/asd/173.m3u8
-#EXTINF: -1, E!
-http://206.190.150.95/hash/526/10/asd/133.m3u8
-#EXTINF: -1, ESPN 2
-http://206.190.150.95/hash/526/10/asd/409.m3u8
-#EXTINF: -1, ESPN COMPACT
-http://206.190.150.95/hash/526/10/asd/393.m3u8
-#EXTINF: -1, ESPN
-http://206.190.150.95/hash/526/10/asd/389.m3u8
-#EXTINF: -1, ESPN
-http://206.190.150.95/hash/526/10/asd/405.m3u8
-#EXTINF: -1, ZONA DE CINE
-http://206.190.150.95/hash/526/10/asd/321.m3u8
-#EXTINF: -1, FOX ACCIÓN
-http://206.190.150.95/hash/526/10/asd/301.m3u8
-#EXTINF: -1, FOX CINE
-http://206.190.150.95/hash/526/10/asd/337.m3u8
-#EXTINF: -1, FOX CINE
-http://206.190.150.95/hash/526/10/asd/489.m3u8
-#EXTINF: -1, FOX CLÁSICO
-http://206.190.150.95/hash/526/10/asd/345.m3u8
-#EXTINF: -1, FOX CLÁSICO
-http://206.190.150.95/hash/526/10/asd/493.m3u8
-#EXTINF: -1, FOX FAMILIA
-http://206.190.150.95/hash/526/10/asd/341.m3u8
-#EXTINF: -1, FOX LIFE
-http://206.190.150.95/hash/526/10/asd/169.m3u8
-#EXTINF: -1, FOX PELÍCULA
-http://206.190.150.95/hash/526/10/asd/305.m3u8
-#EXTINF: -1, FOX SPORTS 2
-http://206.190.150.95/hash/526/10/asd/401.m3u8
-#EXTINF: -1, FOX DEPORTES
-http://206.190.150.95/hash/526/10/asd/397.m3u8
-#EXTINF: -1, FOX
-http://206.190.150.95/hash/526/10/asd/125.m3u8
-#EXTINF: -1, FOX
-http://206.190.150.95/hash/526/10/asd/085.m3u8
-#EXTINF: -1, Fox1 HD
-http://206.190.150.95/hash/526/10/asd/297.m3u8
-#EXTINF: -1, FX
-http://206.190.150.95/hash/526/10/asd/101.m3u8
-#EXTINF: -1, FX
-http://206.190.150.95/hash/526/10/asd/145.m3u8
-#EXTINF: -1, GLITZ
-http://206.190.150.95/hash/526/10/asd/165.m3u8
-#EXTINF: -1, Borde de oro
-http://206.190.150.95/hash/526/10/asd/361.m3u8
-#EXTINF: -1, ORO
-http://206.190.150.95/hash/526/10/asd/317.m3u8
-#EXTINF: -1, GOURMET
-http://206.190.150.95/hash/526/10/asd/161.m3u8
-#EXTINF: -1, HISTORIA
-http://206.190.150.95/hash/526/10/asd/245.m3u8
-#EXTINF: -1, HMX
-http://206.190.150.95/hash/526/10/asd/472.m3u8
-#EXTINF: -1, ID
-http://206.190.150.95/hash/526/10/asd/153.m3u8
-#EXTINF: -1, ISAT
-http://206.190.150.95/hash/526/10/asd/377.m3u8
-#EXTINF: -1, POR VIDA
-http://206.190.150.95/hash/526/10/asd/273.m3u8
-#EXTINF: -1, MILENIO TV
-http://206.190.150.95/hash/526/10/asd/417.m3u8
-#EXTINF: -1, MTV HITS
-http://206.190.150.95/hash/526/10/asd/476.m3u8
-#EXTINF: -1, MTV Live
-http://206.190.150.95/hash/526/10/asd/429.m3u8
-#EXTINF: -1, MTV
-http://206.190.150.95/hash/526/10/asd/441.m3u8
-#EXTINF: -1, NATGEO SALVAJE
-http://206.190.150.95/hash/526/10/asd/249.m3u8
-#EXTINF: -1, NATGEO
-http://206.190.150.95/hash/526/10/asd/269.m3u8
-#EXTINF: -1, NICK JR
-http://206.190.150.95/hash/526/10/asd/205.m3u8
-#EXTINF: -1, NICK HD
-http://206.190.150.95/hash/526/10/asd/213.m3u8
-#EXTINF: -1, Nickelodeon
-http://206.190.150.95/hash/526/10/asd/217.m3u8
-#EXTINF: -1, PROYECTO 40
-http://206.190.150.95/hash/526/10/asd/024.m3u8
-#EXTINF: -1, PROYECTO 40
-http://206.190.150.95/hash/526/10/asd/069.m3u8
-#EXTINF: -1, Ritmoson
-http://206.190.150.95/hash/526/10/asd/445.m3u8
-#EXTINF: -1, SONY
-http://206.190.150.95/hash/526/10/asd/089.m3u8
-#EXTINF: -1, ESPACIO
-http://206.190.150.95/hash/526/10/asd/333.m3u8
-#EXTINF: -1, ESPACIO
-http://206.190.150.95/hash/526/10/asd/369.m3u8
-#EXTINF: -1, ESTUDIO UNIVERSAL
-http://206.190.150.95/hash/526/10/asd/373.m3u8
-#EXTINF: -1, Syfy
-http://206.190.150.95/hash/526/10/asd/141.m3u8
-#EXTINF: -1, TBS veryfunny
-http://206.190.150.95/hash/526/10/asd/177.m3u8
-#EXTINF: -1, TCM
-http://206.190.150.95/hash/526/10/asd/381.m3u8
-#EXTINF: -1, TeleFormula
-http://206.190.150.95/hash/526/10/asd/081.m3u8
-#EXTINF: -1, TELEHIT
-http://206.190.150.95/hash/526/10/asd/433.m3u8
-#EXTINF: -1, TELENOVELAS
-http://206.190.150.95/hash/526/10/asd/185.m3u8
-#EXTINF: -1, TIIN
-http://206.190.150.95/hash/526/10/asd/233.m3u8
-#EXTINF: -1, TLC
-http://206.190.150.95/hash/526/10/asd/289.m3u8
-#EXTINF: -1, TNT HD
-http://206.190.150.95/hash/526/10/asd/313.m3u8
-#EXTINF: -1, SERIE TNT
-http://206.190.150.95/hash/526/10/asd/157.m3u8
-#EXTINF: -1, TNT
-http://206.190.150.95/hash/526/10/asd/357.m3u8
-#EXTINF: -1, Tooncast
-http://206.190.150.95/hash/526/10/asd/237.m3u8
-#EXTINF: -1, Total Play
-http://206.190.150.95/hash/526/10/asd/458.m3u8
-#EXTINF: -1, TRU TV
-http://206.190.150.95/hash/526/10/asd/113.m3u8
-#EXTINF: -1, TVE INTERNACIONAL
-http://206.190.150.95/hash/526/10/asd/421.m3u8
-#EXTINF: -1, UNICABLE
-http://206.190.150.95/hash/526/10/asd/121.m3u8
-#EXTINF: -1, UNIVERSAL
-http://206.190.150.95/hash/526/10/asd/137.m3u8
-#EXTINF: -1, UNIVERSAL
-http://206.190.150.95/hash/526/10/asd/097.m3u8
-#EXTINF: -1, UNO M
-http://206.190.150.95/hash/526/10/asd/497.m3u8
-#EXTINF: -1, VH1 HD
-http://206.190.150.95/hash/526/10/asd/437.m3u8
-#EXTINF: -1, WARNER
-http://206.190.150.95/hash/526/10/asd/093.m3u8
-#EXTINF: -1, WOBI
-http://206.190.150.95/hash/526/10/asd/293.m3u8
+#EXTM3U
+#EXTVLCOPT:network-caching=1000
+http://63.237.48.23/ios/MBC_MAX/MBC_MAX.m3u8
+#EXTVLCOPT:network-caching=1000
+http://73.36.97.218/Compus1286-Servidor/estrenos.m3u
+#EXTINF:0,AntMan
+https://onedrive.live.com/download.aspx?resid=E3B55F5CD685660A!125&authkey=!AGNtTEpQX09rPyw&ithint=video%2cavi
+#EXTINF:0,AntMan [Sub]
+https://onedrive.live.com/download.aspx?resid=E3B55F5CD685660A!126&authkey=!AF_4FghSRqItiIc&ithint=video%2cmp4
+#EXTINF:0,Intensamente (Dual)
+https://onedrive.live.com/download.aspx?resid=F7DB6A0710466612!146&authkey=!AKJH5jc4CG1u-eE&ithint=file%2cmkv
+#EXTINF:0,Cuatro fantásticos (Dual)
+https://onedrive.live.com/download.aspx?resid=F7DB6A0710466612!145&authkey=!ADOr8gXDx17hwa4&ithint=file%2cmkv
+#EXTINF:0,Misión Imposible: Nación secreta (Dual)
+https://onedrive.live.com/download.aspx?resid=F7DB6A0710466612!144&authkey=!AJ-fcKMBvWIjhlg&ithint=file%2cmkv
+#EXTINF:0,Bikini Model Academy (subs)
+https://onedrive.live.com/download.aspx?resid=F7DB6A0710466612!131&authkey=!AJPr5XPDFgqnny4&ithint=video%2cavi
+#EXTINF:0,Road Wars
+https://onedrive.live.com/download.aspx?resid=F7DB6A0710466612!130&authkey=!AIsHzE5u8l6KHDg&ithint=file%2cmkv
+#EXTINF:5772,Estreno
+https://onedrive.live.com/download.aspx?resid=20DB96EF45C3AAC6!150&authkey=!AFKO0Befeo0_a5g&ithint=file%2cmkv
+#EXTINF:0,Beasts of No Nation Latino Dual
+https://onedrive.live.com/download.aspx?resid=E5E4B2D86DAC038B!169&authkey=!AO6tNCwsfEQ8Qbw&ithint=file%2cmkv
+#EXTINF:0,Coche policial
+https://onedrive.live.com/download.aspx?resid=E5E4B2D86DAC038B!164&authkey=!AJaSmKadK9jNogw&ithint=file%2cmkv
+#EXTINF:0,Vicio Dual
+https://onedrive.live.com/download.aspx?resid=20DB96EF45C3AAC6!129&authkey=!AFB5cXazuuQDIes&ithint=file%2cmkv
+#EXTINF:0,Howl
+https://onedrive.live.com/download.aspx?resid=20DB96EF45C3AAC6!131&authkey=!APEObOMoKRL0phY&ithint=video%2cavi
+#EXTINF:0,Atrapado en los 90s
+https://onedrive.live.com/download.aspx?resid=20DB96EF45C3AAC6!149&authkey=!APL72pt3Xboo76o&ithint=file%2cmkv
+#EXTINF:0,Los Minions
+https://onedrive.live.com/download.aspx?resid=20DB96EF45C3AAC6!130&authkey=!AFu4BYBIctIlM2c&ithint=file%2cmkv
+#EXTINF:0,Dragon Ball Z: La Resurrección de Freezer
+https://onedrive.live.com/download.aspx?resid=E5E4B2D86DAC038B!121&authkey=!APN7EmYyEcLcVEA&ithint=file%2cmkv
+#EXTINF:0,AREA 51
+https://onedrive.live.com/download.aspx?resid=E5E4B2D86DAC038B!112&authkey=!ALhgRVsmdIjxyH0&ithint=video%2cavi
+#EXTINF:0,The Contract
+https://onedrive.live.com/download.aspx?resid=67C6DAD95A0F8A91!196&authkey=!AOc_5A-yJXWT5Wk&ithint=video%2cavi
+#EXTINF:0,Vacaciones
+https://onedrive.live.com/download.aspx?resid=40534DEEF5C841BB!1009&authkey=!AMC7z1svQs0fGk8&ithint=video%2cmp4
+#EXTINF:0,Exorcismo En El Vaticano
+https://onedrive.live.com/download.aspx?resid=40534DEEF5C841BB!1008&authkey=!APTbXvMQA5MxSzg&ithint=video%2cmp4
+#EXTINF:0,The Exorcism of Molly Hartley
+https://onedrive.live.com/download.aspx?resid=A494AA8BFCA8883!435&authkey=!AAfEmKos2YvjGwQ&ithint=video%2cavi
+#EXTINF:0,Knock Knock
+https://onedrive.live.com/download.aspx?resid=A494AA8BFCA8883!437&authkey=!ALjq5lSi6-ntWNM&ithint=file%2cmkv
+#EXTINF:0,Escupire Sobre Tu Tumba 3 [Sub]
+https://onedrive.live.com/download.aspx?resid=40534DEEF5C841BB!996&authkey=!AFcD5lnhom26Uv8&ithint=video%2cmp4
+#EXTINF:0,La Revancha 1080p (Dual)
+https://onedrive.live.com/download.aspx?resid=2AF26E78CEF408D2!119&authkey=!AHZKAvDzN7doxHU&ithint=file%2cmkv
+#EXTINF:0,Yo -  él y Raquel Latino(Dual)(1080p)
+https://onedrive.live.com/download.aspx?resid=2AF26E78CEF408D2!122&authkey=!ANszxGEEqmrNGU4&ithint=file%2cmkv
+#EXTINF:0,Jugada Salvage (1080p) Dual
+https://onedrive.live.com/download.aspx?resid=4D3138D45E55F8C1!109&authkey=!ABGLvXmemEReiJo&ithint=video%2cmp4
+#EXTINF:0,Disney Nature El reino de los monos
+https://onedrive.live.com/download.aspx?resid=4D3138D45E55F8C1!111&authkey=!APQLSuo7x7UIHZc&ithint=video%2cmp4
+#EXTINF:0,Aire (latino) (1080)
+https://onedrive.live.com/download.aspx?resid=4D3138D45E55F8C1!113&authkey=!AH5TuBYcuSKVl_c&ithint=file%2cmkv
+#EXTINF:0,El Secreto De Adaline (latino)
+https://onedrive.live.com/download.aspx?resid=4D3138D45E55F8C1!112&authkey=!AMp60SpEvCK_z6o&ithint=video%2cavi
+#EXTINF:0,Tracers (Dual)1080p
+https://onedrive.live.com/download.aspx?resid=4D3138D45E55F8C1!115&authkey=!ACVUONn8OQlsm60&ithint=file%2cmkv
+#EXTINF:0,Terminator Génesis(Dual)
+https://onedrive.live.com/download.aspx?resid=4D3138D45E55F8C1!114&authkey=!AOVW4iPGIzv6-aU&ithint=file%2cmkv
+#EXTINF:0,La Horca [dual]
+https://onedrive.live.com/download.aspx?resid=2AF26E78CEF408D2!118&authkey=!ANs1AbnoxDvz08A&ithint=file%2cmkv
+#EXTINF:0,Ciudades De Papel
+https://onedrive.live.com/download.aspx?resid=A494AA8BFCA8883!431&authkey=!ALWIfn4zeTzUl9o&ithint=file%2cmkv
+#EXTINF:0,Magic Mike XXL [dual]
+https://onedrive.live.com/download.aspx?resid=9019C8D6D3F2A237!516&authkey=!ADXBQuKDqYvTXsY&ithint=file%2cmkv
+#EXTINF:0,Shaun el cordero [lat]
+https://onedrive.live.com/download.aspx?resid=9019C8D6D3F2A237!531&authkey=!ANZNU4aBv6dIeI4&ithint=video%2cmp4
+#EXTINF:0,Tomorrowland: El Mundo del Mañana 
+https://onedrive.live.com/download.aspx?resid=2AF26E78CEF408D2!114&authkey=!AEgXYZxuD3gIeKU&ithint=file%2cmkv
+#EXTINF:0,EXTINF:-1,Tomorrowland El Mundo del Mañana
+http://73.36.97.218/Compus1286-Servidor/EXTINF%3A-1%2CTomorrowland%20El%20Mundo%20del%20Ma%C3%B1ana
+http://streamin.to/0ibi13mf7teb
+#EXTINF:0,Pixeles [BrScreener]
+https://onedrive.live.com/download.aspx?resid=40534DEEF5C841BB!1002&authkey=!AJYDv-y7Z4VbyN8&ithint=video%2cmp4
+#EXTINF:0,La Noche Del Demonio 3
+https://onedrive.live.com/download.aspx?resid=D7D05EA36C9AC105!226&authkey=!AF8f8HX22xDQGeg&ithint=video%2cmp4
+#EXTINF:0,Aloha
+http://streamin.to/jpvbe8ctazls
+#EXTINF:0,El Gran Pequeño
+https://onedrive.live.com/download.aspx?resid=D7D05EA36C9AC105!217&authkey=!ABWBQFfi5w4LlTk&ithint=video%2cmp4
+#EXTINF:0,Los Vengadores: La Era de Ultrón [Dual]
+https://onedrive.live.com/download.aspx?resid=40534DEEF5C841BB!988&authkey=!AIkgN34Obsw2Dvc&ithint=video%2cmp4
+#EXTINF:0,Una última y nos vamos
+http://streamin.to/sy743nsc1nkh
+#EXTINF:0,Una última y nos vamos Opcion 2
+https://onedrive.live.com/download.aspx?resid=8F8E52C3E63CF853!1810&authkey=!ADxysPcJZHoaTpI&ithint=file%2cmkv
+#EXTINF:0,Espías
+http://streamin.to/xpl0ujn1ykko
+#EXTINF:0,Poltergeist [Web DL]
+http://streamin.to/xkwvkvsyhppa
+#EXTINF:0,Un Paseo Equivocado
+http://streamin.to/ydvovpogeds4
+#EXTINF:0,Pitch Perfect 2
+http://streamin.to/mfkjg4pyu7hh
+#EXTINF:0,Terremoto La Falla De San Andrés [Web DL]
+https://onedrive.live.com/download.aspx?resid=D7D05EA36C9AC105!236&authkey=!AMsX3JkTfM8nsWs&ithint=video%2cmp4
+#EXTINF:0,A la mala
+http://streamin.to/8t818jb2kg87
+#EXTINF:0,Ted 2 [ Brscreener ]
+http://streamin.to/crfgmee4o6i8
+#EXTINF:0,La ouija el experimento 2
+http://streamin.to/7qb4wum7ykbz
+#EXTINF:0,Los descendientes
+http://streamin.to/nsp3vz6me6a4
+#EXTINF:0,Extincion
+http://streamin.to/i74hqf0s1m6f
+#EXTINF:0,Mad Max: Furia en la carretera
+http://streamin.to/za9gxj4w8yct
+#EXTINF:0,Rurouni Kenshin
+http://streamin.to/9ey2pwvjdsce
+#EXTINF:0,Mortdecai
+http://streamin.to/24r2fnh2o2vc
+#EXTINF:0,Archivo 253
+http://streamin.to/57iuxowq6y8p
+#EXTINF:0,Jurassic World [Brscreener]
+https://onedrive.live.com/download.aspx?resid=D7D05EA36C9AC105!237&authkey=!AH6aw5sOxn8Lf54&ithint=video%2cmp4
+#EXTINF:0,Dos locas en fuga
+http://streamin.to/i89m3god6pjb
+#EXTINF:0,True Story
+http://streamin.to/m586d54wr6ug
+#EXTINF:0,Cincuenta sombras de Grey
+http://streamin.to/8uf1x1e5rizb
+#EXTINF:0,Fast & Furious 7
+http://streamin.to/kc51fk0i7u15
+#EXTINF:0,Heroe De Centro Comercial 2
+https://onedrive.live.com/download.aspx?resid=40534DEEF5C841BB!120&authkey=!AI69kIiLDce2CrQ&ithint=video%2cmp4
+#EXTINF:0,La serie Divergente: Insurgente [ Dual ]
+https://onedrive.live.com/download.aspx?resid=40534DEEF5C841BB!233&authkey=!AIsnDN6JCcFF6cg&ithint=video%2cmp4
+#EXTINF:0,Resucitados [ Dual ]
+https://onedrive.live.com/download.aspx?resid=40534DEEF5C841BB!283&authkey=!AHnvu6c3-ihLIjw&ithint=video%2cmp4
+#EXTINF:0,La dama de oro
+http://streamin.to/dq6cqsp78kfq
+#EXTINF:0,With This Ring
+http://streamin.to/q7qyzc24dy2u
+#EXTINF:0,Dale duro
+http://streamin.to/z045uamo9226
+#EXTINF:0,The Marine 4: Moving Target
+http://streamin.to/40fr9mirxoi6
+#EXTINF:0,El Instituto Atticus
+http://streamin.to/9n8exr0uzjtq
+#EXTINF:0,Chappie
+http://streamin.to/a5xvh4g6ytr4
+#EXTINF:0,Negocios con resaca
+http://streamin.to/iyt069v6jqma
+#EXTINF:0,Killing Jesus
+http://streamin.to/ok34ctmwoyy3
+#EXTINF:0,Ex Machina
+http://streamin.to/b2qxtl2me6xq
+#EXTINF:0,Focus
+http://streamin.to/013islskjx3z
+#EXTINF:0,Una Noche Para Sobrevivir
+http://streamin.to/264bpoo1loie
+#EXTINF:0,La Dama De Negro 2
+http://streamin.to/budnnybuzp3s
+#EXTINF:0,Black Sea
+http://streamin.to/t00a3e67er13
+#EXTINF:0,Kingsman El Servicio Secreto
+http://streamin.to/5vkarle1stra
