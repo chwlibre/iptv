@@ -1,0 +1,227 @@
+#EXTM3U
+#EXTINF:-1,Telemundo
+http://nenetony.esy.es/stk.php?canal=TelemundoUS&cm=4417&f=.m3u8
+#EXTINF:-1,NBC Universo
+http://nenetony.esy.es/stk.php?canal=NBCUniversoUS&cm=4825&f=.m3u8
+#EXTINF:-1,UniMas
+http://nenetony.esy.es/stk.php?canal=UniMasUS&cm=3602&f=.m3u8
+#EXTINF:-1,Az Mundo
+http://nenetony.esy.es/stk.php?canal=AzMundoLA&cm=1999&f=.m3u8
+#EXTINF:-1,TVE Internacional America
+http://nenetony.esy.es/stk.php?canal=TVELASD&cm=2123&f=.m3u8
+#EXTINF:-1,Efekto TV
+http://nenetony.esy.es/stk.php?canal=EfektoTVLA&cm=423&f=.m3u8
+#EXTINF:-1,Lifetime 
+http://nenetony.esy.es/stk.php?canal=LifetimeLASD&cm=423&f=.m3u8
+#EXTINF:-1,MAS CHIC
+http://nenetony.esy.es/stk.php?canal=CasaClubLA&cm=1475&f=.m3u8
+#EXTINF:-1,Glitz 
+http://nenetony.esy.es/stk.php?canal=GlitzLA&cm=1473&f=.m3u8
+#EXTINF:-1,E! 
+http://nenetony.esy.es/stk.php?canal=EentertaimentSD&cm=427&f=.m3u8
+#EXTINF:-1,Pasiones
+http://nenetony.esy.es/stk.php?canal=PasionesSD&cm=295&f=.m3u8
+#EXTINF:-1,Gala TV
+http://nenetony.esy.es/stk.php?canal=GalaTVLA&cm=4555&f=.m3u8
+#EXTINF:-1,Tlnovelas 
+http://nenetony.esy.es/stk.php?canal=TlnovelasLA&cm=1461&f=.m3u8
+#EXTINF:-1,RCN 
+http://nenetony.esy.es/stk.php?canal=RCNnovelasLA&cm=1493&f=.m3u8
+#EXTINF:-1,Caracol 
+http://nenetony.esy.es/stk.php?canal=CaracolIntSD&cm=2051&f=.m3u8
+#EXTINF:-1,Unicable
+http://nenetony.esy.es/stk.php?canal=UnicableLA&cm=3804&f=.m3u8
+#EXTINF:-1,Disney Channel 
+http://nenetony.esy.es/stk.php?canal=DisneyChannelNorteHD&cm=256&f=.m3u8
+#EXTINF:-1,Disney XD 
+http://nenetony.esy.es/stk.php?canal=DisneyXDSD&cm=499&f=.m3u8
+#EXTINF:-1,Disney Junior 
+http://nenetony.esy.es/stk.php?canal=DisneyJrLASD&cm=1455&f=.m3u8
+#EXTINF:-1,Nickelodeon 
+http://nenetony.esy.es/stk.php?canal=NickelodeonLA&cm=1423&f=.m3u8
+#EXTINF:-1,Nick Jr 
+http://nenetony.esy.es/stk.php?canal=NickJrLASD&cm=417&f=.m3u8
+#EXTINF:-1,Discovery Kids 
+http://nenetony.esy.es/stk.php?canal=DiscoveryKidsSD&cm=309&f=.m3u8
+#EXTINF:-1,Cartoon Network 
+http://nenetony.esy.es/stk.php?canal=CartoonNetworkLASD&cm=421&f=.m3u8
+#EXTINF:-1,Boomerang 
+http://nenetony.esy.es/stk.php?canal=BoomerangLA&cm=2507&f=.m3u8
+#EXTINF:-1,Tooncast
+http://nenetony.esy.es/stk.php?canal=TooncastSD&cm=443&f=.m3u8
+#EXTINF:-1,Syfy 
+http://nenetony.esy.es/stk.php?canal=SyFyLASD&cm=447&f=.m3u8
+#EXTINF:-1,Warner Channel 
+http://nenetony.esy.es/stk.php?canal=WarnerLA&cm=2499&f=.m3u8
+#EXTINF:-1,Canal Sony
+http://nenetony.esy.es/stk.php?canal=SonyLA&cm=2501&f=.m3u8
+#EXTINF:-1,AXN 
+http://nenetony.esy.es/stk.php?canal=AXNLA&cm=2493&f=.m3u8
+#EXTINF:-1,TCM 
+http://nenetony.esy.es/stk.php?canal=TCMSD&cm=481&f=.m3u8
+#EXTINF:-1,TNT HD
+http://nenetony.esy.es/stk.php?canal=TNTAmericaLatinaHD&cm=262&f=.m3u8
+#EXTINF:-1,TNT Series 
+http://nenetony.esy.es/stk.php?canal=infinitoSD&cm=331&f=.m3u8
+#EXTINF:-1,I-Sat
+http://nenetony.esy.es/stk.php?canal=ISATLA&cm=1703&f=.m3u8
+#EXTINF:-1,SPACE
+http://nenetony.esy.es/stk.php?canal=SPACESD&cm=2489&f=.m3u8
+#EXTINF:-1,CineLatino
+http://nenetony.esy.es/stk.php?canal=CineLatinoSD&cm=477&f=.m3u8
+#EXTINF:-1,Cine Dinamita
+http://nenetony.esy.es/stk.php?canal=CineDinamitaLA&cm=3465&f=.m3u8
+#EXTINF:-1,AMC
+http://nenetony.esy.es/stk.php?canal=AMCLASD&cm=485&f=.m3u8
+#EXTINF:-1,Golden
+http://nenetony.esy.es/stk.php?canal=GoldenHD&cm=264&f=.m3u8
+#EXTINF:-1,Golden Edge
+http://nenetony.esy.es/stk.php?canal=GoldenEdgeLA&cm=1465&f=.m3u8
+#EXTINF:-1,Golden Premier 1
+http://nenetony.esy.es/stk.php?canal=GoldenPremier1LA&cm=4777&f=.m3u8
+#EXTINF:-1,Golden Premier 2
+http://nenetony.esy.es/stk.php?canal=GoldenPremiere2LA&cm=4772&f=.m3u8
+#EXTINF:-1,Universal Channel 
+http://nenetony.esy.es/stk.php?canal=UniversalLASD&cm=387&f=.m3u8
+#EXTINF:-1,Studio Universal
+http://nenetony.esy.es/stk.php?canal=StudioUniversalSD&cm=345&f=.m3u8
+#EXTINF:-1,Paramount Channel 
+http://nenetony.esy.es/stk.php?canal=ParamountChannelLatinAmericaHD&cm=260&f=.m3u8
+#EXTINF:-1,Sundance Channel 
+http://nenetony.esy.es/stk.php?canal=SundanceLA&cm=1041&f=.m3u8
+#EXTINF:-1,CineCanal
+http://nenetony.esy.es/stk.php?canal=CineCanalLA&cm=2495&f=.m3u8
+#EXTINF:-1,Golden Multiplex
+http://nenetony.esy.es/stk.php?canal=GoldenMPLXLA&cm=1035&f=.m3u8
+#EXTINF:-1,MultiPremier
+http://nenetony.esy.es/stk.php?canal=MultiPremierLA&cm=3293&f=.m3u8
+#EXTINF:-1,Cinemax 
+http://nenetony.esy.es/stk.php?canal=CinemaxLASD&cm=343&f=.m3u8
+#EXTINF:-1,MAX
+http://nenetony.esy.es/stk.php?canal=MAXLASD&cm=381&f=.m3u8
+#EXTINF:-1,Max UP 
+http://nenetony.esy.es/stk.php?canal=MaxUPSD&cm=469&f=.m3u8
+#EXTINF:-1,Max Prime 
+http://nenetony.esy.es/stk.php?canal=MaxPrimeLASD&cm=377&f=.m3u8
+#EXTINF:-1,Max Prime 
+http://nenetony.esy.es/stk.php?canal=MaxPrime2LASD&cm=379&f=.m3u8
+#EXTINF:-1,Film Zone
+http://nenetony.esy.es/stk.php?canal=FilmZoneLASD&cm=1055&f=.m3u8
+#EXTINF:-1,Europa Europa
+http://nenetony.esy.es/stk.php?canal=EuropaEuropaLA&cm=1597&f=.m3u8
+#EXTINF:-1,Eurochannel
+http://nenetony.esy.es/stk.php?canal=EurochannelLA&cm=4912&f=.m3u8
+#EXTINF:-1,Film & Arts Latinoamerica
+http://nenetony.esy.es/stk.php?canal=FilmArtsLA&cm=1599&f=.m3u8
+#EXTINF:-1,Fox 
+http://nenetony.esy.es/stk.php?canal=FOXHDLA&cm=3947&f=.m3u8
+#EXTINF:-1,FOX Life
+http://nenetony.esy.es/stk.php?canal=FoxLifeSD&cm=425&f=.m3u8
+#EXTINF:-1,MundoFox
+http://nenetony.esy.es/stk.php?canal=MundoFoxSD&cm=429&f=.m3u8
+#EXTINF:-1,FX 
+http://nenetony.esy.es/stk.php?canal=FXLASD&cm=431&f=.m3u8
+#EXTINF:-1,Fox 1 
+http://nenetony.esy.es/stk.php?canal=FOX1LASD&cm=433&f=.m3u8
+#EXTINF:-1,Fox 1 
+http://nenetony.esy.es/stk.php?canal=FOX1OesteLASD&cm=439&f=.m3u8
+#EXTINF:-1,Fox Action 
+http://nenetony.esy.es/stk.php?canal=FOXACTIONLASD&cm=435&f=.m3u8
+#EXTINF:-1,Fox Action 
+http://nenetony.esy.es/stk.php?canal=FOXActionOesteLASD&cm=437&f=.m3u8
+#EXTINF:-1,Fox Movies 
+http://nenetony.esy.es/stk.php?canal=FOXMoviesLASD&cm=463&f=.m3u8
+#EXTINF:-1,Fox Classics 
+http://nenetony.esy.es/stk.php?canal=FOXClassicsLASD&cm=465&f=.m3u8
+#EXTINF:-1,Fox Comedy
+http://nenetony.esy.es/stk.php?canal=FOXComedyLASD&cm=461&f=.m3u8
+#EXTINF:-1,Fox Family
+http://nenetony.esy.es/stk.php?canal=FOXFamilyLASD&cm=467&f=.m3u8
+#EXTINF:-1,HBO 
+http://nenetony.esy.es/stk.php?canal=HBOLASD&cm=385&f=.m3u8
+#EXTINF:-1,HBO 2 
+http://nenetony.esy.es/stk.php?canal=HBO2SD&cm=365&f=.m3u8
+#EXTINF:-1,HBO Plus 
+http://nenetony.esy.es/stk.php?canal=HBOPlusLASD&cm=453&f=.m3u8
+#EXTINF:-1,HBO Family 
+http://nenetony.esy.es/stk.php?canal=HBOFamilyLASD&cm=449&f=.m3u8
+#EXTINF:-1,HBO Signature 
+http://nenetony.esy.es/stk.php?canal=HBOSignatureLASD&cm=451&f=.m3u8
+#EXTINF:-1,TBS 
+http://nenetony.esy.es/stk.php?canal=TBSLASD&cm=333&f=.m3u8
+#EXTINF:-1,Comedy Central 
+http://nenetony.esy.es/stk.php?canal=ComedyCentralLA&cm=1037&f=.m3u8
+#EXTINF:-1,Distrito Comedia
+http://nenetony.esy.es/stk.php?canal=DistritoComediaLA&cm=1491&f=.m3u8
+#EXTINF:-1,History 
+http://nenetony.esy.es/stk.php?canal=HistoryLA&cm=3704&f=.m3u8
+#EXTINF:-1,H2 
+http://nenetony.esy.es/stk.php?canal=H2LASD&cm=297&f=.m3u8
+#EXTINF:-1,Discovery Channel
+http://nenetony.esy.es/stk.php?canal=DiscoveryChLA&cm=3531&f=.m3u8
+#EXTINF:-1,Discovery Theater
+http://nenetony.esy.es/stk.php?canal=DiscoveryenEspanolHD&cm=3798&f=.m3u8
+#EXTINF:-1,Discovery World
+http://nenetony.esy.es/stk.php?canal=DiscoveryWorldLA&cm=3529&f=.m3u8
+#EXTINF:-1,Discovery Home & Health 
+http://nenetony.esy.es/stk.php?canal=DiscoveryHomeHealthLAHD&cm=252&f=.m3u8
+#EXTINF:-1,TLC 
+http://nenetony.esy.es/stk.php?canal=TLCLASD&cm=327&f=.m3u8
+#EXTINF:-1,Investigation Discovery 
+http://nenetony.esy.es/stk.php?canal=InvDiscoverySD&cm=455&f=.m3u8
+#EXTINF:-1,National Geographic 
+http://nenetony.esy.es/stk.php?canal=NatGeoLASD&cm=395&f=.m3u8
+#EXTINF:-1,Nat Geo Wild
+http://nenetony.esy.es/stk.php?canal=NatGeoWildLAHD&cm=254&f=.m3u8
+#EXTINF:-1,Animal Planet
+http://nenetony.esy.es/stk.php?canal=AnimalPlanetLASD&cm=441&f=.m3u8
+#EXTINF:-1,A&E 
+http://nenetony.esy.es/stk.php?canal=AELatinoamericaHD&cm=258&f=.m3u8
+#EXTINF:-1,BBC Entertainment 
+http://nenetony.esy.es/stk.php?canal=BBCEntLA&cm=1407&f=.m3u8
+#EXTINF:-1,Tru TV 
+http://nenetony.esy.es/stk.php?canal=TruTVSD&cm=337&f=.m3u8
+#EXTINF:-1,MTV 
+http://nenetony.esy.es/stk.php?canal=MTVLA&cm=2491&f=.m3u8
+#EXTINF:-1,MTV Hits 
+http://nenetony.esy.es/stk.php?canal=MTVHitsLA&cm=1495&f=.m3u8
+#EXTINF:-1,VH1 Classic 
+http://nenetony.esy.es/stk.php?canal=VH1ClassicLASD&cm=415&f=.m3u8
+#EXTINF:-1,VH1 
+http://nenetony.esy.es/stk.php?canal=VH1LatinoSD&cm=483&f=.m3u8
+#EXTINF:-1,K Music
+http://nenetony.esy.es/stk.php?canal=KMusicLA&cm=3467&f=.m3u8
+#EXTINF:-1,Concert Channel
+http://nenetony.esy.es/stk.php?canal=ConcertChannelSD&cm=479&f=.m3u8
+#EXTINF:-1,HTV
+http://nenetony.esy.es/stk.php?canal=HTVSD&cm=341&f=.m3u8
+#EXTINF:-1,Multimedios Plus
+http://nenetony.esy.es/stk.php?canal=MultimediosLA&cm=1459&f=.m3u8
+#EXTINF:-1,CNN 
+http://nenetony.esy.es/stk.php?canal=CNNLASD&cm=1855&f=.m3u8
+#EXTINF:-1,NTN 24
+http://nenetony.esy.es/stk.php?canal=NTN24LA&cm=1601&f=.m3u8
+#EXTINF:-1, UFC Network
+http://nenetony.esy.es/stk.php?canal=UFCNetworkLA&cm=1047&f=.m3u8
+#EXTINF:-1,TDN 
+http://nenetony.esy.es/stk.php?canal=TDNMXLA&cm=1059&f=.m3u8
+#EXTINF:-1, TDN 
+http://nenetony.esy.es/stk.php?canal=UnivisionTDNLA&cm=1483&f=.m3u8
+#EXTINF:-1, BEIN SPORTS
+http://nenetony.esy.es/stk.php?canal=BeinSportsLA&cm=2527&f=.m3u8
+#EXTINF:-1,TYC SPORTS
+http://201.161.59.4/tycdeportes.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,ESPN 
+http://nenetony.esy.es/stk.php?canal=ESPNLA&cm=2487&f=.m3u8
+#EXTINF:-1,ESPN 2 
+http://nenetony.esy.es/stk.php?canal=ESPN2LASD&cm=301&f=.m3u8
+#EXTINF:-1,ESPN 3 
+http://nenetony.esy.es/stk.php?canal=ESPN3LASD&cm=3806&f=.m3u8
+#EXTINF:-1,Fox Sports 
+http://nenetony.esy.es/stk.php?canal=FoxSportsLA&cm=2505&f=.m3u8
+#EXTINF:-1,Fox Sports 2 
+http://nenetony.esy.es/stk.php?canal=FoxSports2SD&cm=475&f=.m3u8
+#EXTINF:-1,Fox Sports 3 
+http://nenetony.esy.es/stk.php?canal=FoxSports3SD&cm=445&f=.m3u8
+#EXTINF:-1,F1 
+http://nenetony.esy.es/stk.php?canal=F1LA&cm=1695&f=.m3u8
