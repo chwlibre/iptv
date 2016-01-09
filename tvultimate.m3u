@@ -1,30 +1,50 @@
 #EXTM3U
-#EXTINF:0,-Nacionales-
-
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/la_red_cl_zpstevkunxj.png" group-title="NACIONALES",La Red 
-http://movilstream.digitalproserver.com:443/redtv/redtvvivo/livestream2/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/ucv_tv_cl_zpsquly9vvk.png" group-title="NACIONALES",UCV 
+#EXTINF:-1 group-title="Canales Chile", .: Canales Chile :.
+#EXTINF:-1 group-title="Canales Chile", RedTV HD
+http://movilstream.digitalproserver.com:443/redtv/redtvvivo/livestream1/playlist.m3u8
+#EXTINF:-1 group-title="Canales Chile", UCV HD
 http://movilstream.digitalproserver.com/ucvtv/ucvtv.smil/chunklist-b1248000.m3u8
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/tvn_cl_zpsctcjmoub.png" group-title="NACIONALES",TVN 
-http://tvn-vod.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/tvn_cl_zpsctcjmoub.png" group-title="NACIONALES",TVN Internacional
-http://edge-11-mvstr.edge.mdstrm.com/tvn-live/smil:285a5c6dade574d5f111419c85c6cf17/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/mega_zpspdvnwvzq.png" group-title="NACIONALES",Mega 
+#EXTINF:-1 group-title="Canales Chile", TVN HD
+http://wow3.tvn.cl:1935/liveedge/tvnelemental.smil/chunklist-b1431000.m3u8
+#EXTINF:-1 group-title="Canales Chile", Mega HD
 http://edge-12-cl.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist_b1500.m3u8
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/chilevision_cl_zpsx06ngmet.png" group-title="NACIONALES",CHV 
-http://live.hls.http.chv.ztreaming.com/chvhddesktop/chvHi.m3u8
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/canal13_cl_zpsckqtjlod.png" group-title="NACIONALES",Canal 13 
+#EXTINF:-1 group-title="Canales Chile", CHV HD
+http://live.hls.http.chv.ztreaming.com/chvhd/chvHi.m3u8
+#EXTINF:-1 group-title="Canales Chile", C13 HD
 http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/canal13_cl_zpsckqtjlod.png" group-title="NACIONALES",Canal 13 OP2
-http://13.live.cdn.cl/13hddesktop/13hd-900.m3u8
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/canal13_c_cl_zpsoueja6s7.png" group-title="NACIONALES", C13 Cable
+#EXTINF:-1 group-title="Canales Chile", C13 Cable
 http://cluster.13cmovil.ztreaming.com/13cm/grpz13c/playlist.m3u8
+#EXTINF:-1 group-title="Canales Chile", RecTV
+http://13rec.movil.ztreaming.com/13rec/13rec/playlist.m3u8
+#EXTINF:-1 group-title="Canales Chile", CDO Premium
+http://wow2.cl.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist_w913906597_b1064000.m3u8
+#EXTINF:-1 group-title="Canales Chile", TV Chile
+http://edge-20-mvstr.edge.mdstrm.com/tvn-live/smil:285a5c6dade574d5f111419c85c6cf17/chunklist_b800000.m3u8
+#EXTINF:-1 group-title="Canales Chile", AntofagastaTV HD
+http://wow2.cl.digitalproserver.com/atv/atvvivo/atv.smil/chunklist_w949479730_b2200000.m3u8
+#EXTINF:-1 group-title="Canales Chile", BioBioTV HD
+http://wow2.cl.digitalproserver.com/c9/livestream1/chunklist_w983075885.m3u8
+#EXTINF:-1 group-title="Canales Chile", TVU Concepcion HD
+http://movilstream.digitalproserver.com/tvu/tvuvivo/livestream1/playlist.m3u8
+#EXTINF:-1 group-title="Canales Chile", ITV HD
+http://wow2.cl.digitalproserver.com/itv/itvvivo/livestream1/playlist.m3u8
+#EXTINF:-1 group-title="Canales Chile", PinguinoTV HD
+http://streaming.elpinguino.com:1935/live/pinguinotv_720p/playlist.m3u8
+#EXTINF:-1 group-title="Canales Chile", Holvoet HD
+http://movilstream.digitalproserver.com/holvoet/holvoetvivo/holvoet.smil/chunklist-b1248000.m3u8
+#EXTINF:-1 group-title="Canales Chile", Contivision HD
+http://wow2.cl.digitalproserver.com/contivisionhd/contivisionhdvivo/contivisionhd.smil/chunklist_w1162159593_b1496000.m3u8
+#EXTINF:-1 group-title="Canales Chile", CampusTV HD
+http://movilstream.digitalproserver.com/campustv/campustvvivo/livestream1/playlist.m3u8
+#EXTINF:-1 group-title="Canales Chile", Ufrovision HD
+http://movilstream.digitalproserver.com/ufro/ufrovivo/ufro.smil/chunklist-b1564000.m3u8
+#EXTINF:-1 group-title="Canales Chile", UOCT Santiago
+http://mdstrm.com/live-stream-playlist-v/53443c472c6e89675103cc4c.m3u8
 
-#EXTINF:0,-Cable-
+#EXTINF:-1 group-title="TV Cable", .: Tv Cable :.
 
 #EXTINF:-1 tvg-logo="Latino-FOX.png",Fox
 http://tvultimate.ddns.net/LIVE/H01/CANAL201/PROFILE03.m3u8?tvultimate=%2F.ts
-
 
 #EXTINF:-1 tvg-logo="sony.png",Sony HD
 http://tvultimate.ddns.net/LIVE/H01/CANAL203/PROFILE03.m3u8?tvultimate=%2F.ts
@@ -391,20 +411,12 @@ http://149.11.34.78:1935/live/newspeopletv.stream/hasbahca.m3u8
 
 
 
-#EXTINF:-1,[COLOR red]----------[/COLOR][COLOR blue]Canales[/COLOR][COLOR skyblue]Puerto Rico[/COLOR][COLOR red]--------------[/COLOR]
-http://t.tvultimate.mx
-#EXTINF:-1 tvg-logo="telemundo.png",Telemundo  [COLOR red]OFFLINE[/COLOR]
-http://t.tvultimate.mx
 
 
 
 
-#EXTINF:-1,[COLOR red]----------[/COLOR][COLOR blue]Canales[/COLOR][COLOR skyblue]Peruanos[/COLOR][COLOR red]--------------[/COLOR]
-http://t.tvultimate.mx
-#EXTINF:-1 tvg-logo="tvultimate.png",Per:AMERICA TV HD 
-http://ooyalahd2-f.akamaihd.net/i/atv02_delivery@25405/index_564_av-p.m3u8
 
-#EXTINF:0,-Adultos-
+#EXTINF:-1 group-title="Adultos", .: Adultos :.
 
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/play_zps6mp3huks.png" group-title="Adultos",Venus
 http://46.182.25.34:1935/tv/1420/chunklist_w1894981632.m3u8
