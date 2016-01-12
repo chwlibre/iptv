@@ -14,14 +14,10 @@ http://live.hls.http.chv.ztreaming.com/chvhd/chvHi.m3u8
 http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8
 #EXTINF:-1 group-title="Canales Chile", C13 Cable
 http://cluster.13cmovil.ztreaming.com/13cm/grpz13c/playlist.m3u8
-#EXTINF:-1 group-title="Canales Chile", RecTV
-http://13rec.movil.ztreaming.com/13rec/13rec/playlist.m3u8
 #EXTINF:-1 group-title="Canales Chile", CDO Premium
 http://wow2.cl.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist_w913906597_b1064000.m3u8
 #EXTINF:-1 group-title="Canales Chile", TV Chile
 http://edge-20-mvstr.edge.mdstrm.com/tvn-live/smil:285a5c6dade574d5f111419c85c6cf17/chunklist_b800000.m3u8
-#EXTINF:-1 group-title="Canales Chile", AntofagastaTV HD
-http://wow2.cl.digitalproserver.com/atv/atvvivo/atv.smil/chunklist_w949479730_b2200000.m3u8
 #EXTINF:-1 group-title="Canales Chile", BioBioTV HD
 http://wow2.cl.digitalproserver.com/c9/livestream1/chunklist_w983075885.m3u8
 #EXTINF:-1 group-title="Canales Chile", TVU Concepcion HD
@@ -38,8 +34,6 @@ http://wow2.cl.digitalproserver.com/contivisionhd/contivisionhdvivo/contivisionh
 http://movilstream.digitalproserver.com/campustv/campustvvivo/livestream1/playlist.m3u8
 #EXTINF:-1 group-title="Canales Chile", Ufrovision HD
 http://movilstream.digitalproserver.com/ufro/ufrovivo/ufro.smil/chunklist-b1564000.m3u8
-#EXTINF:-1 group-title="Canales Chile", UOCT Santiago
-http://mdstrm.com/live-stream-playlist-v/53443c472c6e89675103cc4c.m3u8
 
 #EXTINF:-1 group-title="TV Cable", .: Tv Cable :.
 
