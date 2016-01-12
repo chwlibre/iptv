@@ -37,8 +37,21 @@ http://movilstream.digitalproserver.com/ufro/ufrovivo/ufro.smil/chunklist-b15640
 
 #EXTINF:-1 group-title="TV Cable", .: Tv Cable :.
 
+#EXTM3U
+
+#EXTINF:-1, [COLOR yellow]Actualizado 09/1/2016 @ 5:00 PM  (MEXICO)[/COLOR]    
+http://t.tvultimate.mx
+
+
+
+#EXTINF:-1,[COLOR red]----------[/COLOR][COLOR blue]TvUltimate[/COLOR][COLOR skyblue] SD[/COLOR][COLOR red]--------------[/COLOR]
+http://t.tvultimate.mx
+
+
+
 #EXTINF:-1 tvg-logo="Latino-FOX.png",Fox
 http://tvultimate.ddns.net/LIVE/H01/CANAL201/PROFILE03.m3u8?tvultimate=%2F.ts
+
 
 #EXTINF:-1 tvg-logo="sony.png",Sony HD
 http://tvultimate.ddns.net/LIVE/H01/CANAL203/PROFILE03.m3u8?tvultimate=%2F.ts
@@ -242,6 +255,11 @@ http://tvultimate.ddns.net/LIVE/H01/CANAL496/PROFILE03.m3u8?tvultimate=%2F.ts
 
 
 
+#EXTINF:-1 tvg-logo="TCM.png",Univision TDN [COLOR yellow]ONLINE[/COLOR]
+http://104.131.200.207/normalize/?lib=-670671733
+#EXTINF:-1 tvg-logo="TCM.png",TDN [COLOR yellow]ONLINE[/COLOR]
+http://t.tvultimate.mx/canal-tdn
+
 
 
 #EXTINF:-1 tvg-logo="fox sports hd.png",Fox Sports
@@ -262,7 +280,6 @@ http://tvultimate.ddns.net/LIVE/H01/CANAL561/PROFILE03.m3u8?tvultimate=%2F.ts
 
 #EXTINF:0 tvg-logo="aym sports.png",AyM Sports
 http://tvultimate.ddns.net/LIVE/H01/CANAL576/PROFILE02.m3u8?tvultimate=%2F.ts
-
 
 
 
@@ -309,24 +326,6 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
 
 #EXTINF:-1 tvg-logo="vevo.png",Vevo3 HD
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
-
-
-
-#EXTINF:0 tvg-logo="HBO.png",HBO Family  [COLOR red]OFFLINE[/COLOR]
-http://OFFLINE.com
-
-#EXTINF:0 tvg-logo="hbo plus.png",HBO Plus [COLOR red]OFFLINE[/COLOR]
-http://OFFLINE.com
-
-#EXTINF:0 tvg-logo="hbo2.png",HBO 2  [COLOR red]OFFLINE[/COLOR]
-http://OFFLINE.com
-
-#EXTINF:0 tvg-logo="HBO.png",HBO Signature  [COLOR red]OFFLINE[/COLOR]
-http://OFFLINE.com
-
-
-
-
 
 
 
@@ -396,19 +395,187 @@ http://tvultimate.ddns.net/LIVE/H01/CANAL528/PROFILE03.m3u8?tvultimate=%2F.ts
 
 
 
-
-
 #EXTINF:-1 tvg-logo="people.png",News People tv 
 http://149.11.34.78:1935/live/newspeopletv.stream/hasbahca.m3u8
 
 
 
+#EXTINF:-1,[COLOR red]----------[/COLOR][COLOR blue]Canales[/COLOR][COLOR skyblue]PREMIUM[/COLOR][COLOR red]--------------[/COLOR]
+http://t.tvultimate.mx
+#EXTINF:-1 tvg-logo="tvultimate.png" group-title="ULTIMATE PREMIUM",Golder Premier 1
+http://t.tvultimate.mx/1JC6KxZ
+#EXTINF:-1 tvg-logo="tvultimate.png" group-title="ULTIMATE PREMIUM",Golden Premier 2
+http://t.tvultimate.mx/1ZU4o1v
+#EXTINF:-1 tvg-logo="tvultimate.png" group-title="ULTIMATE PREMIUM",Max Prime Este
+http://t.tvultimate.mx/1RBwg7H
+#EXTINF:-1 tvg-logo="tvultimate.png" group-title="ULTIMATE PREMIUM",Max Prime Oeste
+http://t.tvultimate.mx/1ZU4ExF
+
+
+#EXTINF:0 tvg-logo="HBO.png",HBO Family  [COLOR red]OFFLINE[/COLOR]
+http://OFFLINE.com
+
+#EXTINF:0 tvg-logo="hbo plus.png",HBO Plus [COLOR red]OFFLINE[/COLOR]
+http://OFFLINE.com
+
+#EXTINF:0 tvg-logo="hbo2.png",HBO 2  [COLOR red]OFFLINE[/COLOR]
+http://OFFLINE.com
+
+#EXTINF:0 tvg-logo="HBO.png",HBO Signature  [COLOR red]OFFLINE[/COLOR]
+http://OFFLINE.com
 
 
 
 
 
+#EXTINF:-1,[COLOR red]----------[/COLOR][COLOR blue]Canales[/COLOR][COLOR skyblue] Colombianos[/COLOR][COLOR red]--------------[/COLOR]
+http://t.tvultimate.mx
 
+
+#EXTINF:-1,Caracol
+http://199.180.114.174:84/ccaracol.m3u8
+
+
+#EXTINF:-1,RCN
+http://199.180.114.174:84/crcn.m3u8
+
+#EXTINF:-1,Win Sports
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1_manifest.m3u8
+
+#EXTINF:-1,VMAS TV
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8?
+
+#EXTINF:-1,CANAL ANTIESTRES
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8
+#EXTINF:-1,CANTINAZO
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8
+#EXTINF:-1,LIFEDESING
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/LDTV/tu1_1.m3u8
+#EXTINF:-1,MIMUSICA HD
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
+#EXTINF:-1,TELE AMIGA
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0002/tu1_1.m3u8
+#EXTINF:-1,TIGO MUSIC
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8
+#EXTINF:-1,CANAL U
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANU/tu1_1.m3u8
+#EXTINF:-1,TV AGRO
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVAG/tu1_1.m3u8
+#EXTINF:-1,Cable Noticias
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8
+#EXTINF:-1,El Tiempo
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8
+#EXTINF:-1,UNE TV Manizales
+http://lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEZ/tu1_1.m3u8
+#EXTINF:-1,UNE TV CARIBE
+http://lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEQ/tu1_1.m3u8
+#EXTINF:-1,UNE TV ARMENIA
+http://lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEA/tu1_1.m3u8
+#EXTINF:-1,TELE VIDA
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVID/tu1_1.m3u8
+#EXTINF:-1,TRENDY MUSICA
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8
+
+#EXTM3U#EXTINF:-1,Canal Uno
+http://cdns840stu1010.multistream.net/rtvcCanalUNOlive/amlst:live/master.m3u8
+
+#EXTINF:-1,Senal Colombia
+http://cdns840stu1010.multistream.net/rtvc2live/amlst:scolombia/master.m3u8
+
+#EXTINF:-1,Canal Institucional
+http://cdns840stu1010.multistream.net:80/rtvclive/live-500/PAZ.m3u8
+
+#EXTINF:-1,Telepacifico
+http://cdns840stu1010.multistream.net/telepacificolive/amlst:playback1/playlist_b500000.m3u8
+
+#EXTINF:-1,Telecaribe
+http://cdns840stu1010.multistream.net/telecaribelive/amlst:live/master.m3u8
+
+#EXTINF:-1,Canal U
+http://xcanalutvx.api.channel.livestream.com/3.0/playlist.m3u8
+
+#EXTINF:-1,Telecafe
+http://xtelecafex.api.channel.livestream.com/3.0/playlist.m3u8
+
+#EXTINF:-1,Canal TRO
+http://cdns840stu1010.multistream.net/canaltro2live/amlst:live/master.m3u8
+
+#EXTINF:-1,Canal 13
+http://cdns840stu1010.multistream.net/canaltr3celive/amlst:live/playlist_b500000.m3u8
+
+#EXTINF:-1,Canal Zoom
+http://xcanalzoomtvx.api.channel.livestream.com/3.0/playlist.m3u8
+
+#EXTINF:-1,Canal Capital
+http://cdns840stu1010.multistream.net/canalcapitallive/amlst:live/master.m3u8
+
+#EXTINF:-1,Teleislas
+http://cdnvideo.webvideocore.net/live3ch/out_4r27ggewzxycowws80ck/index.m3u8
+
+#EXTINF:-1,Nacion TV
+http://iphone-streaming.ustream.tv/uhls/20749257/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1,RCN
+http://canalrcn-mobile-live.4cloud.co/livercn/AppSenalRcn/chunklist.m3u8
+
+#EXTINF:-1,El Tiempo Television
+http://ooyalahd2-f.akamaihd.net/i/eltiempo1avts_1603@1603/index_1550000_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,Cable Noticias
+http://50.23.173.13:1935/live/cablenoticiastv_720p/playlist.m3u8
+
+#EXTINF:-1,TV Agro
+http://190.248.81.11:1938/live/myStream22/playlist.m3u8
+
+#EXTINF:-1,Hogar TV
+http://xhogartvx.api.channel.livestream.com/3.0/playlist.m3u8
+
+#EXTINF:-1,Telemedellin 
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8?
+
+#EXTINF:-1,Telecaribe
+http://cdns840stu1010.multistream.net/telecaribelive/amlst:live/master.m3u8
+
+#EXTINF:-1,RCN
+http://live3.rcnmundo.com/rcnlaradio.mp3
+
+#EXTINF:-1,BLUE RADIO
+http://77.67.109.164/BLURADIO_SC
+
+#EXTINF:-1,RCN KIDS
+http://live1.rcnmundo.com/rcnkids.mp3
+
+#EXTINF:-1,LA VALLENATA
+http://7309.live.streamtheworld.com/VALLENATA_PRISAAAC?uuid=cc007c83-ba7c-45ba-a609-e3353fd5f334
+
+#EXTINF:-1,OLIMPICA STEREO
+http://i90.letio.com/9114.aac?type=.flv?type=.flv
+
+#EXTINF:-1,[COLOR red]----------[/COLOR][COLOR blue]Canales[/COLOR][COLOR skyblue] España[/COLOR][COLOR red]--------------[/COLOR]
+http://t.tvultimate.mx
+
+#EXTINF:-1 tvg-logo="tvultimate.png",Antena 3
+http://t.tvultimate.mx/1ZjqP3h
+
+
+#EXTINF:-1,[COLOR red]----------[/COLOR][COLOR blue]Canales[/COLOR][COLOR skyblue]Peliculas 24/7[/COLOR][COLOR red]--------------[/COLOR]
+http://t.tvultimate.mx
+#EXTINF:-1 tvg-logo="tvultimate.png",Peliculas 
+http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8
+
+
+#EXTINF:-1,[COLOR red]----------[/COLOR][COLOR blue]Canales[/COLOR][COLOR skyblue]Puerto Rico[/COLOR][COLOR red]--------------[/COLOR]
+http://t.tvultimate.mx
+#EXTINF:-1 tvg-logo="telemundo.png",Telemundo  [COLOR red]OFFLINE[/COLOR]
+http://t.tvultimate.mx
+
+
+
+
+#EXTINF:-1,[COLOR red]----------[/COLOR][COLOR blue]Canales[/COLOR][COLOR skyblue]Peruanos[/COLOR][COLOR red]--------------[/COLOR]
+http://t.tvultimate.mx
+#EXTINF:-1 tvg-logo="tvultimate.png",Per:AMERICA TV HD 
+http://ooyalahd2-f.akamaihd.net/i/atv02_delivery@25405/index_564_av-p.m3u8
 
 #EXTINF:-1 group-title="Adultos", .: Adultos :.
 
