@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1, [COLOR yellow]Actualizado 22/01/2016 @ 13:15 PM  (CHILE)[/COLOR]    
+chileiptv@gmail.com
+
+
+
+
 #EXTINF:-1 group-title="Canales Chile", .: Canales Chile :.
 #EXTINF:-1 group-title="Canales Chile", RedTV HD
 http://movilstream.digitalproserver.com:443/redtv/redtvvivo/livestream1/playlist.m3u8
