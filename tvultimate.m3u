@@ -39,15 +39,6 @@ http://movilstream.digitalproserver.com/ufro/ufrovivo/ufro.smil/chunklist-b15640
 
 #EXTM3U
 
-#EXTINF:-1, [COLOR yellow]Actualizado 09/1/2016 @ 5:00 PM  (MEXICO)[/COLOR]    
-http://t.tvultimate.mx
-
-
-
-#EXTINF:-1,[COLOR red]----------[/COLOR][COLOR blue]TvUltimate[/COLOR][COLOR skyblue] SD[/COLOR][COLOR red]--------------[/COLOR]
-http://t.tvultimate.mx
-
-
 
 #EXTINF:-1 tvg-logo="Latino-FOX.png",Fox
 http://tvultimate.ddns.net/LIVE/H01/CANAL201/PROFILE03.m3u8?tvultimate=%2F.ts
@@ -400,16 +391,7 @@ http://149.11.34.78:1935/live/newspeopletv.stream/hasbahca.m3u8
 
 
 
-#EXTINF:-1,[COLOR red]----------[/COLOR][COLOR blue]Canales[/COLOR][COLOR skyblue]PREMIUM[/COLOR][COLOR red]--------------[/COLOR]
-http://t.tvultimate.mx
-#EXTINF:-1 tvg-logo="tvultimate.png" group-title="ULTIMATE PREMIUM",Golder Premier 1
-http://t.tvultimate.mx/1JC6KxZ
-#EXTINF:-1 tvg-logo="tvultimate.png" group-title="ULTIMATE PREMIUM",Golden Premier 2
-http://t.tvultimate.mx/1ZU4o1v
-#EXTINF:-1 tvg-logo="tvultimate.png" group-title="ULTIMATE PREMIUM",Max Prime Este
-http://t.tvultimate.mx/1RBwg7H
-#EXTINF:-1 tvg-logo="tvultimate.png" group-title="ULTIMATE PREMIUM",Max Prime Oeste
-http://t.tvultimate.mx/1ZU4ExF
+
 
 
 #EXTINF:0 tvg-logo="HBO.png",HBO Family  [COLOR red]OFFLINE[/COLOR]
@@ -429,7 +411,7 @@ http://OFFLINE.com
 
 
 #EXTINF:-1,[COLOR red]----------[/COLOR][COLOR blue]Canales[/COLOR][COLOR skyblue] Colombianos[/COLOR][COLOR red]--------------[/COLOR]
-http://t.tvultimate.mx
+
 
 
 #EXTINF:-1,Caracol
@@ -551,23 +533,8 @@ http://7309.live.streamtheworld.com/VALLENATA_PRISAAAC?uuid=cc007c83-ba7c-45ba-a
 #EXTINF:-1,OLIMPICA STEREO
 http://i90.letio.com/9114.aac?type=.flv?type=.flv
 
-#EXTINF:-1,[COLOR red]----------[/COLOR][COLOR blue]Canales[/COLOR][COLOR skyblue] España[/COLOR][COLOR red]--------------[/COLOR]
-http://t.tvultimate.mx
-
-#EXTINF:-1 tvg-logo="tvultimate.png",Antena 3
-http://t.tvultimate.mx/1ZjqP3h
 
 
-#EXTINF:-1,[COLOR red]----------[/COLOR][COLOR blue]Canales[/COLOR][COLOR skyblue]Peliculas 24/7[/COLOR][COLOR red]--------------[/COLOR]
-http://t.tvultimate.mx
-#EXTINF:-1 tvg-logo="tvultimate.png",Peliculas 
-http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8
-
-
-#EXTINF:-1,[COLOR red]----------[/COLOR][COLOR blue]Canales[/COLOR][COLOR skyblue]Puerto Rico[/COLOR][COLOR red]--------------[/COLOR]
-http://t.tvultimate.mx
-#EXTINF:-1 tvg-logo="telemundo.png",Telemundo  [COLOR red]OFFLINE[/COLOR]
-http://t.tvultimate.mx
 
 
 
