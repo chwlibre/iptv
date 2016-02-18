@@ -1,389 +1,88 @@
 #EXTM3U
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR]  [COLOR blue][B]CHW.NET: Lista IPTV BETA (Canal GitHub)[/B][/COLOR]
+#EXTINF:-0, -- Ultima actualizacion: 18-02-2016 --
+http://0.0.0.0:1234
+#EXTINF:-0, -- Tildes omitidas por limitacion del sistema --
 http://0.0.0.0:1234
 
 
 
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR]  [COLOR orange][B]Actualizado: [/B][/COLOR][COLOR green]30/07/2015 11:35 P.M GMT-3[/COLOR]
+#EXTINF:0, [NACIONALES HD]
 http://0.0.0.0:1234
-
-
-
-#EXTINF:0, [B][COLOR white]/// [COLOR blue]CH[/COLOR][COLOR white]I[/COLOR][COLOR red]LE[/COLOR]: NACIONALES HD ///[/COLOR][/B]
-http://0.0.0.0:1234
-#EXTINF:0, La Red 720p
-http://movilstream.digitalproserver.com:443/redtv/redtvvivo/livestream1/playlist.m3u8
 #EXTINF:0, TVN 720p
 http://tvn-vod.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
-#EXTINF:0, Mega 720p
-http://edge-12-cl.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist_b1500.m3u8
+#EXTINF:0, MEGA 720p
+http://edge-61-cl.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist.m3u8?
+#EXTINF:0, La Red 720p
+http://movilstream.digitalproserver.com:443/redtv/redtvvivo/livestream1/playlist.m3u8
 
 
 
-#EXTINF:0, [B][COLOR white]/// [COLOR blue]CH[/COLOR][COLOR white]I[/COLOR][COLOR red]LE[/COLOR]: NACIONALES SD ///[/COLOR][/B]
-http://separador.m3u
-#EXTINF:0, Telecanal 268p
-http://movilstream.digitalproserver.com/tcsc/tcscvivo/livestream2/playlist.m3u8
-#EXTINF:0, La Red 480p
-http://movilstream.digitalproserver.com:443/redtv/redtvvivo/livestream2/playlist.m3u8
-#EXTINF:0, TVN 360p
-http://wow3.tvn.cl:1935/liveedge/tvnelemental.smil/chunklist-b981000.m3u8
-#EXTINF:0, Mega 480p
-http://edge-12-cl.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist_b900.m3u8
-#EXTINF:0, Chilevision Internet 432p
-http://live.hls.http.chv.ztreaming.com/chvhddesktop/chv-desktop.m3u8
+#EXTINF:0, [NACIONALES SD]
+http://0.0.0.0:1234
+#EXTINF:0, MEGA 240p
+http://edge-11-mvstr.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist_b400.m3u8
 #EXTINF:0, Canal 13 Internet 540p
 http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8
+#EXTINF:0, Chilevision Internet 432p 1
+http://live.hls.http.chv.ztreaming.com/chvhddesktop/chv-desktop.m3u8
+#EXTINF:0, Chilevision Internet 432p 2
+http://live.hls.http.chv.ztreaming.com/chvhd/chvHi.m3u8
+#EXTINF:0, Telecanal 268p
+http://movilstream.digitalproserver.com/tcsc/tcscvivo/livestream2/playlist.m3u8
 
 
 
-
-#EXTINF:0, [B][COLOR white]/// [COLOR blue]CH[/COLOR][COLOR white]I[/COLOR][COLOR red]LE[/COLOR]: REGIONALES HD ///[/COLOR][/B]
-http://separador.m3u
+#EXTINF:0, [REGIONALES HD]
+http://0.0.0.0:1234
 #EXTINF:0, Valparaiso: UCV 720p
 http://movilstream.digitalproserver.com/ucvtv/ucvtv.smil/chunklist-b1248000.m3u8
 #EXTINF:0, Concepcion: Canal 9 Bio Bio Television 720p
 http://wow2.cl.digitalproserver.com/c9/livestream1/chunklist_w983075885.m3u8
 #EXTINF:0, Concepcion: TVU 720p
 http://movilstream.digitalproserver.com/tvu/tvuvivo/livestream1/playlist.m3u8
-#EXTINF:0, Punta Arenas: ITV 720p
-http://wow2.cl.digitalproserver.com/itv/itvvivo/livestream1/playlist.m3u8
-#EXTINF:0, Punta Arenas: PinguinoTV 720p
-http://streaming.elpinguino.com:1935/live/pinguinotv_720p/playlist.m3u8
-#EXTINF:0, Copiapo: Holvoet 720p
-http://movilstream.digitalproserver.com/holvoet/holvoetvivo/holvoet.smil/chunklist-b1248000.m3u8
-#EXTINF:0, Constitucion: Contivision 720p
-http://wow2.cl.digitalproserver.com/contivisionhd/contivisionhdvivo/contivisionhd.smil/chunklist_w1162159593_b1496000.m3u8
-#EXTINF:0, Talca: CampusTV 720p
-http://movilstream.digitalproserver.com/campustv/campustvvivo/livestream1/playlist.m3u8
-#EXTINF:0, Temuco: Ufrovision 720p
-http://movilstream.digitalproserver.com/ufro/ufrovivo/ufro.smil/chunklist-b1564000.m3u8
 
 
 
-#EXTINF:0, [B][COLOR white]/// [COLOR blue]CH[/COLOR][COLOR white]I[/COLOR][COLOR red]LE[/COLOR]: REGIONALES SD ///[/COLOR][/B]
-http://separador.m3u
+#EXTINF:0, [REGIONALES SD]
+http://0.0.0.0:1234
 #EXTINF:0, Valparaiso: UCV 480p
 http://movilstream.digitalproserver.com/ucvtv/ucvtv.smil/chunklist-b848000.m3u8
 #EXTINF:0, Concepcion: Canal 9 Bio Bio Television 404p
 http://wow2.cl.digitalproserver.com/c9/livestream2/chunklist_w1784656167.m3u8
 #EXTINF:0, Concepcion: TVU 480p
 http://movilstream.digitalproserver.com/tvu/tvuvivo/livestream2/playlist.m3u8
-#EXTINF:0, Punta Arenas: ITV 480p
-http://wow2.cl.digitalproserver.com/itv/itvvivo/livestream2/playlist.m3u8
-#EXTINF:0, Punta Arenas: PinguinoTV 360p
-http://streaming.elpinguino.com:1935/live/pinguinotv_360p/playlist.m3u8
-#EXTINF:0, Copiapo: Holvoet 480p
-http://movilstream.digitalproserver.com/holvoet/holvoetvivo/holvoet.smil/chunklist-b848000.m3u8
-#EXTINF:0, Constitucion: Contivision 480p
-http://wow2.cl.digitalproserver.com/contivisionhd/contivisionhdvivo/contivisionhd.smil/chunklist_w1162159593_b796000.m3u8
-#EXTINF:0, Talca: CampusTV 480p
-http://movilstream.digitalproserver.com/campustv/campustvvivo/livestream2/playlist.m3u8
-#EXTINF:0, Temuco: Ufrovision 480p
-http://movilstream.digitalproserver.com/ufro/ufrovivo/ufro.smil/chunklist-b764000.m3u8
-#EXTINF:0, Arica: AricaTV 426p
-http://wow2.cl.digitalproserver.com/aricatv/aricatvvivo/aricatv.smil/chunklist_w725671068_b848000.m3u8
-#EXTINF:0, El Quisco: Giro Visual TV 480p
-http://stream110.digitalproserver.com:443:1935/girovisual/girovisualvivo/livestream1/playlist.m3u8
-#EXTINF:0, San Vicente de Tagua Tagua: TVO 480p
-http://movilstream.digitalproserver.com/tvo/tvovivo/livestream/playlist.m3u8
-#EXTINF:0, Linares: TV5 240p
-http://v1.streaminglatinoamerica.com:1935/canal5/canal5/playlist.m3u8
 
 
 
-#EXTINF:0, [B][COLOR white]/// [COLOR blue]CH[/COLOR][COLOR white]I[/COLOR][COLOR red]LE[/COLOR]: CABLE, INTERNET Y PREMIUM ///[/COLOR][/B]
+#EXTINF:0, [TV CABLE, INTERNET Y PREMIUM]
 http://separador.m3u
 #EXTINF:0, Canal del Deporte Olimpico CDO 480p
 http://wow2.cl.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist_w913906597_b1064000.m3u8
 #EXTINF:0, Canal 13C 368p
 http://cluster.13cmovil.ztreaming.com/13cm/grpz13c/playlist.m3u8
-#EXTINF:0, Canal 13 RecTV 432p
-http://13rec.movil.ztreaming.com/13rec/13rec/playlist.m3u8
-#EXTINF:0, Mega ETC TV 480p
-http://movilstream.digitalproserver.com/etctv/etctvvivo/livestream1/playlist.m3u8
-#EXTINF:0, TVN TV Chile 360p
-http://edge-20-mvstr.edge.mdstrm.com/tvn-live/smil:285a5c6dade574d5f111419c85c6cf17/chunklist_b800000.m3u8
-#EXTINF:0, BioBioChile.TV 720p
-http://movilstream.digitalproserver.com/bbtvscl/bbtvsclvivo/livestream1/playlist.m3u8
-#EXTINF:0, TV Senado 480p
-http://senadortmp.janus.cl/senadotv/senado600/BratuMarian.m3u8
 #EXTINF:0, TV Camara de Diputados 480p
 http://camara.ztreaming.com:80/camara8/streamcam8.sdp/playlist.m3u8
 #EXTINF:0, Teletrak TV 324p
 http://movilstream.digitalproserver.com/sporting/sportingvivo/livestream1/chunklist.m3u8
-#EXTINF:0, Metro de Santiago TV (Sin audio) 240p
-http://190.196.9.186:8080/subtv
-#EXTINF:0, Cesfam TV/Vida TV 480p
-http://evo.eltelon.com:443/live/cesfamtv/playlist.m3u8
+#EXTINF:0, Metro TV 240p
+mmsh://190.196.9.186:8080/subtv
 
 
 
-#EXTINF:0, [B][COLOR yellow]/// TV CABLE/SATELITE (BETA) ///[/COLOR][/B]
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] Discoveryen Español
-http://kcurth.zz.mu/ch/carga.php?canal=16
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] Discovery Theater
-http://kcurth.zz.mu/ch/carga.php?canal=17
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] DiscoveryWorld
-http://kcurth.zz.mu/ch/carga.php?canal=18
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] Discovery HomeHealthLatinoamerica
-http://kcurth.zz.mu/ch/carga.php?canal=19
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] H2 Latinoamerica
-http://kcurth.zz.mu/ch/carga.php?canal=20
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] HistoryenEspañol
-http://kcurth.zz.mu/ch/carga.php?canal=21
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] NationalGeographicLatinoamerica
-http://kcurth.zz.mu/ch/carga.php?canal=22
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] NatGeoWildLatinoAmerica
-http://kcurth.zz.mu/ch/carga.php?canal=23
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] AnimalPlanetLatinoamerica
-http://kcurth.zz.mu/ch/carga.php?canal=24
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] ESPN Latinoamerica
-http://kcurth.zz.mu/ch/carga.php?canal=25
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] ESPN2Latinoamerica
-http://kcurth.zz.mu/ch/carga.php?canal=26
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] ESPN3 Latinoamerica
-http://kcurth.zz.mu/ch/carga.php?canal=27
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] Fox Sports Latinoamerica
-http://kcurth.zz.mu/ch/carga.php?canal=28
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] Fox Sports2 Latinoamerica
-http://kcurth.zz.mu/ch/carga.php?canal=29
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] Fox Sports3 Latinoamerica
-http://kcurth.zz.mu/ch/carga.php?canal=30
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] Bein Sportsen Español
-http://kcurth.zz.mu/ch/carga.php?canal=31
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] UFC Network Latino america
-http://kcurth.zz.mu/ch/carga.php?canal=32
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] Planeta Futbol
-http://kcurth.zz.mu/ch/carga.php?canal=33
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] Planeta Futbol English Soccer
-http://kcurth.zz.mu/ch/carga.php?canal=34
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] TDN Mexico
-http://kcurth.zz.mu/ch/carga.php?canal=35
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] UnivisionTDN
-http://kcurth.zz.mu/ch/carga.php?canal=36
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] DisneyChannelNorte
-http://kcurth.zz.mu/ch/carga.php?canal=37
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] DisneyXDNorte
-http://kcurth.zz.mu/ch/carga.php?canal=38
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] DisneyJuniorNorte
-http://kcurth.zz.mu/ch/carga.php?canal=39
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] NickelodeonLatinoamerica
-http://kcurth.zz.mu/ch/carga.php?canal=40
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] NickJrLatinoamerica
-http://kcurth.zz.mu/ch/carga.php?canal=41
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] DiscoveryKidsAmericaLatina
-http://kcurth.zz.mu/ch/carga.php?canal=42
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] CartoonNetworkLatinoamerica
-http://kcurth.zz.mu/ch/carga.php?canal=43
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] BoomerangLatinoamerica
-http://kcurth.zz.mu/ch/carga.php?canal=44
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] Tooncast
-http://kcurth.zz.mu/ch/carga.php?canal=45
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] BabyFirstTVLatinoamerica
-http://kcurth.zz.mu/ch/carga.php?canal=46
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] BabyTVLatinoamerica
-http://kcurth.zz.mu/ch/carga.php?canal=47
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] CanalSony
-http://kcurth.zz.mu/ch/carga.php?canal=48
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] BBCEntertainmentLatinoamerica
-http://kcurth.zz.mu/ch/carga.php?canal=49
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] Unicable
-http://kcurth.zz.mu/ch/carga.php?canal=50
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] WarnerChannelLatinoamerica
-http://kcurth.zz.mu/ch/carga.php?canal=51
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] ELatinoamerica
-http://kcurth.zz.mu/ch/carga.php?canal=52
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] FXLatino
-http://kcurth.zz.mu/ch/carga.php?canal=53
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] UniversalChannelAmericaLatina
-http://kcurth.zz.mu/ch/carga.php?canal=54
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] FoxLatinoamerica
-http://kcurth.zz.mu/ch/carga.php?canal=55
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] SyfyLatinoamerica
-http://kcurth.zz.mu/ch/carga.php?canal=56
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] AyELatinoamerica
-http://kcurth.zz.mu/ch/carga.php?canal=57
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] InvestigationDiscoveryLatinoamerica
-http://kcurth.zz.mu/ch/carga.php?canal=58
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] TLCLatinoamerica
-http://kcurth.zz.mu/ch/carga.php?canal=59
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] TLCLatinoamerica
-http://kcurth.zz.mu/ch/carga.php?canal=60
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] AXNLatinoamerica
-http://kcurth.zz.mu/ch/carga.php?canal=61
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] Eurochannel
-http://kcurth.zz.mu/ch/carga.php?canal=62
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] MundoFox
-http://kcurth.zz.mu/ch/carga.php?canal=63
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] TNTSeriesLatinoamerica
-http://kcurth.zz.mu/ch/carga.php?canal=64
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] Elgourmet
-http://kcurth.zz.mu/ch/carga.php?canal=65
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] CasaClubTV
-http://kcurth.zz.mu/ch/carga.php?canal=66
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] TBSAmericaLatina
-http://kcurth.zz.mu/ch/carga.php?canal=67
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] GlitzLatinoamerica
-http://kcurth.zz.mu/ch/carga.php?canal=68
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] FOXLife
-http://kcurth.zz.mu/ch/carga.php?canal=69
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] DistritoComedia
-http://kcurth.zz.mu/ch/carga.php?canal=70
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] ComedyCentralLatinoamerica
-http://kcurth.zz.mu/ch/carga.php?canal=71
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] TruTVAmericaLatina
-http://kcurth.zz.mu/ch/carga.php?canal=72
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] EfektoTV
-http://kcurth.zz.mu/ch/carga.php?canal=73
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] MultimediosPlus
-http://kcurth.zz.mu/ch/carga.php?canal=74
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] LifetimeLatinoamerica
-http://kcurth.zz.mu/ch/carga.php?canal=75
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] CNNEnEspañol
-http://kcurth.zz.mu/ch/carga.php?canal=76
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] ElFinancieroBloomberg
-http://kcurth.zz.mu/ch/carga.php?canal=77
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] NTN24
-http://kcurth.zz.mu/ch/carga.php?canal=78
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] MTVLatinoamerica
-http://kcurth.zz.mu/ch/carga.php?canal=79
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] MTVHitsLatinoamerica
-http://kcurth.zz.mu/ch/carga.php?canal=80
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] VH1ClassicEurope
-http://kcurth.zz.mu/ch/carga.php?canal=81
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] VH1LatinoNorte
-http://kcurth.zz.mu/ch/carga.php?canal=82
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] KMusic
-http://kcurth.zz.mu/ch/carga.php?canal=83
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] ConcertChannel
-http://kcurth.zz.mu/ch/carga.php?canal=84
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] HTV
-http://kcurth.zz.mu/ch/carga.php?canal=85
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] Bandamax
-http://kcurth.zz.mu/ch/carga.php?canal=86
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] RegionalMusic
-http://kcurth.zz.mu/ch/carga.php?canal=87
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] CineDinamita
-http://kcurth.zz.mu/ch/carga.php?canal=88
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] MultiPremier
-http://kcurth.zz.mu/ch/carga.php?canal=89
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] CineLatino
-http://kcurth.zz.mu/ch/carga.php?canal=90
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] Golden
-http://kcurth.zz.mu/ch/carga.php?canal=91
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] GoldenEdge
-http://kcurth.zz.mu/ch/carga.php?canal=92
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] ParamountChannelLatinoamerica
-http://kcurth.zz.mu/ch/carga.php?canal=93
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] SundanceChannelLatinoamerica
-http://kcurth.zz.mu/ch/carga.php?canal=94
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] TNTAmericaLatina
-http://kcurth.zz.mu/ch/carga.php?canal=95
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] CineCanal
-http://kcurth.zz.mu/ch/carga.php?canal=96
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] Cinemax
-http://kcurth.zz.mu/ch/carga.php?canal=97
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] Space
-http://kcurth.zz.mu/ch/carga.php?canal=98
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] AMC
-http://kcurth.zz.mu/ch/carga.php?canal=99
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] StudioUniversal
-http://kcurth.zz.mu/ch/carga.php?canal=100
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] TCM
-http://kcurth.zz.mu/ch/carga.php?canal=101
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] ISat
-http://kcurth.zz.mu/ch/carga.php?canal=102
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] Europ Europa
-http://kcurth.zz.mu/ch/carga.php?canal=103
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] Film Arts Latinoamerica
-http://kcurth.zz.mu/ch/carga.php?canal=104
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] Film Zone
-http://kcurth.zz.mu/ch/carga.php?canal=105
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] FOX 1
-http://kcurth.zz.mu/ch/carga.php?canal=106
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] FOX 1O
-http://kcurth.zz.mu/ch/carga.php?canal=107
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] FOX Family
-http://kcurth.zz.mu/ch/carga.php?canal=108
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] FOX Comedy
-http://kcurth.zz.mu/ch/carga.php?canal=109
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] Fox Cinema
-http://kcurth.zz.mu/ch/carga.php?canal=110
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] FOXACTION
-http://kcurth.zz.mu/ch/carga.php?canal=111
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] FOX ActionOeste
-http://kcurth.zz.mu/ch/carga.php?canal=112
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] FOX Movies
-http://kcurth.zz.mu/ch/carga.php?canal=113
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] Fox ClassicsLatinoamerica
-http://kcurth.zz.mu/ch/carga.php?canal=114
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] HBO
-http://kcurth.zz.mu/ch/carga.php?canal=115
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] HBO2
-http://kcurth.zz.mu/ch/carga.php?canal=116
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] HBO Plus
-http://kcurth.zz.mu/ch/carga.php?canal=117
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] HBOPus2
-http://kcurth.zz.mu/ch/carga.php?canal=118
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] HBOFamily
-http://kcurth.zz.mu/ch/carga.php?canal=119
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] HBOSignature
-http://kcurth.zz.mu/ch/carga.php?canal=120
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] MaxUPLatinoamerica
-http://kcurth.zz.mu/ch/carga.php?canal=121
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] Max Prime
-http://kcurth.zz.mu/ch/carga.php?canal=122
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] Max Prime2
-http://kcurth.zz.mu/ch/carga.php?canal=123
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] Max
-http://kcurth.zz.mu/ch/carga.php?canal=124
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] Golden Premier1
-http://kcurth.zz.mu/ch/carga.php?canal=125
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] Golden Premiere2
-http://kcurth.zz.mu/ch/carga.php?canal=126
-#EXTINF:0, FOX Sports (Latino-Argentina) 192p
-http://live.mvdigital.net:1935/live7/livestream1.sdp/playlist.m3u8#MegaIPTVArgentina
-#EXTINF:0, EWTN (Latino-Argentina) 480p
-http://ewtn.mpl.miisolutions.net:1935/ewtn-live-5/900.mp4/playlinst.m3u8#MegaIPTVArgentina
-#EXTINF:0, Discovery Channel (Latino) 240p
-http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
-
-
-
-#EXTINF:0, [B][COLOR yellow]/// TV CABLE/SATELITE INTERNACIONAL (BETA) ///[/COLOR][/B]
+#EXTINF:0, [INTERNACIONAL]
+http://0.0.0.0:1234
+#EXTINF:0, TV Chile (Chile) 360p
+http://edge-61-cl.edge.mdstrm.com/tvn-live/_definst_/smil:285a5c6dade574d5f111419c85c6cf17/chunklist_b800000.m3u8
 #EXTINF:0, RPCTV (Panama) 540p
 http://live.rpctv.com/rpctv/tm.smil/playlist.m3u8
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] NFL Network (USA Ingles) 360p
-http://kcurth.zz.mu/ch/carga.php?canal=1
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] AzMundo (Mexico) 480p
-http://kcurth.zz.mu/ch/carga.php?canal=3
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] Univision (USA Latino) 576p
-http://kcurth.zz.mu/ch/carga.php?canal=4
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] UniMas (USA Latino) 576p
-http://kcurth.zz.mu/ch/carga.php?canal=5
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] TVE Internacional (Spain) 480p
-http://kcurth.zz.mu/ch/carga.php?canal=6
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] Pasiones (USA Latino) 480p
-http://kcurth.zz.mu/ch/carga.php?canal=8
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] Telemundo Internacional (USA Latino) 480p
-http://kcurth.zz.mu/ch/carga.php?canal=10
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] RCN Novelas (Colombia) 480p
-http://kcurth.zz.mu/ch/carga.php?canal=11
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] TlnovelasAmerica
-http://kcurth.zz.mu/ch/carga.php?canal=12
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] TeleCentro
-http://kcurth.zz.mu/ch/carga.php?canal=13
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] CaracolInternacional
-http://kcurth.zz.mu/ch/carga.php?canal=14
-#EXTINF:-0, [COLOR green]Nuevo:[/COLOR] TVGloboInternacional
-http://kcurth.zz.mu/ch/carga.php?canal=15
 
 
 
-#EXTINF:0, [B][COLOR white]/// RADIOS ///[/COLOR][/B]
-http://separador.m3u
-#EXTINF:0, ADN Radio Chile
-http://4323.live.streamtheworld.com/ADN_SC
+#EXTINF:0, [RADIO CL]
+http://0.0.0.0:1234
 #EXTINF:0, Radio San Cristobal Los Angeles
 http://radiocl.digitalproserver.com/radio/scla/scla.stream/sat.m3u8
+#EXTINF:0, Radio ADN (Streaming video)
+http://movilstream.digitalproserver.com/adn/adnvivo/adn.smil/playlist.m3u8
+#EXTINF:0, Radio Tele13 (Streaming video)
+http://cdn.ztreaming.com/t13radio/mobile.m3u8
