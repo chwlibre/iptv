@@ -1,7 +1,7 @@
 
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <item>
-   <title>lista de adrian</title>
+   <title>lista </title>
    <link>https://raw.githubusercontent.com/chwlibre/iptv/master/jorgelist1.xml</link>
    <thumbnail>https://www.dropbox.com/s/ugs6zan0b7nx2o3/icon.png?dl=0</thumbnail>
    <externallink>https://raw.githubusercontent.com/adrianhn/adryanlist/master/list.xml</externallink>
@@ -29,42 +29,42 @@
 <fanart>https://www.dropbox.com/s/uc90b4dgfwogbux/fanart.jpg?dl=0</fanart>
    </item>﻿
 <item>
-   <title>total play-adrian</title>
+   <title>total play</title>
    <link> cadena a rretrasmitir</link>
    <thumbnail>https://www.dropbox.com/s/ugs6zan0b7nx2o3/icon.png?dl=0</thumbnail>
    <externallink>http://adrian.kodistream.info/adryan/totalp.xml</externallink>
 <fanart>https://www.dropbox.com/s/uc90b4dgfwogbux/fanart.jpg?dl=0</fanart>
    </item>﻿
 <item>
-   <title>cine-adrian</title>
+   <title>cine</title>
    <link> cadena a rretrasmitir</link>
    <thumbnail>https://www.dropbox.com/s/ugs6zan0b7nx2o3/icon.png?dl=0</thumbnail>
    <externallink>http://dl.dropboxusercontent.com/s/ukw944z5k82jdk0/AloFlix.xml</externallink>
 <fanart>https://www.dropbox.com/s/uc90b4dgfwogbux/fanart.jpg?dl=0</fanart>
    </item>
 <item>
-   <title>peliculas y series 24/7-adrian</title>
+   <title>peliculas y series 24/7</title>
    <link> cadena a rretrasmitir</link>
    <thumbnail>https://www.dropbox.com/s/ugs6zan0b7nx2o3/icon.png?dl=0</thumbnail>
    <externallink>http://adrian.kodistream.info/adryan/p247.xml</externallink>
 <fanart>https://www.dropbox.com/s/uc90b4dgfwogbux/fanart.jpg?dl=0</fanart>
    </item>
 <item>
-   <title>canales premium-adrian</title>
+   <title>canales premium</title>
    <link> cadena a rretrasmitir</link>
    <thumbnail>https://www.dropbox.com/s/ugs6zan0b7nx2o3/icon.png?dl=0</thumbnail>
    <externallink>http://adrian.kodistream.info/adryan/iptv.m3u</externallink>
 <fanart>https://www.dropbox.com/s/uc90b4dgfwogbux/fanart.jpg?dl=0</fanart>
    </item>
 <item>
-   <title>mexico-adrian</title>
+   <title>mexico</title>
    <link> cadena a rretrasmitir</link>
    <thumbnail>https://www.dropbox.com/s/ugs6zan0b7nx2o3/icon.png?dl=0</thumbnail>
    <externallink>http://adrian.kodistream.info/adryan/mx.xml</externallink>
 <fanart>https://www.dropbox.com/s/uc90b4dgfwogbux/fanart.jpg?dl=0</fanart>
    </item>
 <item>
-   <title>mexico-adrian</title>
+   <title>mexico</title>
    <link> cadena a rretrasmitir</link>
    <thumbnail>https://www.dropbox.com/s/ugs6zan0b7nx2o3/icon.png?dl=0</thumbnail>
    <externallink>http://raw.github.com/catoalkodi/repository.catoal/master/addons.xml</externallink>
