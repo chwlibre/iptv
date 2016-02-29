@@ -483,8 +483,7 @@ http://buecrplb01.cienradios.com.ar/Vivo_32000.aac
 http://buecrplb01.cienradios.com.ar/Top_40_32000.aac
 #EXTINF:-1 tvg-logo="musica.png" group-title="Audio - Radio",Top Europa
 http://buecrplb01.cienradios.com.ar/Top_Europa_32000.aac
-#EXTINF:-1 tvg-logo="musica.png",Movie Soundtracks
-http://pub1.radiotunes.com:80/radiotunes_soundtracks?c99c0d59b19e3b7c9f99d515
+
 #EXTINF:-1 tvg-logo="musica.png",Best of the 60's
 http://pub7.radiotunes.com:80/radiotunes_hit60s?c99c0d59b19e3b7c9f99d515
 #EXTINF:-1 tvg-logo="musica.png",Classic Hip-Hop
