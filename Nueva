@@ -1,7 +1,9 @@
 #EXTM3U
 
-#EXTINF:0,-Nacionales-
+#EXTINF: -1,LOS SIMPSONS 24/7
+http://iptvnation.com/simpsonslat.mp4?
 
+#EXTINF:0,-Nacionales-
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/la_red_cl_zpstevkunxj.png" group-title="NACIONALES",La Red 
 http://movilstream.digitalproserver.com:443/redtv/redtvvivo/livestream2/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/ucv_tv_cl_zpsquly9vvk.png" group-title="NACIONALES",UCV 
