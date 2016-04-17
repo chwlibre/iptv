@@ -1,6 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://i.imgur.com/axMvC1t.png" group-title="TV SIN FREEZE",[COLOR red][B]  VISITA •►  SIN-TELE.COM  ◄• Televisión sin freeze[/B][/COLOR]
-http://?
+
 #EXTINF:0,-Nacionales-
 
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/la_red_cl_zpstevkunxj.png" group-title="NACIONALES",La Red 
@@ -357,8 +356,3 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL732/PROFILE05.m3u8
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL104/PROFILE03.m3u8
 #EXTINF:0,MILENIO
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL603/PROFILE03.m3u8 
-
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/axMvC1t.png" group-title="TV SIN FREEZE",[COLOR green][B]  Por consultas y mas canales visita •►  SIN-TELE.COM  ◄• [/B][/COLOR]
-http://?
-
