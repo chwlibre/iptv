@@ -1,1257 +1,267 @@
 #EXTM3U
-#EXTINF:-1,Lista Todo Kodi  01/MARZO/2016
-http://?
-#EXTINF:-1,---MEXICO---
-http://?
-#EXTINF:-1,AZTECA NOTICIAS
-http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
-#EXTINF:-1,El Trece HD
-http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
-#EXTINF:-1,CANAL DE LAS ESTRELLAS
-http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8
-#EXTINF:-1,PROYECTO 40
-http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/index_2_av-p.m3u8
-#EXTINF:-1,Multimedios TV
-http://brightcovelive-i.akamaihd.net/hls/live/200018/bcplay-live/Multi/Multimedios.m3u8
-#EXTINF:-1,TV Pacifico Culiacan
-http://74.63.97.188:1935/gpacifico1/smil:gpculiacan.smil/playlist.m3u8
-#EXTINF:-1,CANAL 7 MAZATLAN
-http://74.63.97.188:1935/gpacifico4/videogpacifico4/chunklist_w1774114891.m3u8?
-#EXTINF:-1,CANAL 2 Mochis TV
-http://74.63.97.188:1935/gpacifico2/videogpacifico2/chunklist_w1461112480.m3u8
-#EXTINF:-1,TVMAS HD
-rtmp://50.7.98.234/rtv/videortv
-#EXTINF:-1,Canal 22
-rtmp://192.96.217.230/live/smrtv.sdp
-#EXTINF:-1,TELEMAR Campeche
-http://wms.tecnoxia.com:1935/8004/8004/telemarmexico.m3u8?
-#EXTINF:-1,TRC Campeche
-rtmp://video7.stream.mx:1935/8024/8024
-#EXTINF:-1,Canal 10 Chiapas
-rtmp://wos1.smartcast.com.mx/chiapas/chiapastv
-#EXTINF:-1,CANAL 53 UANL TV
-mms://streaming.uanl.mx/canal53bandaancha
-#EXTINF:-1,Michoacan al dia
-rtmp://video7.stream.mx:1935/8016/8016
-#EXTINF:-1,Canal Nuestra Vision Michoacan
-http://video7.stream.mx:1935/8032/8032/chunklist_w1286789486.m3u8
-#EXTINF:-1,Canal 5 Salina Cruz
-http://play.gvstream.net:554/e-tv-video/default.stream/chunklist_w316615179.m3u8
-#EXTINF:-1,Canal 10 Durango
-rtmp://wms.tecnoxia.com:80/8096//8096
-#EXTINF:-1,5 TV Coahuila
-http://play.gvstream.net:554/e-tv-video/default.stream/playlist.m3u8
-#EXTINF:-1,RCG TV Coahuila
-http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8
-#EXTINF:-1,TV Acapulco
-rtmp://stream.hosteris.com/tvacapulco/tvacapulco
-#EXTINF:-1,C7 Guadalajara
-http://74.63.97.188:1935/c7/videoc7/master.m3u8
-#EXTINF:-1,Cultura Guadalajara
-http://74.63.97.188:1935/gnode05/videognode05/master.m3u8
-#EXTINF:-1,2 TV Morelia
-http://iphone-streaming.ustream.tv/ustreamVideo/13946965/streams/live/playlist.m3u8
-#EXTINF:-1,Multimedios Nuevo León
-http://brightcovelive-i.akamaihd.net/hls/live/200018/bcplay-live/Multi/Multimedios.m3u8
-#EXTINF:-1,Canal Once
-http://www.oncetvmexicolive.tv:1935/livepkgr2/smil:int.smil/playlist.m3u8
-#EXTINF:-1,5 TV Tlaxcala
-http://coracyt.mega00.com:1935/live/coracyt/coracyt/playlist.m3u8
-#EXTINF:-1,EfektoTV
-http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/master.m3u8
-#EXTINF:-1,Ingenio TV
-http://dl-dgtve.xsn.com.mx/dgtve/canal30dgtve.mp4/playlist.m3u8?
-#EXTINF:-1,Canal del Congreso
-http://dl.canaldelcongreso.gob.mx:1935/ccongreso/mp4:congreso2b.mp4/playlist.m3u8
-#EXTINF:-1,TRECEVISION YUCATAN
-http://74.222.3.185:1935/live/ngrp:trecevision_all/chunklist_w1676078199_b950272.m3u8
-#EXTINF:-1,QUINCE TV ZACATECAS
-http://live.zuperdns.net:1935/zuperhosting.live.grupob.canal15zacatecas/livestream/playlist.m3u8
-#EXTINF:-1,CANAL 15 FRESNILLO
-rtmp://live.zuperdns.net/zuperhosting.live.grupob.canal15fresnillo/livestream
-#EXTINF:-1,TVMas Veracruz
-http://50.7.98.234:1935/rtv/videortv//playlist.m3u8
-#EXTINF:-1,TVMas HD
-rtmp://50.7.98.234/rtv/videortv
-#EXTINF:-1,TV RADIO Y TELEVISION MEXIQUENSE
-rtmp://fss28.streamhoster.com:1935/lv_tvmexiquense/_definst_/broadcast1
-#EXTINF:-1,Aprende
-http://dl-dgtve.xsn.com.mx/dgtve/canal24dgtve.mp4/playlist.m3u8
-#EXTINF:-1,TV Pacifico Obregón
-http://74.63.97.188:1935/gpacifico3/smil:obregon.smil/playlist.m3u8
-#EXTINF:-1,TELEMAX
-http://enhd.co:1935/ilive/ilive/playlist.m3u8?
-#EXTINF:-1,Canal 2 YAQUI TV
-http://74.63.97.188:1935/gpacifico3/videogpacifico3/chunklist_w1075509085.m3u8
-#EXTINF:-1,Canal 66 Mexicali
-http://canal44-lh.akamaihd.net/i/ch_mexicali@325633/master.m3u8
-#EXTINF:-1,---INTERNACIONALES---
-http://?
-#EXTINF:-1,Viajar  Argentina
-http://eventshd-lh.akamaihd.net/i/viajar_1@168433/master.m3u8#MegaIPTVArgentina
-#EXTINF:-1,Magazine Argentina
-rtsp://stream.mgzn.tv/live/mgzntv/mgzntv
-#EXTINF:-1,TN Canal Argentina
-rtsp://stream.tn.com.ar/live/tnhd1
-#EXTINF:-1,C5N Argentina
-rtmp://c5n.stweb.tv:1935/c5n/live
-#EXTINF:-1,Telpin Tv Argentina
-http://201.219.100.30:1935/telpintv/ttv.stream_720p/playlist.m3u8
-#EXTINF:-1,El 13 HD Argentina
-rtsp://stream.eltrecetv.com.ar/live13/13tv/13tv1
-#EXTINF:-1,26 Tv Argentina
-rtsp://live-edge01.telecentro.net.ar:80/live/26hd-360
-#EXTINF:-1,Telemax Argentina
-http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
-#EXTINF:-1,Todo Noticias Argentina
-rtsp://stream.tn.com.ar/live/tnhd1
-#EXTINF:-1,360 tv Argentina
-http://lsd360tvhls-lh.akamaihd.net/i/360TVHLS_1@197877/master.m3u8
-#EXTINF:-1,Canal 9 Salta Argentina
-http://xcanal9saltax.api.channel.livestream.com/3.0/playlist.m3u8?
-#EXTINF:-1,ORBE 21 Argentina
-http://urtmpkal-f.akamaihd.net/i/1b6mj17sk_1@308700/master.m3u8
-#EXTINF:-1,Magazine Argentina
-rtsp://stream.mgzn.tv/live/mgzntv/mgzntv
-#EXTINF:-1,Magazine Argentina
-rtsp://stream.mgzn.tv/live/mgzntv/mgzntv
-#EXTINF:-1,C5N Argentina
-rtmp://c5n.stweb.tv:1935/c5n/live
-#EXTINF:-1,Red PAT Bolivia
-http://www.server.tevemi.com:1935/8092/8092/playlist.m3u8
-#EXTINF:-1,Canal Capital Colombia
-http://cdns840stu1010.multistream.net/canalcapitallive/amlst:live/master.m3u8
-#EXTINF:-1,Canal U Colombia
-http://xcanalutvx.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:-1,Teleamiga Colombia
-http://cdns840stu1010.multistream.net/teleamigalive/amlst:live/master.m3u8
-#EXTINF:-1,SINART Canal Trece Costa Rica
-http://stream01.cyberfuel.com/SinartCanal13/livestream/playlist.m3u8
-#EXTINF:-1,SMO TV Costa Rica
-http://199.217.118.90:1935/smotv/stream/playlist.m3u8
-#EXTINF:-1,Colosal TV Costa Rica
-http://k3.usastreams.com:1935/colosaltv1/colosaltv1/playlist.m3u8
-#EXTINF:-1,Tv UNO Costa Rica
-http://k3.usastreams.com:1935/tvuno1/tvuno1/playlist.m3u8
-#EXTINF:-1,TV Costa Rica
-http://ipointcablertmp.tulix.tv:1935/cb24stream/myStream.sdp/playlist.m3u8?
-#EXTINF:-1,Extra TV Canal 42 Costa Rica
-http://k3.usastreams.com:1935/canal42/canal42/playlist.m3u8
-#EXTINF:-1,CB24 Noticias Costa Rica
-http://ipointcablertmp.tulix.tv:1935/cb24stream/myStream.sdp/playlist.m3u8
-#EXTINF:-1,Canal 9 Chile
-http://wow2.cl.digitalproserver.com/c9//c9.smil/playlist.m3u8
-#EXTINF:-1,TV Chile
-http://edge-11-mvstr.edge.mdstrm.com/tvn-live/smil:285a5c6dade574d5f111419c85c6cf17/playlist.m3u8
-#EXTINF:-1,TVN Chile
-http://edge-61-cl.edge.mdstrm.com/tvn-live/_definst_/smil:285a5c6dade574d5f111419c85c6cf17/chunklist_b800000.m3u8
-#EXTINF:-1,Arica TV Chile
-http://wow2.cl.digitalproserver.com/aricatv/aricatvvivo/aricatv.smil/chunklist_w725671068_b848000.m3u8
-#EXTINF:-1,Antena 3 Internacional  Espana
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8
-#EXTINF:-1,Antena 3 Espana
-http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1,EXTREMADURA TV  Espana
-http://corporacionextremena-live.hls.adaptive.level3.net/hls-live/corporacionextremena-channel02/_definst_/live.m3u8
-#EXTINF:-1,ANDALUCIA TV  Espana
-http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8
-#EXTINF:-1,A3S  Espana
-http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
-#EXTINF:-1,La Sexta  Espana
-http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1,Mega Espana
-http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_3_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1,Nova Espana
-http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8
-#EXTINF:-1,24Horas Espana
-http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
-#EXTINF:-1,Mediterraneo TV Espana
-http://streaming.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/smil:live.smil/master.m3u8
-#EXTINF:-1,Ecuavisa Ecuador
-rtmp://62.210.83.152:1935/liverepeat playpath=ecuatv1 swfUrl=http://direct-stream.biz/jwplayer/jwplayer.flash.swf live=1 
-#EXTINF:-1,TVS Ecuador
-http://181.198.10.23:1935/live/_definst_/mp4:mystream_360p/playlist.m3u8
-#EXTINF:-1,UCSG TV Ecuador
-rtmp://ecuastream.net:1935/UCSGHQ/UCSGHQ
-#EXTINF:-1,Digital TV Canal 28 Macas Ecuador
-http://enhd.co:1935/9208/9208/playlist.m3u8
-#EXTINF:-1,Megavision Canal 21 El Salvador
-http://xgrupomegavisionx.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:-1,Canal 33 El Salvador
-http://iphone-streaming.ustream.tv/uhls/4811076/streams/live/iphone/playlist.m3u8
-#EXTINF:-1,TRV El Salvador
-http://xtrvnuestasenalx.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:-1,TV Maya Guatemala
-http://iphone-streaming.ustream.tv/uhls/9556054/streams/live/iphone/playlist.m3u8
-#EXTINF:-1,Campus TV Guatemala
-http://xcampushdx.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:-1,Teleceiba Honduras
-http://162.212.176.83:8080/teleceiba.m3u8
-#EXTINF:-1,Teleprogreso Honduras
-http://162.212.176.83:8080/teleprogreso.m3u8
-#EXTINF:-1,Azteca Honduras
-http://aztecalive-lh.akamaihd.net/i/142kvpq0l_1@67741/master.m3u8
-#EXTINF:-1,Canal 2 Nicaragua
-http://162.244.81.181:1935/live//Stream1/playlist.m3u8
-#EXTINF:-1,Viva Nicaragua Canal 13
-http://iphone-streaming.ustream.tv/uhls/13870671/streams/live/iphone/playlist.m3u8
-#EXTINF:-1,Telemetro Panama
-http://live.telemetro.com/telemetro/tm.smil/playlist.m3u8
-#EXTINF:-1,RPC Panama
-http://live.rpctv.com/rpctv/tm.smil/playlist.m3u8
-#EXTINF:-1,SER TV Panama
-rtmp://216.224.177.132/live/sertv
-#EXTINF:-1,Telefuturo Paraguay
-http://xtelefuturohdx.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:-1,Canal 13 Paraguay
-rtmp://70.36.100.38:1935/live playpath=canal13_hq.stream swfUrl=http://www.rpc.com.py/swf/player_web04.swf 
-#EXTINF:-1,Intercable Canal 10 Paraguay
-rtmp://67.159.60.37/intercable playpath=intercable  swfUrl=http://www.desdeparaguay.com/images/dsdpy-play-2.swf?
-#EXTINF:-1,Capital TV Peru
-http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8
-#EXTINF:-1,UCV Satelital Peru
-http://wowzacontrol.net:1935/8050/8050/playlist.m3u8
-#EXTINF:-1,Canal 4 Arequipa Peru
-http://xvivatvcanal4arequipax.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:-1,RBC Peru
-http://184.154.28.210:1935/rbcsatelital/rbcsatelital/playlist.m3u8
-#EXTINF:-1,Tele Antillas  Rep. Dominicana
-http://mek4.mekstream.com/teleantillas/live3/playlist.m3u8
-#EXTINF:-1,Telessistema  Rep. Dominicana
-http://mek4.mekstream.com/telesistema/smil:telesistema.smil/chunklist_w965232534_b464000.m3u8
-#EXTINF:-1,ANTENA LATINA Rep. Dominicana
-http://ss6.domint.net:1962/al_edge/antena/playlist.m3u8
-#EXTINF:-1,Telesitemas 11 Rep. Dominicana
-http://mek4.mekstream.com/telesistema/smil:telesistema.smil/chunklist_w965232534_b464000.m3u8
-#EXTINF:-1,Teleantillas 2 HD Rep. Dominicana
-http://mek4.mekstream.com/teleantillas/live3/playlist.m3u8
-#EXTINF:-1,Antena Latina Rep. Dominicana
-http://ss6.domint.net:1962/al_edge/antena/playlist.m3u8
-#EXTINF:-1,Musavision Rep. Dominicana
-http://joelzaiter1.srfms.com:1963/live/musav.sdp/playlist.m3u8
-#EXTINF:-1,TeleNord Rep. Dominicana
-rtmp://mek2.mekstream.com:1935/telenord10 playpath=live2 swfUrl=http://www.mekstream.com/clients/telenord10/player-licensed.swf 
-#EXTINF:-1,CDN 37 Rep. Dominicana
-http://108.168.206.90:1935/cdn/cdn/playlist.m3u8
-#EXTINF:-1,Anzoategui TV Venezuela
-rtsp://edge.wms28.lorini.net/anzoateguitv/anzoateguitv
-#EXTINF:-1,Canal 11 Venezuela
-rtmp://edge.wms28.lorini.net/canalonce/canalonce
-#EXTINF:-1,Sulavision Venezuela
-http://162.212.176.83:8080/sulavision.m3u8
-#EXTINF:-1,TRT Venezuela
-rtmp://edge.wms28.lorini.net/trttv/trttv
-#EXTINF:-1,TVO Canal 23 Venezuela
-http://xtvocanal23x.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:-1,Canal i  Venezuela
-rtmp://edge.wms28.lorini.net/canal-i/canal-i
-#EXTINF:-1,Vale TV  Venezuela
-rtmp://edge.wms28.lorini.net/valetv/valetv
-#EXTINF:-1,Telecaribe Venezuela
-http://cdns840stu1010.multistream.net/telecaribelive/amlst:live/master.m3u8
-#EXTINF:-1,TV5Monde
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TV5/tu1_1.m3u8
-#EXTINF:-1,Life Design Tv HD
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/LDTV/tu1_1.m3u8
-#EXTINF:-1,Holvoet TV HD
-http://wow2.cl.digitalproserver.com/c9//c9.smil/hasbahca.m3u8
-#EXTINF:-1,Classic Arts Showcase
-rtmp://streaming.cityofboston.gov/live/cable?b?b*t$
-#EXTINF:-1,Magazine
-rtsp://stream.mgzn.tv/live/mgzntv/mgzntv
-#EXTINF:-1,Teveo
-http://iphone-streaming.ustream.tv/uhls/14034121/streams/live/iphone/playlist.m3u8
-#EXTINF:-1,Miami TV Channel
-http://k4.usastreams.com:1935/miamitv/smil:miamitv/playlist.m3u8
-#EXTINF:-1,---CRISTIANOS---
-http://?
-#EXTINF:-1,Alfa TV
-rtsp://streamer1.streamhost.org:1935/salive/GMIalfah
-#EXTINF:-1,CHRISTIAN  TV
-rtmp://wms.tecnoxia.com:80/christianlive//christianlive
-#EXTINF:-1,Aliento Vision
-http://unoredrtmp.tulix.tv:1935/alientovision/stream/master.m3u8
-#EXTINF:-1,Alcance TV
-http://hd.worldkast.com:1935/8232/8232.smil/chunklist_b1000000.m3u8
-#EXTINF:-1,Cristo Visión
-http://cdns840stu1010.multistream.net/cristovisionlive/amlst:live/chunklist_b300000.m3u8
-#EXTINF:-1,EWTN
-http://ewtn.mpl.miisolutions.net:1935/ewtn-live-5/900.mp4/playlist.m3u8
-#EXTINF:-1,RTV
-http://178.32.53.254/radiovida/mobile/playlist.m3u8
-#EXTINF:-1,Teledunamis
-http://f.dc.edge.2.christianworldmedia.com:1935/teledunamis/mp4:teledunamis/playlist.m3u8?
-#EXTINF:-1,Enlace
-http://acaooyalahd2-lh.akamaihd.net/i/TBN07_delivery@186245/index_1728_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1,Enlace Juvenil
-http://acaooyalahd2-lh.akamaihd.net/i/TBN08_delivery@186246/index_1728_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1,Enlace Juvenil
-http://acaooyalahd2-lh.akamaihd.net/i/TBN08_delivery@186246/master.m3u8
-#EXTINF:-1,---DEPORTES---
-http://?
-#EXTINF:-1,COS
-http://d3tzxnygw45q3p.cloudfront.net/cos/media.smil/playlist.m3u8
-#EXTINF:-1,COS2
-http://live.cableondasports.com/cos2/media.smil/playlist.m3u8
-#EXTINF:-1,DeporTV
-http://186.33.227.200/DXTV/smil:DXTV.smil/playlist.m3u8?
-#EXTINF:-1,Real Madrid TV
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,PAC-12 Net. (Arizona)
-http://xrxs.net/video/live-p12ariz-4728.m3u8?
-#EXTINF:-1,PAC-12 Net. (Bay Area)
-http://xrxs.net/video/live-p12baya-4728.m3u8?
-#EXTINF:-1,PAC-12 Net. (Los Angeles)
-http://xrxs.net/video/live-p12losa-4728.m3u8?
-#EXTINF:-1,PAC-12 Net. (Oregon)
-http://xrxs.net/video/live-p12oreg-4728.m3u8?
-#EXTINF:-1,PAC-12 Net. (Washington)
-http://xrxs.net/video/live-p12wash-4728.m3u8?
-#EXTINF:-1,NBC GOLF 1080p
-http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
-#EXTINF:-1,NBC GOLF SD
-http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/1896k/prog.m3u8|X-Forwarded-For=209.239.112.104
-#EXTINF:-1,Redbull TV
-http://sacapunta.eltelon.com/channels/redbulltv/playlist.m3u8
-#EXTINF:-1,EUROSPORT
-http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
-#EXTINF:-1,USA-BASKET UNI.(Arizona)
-http://xrxs.net/video/live-p12ariz-1164.m3u8
-#EXTINF:-1,USA-BASKET UNI.(Los Angeles)
-http://xrxs.net/video/live-p12losa-1164.m3u8
-#EXTINF:-1,USA-BASKET UNI.(Moutain)
-http://xrxs.net/video/live-p12moun-1164.m3u8
-#EXTINF:-1,USA-BASKET UNI.(Oregon)
-http://xrxs.net/video/live-p12oreg-1164.m3u8
-#EXTINF:-1,Trace Sports
-http://stream01.yamgo.com/iPhone/HLS_TS/broadcast/trace_tv_sports-tablet.3gp/trace_tv_sports-tablet.3gp-mr647k.m3u8?
-#EXTINF:-1,CDN SportsMax
-http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES",Bein Sports 3 Francia
-http://evolive-tv.com:8000/live/genio/genio/67.m3u8
-#EXTINF:-1,SPORTS:SPORT  SPORT TIME TV 1HQ GERMANY
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel1_800
-#EXTINF:-1,SPORTS:SPORT  SPORT TIME TV 2HQ GERMANY
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel2_800
-#EXTINF:-1,---CANALES EN INGLES---
-http://?
-#EXTINF:-1,ABC News
-http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
-#EXTINF:-1,NASA TV
-http://iphone-streaming.ustream.tv/ustreamVideo/6540154/streams/live/playlist.m3u8
-#EXTINF:-1,[COLOR orange]---CANALES PREMIUM ESPANOL---[/COLOR]
-http://?
-#EXTINF:-1,Fox 
-http://iptvbox.noip.us:9998/live/atik/atik/264.m3u8
-#EXTINF:-1,Discovery Channel
-http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
-#EXTINF:-1,Travel Channel
-http://cdns840stu1010.multistream.net:80/mtchlive/amlst:live/livestream.m3u8
-#EXTINF:-1,National Geographic
-http://iptvbox.noip.us:9998/live/atik/atik/267.m3u8
-#EXTINF:-1,Canal Estrenos
-http://iptvbox.noip.us:9998/live/atik/atik/587.m3u8
-#EXTINF:-1,Canal Series
-http://iptvbox.noip.us:9998/live/atik/atik/268.m3u8
-#EXTINF:-1,Canal  DCine
-http://iptvbox.noip.us:9998/live/atik/atik/261.m3u8
-#EXTINF:-1,Canal  Comedia
-http://iptvbox.noip.us:9998/live/atik/atik/275.m3u8
-#EXTINF:-1,Canal  Accion
-http://iptvbox.noip.us:9998/live/atik/atik/262.m3u8
-#EXTINF:-1,ES.Canal Xtra
-http://iptvbox.noip.us:9998/live/atik/atik/586.m3u8
-#EXTINF:-1,Hollywood
-http://iptvbox.noip.us:9998/live/atik/atik/263.m3u8
-#EXTINF:-1,Neox
-http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
-#EXTINF:-1,Ta Te Ti
-http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/index_724_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,Canal Deportes
-http://iptvbox.noip.us:9998/live/atik/atik/588.m3u8
-#EXTINF:-1,Canal  Deportes
-http://iptvbox.noip.us:9998/live/atik/atik/856.m3u8
-#EXTINF:-1,BeIN SporTS
-http://iptvbox.noip.us:9998/live/atik/atik/847.m3u8
-#EXTINF:-1,Canal  Partidazo
-http://iptvbox.noip.us:9998/live/atik/atik/858.m3u8
-#EXTINF:-1,Canal Futbol 
-http://iptvbox.noip.us:9998/live/atik/atik/265.m3u8
-#EXTINF:-1,Canal Futbol 2
-http://iptvbox.noip.us:9998/live/atik/atik/857.m3u8
-#EXTINF:-1,Canal  Deportes
-http://iptvbox.noip.us:9998/live/atik/atik/856.m3u8
-#EXTINF:-1,Canal  Liga
-http://iptvbox.noip.us:9998/live/atik/atik/274.m3u8
-#EXTINF:-1,Canal  Liga 2
-http://iptvbox.noip.us:9998/live/atik/atik/854.m3u8
-#EXTINF: 0, REAL MADRID
-http://cp.dmbshare.net:8000/live/cengiz/cengiz/3466.m3u8
-#EXTINF: 0, TV TOROS
-http://cp.dmbshare.net:8000/live/cengiz/cengiz/3450.m3u8
-#EXTINF:-1,[COLOR orange]---CANALES PREMIUM INGLES---[/COLOR]
-http://?
-#EXTINF:-1,Syfy Channel
-http://iptvbox.noip.us:9998/live/atik/atik/676.m3u8
-#EXTINF:-1,Universal 
-http://iptvbox.noip.us:9998/live/atik/atik/1037.m3u8
-#EXTINF:-1,Fox
-http://iptvbox.noip.us:9998/live/atik/atik/632.m3u8
-#EXTINF:-1,Discovery Turbo
-http://iptvbox.noip.us:9998/live/atik/atik/1040.m3u8
-#EXTINF:-1,Discovery Channel
-http://iptvbox.noip.us:9998/live/atik/atik/1041.m3u8
-#EXTINF:-1,Animal Planet
-http://iptvbox.noip.us:9998/live/atik/atik/630.m3u8
-#EXTINF:-1,National Geographic
-http://iptvbox.noip.us:9998/live/atik/atik/222.m3u8
-#EXTINF:-1,Nat geo wild
-http://iptvbox.noip.us:9998/live/atik/atik/474.m3u8
-#EXTINF:-1,Nat Geo Wild
-http://iptvbox.noip.us:9998/live/atik/atik/223.m3u8
-#EXTINF:-1,Discovery Science 
-http://iptvbox.noip.us:9998/live/atik/atik/624.m3u8
-#EXTINF:-1,DISCOVERY HISTORY
-http://iptvbox.noip.us:9998/live/atik/atik/629.m3u8
-#EXTINF:-1,NICKLEODON
-http://iptvbox.noip.us:9998/live/atik/atik/221.m3u8
-#EXTINF:-1,Disney XD
-http://iptvbox.noip.us:9998/live/atik/atik/684.m3u8
-#EXTINF:-1,Disney Junior
-http://iptvbox.noip.us:9998/live/atik/atik/628.m3u8
-#EXTINF:-1,Disney Channel 
-http://iptvbox.noip.us:9998/live/atik/atik/682.m3u8
-#EXTINF:-1,Cartoon Network US
-http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8
-#EXTINF:-1,Cartoon Network
-http://iptvbox.noip.us:9998/live/atik/atik/685.m3u8
-#EXTINF:-1,Nicktoons
-http://iptvbox.noip.us:9998/live/atik/atik/625.m3u8
-#EXTINF:-1,Nick JR
-http://iptvbox.noip.us:9998/live/atik/atik/681.m3u8
-#EXTINF:-1,MTV 
-http://iptvbox.noip.us:9998/live/atik/atik/1361.m3u8
-#EXTINF:-1,Mtv Music
-http://iptvbox.noip.us:9998/live/atik/atik/962.m3u8
-#EXTINF:-1,Mtv Rocks
-http://iptvbox.noip.us:9998/live/atik/atik/1372.m3u8
-#EXTINF:-1,iny Pop
-http://iptvbox.noip.us:9998/live/atik/atik/683.m3u8
-#EXTINF:-1,Sky Movies Action
-http://iptvbox.noip.us:9998/live/atik/atik/210.m3u8
-#EXTINF:-1,Sky Movies Thriller
-http://iptvbox.noip.us:9998/live/atik/atik/201.m3u8
-#EXTINF:-1,Sky Movies ShowCase
-http://iptvbox.noip.us:9998/live/atik/atik/623.m3u8
-#EXTINF:-1,Sky Movies Select
-http://iptvbox.noip.us:9998/live/atik/atik/202.m3u8
-#EXTINF:-1,Sky Movies Premiere
-http://iptvbox.noip.us:9998/live/atik/atik/204.m3u8
-#EXTINF:-1,Sky Movies Greats
-http://iptvbox.noip.us:9998/live/atik/atik/205.m3u8
-#EXTINF:-1,Sky Movies Family
-http://iptvbox.noip.us:9998/live/atik/atik/206.m3u8
-#EXTINF:-1,Sky Movies Drama & Romance
-http://iptvbox.noip.us:9998/live/atik/atik/207.m3u8
-#EXTINF:-1,Sky Movies Disney
-http://iptvbox.noip.us:9998/live/atik/atik/208.m3u8
-#EXTINF:-1,Sky Movie Sci-Fi & horror
-http://iptvbox.noip.us:9998/live/atik/atik/211.m3u8
-#EXTINF:-1,True Drama
-http://iptvbox.noip.us:9998/live/atik/atik/678.m3u8
-#EXTINF:-1,Sky Movies Thriller
-http://iptvbox.noip.us:9998/live/atik/atik/615.m3u8
-#EXTINF:-1,Sky Movies Sci-Fi & Horror
-http://iptvbox.noip.us:9998/live/atik/atik/616.m3u8
-#EXTINF:-1,Sky Movies Modern HD
-http://iptvbox.noip.us:9998/live/atik/atik/674.m3u8
-#EXTINF:-1,Sky Movies Action & Adventure
-http://iptvbox.noip.us:9998/live/atik/atik/614.m3u8
-#EXTINF:-1,Movies-4men 
-http://iptvbox.noip.us:9998/live/atik/atik/679.m3u8
-#EXTINF:-1,True Movies1
-http://iptvbox.noip.us:9998/live/atik/atik/675.m3u8
-#EXTINF:-1,True Movies 2
-http://iptvbox.noip.us:9998/live/atik/atik/680.m3u8
-#EXTINF:-1,Sky Movies Comedy
-http://iptvbox.noip.us:9998/live/atik/atik/209.m3u8
-#EXTINF:-1,Drama
-http://iptvbox.noip.us:9998/live/atik/atik/636.m3u8
-#EXTINF:-1,Aliens
-http://iptvbox.noip.us:9998/live/atik/atik/637.m3u8
-#EXTINF:-1,MOVIES ACTION
-http://iptvbox.noip.us:9998/live/atik/atik/634.m3u8
-#EXTINF:-1,Film4 
-http://iptvbox.noip.us:9998/live/atik/atik/677.m3u8
-#EXTINF:-1,CBS DRAMA
-http://iptvbox.noip.us:9998/live/atik/atik/1607.m3u8
-#EXTINF:-1,CBS ACTION
-http://iptvbox.noip.us:9998/live/atik/atik/1608.m3u8
-#EXTINF:-1,CBS REALITY
-http://iptvbox.noip.us:9998/live/atik/atik/1606.m3u8
-#EXTINF:-1,BBC One 
-http://iptvbox.noip.us:9998/live/atik/atik/507.m3u8
-#EXTINF:-1,BBC Two 
-http://iptvbox.noip.us:9998/live/atik/atik/505.m3u8
-#EXTINF:-1,BBC Three 
-http://iptvbox.noip.us:9998/live/atik/atik/506.m3u8
-#EXTINF:-1,BBC Four 
-http://iptvbox.noip.us:9998/live/atik/atik/508.m3u8
-#EXTINF:-1,Gold
-http://iptvbox.noip.us:9998/live/atik/atik/1000.m3u8
-#EXTINF:-1,CNN
-http://iptvbox.noip.us:9998/live/atik/atik/1609.m3u8
-#EXTINF:-1,TCL 
-http://iptvbox.noip.us:9998/live/atik/atik/188.m3u8
-#EXTINF:-1,ID
-http://iptvbox.noip.us:9998/live/atik/atik/627.m3u8
-#EXTINF:-1,FOOD Network
-http://iptvbox.noip.us:9998/live/atik/atik/570.m3u8
-#EXTINF:-1,Vevo 3
-http://iptvbox.noip.us:9998/live/atik/atik/965.m3u8
-#EXTINF:-1,Vevo 2
-http://iptvbox.noip.us:9998/live/atik/atik/964.m3u8
-#EXTINF:-1,Vevo 1
-http://iptvbox.noip.us:9998/live/atik/atik/963.m3u8
-#EXTINF:-1,VEVO_2
-http://iptvbox.noip.us:9998/live/atik/atik/514.m3u8
-#EXTINF:-1,VEVO_1
-http://iptvbox.noip.us:9998/live/atik/atik/513.m3u8
-#EXTINF:-1,NBC LIVE EXTRA 1
-http://iptvbox.noip.us:9998/live/atik/atik/797.m3u8
-#EXTINF:-1,NBC LIVE EXTRA 2
-http://iptvbox.noip.us:9998/live/atik/atik/798.m3u8
-#EXTINF:-1,NBC LIVE EXTRA  3
-http://iptvbox.noip.us:9998/live/atik/atik/799.m3u8
-#EXTINF:-1,NBC LIVE EXTRA  4
-http://iptvbox.noip.us:9998/live/atik/atik/800.m3u8
-#EXTINF:-1,NBC LIVE EXTRA 5
-http://iptvbox.noip.us:9998/live/atik/atik/801.m3u8
-#EXTINF:-1,ESPN 1
-http://iptvbox.noip.us:9998/live/atik/atik/733.m3u8
-#EXTINF:-1,ESPN 2
-http://iptvbox.noip.us:9998/live/atik/atik/732.m3u8
-#EXTINF:-1,FOX Sports 2
-http://iptvbox.noip.us:9998/live/atik/atik/1385.m3u8
-#EXTINF:-1,FOX Sports 1
-http://iptvbox.noip.us:9998/live/atik/atik/1384.m3u8
-#EXTINF: 0, TV MOTORES
-http://cp.dmbshare.net:8000/live/cengiz/cengiz/3474.m3u8
-#EXTINF:-1,Fox News
-http://iptvbox.noip.us:9998/live/atik/atik/727.m3u8
-#EXTINF:-1,NBA
-http://iptvbox.noip.us:9998/live/atik/atik/738.m3u8
-#EXTINF:-1,CNBC
-http://iptvbox.noip.us:9998/live/atik/atik/730.m3u8
-#EXTINF:-1,Bein 
-http://iptvbox.noip.us:9998/live/atik/atik/726.m3u8
-#EXTINF:-1,AMC
-http://iptvbox.noip.us:9998/live/atik/atik/724.m3u8
-#EXTINF:-1,ABC News
-http://iptvbox.noip.us:9998/live/atik/atik/723.m3u8
-#EXTINF: 0, FOX NEWS
-http://cp.dmbshare.net:8000/live/cengiz/cengiz/3476.m3u8
-#EXTINF:-1,[COLOR orange]---CANAIS EM PORTUGUÊS---[/COLOR]
-http://?
-
-#EXTINF: 0, RTP1
-http://cp.dmbshare.net:8000/live/cengiz/cengiz/3465.m3u8
-#EXTINF: -0, RTP 2
-http://cp.dmbshare.net:8000/live/cengiz/cengiz/3464.m3u8
-#EXTINF: -0, SIC
-http://cp.dmbshare.net:8000/live/cengiz/cengiz/3459.m3u8
-#EXTINF: -0, TVI
-http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/playlist.m3u8
-#EXTINF: 0, CMTV
-http://cp.dmbshare.net:8000/live/cengiz/cengiz/3488.m3u8
-#EXTINF: 0, RTP3
-http://cp.dmbshare.net:8000/live/cengiz/cengiz/3463.m3u8
-#EXTINF: 0, NOTICIAS SIC
-http://cp.dmbshare.net:8000/live/cengiz/cengiz/3460.m3u8
-#EXTINF: -0, SIC CARAS
-http://cp.dmbshare.net:8000/live/cengiz/cengiz/3461.m3u8
-#EXTINF: 0, 24 TVI
-http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/inspirationlinks.m3u8
-#EXTINF: 0, Disney Junior
-http://cp.dmbshare.net:8000/live/cengiz/cengiz/3484.m3u8
-#EXTINF: 0, Disney Channel
-http://cp.dmbshare.net:8000/live/cengiz/cengiz/3485.m3u8
-#EXTINF: 0, Cartoon Network
-http://cp.dmbshare.net:8000/live/cengiz/cengiz/3491.m3u8
-#EXTINF: 0, PANDA
-http://cp.dmbshare.net:8000/live/cengiz/cengiz/3468.m3u8
-#EXTINF: 0, NICLELODEON
-http://cp.dmbshare.net:8000/live/cengiz/cengiz/3470.m3u8
-#EXTINF: 0, Baby TV
-http://cp.dmbshare.net:8000/live/cengiz/cengiz/3497.m3u8
-#EXTINF: 0, Odisseia
-http://cp.dmbshare.net:8000/live/cengiz/cengiz/3469.m3u8
-#EXTINF: 0, NATIONAL GEOGRAPHIC
-http://cp.dmbshare.net:8000/live/cengiz/cengiz/3471.m3u8
-#EXTINF: 0, canal de descubrimiento
-http://cp.dmbshare.net:8000/live/cengiz/cengiz/3487.m3u8
-#EXTINF: 0, Nat Geo Wild
-http://cp.dmbshare.net:8000/live/cengiz/cengiz/3472.m3u8
-#EXTINF: 0, VITRINA DISCOVERY
-http://cp.dmbshare.net:8000/live/cengiz/cengiz/3486.m3u8
-#EXTINF: 0, FOX
-http://cp.dmbshare.net:8000/live/cengiz/cengiz/3480.m3u8
-#EXTINF: 0, el crimen FOX
-http://cp.dmbshare.net:8000/live/cengiz/cengiz/3479.m3u8
-#EXTINF: 0, Fox Life
-http://cp.dmbshare.net:8000/live/cengiz/cengiz/3478.m3u8
-#EXTINF: 0, películas de Fox
-http://cp.dmbshare.net:8000/live/cengiz/cengiz/3477.m3u8
-#EXTINF: 0, AXN
-http://cp.dmbshare.net:8000/live/cengiz/cengiz/3498.m3u8
-#EXTINF: 0, Syfy
-http://cp.dmbshare.net:8000/live/cengiz/cengiz/3451.m3u8
-#EXTINF: 0, Cinemundo
-http://cp.dmbshare.net:8000/live/cengiz/cengiz/3489.m3u8
-#EXTINF: 0, HOLLYWOOD
-http://cp.dmbshare.net:8000/live/cengiz/cengiz/3475.m3u8
-#EXTINF: 0, MOV
-http://cp.dmbshare.net:8000/live/cengiz/cengiz/3473.m3u8
-#EXTINF: 0, 1 TVCine
-http://cp.dmbshare.net:8000/live/cengiz/cengiz/3449.m3u8
-#EXTINF: 0, 2 TVCine
-hhttp: //cp.dmbshare.net:8000/live/Cengiz/Cengiz/3448.m3u8
-#EXTINF: 0, 3 TVCine
-http://cp.dmbshare.net:8000/live/cengiz/cengiz/3447.m3u8
-#EXTINF: 0, 4 TVCine
-http://cp.dmbshare.net:8000/live/cengiz/cengiz/3446.m3u8
-#EXTINF: 0, SERIE TVCine
-http://cp.dmbshare.net:8000/live/cengiz/cengiz/3444.m3u8
-#EXTINF:-1,TVCine 1 HD
-http://iptvbox.noip.us:9998/live/atik/atik/1357.m3u8
-#EXTINF:-1,TVCine 2 HD
-http://iptvbox.noip.us:9998/live/atik/atik/1358.m3u8
-#EXTINF:-1,TVCine 3 HD
-http://iptvbox.noip.us:9998/live/atik/atik/1359.m3u8
-#EXTINF:-1,TVCine 4 HD
-http://iptvbox.noip.us:9998/live/atik/atik/1360.m3u8
-#EXTINF: 0, Caza e Pesca
-http://cp.dmbshare.net:8000/live/cengiz/cengiz/3494.m3u8
-#EXTINF:-1,ANTV MG
-
-http://69.46.0.170:1935/tvandradas/antv.stream/live.m3u8
-#EXTINF:-1,Chef TV SP
-
-http://flashd.localmidia.com.br:1935/cheftv/aovivo/live.m3u8
-
-
-#EXTINF:-1,Mega TV SP
-
-http://rtmp.cdn.upx.net.br:1935/00135_4/myStream.sdp/live.m3u8
-
-#EXTINF:-1,Multi TV
-
-http://a3.fabricahost.com.br:1935/multitv/stream/live.m3u8
-
-#EXTINF:-1,NBR
-
-http://ebcremuxlive-live.hls.adaptive.level3.net:80/manifests/ebcremuxlive-ebctvnbr/live.m3u8
-#EXTINF:-1,NGT RJ
-
-http://iphone-streaming.ustream.tv:80/uhls/14419615/streams/live/playlist.m3u8
-
-#EXTINF:-1,Nova TV RJ
-
-http://rtmp.cdn.upx.net.br:1935/1e5a/myStream.sdp/live.m3u8
-
-
-#EXTINF:-1,Record ES
-
-http://flash.midiaip.com.br:1935/tvvitoria/Sample1/live.m3u8
-#EXTINF:-1,Record MT
-
-http://wz3.dnip.com.br:1935/tvgazetamt/tvgazetamt.sdp/live.m3u8
-
-#EXTINF:-1,Record PR
-
-http://69.46.0.170:1935/ricpr/ric.sdp/live.m3u8
-#EXTINF:-1,Rede Gospel SP
-
-http://media.igospel.com.br:1935/live/redegospel/livestream.m3u8
-#EXTINF:-1,Rede Século 21 SP
-
-http://257919-lh.akamaihd.net:80/i/TVSeculo21_hdlive@145740/index_250_av-p.m3u8
-#EXTINF:-1,Rede TV SP
-
-http://evp.mm.uol.com.br:1935/redetv1/redetv1/live.m3u8
-
-
-#EXTINF:-1,Rit
-
-http://flash1.crossdigital.com.br:1935/ponto79/ongrace/live.m3u8
-#EXTINF:-1,SBT 
-
-http://rtmp.9c2c.upx.net.br:1935/9c2c/myStream_all/live.m3u8
-
-#EXTINF:-1,SBT BA
-
-http://stream.tvpapodetudo.com.br:1935/aratuduZgOqNa/myStream.sdp/live.m3u8
-#EXTINF:-1,Sesc TV
-http://srv6.zoeweb.tv:1935/zt2/stream/live.m3u8
-#EXTINF:-1,TV Brasil
-http://ebcremuxlive-live.hls.adaptive.level3.net:80/manifests/ebcremuxlive-ebctvbrasil/live.m3u8
-#EXTINF:-1,TV Maná
-
-http://195.22.19.189:1935/tvbr/tvbrasil1/live.m3u8
-
-#EXTINF:-1,Brasil 1
-http://stream.novotempo.com:1935/tv/smil:tvnovotempo.smil/manifest.m3u8
-#EXTINF:-1,Brasil 2
-rtmp://322747t.lp.azioncdn.net:1935/2747t/a/mp4:access_options/rtmp-live/tvcom-sc.sdp
-#EXTINF:-1,Brasil 3
-http://media01.s12.com.br:1935/live/redegospel/livestream.m3u8
-#EXTINF:-1,Brasil 4
-rtmp://rtmp.cdn.upx.net.br/00084/myStream.sdp
-#EXTINF:-1,Big Brother Brasil
-rtmp://208.115.227.212:1935/RedeCanaisBBB/myStream
-#EXTINF: 0, TV1 DEPORTES
-http://cp.dmbshare.net:8000/live/cengiz/cengiz/3457.m3u8
-#EXTINF: 0, TV2 DEPORTES
-http://cp.dmbshare.net:8000/live/cengiz/cengiz/3456.m3u8
-#EXTINF: 0, TV3 DEPORTES
-http://cp.dmbshare.net:8000/live/cengiz/cengiz/3458.m3u8
-#EXTINF: 0, TV4 DEPORTES
-http://cp.dmbshare.net:8000/live/cengiz/cengiz/3455.m3u8
-#EXTINF: 0, TV5 DEPORTES
-http://cp.dmbshare.net:8000/live/cengiz/cengiz/3454.m3u8
-#EXTINF: 0, AMERICAS SPORTV
-http://cp.dmbshare.net:8000/live/cengiz/cengiz/3453.m3u8
-#EXTINF: 0, TV1 BENFICA
-http://cp.dmbshare.net:8000/live/cengiz/cengiz/3496.m3u8
-#EXTINF: 0, BENFICA TV 2
-http://cp.dmbshare.net:8000/live/cengiz/cengiz/3495.m3u8
-#EXTINF: 0, TV SPORTING
-http://cp.dmbshare.net:8000/live/cengiz/cengiz/3452.m3u8
-#EXTINF: 0, Porto Canal
-http://cp.dmbshare.net:8000/live/cengiz/cengiz/3467.m3u8
-#EXTINF: 0, EUROSPORT
-http://cp.dmbshare.net:8000/live/cengiz/cengiz/3482.m3u8
-#EXTINF:-1,Sporting TV
-http://iptvbox.noip.us:9998/live/atik/atik/1028.m3u8
-#EXTINF:-1,Sport.TV1 HD
-http://iptvbox.noip.us:9998/live/atik/atik/820.m3u8
-#EXTINF:-1,Sport.TV1
-http://iptvbox.noip.us:9998/live/atik/atik/819.m3u8
-#EXTINF:-1,Sport.TV2
-http://iptvbox.noip.us:9998/live/atik/atik/821.m3u8
-#EXTINF:-1,Sport.TV3
-http://iptvbox.noip.us:9998/live/atik/atik/822.m3u8
-#EXTINF:-1,Sport.TV4
-http://iptvbox.noip.us:9998/live/atik/atik/823.m3u8
-#EXTINF:-1,Sport.TV5
-http://iptvbox.noip.us:9998/live/atik/atik/824.m3u8
-#EXTINF:-1,CHELSEA TV
-http://iptvbox.noip.us:9998/live/atik/atik/1024.m3u8
-#EXTINF:-1,BTV2
-http://iptvbox.noip.us:9998/live/atik/atik/1027.m3u8
-#EXTINF:-1,BTV1 HD
-http://iptvbox.noip.us:9998/live/atik/atik/1026.m3u8
-#EXTINF:-1,BTV1
-http://iptvbox.noip.us:9998/live/atik/atik/1025.m3u8
-#EXTINF:-1,Portugal 1
-http://213.13.26.41:1935/live/etv_direto/playlist.m3u8
-#EXTINF:-1,Portugal 3
-rtmp://streamspub.manasat.com/live/bastacrer
-#EXTINF:-1,Portugal 7
-http://88.157.194.246/live/ramdisk/ztvi/HLS/ztvi.m3u8
-#EXTINF:-1,Portugal 9
-http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8
-#EXTINF:-1,---MUSICA---
-http://?
-#EXTINF:-1,HIT TV
-rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
-#EXTINF:-1,Capital TV
-http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,Q Musica
-mms://streamqm.uigc.net/qmusica
-#EXTINF:-1,Quiero Musica
-mms://streamqm.uigc.net/qmusica
-#EXTINF:-1,Musica SI
-http://hd.worldkast.com:1935/8436/8436/playlist.m3u8
-#EXTINF:-1,HEART TV Uk
-http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8#MegaIPTVArgentina
-#EXTINF:-1,KISS TV MUSIC
-rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
-#EXTINF:-1,Rouge TV
-http://rtmp.infomaniak.ch/livecast/rougetv/playlist.m3u8
-#EXTINF:-1,Melody Channel
-http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
-#EXTINF:-1,VEVO HD
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8?
-#EXTINF:-1,VEVO 2 HD
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8?
-#EXTINF:-1,VEVO 3 HD
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8?
-#EXTINF:-1,---ADULTOS---
-http://?
-#EXTINF:-1,JAZMIN TV
-rtmp://109.71.162.112:1935/live/sd.jasminchannel.stream
-#EXTINF:-1, PASSION XXX
-http://publish.thewebstream.co:1935/leved/_definst_/passielivestream/playlist.m3u8
-#EXTINF:-1, PlayBoy 
-http://s2.edem.tv/iptv/M3MKGZW6NMMUGQ/527/index.m3u8
-#EXTINF:-1,--CANALES DE AUDIO--
-http://?
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",50's
-http://buecrplb01.cienradios.com.ar/50_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",60's
-http://buecrplb01.cienradios.com.ar/60_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",70's
-http://buecrplb01.cienradios.com.ar/70_Internacional_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",70's USA
-http://buecrplb01.cienradios.com.ar/Los_Numero_1_de_los_70_USA_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Beatles
-http://108.61.73.119:8062/;stream.nsv
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",80´s
-http://buecrplb01.cienradios.com.ar/80_Internacional_32000.aac
-#EXTINF:-1 tvg-logo="radios.png",80's internacional
-http://buecrplb01.cienradios.com.ar/80_Nacional_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",80's USA
-http://buecrplb01.cienradios.com.ar/Los_Numero_1_de_los_80_USA_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",90's Internacional
-http://buecrplb01.cienradios.com.ar/90_Internacional_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",90's Europa
-http://buecrplb01.cienradios.com.ar/Los_Numero_1_de_los_90_UK_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Adulto Contemporaneo
-http://buecrplb01.cienradios.com.ar/Adulto_Contemporaneo_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Baladas
-http://buecrplb01.cienradios.com.ar/Power_Ballads_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Bossa Nova
-http://buecrplb01.cienradios.com.ar/Bossa_Nova_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Brasil
-http://buecrplb01.cienradios.com.ar/Brasil_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",BritPop
-http://buecrplb01.cienradios.com.ar/Britpop_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Chillout
-http://buecrplb01.cienradios.com.ar/Chillout_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Cuarteto
-http://buecrplb01.cienradios.com.ar/Cuarteto_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Estrenos
-http://buecrplb01.cienradios.com.ar/Estrenos_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Electronica
-http://buecrplb01.cienradios.com.ar/Electronico_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Electro Tango
-http://buecrplb01.cienradios.com.ar/Electronic_Tango_32000.aac?
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Fiesta Dance
-http://buecrplb01.cienradios.com.ar/Fiesta_Dance_32000.aac
-#EXTINF:-1 tvg-logo="radios.png group-title="Audio - Radio"",Lentos
-http://buecrplb01.cienradios.com.ar/Lentos_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Live music
-http://buecrplb01.cienradios.com.ar/Vivo_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Raggae
-http://buecrplb01.cienradios.com.ar/Reggae_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Reggaeton
-http://buecrplb01.cienradios.com.ar/Reggaeton_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Rock Hits
-http://buecrplb01.cienradios.com.ar/Rock_Hits_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Rock Latino
-http://buecrplb01.cienradios.com.ar/Rock_Latinoamericano_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Salsa
-http://buecrplb01.cienradios.com.ar/Salsa_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Smooth Jazz
-http://buecrplb01.cienradios.com.ar/Smooth_Jazz_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Top 40
-http://buecrplb01.cienradios.com.ar/Top_40_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Top Europa
-http://buecrplb01.cienradios.com.ar/Top_Europa_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Top USA
-http://buecrplb01.cienradios.com.ar/Top_USA_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Yoga
-http://buecrplb01.cienradios.com.ar/Yoga_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Reiki
-http://buecrplb01.cienradios.com.ar/Reiki_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Clasica
-http://buecrplb01.cienradios.com.ar/Clasica_32000.aac
-#EXTINF:-1 tvg-logo="radios.png",Clasica Cine
-http://buecrplb01.cienradios.com.ar/Classic_Cinema_32000.aac
-#EXTINF:-1 tvg-logo="radios.png" group-title="Audio - Radio",Clasica Meditacion
-http://buecrplb01.cienradios.com.ar/Clasica_Para_Meditar_32000.aac
-#EXTINF:-1,---Cine Peliculas----
-#EXTINF:-1,Mision Imposible: Nacion Secreta
-https://lh3.googleusercontent.com/hNXj1AUtB2kn9HfuCK-LovN1EB5msrlNyiiGDjW1WBA=m22
-#EXTINF:-1,El corredor del laberinto: Las pruebas
-https://lh3.googleusercontent.com/WlRQXHAxQDggBnivUw3UfdUrzq2k7wydHwddwwG8Hq4=m37
-#EXTINF:-1,Ant-Man
-https://lh3.googleusercontent.com/dKhaBcSq8PtRf20tZGceVSHxqpHwd7e5WliOC-Z8k9Y=m37
-#EXTINF:-1,Los 33
-https://archive.org/download/Los.33.2015.1080p.Latino.HD/Los.33.2015.1080p.Latino.HD.mkv
-#EXTINF:-1,CHAPIEE
-
-http://www.spruto.tv/get_file/5/c0e48113fc2ef52a45381d909a729b4a/116000/116862/116862.mp4
-#EXTINF:-1,Hitman: Agente 47
-https://lh3.googleusercontent.com/jjtDmmO3Gc4N3fn57XE7lxfmzqIAmRsQA065QXDkW3Y=m37
-#EXTINF:-1,VOLVER AL FUTURO 1
-https://discontrol@ia601500.us.archive.org/34/items/84CK.70/84CK.70.FU7U93-ES-720.mp4?disco
-#EXTINF:-1,VOLVER AL FUTURO 2
-https://discontrol@ia601500.us.archive.org/34/items/84CK.70/84CK.70.FU7U93.2-ES-720.mp4?disco
-#EXTINF:-1,VOLVER AL FUTURO 3
-https://discontrol@ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4?disco
-#EXTINF:-1,PERDIENDO EL NORTE
-
-http://www.spruto.tv/get_file/5/6a25b4ae49ab17330c8f5a55e6448f97/118000/118625/118625.mp4
-
-#EXTINF:-1,BUSQUEDA IMPLACABLE 1
-
-http://www.spruto.tv/get_file/1/ddd1223bf92310814da0e02360f78835/86000/86899/86899.mp4
-
-#EXTINF:-1,UN GOLPE DE TALENTO
-
-http://www.spruto.tv/get_file/1/33c9ff846b086894fff296005063e462/85000/85864/85864.mp4
-
-#EXTINF:-1,UN DESMADRE DE MADRES
-
-http://www.spruto.tv/get_file/8/8927506a0be81c88d283929f0bf73c09/120000/120485/120485.mp4
-
-#EXTINF:-1,LA LEYENDA DEL TESORO PERDIDO
-
-http://www.spruto.tv/get_file/7/9d9c949a8735bc7da3b9f51210a54cfb/77000/77011/77011.mp4
-
-#EXTINF:-1,Poltergeist
-https://onedrive.live.com/download.aspx?resid=DDFDBBF15680E8E0!110&authkey=!AICYek9DfCi0oB8&ithint=file%2cmkv
-
-#EXTINF:-1,RESUCITADOS
-
-https://ia800309.us.archive.org/21/items/1esucitados./1esucitados..mp4
-
-#EXTINF:-1,LA DICTADURA PERFECTA
-
-http://www.spruto.tv/get_file/2/588e561ff46cf4866914b732c8ad294b/105000/105729/105729.mp4
-
-#EXTINF:-1,TED
-
-http://www.spruto.tv/get_file/1/26abd89519052ceb87fa5578107dab0e/86000/86752/86752.mp4
-
-#EXTINF:-1,TED 2
-https://lh3.googleusercontent.com/3iuPbTxgl4DeuqyRTGzaBY1wk33fzudzU6K6oYpkA0s=m37
-#EXTINF:-1,WHIPLASH
-
-http://www.spruto.tv/get_file/2/16128b39ee17c57b4586edf1557cfe8c/103000/103899/103899.mp4
-
-#EXTINF:-1,Un desmadre de viaje
-http://www.spruto.tv/get_file/1/710c1bf6d11b4b1a7b3487e204786a01/86000/86444/86444.mp4
-
-#EXTINF:-1,IRON MAN 3
-
-http://www.spruto.tv/get_file/5/64ec2b83e4a5b1d011d3481e21331156/116000/116842/116842.mp4
-
-#EXTINF:-1,QUE PASO AYER 3
-
-http://www.spruto.tv/get_file/1/6ab22ad9165a0aa319013435e0560900/86000/86894/86894.mp4
-
-#EXTINF:-1,En El Bosque (into the woods)
-
-http://www.spruto.tv/get_file/2/6bb416dfe3a1c559930905f48c528ba9/104000/104812/104812.mp4
-
-#EXTINF:-1,FRANCOTIRADOR
-
-http://www.spruto.tv/get_file/5/61650e31126ea298f916a5af7d742d9e/110000/110860/110860.mp4
-
-#EXTINF:-1,50 SOMBRAS DE GREY
-
-http://www.spruto.tv/get_file/5/7b9a4a16ab85a676db01d48268cdb3ff/110000/110845/110845.mp4
-
-#EXTINF:-1,EL AMANECER DEL PLANETA DE LOS SIMIOS
-
-http://www.spruto.tv/get_file/1/1b8634191d3bf7b4722550f8f1ee8d71/88000/88461/88461.mp4
-
-#EXTINF:-1,X-MEN DIAS DEL FUTURO PASADO
-
-http://www.spruto.tv/get_file/2/aa1cd1e775399507ece04af201c1641e/97000/97119/97119.mp4
-
-#EXTINF:-1,LOS JUEGOS DEL HAMBRE SINSAJO PARTE 1
-
-http://www.spruto.tv/get_file/2/d60293a7e0b2a63ee276877578a81c6a/100000/100906/100906.mp4
-
-#EXTINF:-1,No se aceptan devoluciones
-
-http://www.spruto.tv/get_file/1/0dc75c7c7ae034d5a6b135e2e860f1b5/87000/87074/87074.mp4
-
-#EXTINF:-1,Las novias de mis amigos
-
-http://www.spruto.tv/get_file/1/74a868ab2199d5554acc4be5793b8b69/86000/86881/86881.mp4
-
-#EXTINF:-1,Apartamento 1303
-
-http://www.spruto.tv/get_file/1/49d3ace5335a6cabdc5a3581b37dbc85/86000/86749/86749.mp4
-
-#EXTINF:-1,Hermosas Criaturas
-
-http://www.spruto.tv/get_file/1/ec0d0600daeeec97ebaa31311b47e954/86000/86754/86754.mp4
-
-#EXTINF:-1,Heart's war
-
-http://www.spruto.tv/get_file/1/eb749898480b80d9cfdc14d02b3502e9/86000/86758/86758.mp4
-
-#EXTINF:-1,El Ritual
-
-http://www.spruto.tv/get_file/1/bf6524f4bf8a27f4fd22679c3ab63e5d/86000/86768/86768.mp4
-
-#EXTINF:-1,Tammy
-
-http://www.spruto.tv/get_file/1/da244c0319e3ae01bf70ba73c17a90b2/86000/86886/86886.mp4
-
-#EXTINF:-1,Linea de emergencia
-
-http://www.spruto.tv/get_file/1/3108ebb516e9408172f63c0fff8735a0/87000/87388/87388.mp4
-
-#EXTINF:-1,Mil palabras
-
-http://www.spruto.tv/get_file/1/9423b9ab396003b187bfe797cf0fa1ee/88000/88598/88598.mp4
-
-#EXTINF:-1,Resident Evil 1
-
-http://www.spruto.tv/get_file/5/02f3cad653cf6bf90f3d6a687be0c7c1/107000/107712/107712.mp4
-
-#EXTINF:-1,Resident Evil 2
-
-http://www.spruto.tv/get_file/5/a143559439fde8b3d5817dc38fcf6de4/107000/107714/107714.mp4
-
-#EXTINF:-1,Resident Evil 3
-
-http://www.spruto.tv/get_file/5/1f619a5dd9432ad4da1bffdbe29b0c37/107000/107716/107716.mp4
-#EXTINF:-1,Resident Evil 4
-
-http://www.spruto.tv/get_file/5/fa3bad7fd1d1264e7465ba30c80092af/107000/107718/107718.mp4
-
-#EXTINF:-1,Resident Evil 5
-
-http://www.spruto.tv/get_file/5/81a03f967e961563abacedd4ac410e8a/107000/107720/107720.mp4
-
-#EXTINF:-1,RAPIDOS Y FURIOSOS 2
-
-http://www.spruto.tv/get_file/5/212cee7b0787e8edea9c29142005f53e/106000/106829/106829.mp4
-
-#EXTINF:-1,RAPIDOS Y FURIOSOS 3
-
-http://www.spruto.tv/get_file/5/9b5cca36e542f6564b6243db0cc7680e/106000/106831/106831.mp4
-
-#EXTINF:-1,RAPIDOS Y FURIOSOS 4
-
-http://www.spruto.tv/get_file/5/77c6fd40d2150217d579dad0be22c890/106000/106833/106833.mp4
-
-#EXTINF:-1,RAPIDOS Y FURIOSOS 5
-
-http://www.spruto.tv/get_file/5/25824b7cd75852b54e4730e5ba84ad0f/106000/106835/106835.mp4
-
-#EXTINF:-1,RAPIDOS Y FURIOSOS 6
-
-http://www.spruto.tv/get_file/2/4b474dc1ff07a5c743d7e047cbb10e37/89000/89812/89812.mp4
-
-#EXTINF:-1,Sed de Venganza
-
-http://www.spruto.tv/get_file/5/51fb81b0200dfb9fbaf250e67b10c947/112000/112079/112079.mp4
-
-#EXTINF:-1,JACK Y JILL
-
-http://www.spruto.tv/get_file/5/eba0f977a112474be076b0b9a7ebba1f/108000/108686/108686.mp4
-
-#EXTINF:-1,SOLO PARA PAREJAS
-
-http://www.spruto.tv/get_file/5/25233029eba7600c6efe237183e19485/114000/114219/114219.mp4
-
-
-#EXTINF:-1,DALE DURO
-
-http://www.spruto.tv/get_file/5/aec265b448ad3c6f6babea0ce4ea2d42/116000/116943/116943.mp4
-
-
-#EXTINF:-1,UNA LOCA ENTREVISTA
-
-http://www.spruto.tv/get_file/5/97815af2d345c20f5d14a74af09b15ce/115000/115515/115515.mp4
-
-#EXTINF:-1,CAPITAN AMERICA 1
-
-http://www.spruto.tv/get_file/5/99cf97e972d9eb68d08a64f6f26bb093/110000/110849/110849.mp4
-
-#EXTINF:-1,CAPITAN AMERICA 2
-
-http://www.spruto.tv/get_file/5/21f09609e8f51f3672f339b7553bb1b2/110000/110852/110852.mp4
-
-#EXTINF:-1,---Peliculas Infantiles---
-http://?
-
-#EXTINF:-1,Home
-
-https://onedrive.live.com/download.aspx?resid=DDFDBBF15680E8E0!112&authkey=!ABenJqI3IzNanmk&ithint=file%2cmkv
-#EXTINF:-1,Gnomeo y Julieta
-
-http://www.spruto.tv/get_file/7/4aec99b76a012347d0fbffbefa066e3f/78000/78054/78054.mp4
-
-#EXTINF:-1,Aladdin 1
-
-http://www.spruto.tv/get_file/1/38577f19393369cb2c5d785beb3c3ffc/80000/80730/80730.mp4?start=0
-
-#EXTINF:-1,Aladdin 2
-
-http://www.spruto.tv/get_file/5/b66d5c46890169c4100a2d1efdc8c45c/110000/110198/110198.mp4?start=0
-
-#EXTINF:-1,Aladdin y el rey de los ladrones
-
-http://www.spruto.tv/get_file/5/ca110c858858a9f44749dfaac0220c9a/110000/110199/110199.mp4?start=0
-
-#EXTINF:-1,Alicia en el Pais de las Maravillas
-
-http://www.spruto.tv/get_file/1/6e54e785dcb21b63de42f4928ce68bf5/86000/86137/86137.mp4?start=0
-
-#EXTINF:-1,Anastasia
-
-http://www.spruto.tv/get_file/5/717a259eabde324b660eaf07d3b56c7f/110000/110197/110197.mp4?start=0
-
-#EXTINF:-1,Blancanieves y los Siete Enanitos
-
-http://www.spruto.tv/get_file/1/3a864a8bc2a6f68742ddff892b6a8e1a/80000/80738/80738.mp4?start=0
-
-#EXTINF:-1,Enredados
-
-http://www.spruto.tv/get_file/1/03259f1f551f0a49262bb7850316fb3f/80000/80737/80737.mp4?start=0
-
-#EXTINF:-1,Frozen: Una Aventura Congelada
-
-http://www.spruto.tv/get_file/1/bcae57a2defea5dec966b96630b25aee/80000/80731/80731.mp4?start=0
-
-#EXTINF:-1,La Bella Durmiente
-
-http://www.spruto.tv/get_file/1/5a1b0057367871e647217efa738e97be/80000/80736/80736.mp4?start=0
-
-#EXTINF:-1,La Cenicienta 1
-
-http://www.spruto.tv/get_file/1/1f40df69b4937859479ea77516275841/80000/80739/80739.mp4?start=0
-
-#EXTINF:-1,La Cenicienta 2
-
-http://www.spruto.tv/get_file/5/e385ba2b56ffe07c86d12b21a0ba7075/110000/110193/110193.mp4?start=0
-
-#EXTINF:-1,La Cenicienta 3
-
-http://www.spruto.tv/get_file/5/e503c7667fd1552077a930cb476548b4/110000/110194/110194.mp4?start=0
-
-#EXTINF:-1,La Bella y la Bestia
-
-http://www.spruto.tv/get_file/1/c70f56a357964267dabbc26f0e3ab056/80000/80729/80729.mp4?start=0
-
-#EXTINF:-1,La Bella y la Bestia 2
-
-http://www.spruto.tv/get_file/5/db0dd392dbcd04d1d5e6190a22443734/110000/110192/110192.mp4?start=0
-
-#EXTINF:-1,La Princesa Sofia: Erase una vez una Princesa
-
-http://www.spruto.tv/get_file/5/593ab7a4e734a6ec09e5cabf06798aeb/110000/110201/110201.mp4?start=0
-
-#EXTINF:-1,La Princesa Sofia: Un Palacio en el Agua
-
-http://www.spruto.tv/get_file/5/27ffbde5055018126b083d4eb4f2eb3a/110000/110203/110203.mp4?start=0
-
-#EXTINF:-1,La Princesa y el Sapo
-
-http://www.spruto.tv/get_file/1/0ca9aa377fdebc035473d0854dba27bd/80000/80733/80733.mp4?start=0
-
-#EXTINF:-1,La Sirenita 1
-
-http://www.spruto.tv/get_file/1/4b064db0eb982aa0bbe454deab684473/80000/80728/80728.mp4?start=0
-
-#EXTINF:-1,La Sirenita 2
-
-http://www.spruto.tv/get_file/5/3285b40f685b8393955c2f6c6c2c3633/110000/110190/110190.mp4?start=0
-
-#EXTINF:-1,La Sirenita 3
-
-http://www.spruto.tv/get_file/5/a2ce2d450446df3680e88291f5265033/110000/110191/110191.mp4?start=0
-
-#EXTINF:-1,Mulan
-http://www.spruto.tv/get_file/1/8743a11400fed1059155b246e8c16e80/80000/80735/80735.mp4?start=0
-
-#EXTINF:-1,Pocahontas 1
-
-http://www.spruto.tv/get_file/1/6cccbcf375881ff2d942fc3383e52cf8/80000/80732/80732.mp4?start=0
-
-#EXTINF:-1,Pocahontas 2
-
-http://www.spruto.tv/get_file/5/089c5dc4e579784688380d9ce7cbff9a/110000/110200/110200.mp4?start=0
-
-#EXTINF:-1,Valiente
-
-http://www.spruto.tv/get_file/1/bdbbca9f39a2dc67d1fd3af42a36065b/80000/80734/80734.mp4?start=0
-
-#EXTINF:-1,ALADDIN
-
-http://www.spruto.tv/get_file/1/38577f19393369cb2c5d785beb3c3ffc/80000/80730/80730.mp4
-
-#EXTINF:-1,ALADDIN 2 EL RETORNO DE JAFAR
-
-http://www.spruto.tv/get_file/5/b66d5c46890169c4100a2d1efdc8c45c/110000/110198/110198.mp4
-
-#EXTINF:-1,ALADDIN Y EL REY DE LOS LADRONES
-
-http://www.spruto.tv/get_file/5/ca110c858858a9f44749dfaac0220c9a/110000/110199/110199.mp4
-
-#EXTINF:-1,ALICIA EN EL PAIS DE LAS MARAVILLAS (1951)
-
-http://www.spruto.tv/get_file/1/6e54e785dcb21b63de42f4928ce68bf5/86000/86137/86137.mp4
-
-#EXTINF:-1,ALICIA EN EL PAIS DE LAS MARAVILLAS (2010)
-
-http://www.spruto.tv/get_file/7/f75b9e1cefffcd3087150b883fac3fc7/76000/76261/76261.mp4
-
-#EXTINF:-1,BARBIE SUPER PRINCESA
-
-http://www.spruto.tv/get_file/2/296ed0c12d8f80128b04d333c08204c8/98000/98420/98420.mp4
-
-#EXTINF:-1,ENREDADOS
-
-http://www.spruto.tv/get_file/1/03259f1f551f0a49262bb7850316fb3f/80000/80737/80737.mp4
-
-#EXTINF:-1,FROZEN UNA AVENTURA CONGELADA
-
-http://www.spruto.tv/get_file/1/bcae57a2defea5dec966b96630b25aee/80000/80731/80731.mp4
-
-#EXTINF:-1,LA BELLA Y LA BESTIA
-
-http://www.spruto.tv/get_file/1/c70f56a357964267dabbc26f0e3ab056/80000/80729/80729.mp4
-
-#EXTINF:-1,LA CENICIENTA (1950)
-
-http://www.spruto.tv/get_file/1/1f40df69b4937859479ea77516275841/80000/80739/80739.mp4
-
-#EXTINF:-1,LA CENICIENTA 2 UN SUENO HECHO REALIDAD
-
-http://www.spruto.tv/get_file/5/e385ba2b56ffe07c86d12b21a0ba7075/110000/110193/110193.mp4
-
-#EXTINF:-1,LA PRINCESA Y EL SAPO
-
-http://www.spruto.tv/get_file/1/0ca9aa377fdebc035473d0854dba27bd/80000/80733/80733.mp4
-
-#EXTINF:-1,LA SIRENITA
-
-http://www.spruto.tv/get_file/1/4b064db0eb982aa0bbe454deab684473/80000/80728/80728.mp4
-
-#EXTINF:-1,LA SIRENITA 2 REGRESO AL MAR
-
-http://www.spruto.tv/get_file/5/3285b40f685b8393955c2f6c6c2c3633/110000/110190/110190.mp4
-
-#EXTINF:-1,LA SIRENITA LOS COMIENZOS DE ARIEL
-
-http://www.spruto.tv/get_file/5/a2ce2d450446df3680e88291f5265033/110000/110191/110191.mp4
-
-#EXTINF:-1,MULAN
-
-http://www.spruto.tv/get_file/1/8743a11400fed1059155b246e8c16e80/80000/80735/80735.mp4
-
-#EXTINF:-1,MULAN 2
-
-http://www.spruto.tv/get_file/7/cc0868b3bbd4d8af610469b429a57667/76000/76864/76864.mp4
-#EXTINF:-1,POCAHONTAS
-
-http://www.spruto.tv/get_file/1/6cccbcf375881ff2d942fc3383e52cf8/80000/80732/80732.mp4
-
-#EXTINF:-1,POCAHONTAS 2
-
-http://www.spruto.tv/get_file/5/089c5dc4e579784688380d9ce7cbff9a/110000/110200/110200.mp4
-
-#EXTINF:-1,VALIENTE
-
-http://www.spruto.tv/get_file/1/bdbbca9f39a2dc67d1fd3af42a36065b/80000/80734/80734.mp4
+#EXTINF:0,DISCOVERY THEATER
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL351/PROFILE05.m3u8
+#EXTINF:0,HISTORY
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL353/PROFILE05.m3u8
+#EXTINF:0,NATGEO WILD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL355/PROFILE05.m3u8
+#EXTINF:0,DISCOVERY WORLD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL356/PROFILE05.m3u8
+#EXTINF:0,DISCOVERY CHANNEL
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL371/PROFILE05.m3u8
+#EXTINF:0,ANIMAL PLANET
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL373/PROFILE05.m3u8
+#EXTINF:0,H&H
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL374/PROFILE05.m3u8
+#EXTINF:0,NATGEO
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL377/PROFILE05.m3u8
+#EXTINF:0,LIFETIME
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL379/PROFILE05.m3u8
+#EXTINF:0, DISCOVERY SCIENCE
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL381/PROFILE05.m3u8
+#EXTINF:0,DISCOVERY CIVILIZATION
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL382/PROFILE05.m3u8
+#EXTINF:0,DISCOVERY TURBO
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL383/PROFILE05.m3u8
+#EXTINF:0,TLC
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL386/PROFILE05.m3u8
+#EXTINF:0,WOBI
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL387/PROFILE05.m3u8
+#EXTINF:0,EL FINANCIERO BLOOMERANG
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL610/PROFILE05.m3u8
+#EXTINF:0,DISCOVERY THEATER HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL351/PROFILE05.m3u8
+#EXTINF:0,HISTORY HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL353/PROFILE05.m3u8
+#EXTINF:0,NATGEO WILD HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL355/PROFILE05.m3u8
+#EXTINF:0,DISCOVERY WORLD HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL356/PROFILE05.m3u8
+#EXTINF:0,DISCOVERY CHANNEL HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL371/PROFILE05.m3u8
+#EXTINF:0,ANIMAL PLANET HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL373/PROFILE05.m3u8
+#EXTINF:0,H&H HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL374/PROFILE05.m3u8
+#EXTINF:0,NATGEO HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL377/PROFILE05.m3u8
+#EXTINF:0,LIFETIME HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL379/PROFILE05.m3u8
+#EXTINF:0, DISCOVERY SCIENCE HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL381/PROFILE05.m3u8
+#EXTINF:0,DISCOVERY CIVILIZATION HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL382/PROFILE05.m3u8
+#EXTINF:0,DISCOVERY TURBO HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL383/PROFILE05.m3u8
+#EXTINF:0,TLC HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL386/PROFILE05.m3u8
+#EXTINF:0,WOBI HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL387/PROFILE05.m3u8
+#EXTINF:0,EL FINANCIERO BLOOMERANG HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL610/PROFILE05.m3u8
+#EXTINF:0,ESPN +
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL516/PROFILE05.m3u8
+#EXTINF:0,ESPN 3
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL520/PROFILE05.m3u8
+#EXTINF:0,FOX SPORTS
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL522/PROFILE05.m3u8
+#EXTINF:0,FOX SPORTS 2
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL527/PROFILE05.m3u8
+#EXTINF:0,PX
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL528/PROFILE05.m3u8
+#EXTINF:0,ESPN
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL558/PROFILE05.m3u8
+#EXTINF:0,ESPN 2
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL561/PROFILE05.m3u8
+#EXTINF:0,ESPN + HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL516/PROFILE05.m3u8
+#EXTINF:0,ESPN 3 HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL520/PROFILE05.m3u8
+#EXTINF:0,FOX SPORTS HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL522/PROFILE05.m3u8
+#EXTINF:0,FOX SPORTS 2 HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL527/PROFILE05.m3u8
+#EXTINF:0,PX HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL528/PROFILE05.m3u8
+#EXTINF:0,ESPN HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL558/PROFILE05.m3u8
+#EXTINF:0,ESPN 2 HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL561/PROFILE05.m3u8
+#EXTINF:0,FOX HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL201/PROFILE05.m3u8
+#EXTINF:0,SONY
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL203/PROFILE05.m3u8
+#EXTINF:0,WB
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL205/PROFILE05.m3u8
+#EXTINF:0,UNIVERSAL HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL207/PROFILE05.m3u8
+#EXTINF:0,FX HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL209/PROFILE05.m3u8
+#EXTINF:0,A&E HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL211/PROFILE05.m3u8
+#EXTINF:0,AXN HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL213/PROFILE05.m3u8
+#EXTINF:0,TRUTV HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL215/PROFILE05.m3u8
+#EXTINF:0,COMEDY CENTRAL
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL217/PROFILE05.m3u8
+#EXTINF:0,UNICABLE
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL218/PROFILE05.m3u8
+#EXTINF:0,HOLATV
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL219/PROFILE05.m3u8
+#EXTINF:0,FASHIONTV
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL220/PROFILE05.m3u8
+#EXTINF:0,AZCORAZON
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL250/PROFILE05.m3u8
+#EXTINF:0,FOX
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL251/PROFILE05.m3u8
+#EXTINF:0,BBC ENTRETAINMENT
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL253/PROFILE05.m3u8
+#EXTINF:0,E!
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL255/PROFILE05.m3u8
+#EXTINF:0,UNIVERSAL
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL256/PROFILE05.m3u8
+#EXTINF:0,SYFY
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL257/PROFILE05.m3u8
+#EXTINF:0,FX
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL258/PROFILE05.m3u8
+#EXTINF:0,ID
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL263/PROFILE05.m3u8
+#EXTINF:0,TNT SERIES
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL266/PROFILE05.m3u8
+#EXTINF:0,EL GOURMET
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL268/PROFILE05.m3u8
+#EXTINF:0,GARAGE TV
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL269/PROFILE05.m3u8
+#EXTINF:0,GLITZ
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL270/PROFILE05.m3u8
+#EXTINF:0,FOXLIFE
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL271/PROFILE05.m3u8
+#EXTINF:0,DISTRITO COMEDIA
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL272/PROFILE05.m3u8
+#EXTINF:0,TBS
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL273/PROFILE05.m3u8
+#EXTINF:0,TLNOVELAS
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL275/PROFILE05.m3u8
+#EXTINF:0,tve
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL651/PROFILE05.m3u8
+#EXTINF:0,CANAL DE LAS ESTRELLAS
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL102/PROFILE05.m3u8
+#EXTINF:0,CANAL 5
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL105/PROFILE05.m3u8
+#EXTINF:0,AZTECA 7
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL107/PROFILE05.m3u8
+#EXTINF:0,GALAVISION
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL109/PROFILE05.m3u8
+#EXTINF:0,ONCE TV
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL111/PROFILE05.m3u8
+#EXTINF:0,AZTECA 13
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL113/PROFILE05.m3u8
+#EXTINF:0,CANAL 40
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL140/PROFILE05.m3u8
+#EXTINF:0,MULTIMEDIOS TV
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL167/PROFILE05.m3u8
+#EXTINF:0,AZCLIC
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL725/PROFILE05.m3u8
+#EXTINF:0,CANAL DE LAS ESTRELLAS HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL102/PROFILE05.m3u8
+#EXTINF:0,CANAL 5 HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL105/PROFILE05.m3u8
+#EXTINF:0,AZTECA 7 HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL107/PROFILE05.m3u8
+#EXTINF:0,GALAVISION HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL109/PROFILE05.m3u8
+#EXTINF:0,ONCE TV HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL111/PROFILE05.m3u8
+#EXTINF:0,AZTECA 13 HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL113/PROFILE05.m3u8
+#EXTINF:0,CANAL 40 HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL140/PROFILE05.m3u8
+#EXTINF:0,MULTIMEDIOS TV HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL167/PROFILE05.m3u8
+#EXTINF:0,AZCLIC HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL725/PROFILE05.m3u8
+#EXTINF:0,FOX 1 HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL415/PROFILE05.m3u8
+#EXTINF:0,FOX ACTION HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL416/PROFILE05.m3u8
+#EXTINF:0,FOX MOVIES HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL417/PROFILE05.m3u8
+#EXTINF:0,FOX CINEMA
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL421/PROFILE05.m3u8
+#EXTINF:0,FOX CLASSIC
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL424/PROFILE05.m3u8
+#EXTINF:0,AZCINEMA
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL425/PROFILE05.m3u8
+#EXTINF:0,CINECANAL
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL430/PROFILE05.m3u8
+#EXTINF:0,TNT
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL435/PROFILE05.m3u8
+#EXTINF:0,GOLDEN
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL436/PROFILE05.m3u8
+#EXTINF:0,FILMZONE
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL440/PROFILE05.m3u8
+#EXTINF:0,DEPELICULA
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL442/PROFILE05.m3u8
+#EXTINF:0,AMC
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL444/PROFILE05.m3u8
+#EXTINF:0,SPACE
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL445/PROFILE05.m3u8
+#EXTINF:0,FOXCINEMA
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL472/PROFILE05.m3u8
+#EXTINF:0,FOXCLASSIC
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL478/PROFILE05.m3u8
+#EXTINF:0,CINECANAL
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL480/PROFILE05.m3u8
+#EXTINF:0,CINEMAX
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL481/PROFILE05.m3u8
+#EXTINF:0,TNT
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL482/PROFILE05.m3u8
+#EXTINF:0,EDGE
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL484/PROFILE05.m3u8
+#EXTINF:0,AMC
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL490/PROFILE05.m3u8
+#EXTINF:0,SPACE
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL491/PROFILE05.m3u8
+#EXTINF:0,STUDIOUNIVERSAL
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL492/PROFILE05.m3u8
+#EXTINF:0,I.SAT
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL495/PROFILE05.m3u8
+#EXTINF:0,TCM
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL496/PROFILE05.m3u8
+#EXTINF:0,MTV LIVE
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL701/PROFILE05.m3u8
+#EXTINF:0,TELEHIT
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL702/PROFILE05.m3u8
+#EXTINF:0,VHR
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL703/PROFILE05.m3u8
+#EXTINF:0,MTV
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL726/PROFILE05.m3u8
+#EXTINF:0,MTV HITS
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL727/PROFILE05.m3u8
+#EXTINF:0,1CLASSICS
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL728/PROFILE05.m3u8
+#EXTINF:0,RITMOSON
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL731/PROFILE05.m3u8
+#EXTINF:0,BANDAMAX
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL732/PROFILE05.m3u8
+#EXTINF:0,MTV LIVE HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL701/PROFILE05.m3u8
+#EXTINF:0,TELEHIT HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL702/PROFILE05.m3u8
+#EXTINF:0,VHR HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL703/PROFILE05.m3u8
+#EXTINF:0,MTV HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL726/PROFILE05.m3u8
+#EXTINF:0,MTV HITS HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL727/PROFILE05.m3u8
+#EXTINF:0,1CLASSICS HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL728/PROFILE05.m3u8
+#EXTINF:0,RITMOSON HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL731/PROFILE05.m3u8
+#EXTINF:0,BANDAMAX HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL732/PROFILE05.m3u8
+#EXTINF:0,Foro TV
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL104/PROFILE05.m3u8
+#EXTINF:0,MILENIO
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL603/PROFILE05.m3u8
