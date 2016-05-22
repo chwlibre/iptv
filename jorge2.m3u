@@ -1,525 +1,68 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="Latino-FOX.png",Fox
-http://tvultimate.ddns.net/LIVE/H01/CANAL201/PROFILE05.m3u8?tvultimate=%2F.ts
-
-
-#EXTINF:-1 tvg-logo="sony.png",Sony HD
-http://tvultimate.ddns.net/LIVE/H01/CANAL203/PROFILE05.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="warner hd.png",Warner HD
-http://tvultimate.ddns.net/LIVE/H01/CANAL205/PROFILE05.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="universal hd.png",Universal HD
-http://tvultimate.ddns.net/LIVE/H01/CANAL207/PROFILE05.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="Latino-FX-HD.png",FX HD
-http://tvultimate.ddns.net/LIVE/H01/CANAL209/PROFILE05.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="a&e.png",A&E 
-http://tvultimate.ddns.net/LIVE/H01/CANAL211/PROFILE05.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="axn.png",AXN HD
-http://tvultimate.ddns.net/LIVE/H01/CANAL213/PROFILE05.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="trutv.png",TruTV HD
-http://tvultimate.ddns.net/LIVE/H01/CANAL215/PROFILE05.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="Comedy Central HD (2).png",Comedy Central
-http://tvultimate.ddns.net/LIVE/H01/CANAL217/PROFILE05.m3u8?tvultimate=%2F.ts
-
-#EXTINF:0 tvg-logo="unicable.png",Unicable
-http://tvultimate.ddns.net/LIVE/H01/CANAL218/PROFILE05.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="bbc entertainment.png",BBC
-http://tvultimate.ddns.net/LIVE/H01/CANAL253/PROFILE05.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="!e.png",E! 
-http://tvultimate.ddns.net/LIVE/H01/CANAL255/PROFILE05.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="Latino-SYFY.png",SyFy
-http://tvultimate.ddns.net/LIVE/H01/CANAL257/PROFILE05.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="fx.png",FX
-http://tvultimate.ddns.net/LIVE/H01/CANAL258/PROFILE05.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="id.png",ID
-http://tvultimate.ddns.net/LIVE/H01/CANAL263/PROFILE02.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="infinito.png",TNT Series
-http://tvultimate.ddns.net/LIVE/H01/CANAL266/PROFILE05.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="el gourmet.png",El Gourmet
-http://tvultimate.ddns.net/LIVE/H01/CANAL268/PROFILE05.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="glitz.png",Glitz
-http://tvultimate.ddns.net/LIVE/H01/CANAL270/PROFILE05.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="fox life.png",Fox Life
-http://tvultimate.ddns.net/LIVE/H01/CANAL271/PROFILE05.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="Latino-DISTRITO- COMEDIA.png",Distrito Comedia
-http://tvultimate.ddns.net/LIVE/H01/CANAL272/PROFILE05.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="tbs.png",TBS
-http://tvultimate.ddns.net/LIVE/H01/CANAL273/PROFILE05.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="tlnovelas.png",Tlnovelas
-http://tvultimate.ddns.net/LIVE/H01/CANAL275/PROFILE05.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="Latino-DISCOVERY- KIDS.png",Discovery Kids
-http://tvultimate.ddns.net/LIVE/H01/CANAL303/PROFILE05.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="disney jr.png",Disney Jr
-http://tvultimate.ddns.net/LIVE/H01/CANAL308/PROFILE05.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="nick jr.png",Nick Jr
-http://tvultimate.ddns.net/LIVE/H01/CANAL310/PROFILE05.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="disney channel.png",Disney Channel
-http://tvultimate.ddns.net/LIVE/H01/CANAL312/PROFILE05.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="nicktoons.png",NickToons
-http://tvultimate.ddns.net/LIVE/H01/CANAL314/PROFILE05.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="nick hd.png",Nick HD
-http://tvultimate.ddns.net/LIVE/H01/CANAL315/PROFILE05.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="nickelodeon.png",Nickelodeon
-http://tvultimate.ddns.net/LIVE/H01/CANAL317/PROFILE05.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="cartoon network.png",Cartoon Network
-http://tvultimate.ddns.net/LIVE/H01/CANAL320/PROFILE05.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="disney xd.png",Disney XD
-http://tvultimate.ddns.net/LIVE/H01/CANAL322/PROFILE05.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="boomerang.png",Boomerang
-http://tvultimate.ddns.net/LIVE/H01/CANAL324/PROFILE05.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="tooncast.png",Tooncast
-http://tvultimate.ddns.net/LIVE/H01/CANAL328/PROFILE05.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="tiin.png",TIIN
-http://tvultimate.ddns.net/LIVE/H01/CANAL325/PROFILE05.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="discovery channel.png",DISCOVERY HD Teather
-http://tvultimate.ddns.net/LIVE/H01/CANAL351/PROFILE05.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="history hd.png",History
-http://tvultimate.ddns.net/LIVE/H01/CANAL353/PROFILE05.m3u8?tvultimate=%2F.ts
-
-
-#EXTINF:-1 tvg-logo="natgeo wild hd.png",NatGeo Wild HD
-http://tvultimate.ddns.net/LIVE/H01/CANAL355/PROFILE05.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="tlc hd.png",TLC HD
-http://tvultimate.ddns.net/LIVE/H01/CANAL356/PROFILE05.m3u8?tvultimate=%2F.ts
-#EXTINF:-1 tvg-logo="discovery channel.png",Discovery Channel
-http://tvultimate.ddns.net/LIVE/H01/CANAL371/PROFILE05.m3u8?tvultimate=%2F.ts
-#EXTINF:-1 tvg-logo="animal planet.png",Animal Planet
-http://tvultimate.ddns.net/LIVE/H01/CANAL373/PROFILE05.m3u8?tvultimate=%2F.ts
-#EXTINF:-1 tvg-logo="home and health.png",Home and Health
-http://tvultimate.ddns.net/LIVE/H01/CANAL374/PROFILE05.m3u8?tvultimate=%2F.ts
-#EXTINF:-1 tvg-logo="natgeo.png",NatGeo
-http://tvultimate.ddns.net/LIVE/H01/CANAL377/PROFILE05.m3u8?tvultimate=%2F.ts
-#EXTINF:-1 tvg-logo="lifetime.png",Lifetime
-http://tvultimate.ddns.net/LIVE/H01/CANAL379/PROFILE05.m3u8?tvultimate=%2F.ts
-#EXTINF:-1 tvg-logo="discovery science.png",Discovery Science
-http://tvultimate.ddns.net/LIVE/H01/CANAL381/PROFILE05.m3u8?tvultimate=%2F.ts
-#EXTINF:-1 tvg-logo="discovery civilization.png",Discovery Civilization
-http://tvultimate.ddns.net/LIVE/H01/CANAL382/PROFILE05.m3u8?tvultimate=%2F.ts
-#EXTINF:-1 tvg-logo="turbo dis.png",Discovery Turbo
-http://tvultimate.ddns.net/LIVE/H01/CANAL383/PROFILE05.m3u8?tvultimate=%2F.ts
-#EXTINF:-1 tvg-logo="tlc hd.png",TLC HD
-http://tvultimate.ddns.net/LIVE/H01/CANAL386/PROFILE05.m3u8?tvultimate=%2F.ts
-#EXTINF:-1 tvg-logo="wobi tv.png",WOBI TV
-http://tvultimate.ddns.net/LIVE/H01/CANAL387/PROFILE05.m3u8?tvultimate=%2F.ts
-
-
-
-#EXTINF:-1 tvg-logo="fox 1 hd.png",Fox 1 HD
-http://tvultimate.ddns.net/LIVE/H01/CANAL415/PROFILE05.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="fox action.png",Fox Action HD
-http://tvultimate.ddns.net/LIVE/H01/CANAL416/PROFILE05.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="fox movies HD.png",Fox Movies HD
-http://tvultimate.ddns.net/LIVE/H01/CANAL417/PROFILE05.m3u8?tvultimate=%2F.ts
-
-
-#EXTINF:-1 tvg-logo="fox cinema.png",Fox Cinéma
-http://tvultimate.ddns.net/LIVE/H01/CANAL421/PROFILE05.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="fox classics.png",Fox Classics
-http://tvultimate.ddns.net/LIVE/H01/CANAL424/PROFILE05.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="cinecanal hd.png",Cinecanal HD
-http://tvultimate.ddns.net/LIVE/H01/CANAL430/PROFILE05.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="tnt hd.png",TNT HD
-http://tvultimate.ddns.net/LIVE/H01/CANAL435/PROFILE05.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="golden.png",Golden HD
-http://tvultimate.ddns.net/LIVE/H01/CANAL436/PROFILE05.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="the film zone hd.png",The Film Zone HD
-http://tvultimate.ddns.net/LIVE/H01/CANAL440/PROFILE05.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="de pelicula hd.png",De Película HD
-http://tvultimate.ddns.net/LIVE/H01/CANAL442/PROFILE05.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="amc hd.png",AMC
-http://tvultimate.ddns.net/LIVE/H01/CANAL444/PROFILE05.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="space hd.png",Space HD
-http://tvultimate.ddns.net/LIVE/H01/CANAL445/PROFILE05.m3u8?tvultimate=%2F.ts
-
-
-
-#EXTINF:-1 tvg-logo="cinecanal.png",Cinecanal
-http://tvultimate.ddns.net/LIVE/H01/CANAL480/PROFILE05.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="tvtultimate.png",Cinemax
-http://tvultimate.ddns.net/LIVE/H01/CANAL481/PROFILE05.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="tnt.png",TNT
-http://tvultimate.ddns.net/LIVE/H01/CANAL482/PROFILE05.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="golden edge.png",Golden Edge
-http://tvultimate.ddns.net/LIVE/H01/CANAL484/PROFILE05.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="studio universal.png",Studio Universal
-http://tvultimate.ddns.net/LIVE/H01/CANAL492/PROFILE05.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="space hd.png",Space
-http://tvultimate.ddns.net/LIVE/H01/CANAL491/PROFILE05.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="studio universal.png",Studio Universal
-http://tvultimate.ddns.net/LIVE/H01/CANAL492/PROFILE05.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="sat.1 hd.png",I.Sat
-http://tvultimate.ddns.net/LIVE/H01/CANAL495/PROFILE05.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="TCM.png",TCM
-http://tvultimate.ddns.net/LIVE/H01/CANAL496/PROFILE05.m3u8?tvultimate=%2F.ts
-
-
-
-
-
-#EXTINF:-1 tvg-logo="TCM.png",Univision TDN [COLOR yellow]ONLINE[/COLOR]
-http://104.131.200.207/normalize/?lib=-670671733
-#EXTINF:-1 tvg-logo="TCM.png",TDN [COLOR yellow]ONLINE[/COLOR]
-http://t.tvultimate.mx/canal-tdn
-
-
-
-
-
-#EXTINF:-1 tvg-logo="fox sports hd.png",Fox Sports
-http://tvultimate.ddns.net/LIVE/H01/CANAL522/PROFILE05.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="fox sports 2 hd.png",Fox Sports 2
-http://tvultimate.ddns.net/LIVE/H01/CANAL527/PROFILE05.m3u8?tvultimate=%2F.ts
-
-
-
-
-#EXTINF:-1 tvg-logo="espn hd.png",ESPN HD
-http://tvultimate.ddns.net/LIVE/H01/CANAL516/PROFILE05.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="espn 2.png",ESPN2
-http://tvultimate.ddns.net/LIVE/H01/CANAL561/PROFILE05.m3u8?tvultimate=%2F.ts
-
-
-#EXTINF:0 tvg-logo="aym sports.png",AyM Sports
-http://tvultimate.ddns.net/LIVE/H01/CANAL576/PROFILE02.m3u8?tvultimate=%2F.ts
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="mtv live hd.png",MTV Live HD
-http://tvultimate.ddns.net/LIVE/H01/CANAL701/PROFILE05.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="telehit hd.png",Telehit
-http://tvultimate.ddns.net/LIVE/H01/CANAL702/PROFILE05.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="vh1 hd.png",VH1 HD
-http://tvultimate.ddns.net/LIVE/H01/CANAL703/PROFILE05.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="mtv.png",MTV
-http://tvultimate.ddns.net/LIVE/H01/CANAL726/PROFILE05.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="mtv hits.png",MTV Hits
-http://tvultimate.ddns.net/LIVE/H01/CANAL727/PROFILE05.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="mtv classic.png",VH1 Classics
-http://tvultimate.ddns.net/LIVE/H01/CANAL728/PROFILE05.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="mtv classic.png",CDR canal 2
-http://sambatechlive-live.hls.adaptive.level3.net/manifests/sambatech-cdrtv02/livestream.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="ritmoson latino.png",Ritmoson Latino
-http://tvultimate.ddns.net/LIVE/H01/CANAL731/PROFILE05.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="bandamax.png",Bandamax
-http://tvultimate.ddns.net/LIVE/H01/CANAL732/PROFILE05.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="tv-aka.png",Akanew
-http://rrr.sz.xlcdn.com/?account=AATW&file=akanew&type=live&service=wowza&protocol=http&output=playlist.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="vevo.png",VEVO HD
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/appleman.m3u8
-
-#EXTINF:-1 tvg-logo="vevo.png",Vevo2 HD
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
-
-#EXTINF:-1 tvg-logo="vevo.png",Vevo3 HD
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
-
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="canal de las estrellas.png",Canal de las estrellas HD
-http://tvultimate.ddns.net/LIVE/H01/CANAL102/PROFILE05.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="canal 5 HD.png",Canal 5
-http://tvultimate.ddns.net/LIVE/H01/CANAL105/PROFILE05.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="azteca 7.png",Azteca 7
-http://tvultimate.ddns.net/LIVE/H01/CANAL107/PROFILE05.m3u8?tvultimate=%2F.ts
-
-#EXTINF:0 tvg-logo="azteca 7.png",Azteca Corazon
-http://tvultimate.ddns.net/LIVE/H01/CANAL45/PROFILE02.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="ocho tv.png",Ocho Tv
-http://201.130.193.150:1935/codecsys/smil:ocho.smil/master.m3u8
-
-#EXTINF:-1 tvg-logo="azteca 13.png",El Trece HD
-http://tvultimate.ddns.net/LIVE/H01/CANAL13/PROFILE05.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="gala tv hd.png",Gala TV
-http://tvultimate.ddns.net/LIVE/H01/CANAL109/PROFILE05.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="multimedios.png",Multimedios Monterrey
-http://tvultimate.ddns.net/LIVE/H01/CANAL167/PROFILE05.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="azteca Noticias.png",Azteca Noticias HD 
-http://tvultimate.ddns.net/LIVE/H01/CANAL2/PROFILE05.m3u8?tvultimate=%2F.ts
-
-
-
-
-#EXTINF:-1 tvg-logo="proyecto 40.png",Proyecto 40
-http://tvultimate.ddns.net/LIVE/H01/CANAL140/PROFILE05.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="milenio.png",Milenio TV
-http://tvultimate.ddns.net/LIVE/H01/CANAL603/PROFILE05.m3u8?tvultimate=%2F.ts
-
-
-#EXTINF:-1 tvg-logo="tvmas.png",TVMas HD 
-rtmp://50.7.98.234/rtv/videortv
-
-#EXTINF:-1 tvg-logo="garage tv.png",Garage TV
-http://tvultimate.ddns.net/LIVE/H01/CANAL269/PROFILE02.m3u8?tvultimate=%2F.ts
-
-
-#EXTINF:-1 tvg-logo="canal once.png",Canal Once
-http://www.oncetvmexicolive.tv:1935/livepkgr2/smil:int.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="canal once.png",Canal Once HD
-http://tvultimate.ddns.net/LIVE/H01/CANAL111/PROFILE05.m3u8?tvultimate=%2F.ts
-
-
-
-#EXTINF:-1 tvg-logo="foro tv HD.png",Foro TV
-http://tvultimate.ddns.net/LIVE/H01/CANAL104/PROFILE05.m3u8?tvultimate=%2F.ts
-
-#EXTINF:-1 tvg-logo="teleformula.png",TeleFormula
-http://tvultimate.ddns.net/LIVE/H01/CANAL161/PROFILE05.m3u8?tvultimate=%2F.ts
-
-
-
-#EXTINF:-1 tvg-logo="tvultimate.png",PX TV
-http://tvultimate.ddns.net/LIVE/H01/CANAL528/PROFILE05.m3u8?tvultimate=%2F.ts
-
-
-
-
-
-#EXTINF:-1 tvg-logo="people.png",News People tv 
-http://149.11.34.78:1935/live/newspeopletv.stream/hasbahca.m3u8
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1,[COLOR red]----------[/COLOR][COLOR blue]Canales[/COLOR][COLOR skyblue]PREMIUM[/COLOR][COLOR red]--------------[/COLOR]
-http://t.tvultimate.mx
-#EXTINF:-1 tvg-logo="tvultimate.png" group-title="ULTIMATE PREMIUM",Golder Premier 1
-http://t.tvultimate.mx/1JC6KxZ
-#EXTINF:-1 tvg-logo="tvultimate.png" group-title="ULTIMATE PREMIUM",Golden Premier 2
-http://t.tvultimate.mx/1ZU4o1v
-#EXTINF:-1 tvg-logo="tvultimate.png" group-title="ULTIMATE PREMIUM",Max Prime Este
-http://t.tvultimate.mx/1RBwg7H
-#EXTINF:-1 tvg-logo="tvultimate.png" group-title="ULTIMATE PREMIUM",Max Prime Oeste
-http://t.tvultimate.mx/1ZU4ExF
-
-
-#EXTINF:0 tvg-logo="HBO.png",HBO Family  [COLOR red]OFFLINE[/COLOR]
-http://OFFLINE.com
-
-#EXTINF:0 tvg-logo="hbo plus.png",HBO Plus [COLOR red]OFFLINE[/COLOR]
-http://OFFLINE.com
-
-#EXTINF:0 tvg-logo="hbo2.png",HBO 2  [COLOR red]OFFLINE[/COLOR]
-http://OFFLINE.com
-
-#EXTINF:0 tvg-logo="HBO.png",HBO Signature  [COLOR red]OFFLINE[/COLOR]
-http://OFFLINE.com
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1,[COLOR red]----------[/COLOR][COLOR blue]Canales[/COLOR][COLOR skyblue] España[/COLOR][COLOR red]--------------[/COLOR]
-http://t.tvultimate.mx
-
-#EXTINF:-1 tvg-logo="tvultimate.png",Antena 3
-http://t.tvultimate.mx/1ZjqP3h
-
-
-
-#EXTINF:-1,[COLOR red]----------[/COLOR][COLOR blue]Canales[/COLOR][COLOR skyblue]Peliculas 24/7[/COLOR][COLOR red]--------------[/COLOR]
-http://t.tvultimate.mx
-#EXTINF:-1 tvg-logo="tvultimate.png",Peliculas 
-http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8
-
-
-#EXTINF:-1,[COLOR red]----------[/COLOR][COLOR blue]Canales[/COLOR][COLOR skyblue]Puerto Rico[/COLOR][COLOR red]--------------[/COLOR]
-http://t.tvultimate.mx
-#EXTINF:-1 tvg-logo="telemundo.png",Telemundo  [COLOR red]OFFLINE[/COLOR]
-http://t.tvultimate.mx
-
-
-
-
-#EXTINF:-1,[COLOR red]----------[/COLOR][COLOR blue]Canales[/COLOR][COLOR skyblue]Peruanos[/COLOR][COLOR red]--------------[/COLOR]
-http://t.tvultimate.mx
-#EXTINF:-1 tvg-logo="tvultimate.png",Per:AMERICA TV HD 
-http://ooyalahd2-f.akamaihd.net/i/atv02_delivery@25405/index_564_av-p.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1,[COLOR red]----------[/COLOR][COLOR blue]Canales[/COLOR][COLOR skyblue]Musica[/COLOR][COLOR red]--------------[/COLOR]
-http://t.tvultimate.mx
-#EXTINF:-1 tvg-logo="musica.png" group-title="Audio - Radio",80's USA
-http://buecrplb01.cienradios.com.ar/Los_Numero_1_de_los_80_USA_32000.aac
-#EXTINF:-1 tvg-logo="musica.png" group-title="Audio - Radio",90's Internacional
-http://buecrplb01.cienradios.com.ar/90_Internacional_32000.aac
-#EXTINF:-1 tvg-logo="musica.png" group-title="Audio - Radio",Baladas
-http://buecrplb01.cienradios.com.ar/Power_Ballads_32000.aac
-#EXTINF:-1 tvg-logo="musica.png" group-title="Audio - Radio",Chillout
-http://buecrplb01.cienradios.com.ar/Chillout_32000.aac
-#EXTINF:-1 tvg-logo="musica.png" group-title="Audio - Radio",Clasica
-http://buecrplb01.cienradios.com.ar/Clasica_32000.aac
-#EXTINF:-1 tvg-logo="musica.png",Clasica Cine
-http://buecrplb01.cienradios.com.ar/Classic_Cinema_32000.aac
-#EXTINF:-1 tvg-logo="musica.png" group-title="Audio - Radio",Estrenos
-http://buecrplb01.cienradios.com.ar/Estrenos_32000.aac
-#EXTINF:-1 tvg-logo="musica.png" group-title="Audio - Radio",Electronica
-http://buecrplb01.cienradios.com.ar/Electronico_32000.aac
-#EXTINF:-1 tvg-logo="musica.png" group-title="Audio - Radio",Fiesta Dance
-http://buecrplb01.cienradios.com.ar/Fiesta_Dance_32000.aac
-#EXTINF:-1 tvg-logo="musica.png" group-title="Audio - Radio"",Lentos
-http://buecrplb01.cienradios.com.ar/Lentos_32000.aac
-#EXTINF:-1 tvg-logo="musica.png" group-title="Audio - Radio",Live music
-http://buecrplb01.cienradios.com.ar/Vivo_32000.aac
-#EXTINF:-1 tvg-logo="musica.png" group-title="Audio - Radio",Top 40
-http://buecrplb01.cienradios.com.ar/Top_40_32000.aac
-#EXTINF:-1 tvg-logo="musica.png" group-title="Audio - Radio",Top Europa
-http://buecrplb01.cienradios.com.ar/Top_Europa_32000.aac
-
-#EXTINF:-1 tvg-logo="musica.png",Best of the 60's
-http://pub7.radiotunes.com:80/radiotunes_hit60s?c99c0d59b19e3b7c9f99d515
-#EXTINF:-1 tvg-logo="musica.png",Classic Hip-Hop
-http://pub8.radiotunes.com:80/radiotunes_classicrap?c99c0d59b19e3b7c9f99d515
-#EXTINF:-1 tvg-logo="musica.png"1,90's R&B1
-http://pub2.radiotunes.com:80/radiotunes_90srnb?c99c0d59b19e3b7c9f99d515
-#EXTINF:1 tvg-logo="musica.png",Romantica
-http://pub2.radiotunes.com:80/radiotunes_romantica?c99c0d59b19e3b7c9f99d515
-#EXTINF:1 tvg-logo="musica.png",Dance Hits
-http://pub1.radiotunes.com:80/radiotunes_dancehits?c99c0d59b19e3b7c9f99d515
-#EXTINF:1 tvg-logo="musica.png",Hit 70's
-http://pub6.radiotunes.com:80/radiotunes_hit70s?c99c0d59b19e3b7c9f99d515
-#EXTINF:1 tvg-logo="musica.png",60's Rock
-http://pub7.radiotunes.com:80/radiotunes_60srock?c99c0d59b19e3b7c9f99d515
-#EXTINF:1 tvg-logo="musica.png",Oldies
-http://pub7.radiotunes.com:80/radiotunes_oldies?c99c0d59b19e3b7c9f99d515
-#EXTINF:1 tvg-logo="musica.png",Best of the 80's
-http://pub7.radiotunes.com:80/radiotunes_the80s?c99c0d59b19e3b7c9f99d515
-#EXTINF:1 tvg-logo="musica.png",Country
-http://pub8.radiotunes.com:80/radiotunes_country?c99c0d59b19e3b7c9f99d515
-#EXTINF:1 tvg-logo="musica.png",World
-http://pub8.radiotunes.com:80/radiotunes_world?c99c0d59b19e3b7c9f99d515
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1,***Canales America***
+
+#EXTINF:-1 tvg-id="Total_Cinecanal (W)" tvg-name="Cinecanal_(W)" tvg-logo="cinecanal-(W).png" group-title="Español",Cinecanal
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL480/PROFILE03.m3u8
+#EXTINF:-1 tvg-id="Total_Cinemax (W)" tvg-name="Cinemax_(W)" tvg-logo="cinemax-(w).png" group-title="Español",Cinemax
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL481/PROFILE03.m3u8
+#EXTINF:-1 tvg-id="Total_TNT" tvg-name="TNT" tvg-logo="tnt.png" group-title="Español",TNT
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL482/PROFILE03.m3u8
+#EXTINF:-1 tvg-id="Total_Golden Edge" tvg-name="Golden_Edge" tvg-logo="golden-edge.png" group-title="Español",Golden Edge
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL484/PROFILE03.m3u8
+#EXTINF:-1 tvg-id="Total_AMC HD" tvg-name="AMC_HD" tvg-logo="amchd.png" group-title="Español",AMC
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL490/PROFILE03.m3u8
+#EXTINF:-1 tvg-id="Total_Space" tvg-name="Space" tvg-logo="space.png" group-title="Español",Space
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL491/PROFILE03.m3u8
+#EXTINF:-1 tvg-id="Total_Studio Universal" tvg-name="Studio_Universal" tvg-logo="studio-universal.png" group-title="Español",Studio Universal
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL492/PROFILE03.m3u8
+#EXTINF:-1 tvg-id="Total_I.Sat" tvg-name="I.Sat" tvg-logo="i.sat.png" group-title="Español",I.Sat
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL495/PROFILE03.m3u8
+#EXTINF:-1 tvg-id="Total_TCM" tvg-name="TCM" tvg-logo="tcm.png" group-title="Español",TCM
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL496/PROFILE03.m3u8
+#EXTINF:-1 tvg-id="Total_Fox Sports HD" tvg-name="Fox_Sports_HD" tvg-logo="fox-sports-hd.png" group-title="Español",Fox Sports HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL522/PROFILE03.m3u8
+#EXTINF:-1 tvg-id="Total_PX" tvg-name="PX" tvg-logo="px.png" group-title="Español",PX
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL528/PROFILE03.m3u8
+#EXTINF:-1 tvg-id="Total_Fox Sports 2 HD" tvg-name="Fox_Sports_2_HD" tvg-logo="fox-sports-2-hd.png" group-title="Español",Fox Sports 2 HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL527/PROFILE03.m3u8
+#EXTINF:-1 tvg-id="Total_ESPN HD" tvg-name="ESPN_HD" tvg-logo="espn-hd.png" group-title="Español",ESPN HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL516/PROFILE03.m3u8
+#EXTINF:-1 tvg-id="Total_ESPN HD" tvg-name="ESPN_HD" tvg-logo="espn.png" group-title="Español",ESPN
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL558/PROFILE03.m3u8
+#EXTINF:-1 tvg-id="Total_ESPN 2" tvg-name="ESPN_2" tvg-logo="espn-2.png" group-title="Español",ESPN 2
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL561/PROFILE03.m3u8
+#EXTINF:-1 tvg-id="Total_ESPN 3 HD" tvg-name="ESPN_3_HD" tvg-logo="espn-3-hd.png" group-title="Español",ESPN 3 HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL520/PROFILE03.m3u8
+#EXTINF:-1 tvg-id="Total_AyM Sports" tvg-name="AyM_Sports" tvg-logo="aym-sports.png" group-title="Español",AyM Sports
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL576/PROFILE03.m3u8
+#EXTINF:-1 tvg-id="Total_Milenio TV" tvg-name="Milenio_TV" tvg-logo="milenio-tv.png" group-title="Español",Milenio TV
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL603/PROFILE03.m3u8
+#EXTINF:-1 tvg-id="MC2xml_I630.44563402.microsoft.com" tvg-name="BTV630_BTV630bloomberg_en_espanolCable" tvg-logo="bloomberg.png" group-title="Español",Bloomberg
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL610/PROFILE03.m3u8
+#EXTINF:-1 tvg-id="Total_TVE" tvg-name="TVE" tvg-logo="tve.png" group-title="Español",TVE
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL651/PROFILE03.m3u8
+#EXTINF:-1 tvg-id="Total_MTV Live HD" tvg-name="MTV_Live_HD" tvg-logo="mtv-live-hd.png" group-title="Español",MTV Live HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL701/PROFILE03.m3u8
+#EXTINF:-1 tvg-id="Total_Telehit HD" tvg-name="Telehit_HD" tvg-logo="telehit-hd.png" group-title="Español",Telehit HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL702/PROFILE03.m3u8
+#EXTINF:-1 tvg-id="Total_VH1 HD" tvg-name="VH1_HD" tvg-logo="vh1-hd.png" group-title="Español",VH1 HD
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL703/PROFILE03.m3u8
+#EXTINF:-1 tvg-id="Total_MTV" tvg-name="MTV" tvg-logo="mtv.png" group-title="Español",MTV
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL726/PROFILE03.m3u8
+#EXTINF:-1 tvg-id="MC2xml_I727.235634313.microsoft.com" tvg-name="MTVHTLA727_MTVHTLA727mtv_hits_latin_americaCable" tvg-logo="mtv-hits.png" group-title="Español",MTV Hits
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL727/PROFILE03.m3u8
+#EXTINF:-1 tvg-id="MC2xml_I728.217704455.microsoft.com" tvg-name="VH1CL728_VH1CL728vh1_classicCable" tvg-logo="vh1-classisc.png" group-title="Español",VH1 Classisc
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL728/PROFILE03.m3u8
+#EXTINF:-1 tvg-id="Total_Ritmoson Latino" tvg-name="Ritmoson_Latino" tvg-logo="ritmoson-latino.png" group-title="Español",Ritmoson Latino
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL731/PROFILE03.m3u8
+#EXTINF:-1 tvg-id="Total_Bandamax" tvg-name="Bandamax" tvg-logo="bandamax.png" group-title="Español",Bandamax
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL732/PROFILE03.m3u8
+#EXTINF:-1,VEVO Channel 1
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8?
+#EXTINF:-1,VEVO Channel 2
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8?
+#EXTINF:-1,VEVO Channel 3
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8?
 
 
 
