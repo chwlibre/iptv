@@ -1,360 +1,92 @@
 #EXTM3U
-
-#EXTINF: -1,LOS SIMPSONS 24/7
-http://iptvnation.com/simpsonslat.mp4?
-
-#EXTINF:0,-Nacionales-
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/la_red_cl_zpstevkunxj.png" group-title="NACIONALES",La Red 
-http://movilstream.digitalproserver.com:443/redtv/redtvvivo/livestream2/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/ucv_tv_cl_zpsquly9vvk.png" group-title="NACIONALES",UCV 
-http://movilstream.digitalproserver.com/ucvtv/ucvtv.smil/chunklist-b1248000.m3u8
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/tvn_cl_zpsctcjmoub.png" group-title="NACIONALES",TVN 
-http://tvn-vod.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/tvn_cl_zpsctcjmoub.png" group-title="NACIONALES",TVN Internacional
-http://edge-11-mvstr.edge.mdstrm.com/tvn-live/smil:285a5c6dade574d5f111419c85c6cf17/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/mega_zpspdvnwvzq.png" group-title="NACIONALES",Mega 
-http://edge-12-cl.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist_b1500.m3u8
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/chilevision_cl_zpsx06ngmet.png" group-title="NACIONALES",CHV 
-http://live.hls.http.chv.ztreaming.com/chvhddesktop/chvHi.m3u8
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/canal13_cl_zpsckqtjlod.png" group-title="NACIONALES",Canal 13 
-http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/canal13_cl_zpsckqtjlod.png" group-title="NACIONALES",Canal 13 OP2
-http://13.live.cdn.cl/13hddesktop/13hd-900.m3u8
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/canal13_c_cl_zpsoueja6s7.png" group-title="NACIONALES", C13 Cable
-http://cluster.13cmovil.ztreaming.com/13cm/grpz13c/playlist.m3u8
-
-#EXTINF:0,-Deportes-
-
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/GItbD_zpsiqiln6to.png" group-title="DEPORTES",Win Sports 
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1_manifest.m3u8
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/deportv_zpslussgupq.png" group-title="DEPORTES",DXTV 
-http://186.33.227.200/DXTV/smil:DXTV.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNy8yMDE1IDEyOjM5OjEwIFBNJmhhc2hfdmFsdWU9enNzd2E
-#EXTINF:-1 tvg-logo="http://hogar.movistar.cl/negocios/iptv/imagenes/logo_cdo_premium.png" group-title="DEPORTES",Canal Deporte Olimpico 
-http://wow2.cl.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist_w913906597_b1064000.m3u8
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-mQ5ExtgPocI/VQGKsysRaFI/AAAAAAAAAv4/qwfSutHzw84/s1600/America%2BSports.gif" group-title="DEPORTES", AM Sport 
-http://iphone-streaming.ustream.tv/uhls/11602466/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.cmdsport.com/app/uploads/2014/08/logo.png" group-title="DEPORTES", CMD Sport 
-http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
-
-#EXTINF:0,-Musica-
-
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/logo-mimusica_zpsvx6th2vd.png" group-title="MUSICA",Mi Musica 
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8?
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/tigo_zps9u7l0tan.png" group-title="MUSICA",Tigo Musica 
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8?
-#EXTINF:-1 group-title="MUSICA",Onda Latina
-http://ondalatina_tv-lh.akamaihd.net/i/OndaLatinaTv_1@42007/master.m3u8
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/LOGO%20SOY_zpsisgggxcc.png" group-title="MUSICA",Soy Fm Tv 
-http://cdn6.iviplanet.com:1935/SoyFM/myStream.sdp/playlist.m3u8
-#EXTINF:0 group-title="MUSICA",Musica SI 
-http://hd.worldkast.com:1935/8436/8436/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/heart_zps86mbd2bk.png" group-title="MUSICA",Heart Tv 
-http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8#MegaIPTVArgentina
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/Capital_TV_logo_zps1ig6vz5n.png" group-title="MUSICA",Capital Tv 
-http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/Dream_TV_logosu_zpsevw5lbw6.png" group-title="MUSICA",Dream 
-http://212.224.108.80/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/logo_zpsfrnussgx.png" group-title="MUSICA",Amazing Tv 
-http://redir.atmcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8?sessionId=ABA74CBC0702307FF0B559F938FC9B21.node1&stream=2
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/virgin_media_logo1_zps2ck3knwp.png" group-title="MUSICA",Virgin Tv 
-http://wow01.105.net/live/virgin1/.m3u8
-#EXTINF:-1 group-title="MUSICA",Ibiza 
-http://www.djing.com/tv/ibiza.m3u8
-#EXTINF:-1 group-title="MUSICA",Film on Tv 
-http://204.107.26.252:1935/live/691.high.stream/HasBahCa.m3u8
-#EXTINF:-1 group-title="MUSICA",Vevo Hits 
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/04/prog_index.m3u8
-#EXTINF:-1 group-title="MUSICA",Vevo Flow 
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/04/prog_index.m3u8
-#EXTINF:-1 group-title="MUSICA",Vevo Nashville 
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/04/prog_index.m3u8
-#EXTINF:-1 group-title="MUSICA",Heavy Metal Tv 
-http://70.166.98.130:1935/hmtv/myStream/playlist.m3u8
-
-#EXTINF:0,-Radios-
-
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/caro_zps8qfrszg9.png" group-title="RADIOS",Radio Carolina 
-http://movilstream.digitalproserver.com/freakytv//freakytv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://radioenvivo.me/wp-content/uploads/2013/11/radio-activa-chile.jpg" group-title="RADIOS",Radio Activa
-http://5143.live.streamtheworld.com/ACTIVAAAC?swf
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/615785130636894208/1ChFYeDN.jpg" group-title="RADIOS",Radio Fantastico
-http://panel.dattalive.com:1935/8076/8076/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s171699q.png" group-title="RADIOS",Fm Pasion
-http://streamlky.alsolnet.com:443/fmpasion
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/84184_zpsd0gzhp6h.png" group-title="RADIOS",Radio Duna 
-http://wow1.dallas.digitalproserver.com/dunatv/dunatvvivo/dunatv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/s98741q_zps0vnfywxj.png" group-title="RADIOS",Radio Tiempo 
-http://movilstream.digitalproserver.com/tiempotv/tiempotvvivo/tiempotv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/logo-zero-light_zpstwvtq006.png" group-title="RADIOS",Radio Zero 
-http://movilstream.digitalproserver.com/zerotv/zerotvvivo/zerotv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/mqdefault_zpsdijxexti.jpg" group-title="RADIOS",Radio la Clave 
-http://movilstream.digitalproserver.com/laclavetv/laclavetvvivo/laclavetv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/Tele13_Radio_zpspn4m8raf.png" group-title="RADIOS",Tele13 Radio 
-http://cdn.ztreaming.com/t13radio/mobile.m3u8
-
-#EXTINF:0,DISCOVERY THEATER
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL351/PROFILE03.m3u8
-#EXTINF:0,HISTORY
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL353/PROFILE03.m3u8
-#EXTINF:0,NATGEO WILD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL355/PROFILE03.m3u8
-#EXTINF:0,DISCOVERY WORLD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL356/PROFILE03.m3u8
-#EXTINF:0,DISCOVERY CHANNEL
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL371/PROFILE03.m3u8
-#EXTINF:0,ANIMAL PLANET
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL373/PROFILE03.m3u8
-#EXTINF:0,H&H
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL374/PROFILE03.m3u8
-#EXTINF:0,NATGEO
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL377/PROFILE03.m3u8
-#EXTINF:0,LIFETIME
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL379/PROFILE03.m3u8
-#EXTINF:0, DISCOVERY SCIENCE
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL381/PROFILE03.m3u8
-#EXTINF:0,DISCOVERY CIVILIZATION
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL382/PROFILE03.m3u8
-#EXTINF:0,DISCOVERY TURBO
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL383/PROFILE03.m3u8
-#EXTINF:0,TLC
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL386/PROFILE03.m3u8
-#EXTINF:0,WOBI
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL387/PROFILE03.m3u8
-#EXTINF:0,EL FINANCIERO BLOOMERANG
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL610/PROFILE03.m3u8
-#EXTINF:0,DISCOVERY THEATER HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL351/PROFILE05.m3u8
-#EXTINF:0,HISTORY HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL353/PROFILE05.m3u8
-#EXTINF:0,NATGEO WILD HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL355/PROFILE05.m3u8
-#EXTINF:0,DISCOVERY WORLD HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL356/PROFILE05.m3u8
-#EXTINF:0,DISCOVERY CHANNEL HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL371/PROFILE05.m3u8
-#EXTINF:0,ANIMAL PLANET HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL373/PROFILE05.m3u8
-#EXTINF:0,H&H HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL374/PROFILE05.m3u8
-#EXTINF:0,NATGEO HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL377/PROFILE05.m3u8
-#EXTINF:0,LIFETIME HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL379/PROFILE05.m3u8
-#EXTINF:0, DISCOVERY SCIENCE HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL381/PROFILE05.m3u8
-#EXTINF:0,DISCOVERY CIVILIZATION HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL382/PROFILE05.m3u8
-#EXTINF:0,DISCOVERY TURBO HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL383/PROFILE05.m3u8
-#EXTINF:0,TLC HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL386/PROFILE05.m3u8
-#EXTINF:0,WOBI HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL387/PROFILE05.m3u8
-#EXTINF:0,EL FINANCIERO BLOOMERANG HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL610/PROFILE05.m3u8
-#EXTINF:0,ESPN +
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL516/PROFILE03.m3u8
-#EXTINF:0,ESPN 3
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL520/PROFILE03.m3u8
-#EXTINF:0,FOX SPORTS
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL522/PROFILE03.m3u8
-#EXTINF:0,FOX SPORTS 2
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL527/PROFILE03.m3u8
-#EXTINF:0,PX
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL528/PROFILE03.m3u8
-#EXTINF:0,ESPN
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL558/PROFILE03.m3u8
-#EXTINF:0,ESPN 2
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL561/PROFILE03.m3u8
-#EXTINF:0,ESPN + HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL516/PROFILE05.m3u8
-#EXTINF:0,ESPN 3 HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL520/PROFILE05.m3u8
-#EXTINF:0,FOX SPORTS HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL522/PROFILE05.m3u8
-#EXTINF:0,FOX SPORTS 2 HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL527/PROFILE05.m3u8
-#EXTINF:0,PX HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL528/PROFILE05.m3u8
-#EXTINF:0,ESPN HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL558/PROFILE05.m3u8
-#EXTINF:0,ESPN 2 HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL561/PROFILE05.m3u8
-#EXTINF:0,FOX HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL201/PROFILE03.m3u8
-#EXTINF:0,SONY
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL203/PROFILE03.m3u8
-#EXTINF:0,WB
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL205/PROFILE03.m3u8
-#EXTINF:0,UNIVERSAL HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL207/PROFILE03.m3u8
-#EXTINF:0,FX HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL209/PROFILE03.m3u8
-#EXTINF:0,A&E HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL211/PROFILE03.m3u8
-#EXTINF:0,AXN HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL213/PROFILE03.m3u8
-#EXTINF:0,TRUTV HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL215/PROFILE03.m3u8
-#EXTINF:0,COMEDY CENTRAL
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL217/PROFILE03.m3u8
-#EXTINF:0,UNICABLE
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL218/PROFILE03.m3u8
-#EXTINF:0,HOLATV
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL219/PROFILE03.m3u8
-#EXTINF:0,FASHIONTV
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL220/PROFILE03.m3u8
-#EXTINF:0,AZCORAZON
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL250/PROFILE03.m3u8
-#EXTINF:0,FOX
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL251/PROFILE03.m3u8
-#EXTINF:0,BBC ENTRETAINMENT
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL253/PROFILE03.m3u8
-#EXTINF:0,E!
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL255/PROFILE03.m3u8
-#EXTINF:0,UNIVERSAL
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL256/PROFILE03.m3u8
-#EXTINF:0,SYFY
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL257/PROFILE03.m3u8
-#EXTINF:0,FX
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL258/PROFILE03.m3u8
-#EXTINF:0,ID
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL263/PROFILE03.m3u8
-#EXTINF:0,TNT SERIES
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL266/PROFILE03.m3u8
-#EXTINF:0,EL GOURMET
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL268/PROFILE03.m3u8
-#EXTINF:0,GARAGE TV
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL269/PROFILE03.m3u8
-#EXTINF:0,GLITZ
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL270/PROFILE03.m3u8
-#EXTINF:0,FOXLIFE
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL271/PROFILE03.m3u8
-#EXTINF:0,DISTRITO COMEDIA
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL272/PROFILE03.m3u8
-#EXTINF:0,TBS
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL273/PROFILE03.m3u8
-#EXTINF:0,TLNOVELAS
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL275/PROFILE03.m3u8
-#EXTINF:0,tve
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL651/PROFILE03.m3u8
-#EXTINF:0,CANAL DE LAS ESTRELLAS
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL102/PROFILE03.m3u8
-#EXTINF:0,CANAL 5
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL105/PROFILE03.m3u8
-#EXTINF:0,AZTECA 7
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL107/PROFILE03.m3u8
-#EXTINF:0,GALAVISION
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL109/PROFILE03.m3u8
-#EXTINF:0,ONCE TV
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL111/PROFILE03.m3u8
-#EXTINF:0,AZTECA 13
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL113/PROFILE03.m3u8
-#EXTINF:0,CANAL 40
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL140/PROFILE03.m3u8
-#EXTINF:0,MULTIMEDIOS TV
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL167/PROFILE03.m3u8
-#EXTINF:0,AZCLIC
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL725/PROFILE03.m3u8
-#EXTINF:0,CANAL DE LAS ESTRELLAS HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL102/PROFILE05.m3u8
-#EXTINF:0,CANAL 5 HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL105/PROFILE05.m3u8
-#EXTINF:0,AZTECA 7 HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL107/PROFILE05.m3u8
-#EXTINF:0,GALAVISION HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL109/PROFILE05.m3u8
-#EXTINF:0,ONCE TV HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL111/PROFILE05.m3u8
-#EXTINF:0,AZTECA 13 HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL113/PROFILE05.m3u8
-#EXTINF:0,CANAL 40 HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL140/PROFILE05.m3u8
-#EXTINF:0,MULTIMEDIOS TV HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL167/PROFILE05.m3u8
-#EXTINF:0,AZCLIC HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL725/PROFILE05.m3u8
-#EXTINF:0,FOX 1 HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL415/PROFILE03.m3u8
-#EXTINF:0,FOX ACTION HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL416/PROFILE03.m3u8
-#EXTINF:0,FOX MOVIES HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL417/PROFILE03.m3u8
-#EXTINF:0,FOX CINEMA
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL421/PROFILE03.m3u8
-#EXTINF:0,FOX CLASSIC
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL424/PROFILE03.m3u8
-#EXTINF:0,AZCINEMA
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL425/PROFILE03.m3u8
-#EXTINF:0,CINECANAL
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL430/PROFILE03.m3u8
-#EXTINF:0,TNT
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL435/PROFILE03.m3u8
-#EXTINF:0,GOLDEN
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL436/PROFILE03.m3u8
-#EXTINF:0,FILMZONE
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL440/PROFILE03.m3u8
-#EXTINF:0,DEPELICULA
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL442/PROFILE03.m3u8
-#EXTINF:0,AMC
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL444/PROFILE03.m3u8
-#EXTINF:0,SPACE
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL445/PROFILE03.m3u8
-#EXTINF:0,FOXCINEMA
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL472/PROFILE03.m3u8
-#EXTINF:0,FOXCLASSIC
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL478/PROFILE03.m3u8
-#EXTINF:0,CINECANAL
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL480/PROFILE03.m3u8
-#EXTINF:0,CINEMAX
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL481/PROFILE03.m3u8
-#EXTINF:0,TNT
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL482/PROFILE03.m3u8
-#EXTINF:0,EDGE
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL484/PROFILE03.m3u8
-#EXTINF:0,AMC
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL490/PROFILE03.m3u8
-#EXTINF:0,SPACE
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL491/PROFILE03.m3u8
-#EXTINF:0,STUDIOUNIVERSAL
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL492/PROFILE03.m3u8
-#EXTINF:0,I.SAT
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL495/PROFILE03.m3u8
-#EXTINF:0,TCM
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL496/PROFILE03.m3u8
-#EXTINF:0,MTV LIVE
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL701/PROFILE03.m3u8
-#EXTINF:0,TELEHIT
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL702/PROFILE03.m3u8
-#EXTINF:0,VHR
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL703/PROFILE03.m3u8
-#EXTINF:0,MTV
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL726/PROFILE03.m3u8
-#EXTINF:0,MTV HITS
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL727/PROFILE03.m3u8
-#EXTINF:0,1CLASSICS
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL728/PROFILE03.m3u8
-#EXTINF:0,RITMOSON
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL731/PROFILE03.m3u8
-#EXTINF:0,BANDAMAX
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL732/PROFILE03.m3u8
-#EXTINF:0,MTV LIVE HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL701/PROFILE05.m3u8
-#EXTINF:0,TELEHIT HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL702/PROFILE05.m3u8
-#EXTINF:0,VHR HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL703/PROFILE05.m3u8
-#EXTINF:0,MTV HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL726/PROFILE05.m3u8
-#EXTINF:0,MTV HITS HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL727/PROFILE05.m3u8
-#EXTINF:0,1CLASSICS HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL728/PROFILE05.m3u8
-#EXTINF:0,RITMOSON HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL731/PROFILE05.m3u8
-#EXTINF:0,BANDAMAX HD
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL732/PROFILE05.m3u8
-#EXTINF:0,Foro TV
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL104/PROFILE03.m3u8
-#EXTINF:0,MILENIO
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL603/PROFILE03.m3u8 
+#EXTINF:1,CANAL 7
+http://batman.tutvgratis.tv/ch/1011.m3u8?token=oq49lhn1ieha/QSlZ4MY/pkgjPz8n1rnUfU11+tTW5uqm06GDOw6kxBwIgrVU/rYfyVZofNi3fYfs65z7wou+5q27AkjmtW2CjJco//tvhmNBwAsnPRFhTjSr8QXetb5XW//veyTWoR70KFhysaiuxwpp12OHkqE1HxoMMgRaxo=|RcWPeJtkzoHemC7MX49xoj/P0MEB/FKVz2YfHMElSco=.m3u8
+#EXTINF:1,Azteca noticias
+http://aztecalive-lh.akamaihd.net/i/0pd7p6ys0_1@175672/index_3_av-p.m3u8
+#EXTINF:1,CANAL 2
+http://0nlym3x-lh.akamaihd.net/i/c4nst02_1@175273/index_691_av-p.m3u8?sd=10&rebase=on
+#EXTINF:1,CANAL 5
+http://batman.tutvgratis.tv/ch/1167.m3u8?token=9DQXT5vGmRRVeTiG74CXXQMRRzVhYObp7+oF3LvioOgnweGtfT3f54e9BPoCJpcN51jbJCr5j2gtz2SaMDzMobZaE+X/jLpZ1fs8X8NZlbKfnhM5GucXwLehQM51jdcV0wMrg6CAHEKUvNLc4t9zfLli6zd3kaPzXPf3pVty348=|97jZ+X1+ZczLY5tVXkGiwZzWKKcSjuh/exaViObC5R0=.m3u8
+#EXTINF:1,CANAL Cartoon Network
+http://batman.tutvgratis.tv/ch/1483.m3u8?token=0yeB1NEOcZLU9UNM0NgEa9rWWNExdl6WBRJ3d9B0RcRlzls6jKYgmAOWqJvP7Uu2J4LHr/eFhXt62hzK9w5Lwuq0hqoUPuLVosJoLjJjm59tPiSbAku1wqDf7t5MLImFAsDlN+DEnC7em646ud091d7cf+vwf73Flu4Yqku6svA=|K4TM5fLGgbdMPIvcaSt5B563Ipp87+33nph/EFF48g0=.m3u8
+#EXTINF:1,CANAL comedy central
+http://batman.tutvgratis.tv/ch/1359.m3u8?token=w4ufBrrnCC1Cr49gBC6oXOh27Hwcc2ga82taGFztRxL1lofziuZYoUBgcNRSM6RyA22udIfmkYrb4P7lZbPXhHD+p9AoE20MW0H5j/qm3jGbYN5So6/76Wh8VCjwNPp6wS4Cgt0qDUp1zGTRHhKReR5Y8PLMqexcQlng8jgHpAI=|xHotODuh5AWcbXpOuPz6XJ89VlLBiHYEAVllDBPuucI=.m3u8
+#EXTINF:1,cine canal
+http://batman.tutvgratis.tv/ch/1583.m3u8?token=FK6sgrJo8X6Q9a6Bws56Jks7EpYYPMLbjWaAMve/AcF2X+81iq17z+U6E4nUNjkdoTU6F37PhafsaNoNkLqQo5uxiOj5L1volPBxGi9ni6zzAxebnKGvk7YlIEdcXotS2OOjhT06j2lHIUhJrwahyyAp0B3zTobPt/qbQB1PcXw=|qQjy1h07arusxECbpN+QssjngrhFCdakidwPDxelX44=.m3u8
+#EXTINF:1,CANAL 5
+http://batman.tutvgratis.tv/ch/1167.m3u8?token=9DQXT5vGmRRVeTiG74CXXQMRRzVhYObp7+oF3LvioOgnweGtfT3f54e9BPoCJpcN51jbJCr5j2gtz2SaMDzMobZaE+X/jLpZ1fs8X8NZlbKfnhM5GucXwLehQM51jdcV0wMrg6CAHEKUvNLc4t9zfLli6zd3kaPzXPf3pVty348=|97jZ+X1+ZczLY5tVXkGiwZzWKKcSjuh/exaViObC5R0=.m3u8
+#EXTINF:1,A&E
+http://batman.tutvgratis.tv/ch/1346.m3u8?token=eJjf0Pc6SIgOqV7rTKHrVFRa/LQs4j5iE1WEJ3G4iRobFcTIk860tXnyBsTh3c0M1/pZNPDvX+0QqqKCqAaqdtDFEwfk7AA+ZdVSxppqPhZdpDSjBpe2TciotH8iJF/MJAe1die8W2/6fikO+31IDYIiGwx7E9xSIFx409XWnKE=|NV5H4sXSv+TlpyN/1POCaqGVp9svEr225MaGmLMoicA=.m3u8
+#EXTINF:1,Animal Planet
+http://batman.tutvgratis.tv/ch/1522.m3u8?token=bBmGRx4tXbmdce5AmGo7RWhJsE5P24c/GKPGUBxmJ3M9RlcG7selB3BqyEGgjqRkZSukh2xOYyd1WFlGXKSdlYH89jVy1Ie7E3XfGJtoTAR35QgxKhwm5JVr0xqgDWq9rM4L8lTphSZyDnRXBnI+/kRQh2tB6LQk36WZRpUGNWc=|Pihe2vNjlikwAKT25eP/vCNtnm1wy7+W+7VjQL/rGqc=.m3u8
+#EXTINF:1,AXN
+http://batman.tutvgratis.tv/ch/1350.m3u8?token=DLw/fqwNsv6kxxwWDNNW36GAB1DR0oQ8a95QVAPZ0/lZr87SVaIzIh+Mc/OIT1MgWGXcpBpHkU8u+togeRsYqFuPVHL9vwZ+z+IBiugbQJmYbbdLGpGJmRVlYKyBuy/mwT257Jlj+6hn0Z0TMWbC7QfdE4WFrL8s72B+i8OFWWA=|rRAiB28Y0kmttcv34qVBp4soAg8wj1KNgZi7ZDfAYsw=.m3u8
+#EXTINF:1,BandaMax
+http://batman.tutvgratis.tv/ch/1730.m3u8?token=66BA3K3ymhL7N3o5Kap8+OpzElgZLhHBKgEGaSre4UjFf4PDs3b2c6pIEp/jlevcxEzE5DEjxVDCwzd268em2e706GeeE1HxXXrwxmiG+VVpOOqxtHLu22KWWbmJ4FUvviJJYOlwlEMQZGKpHIxEjw5KmeEZJOi47ALIhcsCRqI=|VfTq8utTbY1ktZ0qfYmVNkz6z3e48EJqQCrSn8e9358=.m3u8
+#EXTINF:1,canal 22
+http://livestream-f.akamaihd.net/16458468_4574813_65908958_1_646@39006?v=3.8.0&fp=WIN%2021,0,0,242&r=SBMAO&g=GMQCFEVRCPKU
+#EXTINF:1,CANAL 44
+http://canal44-lh.akamaihd.net/i/ch_canal44@325633/index_500k_av-b.m3u8?sd=10&rebase=on
+#EXTINF:1,Canal 52
+http://stream.ssh101.com:1935/live/CANAL52MX/chunklist.m3u8?token=vzDxIHqqitYTrr5A0tBGtUDriRTYL+DJCgY5c6GVSrSyuSwqH6MfVsJcTM7C0Qfu7BUhr%2FMuNrfmf6uuvS7AREluNIm7cThqnOSZxl5BS0DSaVmdjDJMNt29hwgUVDTlRLFZY1fGne0pFMbqaFiprVkd%2FDCodMc8Gbp+r2IQDxk%3D%7CYQgECRWpXqjEt4BzuRpOIokH15p6EZU9EU0AAMnlytw%3D.m3u8
+#EXTINF:1,Cartoon Network
+http://batman.tutvgratis.tv/ch/1483.m3u8?token=vuZvrKwFM/6sIHu4bSCcj+6uquFfyLmneJ94kS72w7Rh7YmIJR3uZCyFX2xmcGxy5XdKXzgKI7IncwORivUZMH55pagqDmy43tFRMu2deiD+u2B9x5lpGgvL8Q8zrTbqLFAvqon610HBue+HUQVZn4Uf0BhEZA4b5h6/l8CxAug=|40bnzSEj7ZTby9A7nz28w4ZbH4hnq9RhljvVf7zBbBc=.m3u8
+#EXTINF:1,discovery kids
+http://batman.tutvgratis.tv/ch/1451.m3u8?token=dxa/V+7Sgn/YObNo7qSJF119/jj8T2KsH1WV9xRdt7gROSs9dIgTAt4esqlLxc351u9pcOwuyt0GhIFJAtsV5EC9hkytELfBTQ1BqnOSzhG5yaOFOC7A7A7frTWN89GQxsE0vxDRPDQN3MEdGoFlySe67GZJ4KvtMvD2w8wz5hI=|QAJtiiq46a1qiYemUyVPKqWJV2ICMR2+2EHjFpg0tSo=.m3u8
+#EXTINF:1,cinematvplay
+http://servicioamerica.net:1935/cinematvplays/cinematvplays/chunklist_w1995939705.m3u8?token=yfU+kLqLqfZ31Yx5RgwFWADDQsAtzsn0JyAjDqCTXxRwvMGtx37LIVQo4lZqfP3TwZ6g0fs9MPq379+5bsFQ2fbTCNgZfX+5b3kujpkuCEOWlgC8Va2VBSkeUQLrGWnubuXDVIfwcmiXQA9Bp%2F%2FCePR8oSp3rXvGlAZnJRHEhps%3D%7CJu5jp+owWgLfUUCUo40DFq11rtqgA03rE0tVrZWyNss%3D.m3u8
+#EXTINF:1,disney channel
+http://batman.tutvgratis.tv/ch/1467.m3u8?token=RgOP+bzZ6M+l7OX3+4/iAx/u9NT5CrDpwCGCtSzXF2RaKWq+8IrbBKBY/1+r6IC3vg62owhWaaNUwS7f4RmMs76eLE0KpgVwq6Dyc49SuhiWQqbIUd8u9qDl2xzprha8kOahBGVgRfAS33S5qqaKeyF3x0De2YfuNyr19LIpoRs=|sKXVSj9h+rtkmKz8oV1LbJ1yRKk2X681MfgNidlik+I=.m3u8
+#EXTINF:1,disney jr
+http://batman.tutvgratis.tv/ch/1459.m3u8?token=+ffO1PiVTqpphTs2Po3QWo2oVUcJAjDP/NLl/1tlmC15GCn91yAiJJ9wsQg/dE5H1Pv/7Ic8Jr2lR4O8pEiCvKwcalUVKin7xrrs8roF4IlhhftCzFQ3YeS5bUB0N9MDixpBhRxrROKPI8153denSrFtO5ucVce8KBrq4Utq9qY=|G4QEom7ukgA/brJCE6yYxT2+DwmVi52m0PpO0K4fyvo=.m3u8
+#EXTINF:1,disney xd
+http://batman.tutvgratis.tv/ch/1487.m3u8?token=FBHhq+tA2MkCUDHDaCo4a8DyREX/LltryCYCcgm9oUIxXBBBVn+LAS1jx64cgD38S4PPID8fxEMN2ZQNZe4YPOJ+P7gHmT1TdfmWA7aCGeeu8h7Ccf1gIjNHubI273FzYj8+nOTdfKtpsvaJpWySjEQPtfA0lb9p9V6VNjWZyYY=|YM0Epkpq3EBhu3MbvylbErOpnhIq1TQuTP6N0SJaHoM=.m3u8
+#EXTINF:1,dragon-ball-z
+rtmp://46.28.53.160/live/tutvgratisdbz?id=57187&pk=eb0393495921a70ce83218602b59320fd4e18b96bfb8ec5a1a93e81b6f01fdba
+#EXTINF:1,comedy-central
+http://batman.tutvgratis.tv/ch/1359.m3u8?token=Tbz4mrcjLy00KumBe6LjvOn4qiEUspzVX5ZkyW7lVJLWxjog+6Uo5P1W80QCdeLn+WjdAe1p/Z8DemgrMoSuUBbHwOcRBikZU+kGNZdGEMxpgyNdsyynNMJdKHEQaY1kWWxoFUjJSxm+7GQsWhsoCHvwrhkseBnu0XXu7P3ekSA=|jiWREvObU/PRFia9NGcGFKYM0Lg9q4kiWcZD00/ZpNU=.m3u8
+#EXTINF:1,distrito comedia
+http://batman.tutvgratis.tv/ch/1431.m3u8?token=c7VFqshpEURx+8mZMvagnbwdge5hEhRtQ+twrEG6T6lczHsfurklIRrpjLXiVe+ajmudKMdmpVW1O6ozfU6KsJopbaIMVkzSJNFI1ngchinndLvn/tqU5ZUhxbd4FFTPCusWkeXeCHm+uBuvjOXgivSB7vYTwM9q0D9XSqMNN78=|U+icXBfHYIRkHejm/XisliLm3WPU3UAgMdOIHm6th6I=.m3u8
+#EXTINF:1,dw latinoamerica
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_2_av-p.m3u8?sd=10&rebase=on
+#EXTINF:1,caracol
+http://cdn.sostart.pw/livehls/zhZ8AzqYTWWz/chunklist_fulltvsports.m3u8
+#EXTINF:1,efektotv
+http://grupomac-lh.akamaihd.net/i/004rss0k8_1@301782/index_2_av-p.m3u8
+#EXTINF:1,espn 2
+http://batman.tutvgratis.tv/ch/1675.m3u8?token=oCEtCN3yr3umWyqaTM+rJKOAVSaiCFHTrKLWFybGzSDpfBLHthCF1zjurGcXwiyDonMRzw4AQ2OX5s/Di3C3G4hd3L5p4NjOmxHLZ4UXj5FtIPWSaihbPw3b0q6KX1MRRpEtkW+M2ve1oBs7jA5QUcT/NwHLHk1NesSqE5dn5bI=|kLO06N0e/tpx+wkYgJCNrHXJloeEQVOVLzOvOx+89P8=.m3u8
+#EXTINF:1,espn-3
+http://batman.tutvgratis.tv/ch/1655.m3u8?token=wfL1mq53xrltHafFqFRDCfe+US60c/fyWUGwcQ/GJhOzu+V6m+1Yr6Uygn1SUjuAKJCBBI22qoWcFJLcVgW25/D/UAzSOlNdejW07/kaMHe6im8/yBp4G7n8HogyftpmiL5RoXxPeF0JnJ7slppn/xQfwmZCNDfsfMLv7vTPhNE=|Ej2W47tmtEHypyHmMpN/lcHQ/+Qt37EHBLrfeTTUgOc=.m3u8
+#EXTINF:1,fox-sports
+http://batman.tutvgratis.tv/ch/1659.m3u8?token=Ny51TZzgErt9he9qTxBrIFIazpgzzWNZT9DBxyXO7xKizdCnb5cgOzssuZ4Lrf/Hy351UQow88IELJqu7oYaEmtwTrOQAywdVggDWosKaSs+i70L0TcTR0FKpwSDGHbrm9lILqqFBWcqHGR4OmsxMpikYWjy/tHx1/ShMw5q8V0=|DngMTRv4rpUTRoM9R02lnHAl9y5FMV8mntoy4WR2f9M=.m3u8
+#EXTINF:1,fox sports 2
+http://batman.tutvgratis.tv/ch/1663.m3u8?token=+BOYmo5i5OryDMxJM+S8Q/B/2kwzjx1P+V5C2KOCSXcjhi+7ajOyL2NKaL2uhbbtOzJVtCDnoNSKXwTH2pgSg83EQSl1MS79KY5NFhg1459j66BN9KyRw2+RsaVeryto002zVAY+QXBmqnS52+Hi8EzM87U1ow4TWnv7aCDMsoQ=|ziQZCdyofQheFEvMK+I9XTtHfm+v0zA/MPei8/jC/DU=.m3u8
+#EXTINF:1,tyc-sports
+http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish5/kLive/smil:1_8ovn8mx4_all.smil/34/chunklist.m3u8
+#EXTINF:1,fx-hd
+http://batman.tutvgratis.tv/ch/1403.m3u8?token=aPamjsRKHvPqmYY/vun/nDx1tYrNhK1GH4scClEMAOvSdtzkKIm9vB4jvH9a+BACK/sakkRq3ulEquJR+j5FTW5GNgCRgQKZFMc0MTyC7bMUJ79pD2fWYuJdvmEcQvbkPcjYZCINh7eUZ9sP0+kQeYd0Yksw1aXkUpG1boCE/a8=|qGz7ymE5LLBs3y8IM90Vq0ziWQzyrrmZknO8VdmYLpc=.m3u8
+#EXTINF:1,fox 1
+http://batman.tutvgratis.tv/ch/1559.m3u8?token=HbGAkRUiExwYsxrCkcK+1tmIbV9+Fkz0vL66g6ZbmPCNCsQ71dOzDF8Jy66/R9Ro7+eKIs90ysHwVYhY20CnRg4jCPe7rRzCDL+ORC3YHlsL2QORF8RVacY36Y6e6OoG3WuRH9b+Ff5Jugm/3VGJvUQmjIFumQd+uKTrkJ/7TYE=|WbmhtPt/7pjmMr8v7ZxVZJOpi0XtLsbMgvjoWsZUw3M=.m3u8
+#EXTINF:1,golden edge
+http://batman.tutvgratis.tv/ch/1623.m3u8?token=ypk5UPh7GHw7Vbr2BxgHeZE9hVCZuaHHEM2yDkV5ZIMMUt0aCv8qJ09DDv1reKZsuMifBFdcLfpWs+WudRFFKrHntsbQZ9Cokgkrlaim62MefDtbTf3gky6jlHntsJBj3TeOgZsKB+s41XZKGaBQXuPA1lZYS3R002F/pl8tSAE=|31DFhsCBopvlAPyRBfkagERuY9aX/4WmZKOS+shE7Z0=.m3u8
+#EXTINF:1,hbo 2
+http://199.180.114.174:88/files/hb2tv5.m3u8
+#EXTINF:1,the filme zone 
+http://batman.tutvgratis.tv/ch/1595.m3u8?token=1PzxBNvcgm9E3g5JwK/mEEMmbHHoNtps2+TUHZRtCjm7oCZcTG5szpsbnIlooleoGZz9vlP/jhRCh+MkkGNriCNbs9t24NgZFt8lCZGYqYBZz+4ZQtEcgZY24pNa0fGFNbL/pWH73EfB/aoiFa2dvs787XDkHHFVZOVEXoYetlw=|tpFndGQBg3U0e5+NaTy+qG1OZD4XW6pUMeyIu51eYhc=.m3u8
+#EXTINF:1,universal channel
+http://batman.tutvgratis.tv/ch/1339.m3u8?token=AoNtRMHl7u+pLje5F4rBuLpb0Wz4dtvzAwulnrZeXwo/xEg871w/4YQFBE+TQTBrhKutyesG/JXRtFJkPwrN8rhqeqPzMwTxiptwERgsR1wLPVoZyjBh1yXsK4K4y9A98xxvFGNq3PwDg7vwAPyPaLpxofUU4EEvmij5JzW3twQ=|Rra/M1ENxGFBFc+35h/t/i9IK5Bhf4hHZuywGNVIqlk=.m3u8
+#EXTINF:1,warner channel
+http://batman.tutvgratis.tv/ch/1335.m3u8?token=0yJlgegpK0tOv3GNSLDOx8qCCepKtWYN/P+zv2Kox/m3WPOoUNGJPKDZEy/yfTl3tCD4fv9dQP5j7G8qVf+YLYvco1LlNdfIlaN73rMX10EwUubeGIUNqvaiQfW6UzN4R1DwEPugLjPUSIScdmUeJvLnpjxNBM6dg12EKc856lQ=|12yePmrdj/4EReXqVUGIP2y9UhKDLA2OqoNMZaj1Vm8=.m3u8
+#EXTINF:1,tnt
+http://latino-webtv.ml/stream.m3u8?token=U2FsdGVkX1%2FWL%2F%2Bbo5AF%2FGNsHksYx3vXqUjlYaFvM5kdpQGvvBjMd7GyUKA37jNZheqrq%2BAd5oHuTPtmxSv83Q%3D%3D
+#EXTINF:1,hbo plus
+rtmp://198.255.17.18:443/live?pItxsGBuYkMDbrpUA3CvjjOr9Q8gxf84/live_mega_extremo
+#EXTINF:1,history channel
+http://batman.tutvgratis.tv/ch/1507.m3u8?token=vgb2poY19mZ2fM6RN28ppBHkZWSBghJHjCbD84rxPrZ02XMzCiFHEmhyOLX5f2ICc/0s5Qrl5qlBnXTR3b5HkWCcbMB0Nq5+MXYZq2YhE3dmgDHHwD98+USHPCn4JNIV34CseErHPxc2zgp85wntWHl9Cd1e46siZnvK3K4OCSs=|FErINMAJtx8y8tD1kYcNMcHRQVlTKTCFjgTmgLIFbEE=.m3u8
+#EXTINF:1,NatGeo
+http://batman.tutvgratis.tv/ch/1531.m3u8?token=bEAXoTumYZeVQspaF1Evd8s7pkvqQyayx8je0lZZ31xnziCUiVPdTRygp+Te/lU1/CCrLtyYEHe+sWCkIEvpOwFz2NYKQZDqLpL69FK1GjKEOUuh0hdRXt5veMDx4nEwKHesTntJG1fRdapbwNLjkYB+CKUSCmSvG+tEZe0V/lA=|n7u3kli56M7/ZIZK6a1bCDBuxQg/koxcP/OimGro4HQ=.m3u8
+#EXTINF:1,NatGeo Wild HD
+http://batman.tutvgratis.tv/ch/1511.m3u8?token=AoRkAPQmGe/ntA7aScs5DvdMfRLGJHoNBjzBVcgSJ+b92xC0cf8TLcVJZez+XMu/G4aiHDZal3jwAnzpD1zeT88C/NZUNfO0hp7JZv+wfPjQGuXekKTKWKQ7ITFHGWzOpB6M2aeogp7bu1cYzF4P1SbTj1KTXjnNcW7SDPtXQQ4=|cyzbuyaJ1UPdksBY+tWsZCXYAfqqdXNboml/hVzI7i0=.m3u8
+#EXTINF:1,peliculas infantiles
+peliculas-infantiles
+#EXTINF:1,
