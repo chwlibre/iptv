@@ -1,0 +1,389 @@
+#EXTM3U
+#EXTINF:0,Antena 3 Internacional
+http://a3live-lh.akamaihd.net:80/i/antena3_1@35248/master.m3u8
+#EXTINF:0,Azteca 13
+http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/master.m3u8
+#EXTINF:0,Canal de las Estrellas
+http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/master.m3u8
+#EXTINF:0,Multimedios
+http://play.gvstream.net:554/e-tv-video/default.stream/playlist.m3u8
+#EXTINF:0,[B][COLOR yellow]== INFANTILES ==[/COLOR][/B]
+http://streaming203.radionomy.com:80/City-Dance-Radio
+#EXTINF:0,Anime TV
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
+#EXTINF:0,[B][COLOR yellow]== PELÍCULAS Y SERIES ==[/COLOR][/B]
+http://streaming203.radionomy.com:80/City-Dance-Radio
+#EXTINF:0,[B][COLOR yellow]== PREMIUM ==[/COLOR][/B]
+http://streaming203.radionomy.com:80/City-Dance-Radio
+#EXTINF:0,[B][COLOR yellow]== DEPORTES ==[/COLOR][/B]
+http://streaming203.radionomy.com:80/City-Dance-Radio
+#EXTINF:0,CMD HD (Peruano)
+http://peer.exabytetv.info/36642/ch07/3.m3u8
+#EXTINF:0,Gol TV HD
+http://goltv.exabytetv.info:80/hls2/amlst:30001_ios/master.m3u8
+#EXTINF:0,NBA TV
+http://188.165.46.79:1935/live/898953nba.stream/playlist.m3u8
+#EXTINF:0,NFL Now
+http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9_g.m3u8
+#EXTINF:0,Poker Central
+http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/master.m3u8
+#EXTINF:0,Versus Channel
+http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
+#EXTINF:0,Win Sports Col
+http://lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1/yt1_1.m3u8
+#EXTINF:0,[B][COLOR yellow]== MÚSICA ==[/COLOR][/B]
+http://streaming203.radionomy.com:80/City-Dance-Radio
+#EXTINF:0,Capital TV (UK)
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
+#EXTINF:0,Eska Best Music TV
+http://stream.smcloud.net/live/eskatv/playlist.m3u8
+#EXTINF:0,Eska Party TV
+http://stream.smcloud.net/live/eska_party/playlist.m3u8
+#EXTINF:0,Eska Rock TV
+http://stream.smcloud.net/live2/http://stream.smcloud.net/live/eska_rock/playlist.m3u8http://stream.smcloud.net/live/eska_rock/playlist.m3u8/eska_rock_480p/Eska&Rock&TV.m3u8
+#EXTINF:0,Eska Vox TV Old Cool
+http://stream.smcloud.net/live/vox/playlist.m3u8
+#EXTINF:0,Heart TV (UK)
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
+#EXTINF:0,Hit TV
+http://tst.es.flash.glb.ipercast.net/tst.es-live/live/index.m3u8
+#EXTINF:0,Melody Channel
+http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
+#EXTINF:0,OneTV Arg
+http://server5.stweb.tv/radioone/live/playlist.m3u8
+#EXTINF:0,Retro TV
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:0,Vevo 1
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
+#EXTINF:0,Vevo 2
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
+#EXTINF:0,Vevo 3
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
+#EXTINF:0,VH1 Classic
+http://premium.exabytetv.info/total5/iyyiuyu588yer--ExabyteTV-NO-PERTENECE-a-CarlosTecnoman-visita-facebook-ExabyteTV------iojefeoin/485/exabytetv.m3u8
+#EXTINF:0,VH1 HD
+http://premium.exabytetv.info/total5/iyyiuyu588yer--ExabyteTV-NO-PERTENECE-a-CarlosTecnoman-visita-facebook-ExabyteTV------iojefeoin/486/exabytetv.m3u8
+#EXTINF:0,VH1 Latino
+http://co.exabytetv.info/cielos/iyyiuyu588yer--ExabyteTV-NO-PERTENECE-a-CarlosTecnoman-visita-facebook-ExabyteTV------iojefeoin/2038/exabytetvcielo.m3u8
+#EXTINF:0,Virgin TV
+http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8
+#EXTINF:0,[B][COLOR yellow]== MUNDO Y CULTURA ==[/COLOR][/B]
+http://streaming203.radionomy.com:80/City-Dance-Radio
+#EXTINF:0,Aprende TV
+http://dl-dgtve.xsn.com.mx/dgtve/canal24dgtve.mp4/playlist.m3u8
+#EXTINF:0,Canal del Congreso MX
+http://dl.canaldelcongreso.gob.mx:1935/ccongreso/mp4:congreso2b.mp4/playlist.m3u8
+#EXTINF:0,Canal Once
+http://www.oncetvmexicolive.tv:1935/livepkgr2/smil:int.smil/playlist.m3u8
+#EXTINF:0,Ingenio TV
+http://dl-dgtve.xsn.com.mx/dgtve/canal30dgtve.mp4/playlist.m3u8?
+#EXTINF:0,Ingenio TV
+http://dl-dgtve.xsn.com.mx/dgtve/canal30dgtve.mp4/playlist.m3u8?
+#EXTINF:0,NHK World
+http://nhkwglobal-i.akamaihd.net/hls/live/222714/nhkwglobal/index_1180.m3u8
+#EXTINF:0,Once TV
+http://premium.exabytetv.info/total5/iyyiuyu588yer--ExabyteTV-NO-PERTENECE-a-CarlosTecnoman-visita-facebook-ExabyteTV------iojefeoin/504/exabytetv.m3u8
+#EXTINF:0,[B][COLOR yellow]== NOTICIAS ==[/COLOR][/B]
+http://streaming203.radionomy.com:80/City-Dance-Radio
+#EXTINF:0,EfektoTV
+http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/master.m3u8
+#EXTINF:0,Euronews en Español
+http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_es.m3u8
+#EXTINF:0,RT Russia Today
+http://rt.ashttp14.visionip.tv/live/rt-global-live-HD/playlist.m3u8
+#EXTINF:0,Russia Today
+http://rt.ashttp14.visionip.tv/live/rt-global-live-HD/playlist.m3u8
+#EXTINF:0,[B][COLOR yellow]== MÉXICO (Locales) ==[/COLOR][/B]
+http://streaming203.radionomy.com:80/City-Dance-Radio
+#EXTINF:0,Canal 2 Mochis TV
+http://74.63.97.188:1935/gpacifico2/videogpacifico2/playlist.m3u8
+#EXTINF:0,Canal 2 Yaqui TV
+http://74.63.97.188:1935/gpacifico3/videogpacifico3/playlist.m3u8
+#EXTINF:0,Canal 5 Salina Cruz
+http://play.gvstream.net:554/e-tv-video/default.stream/playlist.m3u8
+#EXTINF:0,Canal 5 TV Coahuila
+http://play.gvstream.net:554/e-tv-video/default.stream/playlist.m3u8
+#EXTINF:0,Canal 7 Mazatlán
+http://74.63.97.188:1935/gpacifico4/videogpacifico4/playlist.m3u8
+#EXTINF:0,Canal del Congreso
+http://dl.canaldelcongreso.gob.mx:1935/ccongreso/mp4:congreso2b.mp4/playlist.m3u8
+#EXTINF:0,Canal Nuestra Vision Michoacán
+http://video7.stream.mx:1935/8032/8032/chunklist_w1286789486.m3u8
+#EXTINF:0,Cultura Guadalajara
+http://74.63.97.188:1935/gnode05/videognode05/master.m3u8
+#EXTINF:0,Multimedios Monterrey
+http://play.gvstream.net:554/e-tv-video/default.stream/playlist.m3u8
+#EXTINF:0,RCG TV Coahuila
+http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8
+#EXTINF:0,Telemax
+http://enhd.co:1935/ilive/ilive/playlist.m3u8
+#EXTINF:0,Trecevision Yucatán
+http://74.222.3.185:1935/live/ngrp:trecevision_all/chunklist_w1676078199_b950272.m3u8
+#EXTINF:0,TVMas Veracruz
+http://50.7.98.234:1935/rtv/videortv/playlist.m3u
+#EXTINF:0,TV Pacifico Culiacán
+http://74.63.97.188:1935/gpacifico1/smil:gpculiacan.smil/playlist.m3u8
+#EXTINF:0,TV Pacifico Obregón
+http://74.63.97.188:1935/gpacifico3/smil:obregon.smil/playlist.m3u8
+#EXTINF:0,[B][COLOR yellow]== RELIGIÓN ==[/COLOR][/B]
+http://streaming203.radionomy.com:80/City-Dance-Radio
+#EXTINF:0,3ABN Kidz
+http://moiptvus-lh.akamaihd.net/i/kidslive_1@328343/master.m3u8
+#EXTINF:0,3ABN Latino
+http://moiptvus-lh.akamaihd.net/i/latlive_1@328342/master.m3u8
+#EXTINF:0,Alcance TV
+http://hd.worldkast.com:1935/8232/8232.smil/chunklist_b1000000.m3u8
+#EXTINF:0,Aliento Visión
+http://unoredrtmp.tulix.tv:1935/alientovision/stream/master.m3u8
+#EXTINF:0,Alma Visión
+http://cdn3.iviplanet.com:1935/Almavision/almavision1/live.m3u8
+#EXTINF:0,BYU Televisión
+http://byuhd2-lh.akamaihd.net/i/byutvglobalhd2_live@103134/master.m3u8
+#EXTINF:0,BYU Televisión Latino
+http://byuhd2-lh.akamaihd.net/i/byutvintspanhd2_live@103133/master.m3u8
+#EXTINF:0,CBN Español
+http://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/master.m3u8
+#EXTINF:0,Cielo TV
+http://wan-lbf.net:1935/cielotv/myStream.sdp/playlist.m3u8
+#EXTINF:0,Comunion TV
+http://50.30.37.36:1935/live/smil:MyStream.smil/playlist.m3u8
+#EXTINF:0,Condavisión
+http://cls.todostreaming.eu:80/azahara/condavision/live.m3u8
+#EXTINF:0,Cristo Visión
+http://cdns840stu1010.multistream.net/cristovisionlive/amlst:live/chunklist_b300000.m3u8
+#EXTINF:0,CTNi
+http://184.164.158.202:1936/48/smil:48.smil/playlist.m3u8
+#EXTINF:0,Enlace
+http://acaooyalahd2-lh.akamaihd.net/i/TBN07_delivery@186245/master.m3u8
+#EXTINF:0,Enlace Juvenil
+http://acaooyalahd2-lh.akamaihd.net/i/TBN08_delivery@186246/master.m3u8
+#EXTINF:0,Esperanza TV
+http://k3.usastreams.com:1935/etvSD/etvSD/playlist.m3u8
+#EXTINF:0,EWTN
+http://ewtn.mpl.miisolutions.net:1935/ewtn-live-5/900.mp4/playlist.m3u8
+#EXTINF:0,Familia TV
+http://redradios.net:1935/familia/familia/chunklist.m3u8?wowzasessionid=761921129
+#EXTINF:0,Genesis TV
+http://201.144.184.98:1935/genesis/smil:television.smil/chunklist_w1290068780_b410000_sleng.m3u8
+#EXTINF:0,Mírame TV
+http://cast.streamingconnect.tv:1935/2015mirame/2015mirame/live.m3u8
+#EXTINF:0,Nación TV
+http://205.164.56.130:1935/nacioninternacional/nacioninternacional/playlist.m3u8
+#EXTINF:0,Ondaluz Sierra
+http://cls.elitehd-audiovisuales.com:80/olsierra/livestream1/live.m3u8
+#EXTINF:0,Palabra de Dios sin Levadura
+http://ca1.ministeriotv.com:1935/49/stream/playlist.m3u8
+#EXTINF:0,Red Avenir
+http://streamer1.streamhost.org:1935/salive/GMIredadvenirh/playlist.m3u8
+#EXTINF:0,RTV
+http://178.32.53.254/radiovida/mobile/playlist.m3u8
+#EXTINF:0,Tabernáculo Bautista
+http://streamingcontrol.com:1935/tbbcentral/l1v1.sdp_640/playlist.m3u8
+#EXTINF:0,[B][COLOR yellow]== ARGENTINA ==[/COLOR][/B]
+http://streaming203.radionomy.com:80/City-Dance-Radio
+#EXTINF:0,C5N
+http://c5n.stweb.tv:1935/c5n/live_media/sat.m3u8
+#EXTINF:0,Canal 9 Salta
+http://xcanal9saltax.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:0,Canal 10 Mar de Plata
+http://ionlive1-lh.akamaihd.net/i/canal10_1@125367/master.m3u8
+#EXTINF:0,DeporTV (DXTV)
+http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8
+#EXTINF:0,
+rtmp://stream.eltrecetv.com.ar/ app=live13/13tv playpath=13tv1 swfUrl=http://static.eltrecetv.com.ar/sites/all/libraries/jwplayer/player-licensed.swf live=true timeout=15 pageUrl=http://www.eltrecetv.com.ar/vivo
+#EXTINF:0,One TV
+http://server5.stweb.tv/radioone/live/playlist.m3u8
+#EXTINF:0,Orbe 21
+http://urtmpkal-f.akamaihd.net/i/1b6mj17sk_1@308700/master.m3u8
+#EXTINF:0,Paka Paka
+http://lsdencuentrohls-lh.akamaihd.net/i/PKPKHLS_1@198010/master.m3u8
+#EXTINF:0,Telecreativa
+http://iphone-streaming.ustream.tv/ustreamVideo/18545628/streams/live/playlist.m3u8
+#EXTINF:0,Telemax Arg
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+#EXTINF:0,
+rtmp://stream.tn.com.ar/live playpath=tnhd2 swfUrl=http://tn.com.ar/sites/all/themes/leono/swf/dplayer/player.swf pageUrl=http://tn.com.ar/envivo/24hs live=true timeout=15
+#EXTINF:0,Viajar
+http://eventshd-lh.akamaihd.net/i/viajar_1@168433/master.m3u8
+#EXTINF:0,[B][COLOR yellow]== CHILE ==[/COLOR][/B]
+http://streaming203.radionomy.com:80/City-Dance-Radio
+#EXTINF:0,Telecanal
+http://wow2.cl.digitalproserver.com/tcsc/tcscvivo/tcsc.smil/master.m3u8
+#EXTINF:0,Teletrak
+http://edge1.cl.grupoz.cl/teletrak//live/playlist.m3u8
+#EXTINF:0, TV Chile
+http://edge-111-cl.edge.mdstrm.com/tvn-live/smil:285a5c6dade574d5f111419c85c6cf17/playlist.m3u8
+#EXTINF:0, TVN HD
+http://tvn-vod.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
+#EXTINF:0, UCV HD
+http://movilstream.digitalproserver.com/ucvtv/_definst_/ucvtv.smil/chunklist-b1248000.m3u8
+#EXTINF:0,[B][COLOR yellow]== COLOMBIA ==[/COLOR][/B]
+http://streaming203.radionomy.com:80/City-Dance-Radio
+#EXTINF:0,Cable Noticias
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8
+#EXTINF:0,Canal Antiestres
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8
+#EXTINF:0,Canal U
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANU/tu1_1.m3u8
+#EXTINF:0,Canal U OP2
+http://xcanalutvx.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:0,Cantinazo
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8
+#EXTINF:0,Cosmovision
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8?
+#EXTINF:0,El Tiempo
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8
+#EXTINF:0,Hogar TV
+http://xhogartvx.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:0,Lifedesign
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/LDTV/tu1_1.m3u8
+#EXTINF:0,Mi Musica HD
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
+#EXTINF:0,Teleamiga
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0002/tu1_1.m3u8
+#EXTINF:0,Teleantioquia
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8?
+#EXTINF:0,Telecafe
+http://xtelecafex.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:0,Telemedellin 
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8?
+#EXTINF:0,Tele Vida
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVID/tu1_1.m3u8
+#EXTINF:0,Tigo Music
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8
+#EXTINF:0,Trendy Musica
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8
+#EXTINF:0,TV Agro
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVAG/tu1_1.m3u8
+#EXTINF:0,UNE TV Manizales
+http://lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEZ/tu1_1.m3u8
+#EXTINF:0,VMAS TV
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8?
+#EXTINF:0,Win Sports
+http://lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1/yt1_1.m3u8
+#EXTINF:0,[B][COLOR yellow]== ADULTOS ==[/COLOR][/B]
+http://streaming203.radionomy.com:80/City-Dance-Radio
+#EXTINF:0,[B][COLOR yellow]== REPÚBLICA DOMINICANA ==[/COLOR][/B]
+http://streaming203.radionomy.com:80/City-Dance-Radio
+#EXTINF:0,Color Visión
+http://ss8.domint.net:2048/cvis_str/video/chunklist_w1410453871.m3u8
+#EXTINF:0,Microvisión De La Vega
+http://tcc-streaming2.cloudapp.net:1935/micro10/microvision10/playlist.m3u8
+#EXTINF:0,Teleantillas
+http://mek4.mekstream.com/teleantillas/live3/playlist.m3u8
+#EXTINF:0,Teleuniverso
+http://ss9.domint.net:1942/tu_str/universo/chunklist_w501782081.m3u8
+#EXTINF:0,[B][COLOR yellow]== BRASIL ==[/COLOR][/B]
+http://streaming203.radionomy.com:80/City-Dance-Radio
+#EXTINF:0,Fox Sports BR
+http://213.163.65.9:8081/live/foxsportk/playlist.m3u8
+#EXTINF:0,Globo RJ
+http://31.204.153.115:8081/live/globok/playlist.m3u8
+#EXTINF:0,Record
+http://31.204.152.6:8081/live/recordk/playlist.m3u8
+#EXTINF:0,RedeMercosul
+rtmp://a1.fabricahost.com.br:1935/redemercosul playpath=redemercosul  swfUrl=http://streaming.fabricahost.com.br/flashvideo/player.swf?IPTVGLOBAL pageUrl=http://redemercosul.com.br/
+#EXTINF:0,Rede TV
+http://evp.mm.uol.com.br:1935/redetv1/_definst_/redetv1/ExabyteTV.m3u8
+#EXTINF:0,Sport TV
+http://213.163.65.9:8081/live/sportvy/playlist.m3u8
+#EXTINF:0,Sport TV 2
+http://213.163.65.9:8081/live/sportv2k/playlist.m3u8
+#EXTINF:0,Terra Viva
+http://evp.mm.uol.com.br/terraviva/_definst_/terraviva/ExabyteTV.m3u8
+#EXTINF:0,TV Educativa
+http://38.96.175.108:1935/tveducativa/tveducativa/live.m3u8
+#EXTINF:0,TV Geral/Feira de Santana (aberto apenas no Kodi)
+rtmp://fms2.tacitus.com.br/tvgeral/ playpath=tvgeral  swfUrl=http://jornalfolhadoestado.com/tvgeral/player/jw/jwplayer.flash.swf?iptvglobal pageUrl=http://jornalfolhadoestado.com/tvgeral/player/index.php
+#EXTINF:0,TVU  Ei
+http://srv6.zoeweb.tv:1935/z433-live/stream/livestream.m3u8
+#EXTINF:0,[B][COLOR yellow]== PERÚ ==[/COLOR][/B]
+http://streaming203.radionomy.com:80/City-Dance-Radio
+#EXTINF:0,BHtv
+http://cdn1.ujjina.com/iptvbhtv/livebhtvtv/playlist.m3u8
+#EXTINF:0,CMD HD
+http://peer.exabytetv.info/36642/ch07/3.m3u8
+#EXTINF:0,Pacífico TV
+http://cdn1.ujjina.com/iptvpacifico/livepacificotv/playlist.m3u8
+#EXTINF:0,Panamerica TV
+http://stream-ec2.sv6.dailymotion.com/02/dm/1/x18w5up/live.isml/events(live-1469041728)/live-audio=128000-video=700000.m3u8
+#EXTINF:0,Pax
+http://38.105.14.194/paxtv/smil:PC.smil/playlist.m3u8
+#EXTINF:0,Plus TV
+http://peer.exabytetv.info/36642/ch03/3.m3u8
+#EXTINF:0,RBC
+http://31.14.40.20:2137/live/livestream/playlist.m3u8
+#EXTINF:0,TV La Luz
+http://stream.iglesiaytecnologia.com:2077/live/tvlaluz/playlist.m3u8
+#EXTINF:0,Willax TV
+http://movil.mediastream.pe/vv_willax/livestream/playlist.m3u8
+#EXTINF:0,[B][COLOR yellow]== ECUADOR ==[/COLOR][/B]
+http://streaming203.radionomy.com:80/City-Dance-Radio
+#EXTINF:0,Ecotel
+http://servicioamerica.net:1935/9358/9358/playlist.m3u8
+#EXTINF:0,TC Mi canal
+http://50.97.142.130:1935/hls2/_definst_/amlst:10001_desktop_hd/playlist.m3u8
+#EXTINF:0,TVN Ecuador
+http://xtvncanalecx.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:0,TVS Ecuador
+http://181.198.10.23:1935/live/_definst_/mp4:mystream_360p/playlist.m3u8
+#EXTINF:0,UCSG
+http://ecuastream.net:1935/UCSGHQ/UCSGHQ/playlist.m3u8
+#EXTINF:0,TVMas HD 
+rtmp://50.7.98.234/rtv/videortv
+#EXTINF:0,Canal Once
+http://www.oncetvmexicolive.tv:1935/livepkgr2/smil:int.smil/playlist.m3u8
+#EXTINF:0, TVCDeportes
+http://gdl-cdsse-03.se.linear-abr.cdn.apptv.megacable.com.mx/Apple/TVCDeportes2500.m3u8
+#EXTINF:0,TVN
+http://edge-11-mvstr.edge.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
+#EXTINF:0,CHV
+http://live.hls.http.chv.ztreaming.com/chvhddesktop/chv-desktop.m3u8
+#EXTINF:0, [COLOR yellow]Españoles[/COLOR]  
+http://www.youtube.com/user/omarcauich231120
+#EXTINF:0,Extremadura Tv
+http://corporacionextremena-live.hls.adaptive.level3.net/hls-live/corporacionextremena-channel02/_definst_/live.m3u8
+#EXTINF:0,Andalucía TV
+http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8
+#EXTINF:0,Galicia TV
+http://media3.crtvg.es/live/tvga/hasbahca.m3u8
+#EXTINF:0, [COLOR yellow]Argentinos[/COLOR]  
+http://www.youtube.com/user/omarcauich231120
+#EXTINF:0,Arg:Canal Rural 1 HD 
+rtsp://streamrural.cmd.com.ar:554/liverural/crural/rural1
+#EXTINF:0,Arg:DISCOVERY
+http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
+#EXTINF:0,Arg:C5N 
+rtmp://c5n.stweb.tv:1935/c5n/live
+#EXTINF:0, [COLOR yellow]Chilenos[/COLOR]  
+http://www.youtube.com/user/omarcauich231120
+#EXTINF:0,Chil:CAMARA DE DIPUTADOS 
+rtsp://origin.camara.ztreaming.com/origincamara8/streamcam8.sdp
+#EXTINF:0, [COLOR yellow]Colombia[/COLOR]  
+http://www.youtube.com/user/omarcauich231120
+#EXTINF:0, [COLOR yellow]Dominicanos[/COLOR]  
+http://www.youtube.com/user/omarcauich231120
+#EXTINF:0,Dom:Teleantillas Canal 2
+http://mek4.mekstream.com/teleantillas/live3/hasbahca.m3u8
+#EXTINF:0,Dom:TELEANTILLAS 2 HD 
+http://mek4.mekstream.com/teleantillas/live3/playlist.m3u8
+#EXTINF:0,Dom:Telesistema Canal 11
+http://mek4.mekstream.com/telesistema/smil:telesistema.smil/chunklist_w965232534_b464000.m3u8
+#EXTINF:0, [COLOR yellow]USA[/COLOR]  
+http://www.youtube.com/user/omarcauich231120
+#EXTINF:0,Vevo1 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
+#EXTINF:0,VEVO HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/appleman.m3u8
+#EXTINF:0,Vevo2 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
+#EXTINF:0,Vevo3 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
+#EXTINF:5279,     Simon Pegg, Lake Bell, Ophelia Lovibond, Olivia Williams, Henry Lloyd-Hughes, Rory Kinnear, Dean-Charles Chapman, Ken Stott, Stephen Campbell Moore, Harriet Walter, Sharon Horgan, Phoebe Waller-Bridge - Amor sin cita previa
+http://www.spruto.tv/get_file/1/76507f72f9269646fc89a00201778f80/176000/176369/176369.mp4
+#EXTINF:4805,Boda de Borrachos
+http://www.spruto.tv/get_file/1/84159c2b527c44e1005d27c522d6bb45/172000/172964/172964.mp4
+#EXTINF:5555,Eramos pocos y llegaron los Aliens
+http://www.spruto.tv/get_file/2/150597192c3942f7600eecfc8a9b6518/164000/164291/164291.mp4
+#EXTINF:5760,Guerra de Papás
+http://www.spruto.tv/get_file/1/8c12ff43d8e47a4072c09191105ae158/172000/172660/172660.mp4
