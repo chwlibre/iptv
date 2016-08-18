@@ -1369,6 +1369,9 @@ http://iphone-streaming.ustream.tv/uhls/4811076/streams/live/iphone/playlist.m3u
 #EXTINF:-1 tvg-id="TVO" tvg-logo="tvo23.png" group-title="El Salvador",TVO Canal 23 El Salvador
 http://xtvocanal23x.api.channel.livestream.com/3.0/playlist.m3u8#MegaIPTVArgentina
 
+#EXTINF:-1 tvg-id="Elim TV" tvg-logo="https://storage.googleapis.com/quickshare/elimtv.png" group-title="El Salvador",Elim TV El Salvador
+http://live-15.viewer.dacast.com/i/dclive_1@397642/master.m3u8
+
 
 #EXTINF:-1 group-title="A prueba",.: POR REVISAR :.
 http://?
