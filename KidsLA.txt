@@ -1,0 +1,49 @@
+#EXTM3U
+
+#EXTINF:0 type="stream" tvg-logo="http://3.bp.blogspot.com/-69-iAj5BsRg/VZ1vUrQryjI/AAAAAAAAAQ8/yNxc-OBiHT8/s1600/TA%2BTE%2BTI%2BLogo.JPG" , Tateti
+http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/master.m3
+
+#EXTINF:0 type="stream" tvg-logo="https://nciwebtv.files.wordpress.com/2011/08/logo-pkpk1.png" , Paka Paka
+http://lsdencuentrohls-lh.akamaihd.net/i/PKPKHLS_1@198010/master.m3u8
+
+#EXTINF:0 type="stream" channelId="19" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/infantil/13.png" , Disney Channel
+http://premium.exabytetv.info/HLSST/256/256-RVNZP-1011000011011001011011101010010-ExabyteTV.m3u8
+
+#EXTINF:0 type="stream" channelId="41" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/infantil/7.png" , Nickelodeon
+http://premium.exabytetv.info/HLSST/1423/1423-RVNZP-1011000011011001011011101010010-ExabyteTV.m3u8
+
+#EXTINF:0 type="stream" channelId="2708" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/infantil/7.png" , Nick 2
+http://190.57.234.164/V0/3/1.m3u8
+
+#EXTINF:0 type="stream" channelId="322" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/infantil/8.png" , Nick Jr
+http://premium.exabytetv.info/HLSST/10482/10482-RVNZP-1011000011011001011011101010010-ExabyteTV.m3u8
+
+#EXTINF:0 type="stream" channelId="2711" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/infantil/14.png" , NickToons
+type="stream" channelId="2711" tvg-group="INFANTIL" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/infantil/14.png" , NickToons
+
+#EXTINF:0 type="stream" channelId="2688" tvg-name="TIIN" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tiin.gif" , TIIN
+type="stream" channelId="2688" tvg-name="TIIN" tvg-logo="http://y.cdn.entutele.com/media/channels/big/tiin.gif" , TIIN
+
+#EXTINF:0 type="stream" channelId="40" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/infantil/4.png" , Cartoon Network
+http://premium.exabytetv.info/HLSST/421/421-RVNZP-1011000011011001011011101010010-ExabyteTV.m3u8
+
+#EXTINF:0 type="stream" channelId="1198" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/infantil/disney-xd.png" , Disney XD
+http://premium.exabytetv.info/HLSST/499/499-RVNZP-1011000011011001011011101010010-ExabyteTV.m3u8
+
+#EXTINF:0 type="stream" channelId="2505" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/infantil/dicovery-kids.png" , Discovery Kids
+http://premium.exabytetv.info/HLSST/309/309-RVNZP-1011000011011001011011101010010-ExabyteTV.m3u8
+
+#EXTINF:0 type="stream" channelId="321" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/infantil/1.png" , Boomerang
+http://premium.exabytetv.info/HLSST/10477/10477-RVNZP-1011000011011001011011101010010-ExabyteTV.m3u8
+
+#EXTINF:0 type="stream" channelId="1197" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/infantil/9.png" , Disney Junior
+http://premium.exabytetv.info/HLSST/1455/1455-RVNZP-1011000011011001011011101010010-ExabyteTV.m3u8
+
+#EXTINF:0 type="stream" channelId="1147" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/infantil/12.png" , Cbeebies
+http://premium.exabytetv.info/HLSST/1029/1029-RVNZP-1011000011011001011011101010010-ExabyteTV.m3u8
+
+#EXTINF:0 type="stream" channelId="473" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/infantil/10.png" , BabyTV
+http://premium.exabytetv.info/HLSST/317/317-RVNZP-1011000011011001011011101010010-ExabyteTV.m3u8
+
+#EXTINF:0 type="stream" channelId="2639" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/infantil/6.png" , Tooncast
+type="stream" channelId="2639" tvg-group="INFANTIL" tvg-logo="http://www.totalplay.com.mx/images/logos/canales/infantil/6.png" , Tooncast
