@@ -3,6 +3,9 @@
 #EXTINF:0 type="stream" tvg-logo="http://3.bp.blogspot.com/-69-iAj5BsRg/VZ1vUrQryjI/AAAAAAAAAQ8/yNxc-OBiHT8/s1600/TA%2BTE%2BTI%2BLogo.JPG" , Tateti
 http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/master.m3u8
 
+#EXTINF:0 type="stream" , Anime TV
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
+
 #EXTINF:0 type="stream" tvg-logo="https://nciwebtv.files.wordpress.com/2011/08/logo-pkpk1.png" , Paka Paka
 http://lsdencuentrohls-lh.akamaihd.net/i/PKPKHLS_1@198010/master.m3u8
 
