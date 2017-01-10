@@ -38,6 +38,6 @@ http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/master.m3u8
 #EXTINF:0 , ----- PELICULAS INFANTILES -----
 http://duckduckgo.com/
 
-#EXTINF:-1, Zootopia (2016) [ES-ES]
+#EXTINF:-1, tvg-logo="https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.savethecat.com%2Fwp-content%2Fuploads%2F2016%2F03%2Fzootopiaposter1-1.jpg&f=1"  Zootopia (2016) [ES-ES]
 http://www.spruto.tv/get_file/6/61ef11b694bc4071b4fe51cddf2dfd4f/198000/198374/198374.mp4
 
