@@ -1,33 +1,33 @@
 #EXTM3U
 
-#EXTINF:-1 type="stream" , Anime TV
+#EXTINF:-1 type="stream", Anime TV
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
 
-#EXTINF:-1 type="stream" , BabyTV
+#EXTINF:-1 type="stream", BabyTV
 http://premium.exabytetv.info/HLSST/317/317-TPWQB-1011000101100111010011011110110-ExabyteTV.m3u8
 
-#EXTINF:-1 type="stream" , Boomerang
+#EXTINF:-1 type="stream", Boomerang
 http://premium.exabytetv.info/HLSST/10477/10477-TPWQB-1011000101100111010011011110110-ExabyteTV.m3u8
 
-#EXTINF:-1 type="stream" , CartoonNetwork
+#EXTINF:-1 type="stream" tvg-logo="https://raw.githubusercontent.com/chwlibre/iptv/master/logos/CartoonNetwork.png", CartoonNetwork
 http://premium.exabytetv.info/HLSST/421/421-TPWQB-1011000101100111010011011110110-ExabyteTV.m3u8
 
-#EXTINF:-1 type="stream" , DiscoveryKids
+#EXTINF:-1 type="stream" tvg-logo="https://raw.githubusercontent.com/chwlibre/iptv/master/logos/DiscoveryKids.png", DiscoveryKids
 http://premium.exabytetv.info/HLSST/309/309-TPWQB-1011000101100111010011011110110-ExabyteTV.m3u8
 
-#EXTINF:-1 type="stream" , DisneyChannel
+#EXTINF:-1 type="stream" tvg-logo="https://raw.githubusercontent.com/chwlibre/iptv/master/logos/DisneyChannel.png", DisneyChannel
 http://premium.exabytetv.info/HLSST/256/256-TPWQB-1011000101100111010011011110110-ExabyteTV.m3u8
 
-#EXTINF:-1 type="stream" , Nickelodeon
+#EXTINF:-1 type="stream" tvg-logo="https://raw.githubusercontent.com/chwlibre/iptv/master/logos/Nickelodeon.png", Nickelodeon
 http://premium.exabytetv.info/HLSST/1423/1423-TPWQB-1011000101100111010011011110110-ExabyteTV.m3u8
 
-#EXTINF:-1 type="stream" , NickJr
+#EXTINF:-1 type="stream" tvg-logo="https://raw.githubusercontent.com/chwlibre/iptv/master/logos/NickJr.png", NickJr
 http://premium.exabytetv.info/HLSST/10482/10482-TPWQB-1011000101100111010011011110110-ExabyteTV.m3u8
 
-#EXTINF:-1 type="stream" , Once Niños
+#EXTINF:-1 type="stream", Once Niños
 http://premium.exabytetv.info/HLSST/13432/13432-TPWQB-1011000101100111010011011110110-ExabyteTV.m3u8
 
-#EXTINF:-1 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Pakapaka_logotipo_%282010-2016%29.png" , Tateti
+#EXTINF:-1 type="stream" tvg-logo="https://raw.githubusercontent.com/chwlibre/iptv/master/logos/PakaPaka.png", PakaPaka
 http://lsdencuentrohls-lh.akamaihd.net/i/PKPKHLS_1@198010/master.m3u8
 
 #EXTINF:-1 type="stream" tvg-logo="http://tateti.tv/images/logo.png" , Tateti
