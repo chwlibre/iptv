@@ -1,7 +1,7 @@
 <? xml version = "1.0" encoding = independiente "UTF-8" = "yes"?>
 
 <! ----------------------
-					BIENVENIDO A ADRYANLIST
+					BIENVENIDO A ADRYAN LIST
 					
 					
 					www.adryanlist.info
@@ -26,7 +26,7 @@
 					A TRAVES DE PAYPAL DE UNA DONACION POR
 					
 					
-					a la Cuenta adrian.bu@gmail.com
+			
 					
 					
 					
@@ -140,12 +140,6 @@
 <link>http://ignorame</link><thumbnail>http://i.imgur.com/6pvNVON.jpg</thumbnail><fanart>http://adrian.kodistream.info/fanart.jpg</fanart>
 <ExternalLink> http://adrian.kodistream.info/adryan/mx.xml </ ExternalLink>
 </ item>
-<item>
-<title> [cal COLOR] • [/ COLOR] [COLOR celeste] [B] Mi coleccion de Peliculas [/ B] [/ COLOR] </ title>
-<link>http://ignorame</link><thumbnail>https://www.dropbox.com/s/ugs6zan0b7nx2o3/icon.png?dl=0</thumbnail><fanart>https://www.dropbox.com/s/uc90b4dgfwogbux/fanart.jpg?dl=0</fanart>
-<ExternalLink> https://raw.githubusercontent.com/chwlibre/iptv/master/genepeliculas.m3u </ ExternalLink>
-</ item>
-
 
 
 <item>
@@ -215,7 +209,11 @@
 <ExternalLink> http://adrian.kodistream.info/adryan/lists.xml </ ExternalLink>
 </ item>
 
-
+<item>
+<title> [cal COLOR] • [/ COLOR] [COLOR celeste] [B] Mi coleccion de Peliculas [/ B] [/ COLOR] </ title>
+<link>http://ignorame</link><thumbnail>https://www.dropbox.com/s/ugs6zan0b7nx2o3/icon.png?dl=0</thumbnail><fanart>https://www.dropbox.com/s/uc90b4dgfwogbux/fanart.jpg?dl=0</fanart>
+<ExternalLink> https://raw.githubusercontent.com/chwlibre/iptv/master/genepeliculas.m3u </ ExternalLink>
+</ item>
 
 
 
@@ -227,4 +225,3 @@
 ->
 
 </ objetos>
-

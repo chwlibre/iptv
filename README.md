@@ -5,18 +5,10 @@ Repositorio de listas de canales abierto, colaborativo y buena onda que surgió 
 
 
 ## Listados actuales (se actualizan automáticamente)
-Éstas son las url que deberás usar en tu SmartTV/Kodi/Android.
-* lista 1:
+Éstas son las url que deberás usar en tu SmartTV/Kodi/Android. -- EJEMPLOS --
+* lista KidsLA:
 
-    `https://raw.githubusercontent.com/chwlibre/iptv/master/list1.m3u`
-
-* lista geneiptv:
-
-    `https://raw.githubusercontent.com/chwlibre/iptv/master/geneiptv.m3u`
-
-* lista makiavelo:
-
-    `https://raw.githubusercontent.com/chwlibre/iptv/master/makiavelo.m3u`
+    `https://raw.githubusercontent.com/chwlibre/iptv/master/KidsLA.txt`
 
 * lista radios:
 
