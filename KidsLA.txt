@@ -6,7 +6,7 @@ http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
 #EXTINF:-1 type="stream", BabyTV
 http://premium.exabytetv.info/HLSST/317/317-TPWQB-1011000101100111010011011110110-ExabyteTV.m3u8
 
-#EXTINF:-1 type="stream", Boomerang
+#EXTINF:-1 type="stream" tvg-logo="https://raw.githubusercontent.com/chwlibre/iptv/master/logos/Boomerang.png", Boomerang
 http://premium.exabytetv.info/HLSST/10477/10477-TPWQB-1011000101100111010011011110110-ExabyteTV.m3u8
 
 #EXTINF:-1 type="stream" tvg-logo="https://raw.githubusercontent.com/chwlibre/iptv/master/logos/CartoonNetwork.png", CartoonNetwork
