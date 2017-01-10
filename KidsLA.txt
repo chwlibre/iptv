@@ -1,7 +1,12 @@
 #EXTM3U
 
-#EXTINF:-1 type="stream" tvg-logo="http://3.bp.blogspot.com/-69-iAj5BsRg/VZ1vUrQryjI/AAAAAAAAAQ8/yNxc-OBiHT8/s1600/TA%2BTE%2BTI%2BLogo.JPG" , Tateti
-http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/master.m3u8
-
 #EXTINF:-1 type="stream" , Anime TV
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
+
+#EXTINF:-1 type="stream" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Pakapaka_logotipo_%282010-2016%29.png" , Tateti
+http://lsdencuentrohls-lh.akamaihd.net/i/PKPKHLS_1@198010/master.m3u8
+
+#EXTINF:-1 type="stream" tvg-logo="http://tateti.tv/images/logo.png" , Tateti
+http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/master.m3u8
+
+
