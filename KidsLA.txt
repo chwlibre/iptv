@@ -18,6 +18,9 @@ http://premium.exabytetv.info/HLSST/309/309-TPWQB-101100010110011101001101111011
 #EXTINF:-1 type="stream" tvg-logo="https://raw.githubusercontent.com/chwlibre/iptv/master/logos/DisneyChannel.png", DisneyChannel
 http://premium.exabytetv.info/HLSST/256/256-TPWQB-1011000101100111010011011110110-ExabyteTV.m3u8
 
+#EXTINF:-1 type="stream" tvg-logo="https://raw.githubusercontent.com/chwlibre/iptv/master/logos/DisneyChannel.png", DisneyJr.
+http://server.iptvcanales.com/~nkjcqlgb/LIVE/H01/CANAL308/PROFILE03.m3u8?lg=g6
+
 #EXTINF:-1 type="stream" tvg-logo="https://raw.githubusercontent.com/chwlibre/iptv/master/logos/Nickelodeon.png", Nickelodeon
 http://premium.exabytetv.info/HLSST/1423/1423-TPWQB-1011000101100111010011011110110-ExabyteTV.m3u8
 
