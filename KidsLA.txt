@@ -7,25 +7,31 @@ http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
 http://premium.exabytetv.info/HLSST/317/317-TPWQB-1011000101100111010011011110110-ExabyteTV.m3u8
 
 #EXTINF:-1 type="stream" tvg-logo="https://raw.githubusercontent.com/chwlibre/iptv/master/logos/Boomerang.png", Boomerang
-http://premium.exabytetv.info/HLSST/10477/10477-TPWQB-1011000101100111010011011110110-ExabyteTV.m3u8
+http://server.iptvcanales.com/~nkjcqlgb/LIVE/H01/CANAL324/PROFILE03.m3u8?lg=g6
 
 #EXTINF:-1 type="stream" tvg-logo="https://raw.githubusercontent.com/chwlibre/iptv/master/logos/CartoonNetwork.png", CartoonNetwork
-http://premium.exabytetv.info/HLSST/421/421-TPWQB-1011000101100111010011011110110-ExabyteTV.m3u8
+http://server.iptvcanales.com/~nkjcqlgb/LIVE/H01/CANAL320/PROFILE03.m3u8?lg=g6
 
 #EXTINF:-1 type="stream" tvg-logo="https://raw.githubusercontent.com/chwlibre/iptv/master/logos/DiscoveryKids.png", DiscoveryKids
 http://premium.exabytetv.info/HLSST/309/309-TPWQB-1011000101100111010011011110110-ExabyteTV.m3u8
 
 #EXTINF:-1 type="stream" tvg-logo="https://raw.githubusercontent.com/chwlibre/iptv/master/logos/DisneyChannel.png", DisneyChannel
-http://premium.exabytetv.info/HLSST/256/256-TPWQB-1011000101100111010011011110110-ExabyteTV.m3u8
+http://server.iptvcanales.com/~nkjcqlgb/LIVE/H01/CANAL312/PROFILE03.m3u8?lg=g6
 
 #EXTINF:-1 type="stream" tvg-logo="https://raw.githubusercontent.com/chwlibre/iptv/master/logos/DisneyChannel.png", DisneyJr.
 http://server.iptvcanales.com/~nkjcqlgb/LIVE/H01/CANAL308/PROFILE03.m3u8?lg=g6
 
+#EXTINF:-1 type="stream", DisneyXD
+http://server.iptvcanales.com/~nkjcqlgb/LIVE/H01/CANAL322/PROFILE03.m3u8?lg=g6
+
 #EXTINF:-1 type="stream" tvg-logo="https://raw.githubusercontent.com/chwlibre/iptv/master/logos/Nickelodeon.png", Nickelodeon
-http://premium.exabytetv.info/HLSST/1423/1423-TPWQB-1011000101100111010011011110110-ExabyteTV.m3u8
+http://server.iptvcanales.com/~nkjcqlgb/LIVE/H01/CANAL317/PROFILE03.m3u8?lg=g6
 
 #EXTINF:-1 type="stream" tvg-logo="https://raw.githubusercontent.com/chwlibre/iptv/master/logos/NickJr.png", NickJr
-http://premium.exabytetv.info/HLSST/10482/10482-TPWQB-1011000101100111010011011110110-ExabyteTV.m3u8
+http://server.iptvcanales.com/~nkjcqlgb/LIVE/H01/CANAL310/PROFILE03.m3u8?lg=g6
+
+#EXTINF:-1 type="stream", NickToons
+http://server.iptvcanales.com/~nkjcqlgb/LIVE/H01/CANAL314/PROFILE03.m3u8?lg=g6
 
 #EXTINF:-1 type="stream", Once Niños
 http://premium.exabytetv.info/HLSST/13432/13432-TPWQB-1011000101100111010011011110110-ExabyteTV.m3u8
@@ -36,7 +42,8 @@ http://lsdencuentrohls-lh.akamaihd.net/i/PKPKHLS_1@198010/master.m3u8
 #EXTINF:-1 type="stream" tvg-logo="http://tateti.tv/images/logo.png" , Tateti
 http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/master.m3u8
 
-
+#EXTINF:-1 type="stream", TOONCAST
+http://server.iptvcanales.com/~nkjcqlgb/LIVE/H01/CANAL328/PROFILE03.m3u8?lg=g6
 
 #EXTINF:0 , ----- PELICULAS INFANTILES -----
 http://duckduckgo.com/
