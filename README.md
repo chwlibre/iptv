@@ -8,7 +8,8 @@ Repositorio de listas de canales abierto, colaborativo y buena onda que surgió 
 Éstas son las url que deberás usar en tu SmartTV/Kodi/Android. -- EJEMPLOS --
 * lista KidsLA:
 
-    `https://raw.githubusercontent.com/chwlibre/iptv/master/KidsLA.txt`
+    `https://raw.githubusercontent.com/chwlibre/iptv/master/KidsLA.txt`<br>
+     `https://goo.gl/QBuWro` (URL acortada con "Google URL Shortener")
 
 * lista radios:
 
