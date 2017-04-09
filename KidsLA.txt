@@ -48,7 +48,13 @@ http://server.iptvcanales.com/~nkjcqlgb/LIVE/H01/CANAL328/PROFILE03.m3u8?lg=g6
 #EXTINF:0 , ----- PELICULAS INFANTILES -----
 http://duckduckgo.com/
 
-#EXTINF:-1, tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ1MDQxNjcxNV5BMl5BanBnXkFtZTcwMTEwOTEzMQ@@._V1_.jpg", The Jungle Book (1994) [ES-ES]
+#EXTINF:-1, tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BZWFhMTFhMDktOTE5My00YjE4LTg1MzYtNmM4YTc5YjAwODAwXkEyXkFqcGdeQXVyNDUxNjc5NjY@._V1_.jpg", La Chica Que Saltaba A Través Del Tiempo (1983) [JP-SubES]
+http://www.chrysanthemum.biz/d0_/d0_peliculas/La_chica_que_saltaba_a_trav%C3%A9s_del_tiempo_1983.mp4
+
+#EXTINF:-1, tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BNTg0NmI1ZGQtZTUxNC00NTgxLThjMDUtZmRlYmEzM2MwOWYwXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_.jpg", Laputa: El Castillo en el Cielo (1986) [ES-ES]
+http://www.chrysanthemum.biz/d0_/d0_peliculas/laputa_el_castillo_en_el_cielo_1986_2.avi
+
+#EXTINF:-1, tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ1MDQxNjcxNV5BMl5BanBnXkFtZTcwMTEwOTEzMQ@@._V1_.jpg", El Libro De La Selva (1994) [ES-ES]
 http://www.chrysanthemum.biz/d0_/d0_peliculas/El_Libro_de_la_Selva_1994.MP4
 
 #EXTINF:-1, tvg-logo="https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.savethecat.com%2Fwp-content%2Fuploads%2F2016%2F03%2Fzootopiaposter1-1.jpg&f=1" ,  Zootopia (2016) [ES-ES]
