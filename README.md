@@ -6,12 +6,18 @@ Repositorio de listas de canales abierto, colaborativo y buena onda que surgió 
 
 ## Listados actuales (se actualizan automáticamente)
 Éstas son las url que deberás usar en tu SmartTV/Kodi/Android. -- EJEMPLOS --
-* lista KidsLA:
+
+* Listas Series de TV (En prueba):
+
+    [Superman - La Serie Animada [1996]](https://github.com/chwlibre/iptv/blob/master/SeriesTV/Superman%20-%20La%20Serie%20Animada%20%5B1996%5D.m3u)<br>
+     `https://goo.gl/dJyAjU`
+
+* Lista KidsLA:
 
     `https://raw.githubusercontent.com/chwlibre/iptv/master/KidsLA.txt`<br>
-     `https://goo.gl/QBuWro` (URL acortada con "Google URL Shortener")
+     `https://goo.gl/QBuWro`
 
-* lista radios:
+* Lista radios:
 
     `https://raw.githubusercontent.com/chwlibre/iptv/master/radios.m3u`
 
