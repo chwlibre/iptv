@@ -1,0 +1,103 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Logo_Ecuavisa.svg", ECUAVISA SD
+http://s3linkgapp.net:25461/Lista-Gratuita-H252362/Descarga-Desde-PlayStore-GnulaTVLite-A544610/1176
+
+#EXTINF:-1 tvg-logo="", RTS
+http://s3linkgapp.net:25461/Lista-Gratuita-H252362/Descarga-Desde-PlayStore-GnulaTVLite-A544610/1183
+
+#EXTINF:-1 tvg-logo="", TELEAMAZONAS SD
+http://s3linkgapp.net:25461/Lista-Gratuita-H252362/Descarga-Desde-PlayStore-GnulaTVLite-A544610/1193
+
+#EXTINF:-1 tvg-logo="", ECUADOR TV
+http://s3linkgapp.net:25461/Lista-Gratuita-H252362/Descarga-Desde-PlayStore-GnulaTVLite-A544610/1170
+
+#EXTINF:-1 tvg-logo="", GAMA TV
+http://s3linkgapp.net:25461/Lista-Gratuita-H252362/Descarga-Desde-PlayStore-GnulaTVLite-A544610/1179
+
+#EXTINF:-1 tvg-logo="", TC TELEVISION
+http://s3linkgapp.net:25461/Lista-Gratuita-H252362/Descarga-Desde-PlayStore-GnulaTVLite-A544610/1186
+
+#EXTINF:-1 tvg-logo="",TVC SD
+http://s3linkgapp.net:25461/Lista-Gratuita-H252362/Descarga-Desde-PlayStore-GnulaTVLite-A544610/1197
+
+#EXTINF:-1 tvg-logo="", CANAL UNO SD
+http://s3linkgapp.net:25461/Lista-Gratuita-H252362/Descarga-Desde-PlayStore-GnulaTVLite-A544610/1167
+
+#EXTINF:-1 tvg-logo="", OROMAR TV
+http://videos.oromartv.com:8082/hls/oromartv_hi/index.m3u8
+
+#EXTINF:-1 tvg-logo="", CANELA TV
+http://inliveserver.com:1935/8074/8074/chunklist_w672863465.m3u8
+
+#EXTINF:-1 tvg-logo="",RTU LIVE
+http://s3linkgapp.net:25461/Lista-Gratuita-H252362/Descarga-Desde-PlayStore-GnulaTVLite-A544610/1185
+
+#EXTINF:-1 tvg-logo="", USCG
+http://ecuastream.net:1935/UCSGHQ/UCSGHQ/playlist.m3u
+
+#EXTINF:-1 tvg-logo="", DISTRITO COMEDIA
+http://s3linkgapp.net:25461/Lista-Gratuita-H252362/Descarga-Desde-PlayStore-GnulaTVLite-A544610/1526
+
+#EXTINF:-1, GOL TV 
+http://s3linkgapp.net:25461/Lista-Gratuita-H252362/Descarga-Desde-PlayStore-GnulaTVLite-A544610/1171
+
+#EXTINF:-1,MARIA VISION
+https://5a7dd6e2ce9bc.streamlock.net:8443/l/_jcn_/amlst:Mariavision/chunklist_w432467625_b478000.m3u8
+
+#EXTINF:-1, FM HOT+
+http://fmhot.04.cl.cdnz.cl/fmhot/smil:cdn.smil/chunklist_b1800000_slesp.m3u8
+
+#EXTINF:-1, RCP
+http://174.138.118.252/live/canal13stream_low.m3u8
+
+#EXTINF:-1,DW EN ESPAÑOL
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_2_av-p.m3u8?sd=10&rebase=onjavascript:void(0)
+
+#EXTINF:-1,GARAJE TV
+http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w2095493476_b946000_sleng.m3u8
+
+#EXTINF:-1,FOX CHANEL
+http://s3linkgapp.net:25461/Lista-Gratuita-H252362/Descarga-Desde-PlayStore-GnulaTVLite-A544610/930
+
+#EXTINF:-1,WARNER CHANEL
+http://s3linkgapp.net:25461/Lista-Gratuita-H252362/Descarga-Desde-PlayStore-GnulaTVLite-A544610/1054
+
+#EXTINF:-1,UNIVERSAL CHANEL
+http://s3linkgapp.net:25461/Lista-Gratuita-H252362/Descarga-Desde-PlayStore-GnulaTVLite-A544610/1040
+
+#EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/Sony_Channel_(Latinoam%C3%A9rica)#/media/Archivo:Sony_Channel_Logo.png",SONY
+http://s3linkgapp.net:25461/Lista-Gratuita-H252362/Descarga-Desde-PlayStore-GnulaTVLite-A544610/1015
+
+#EXTINF:-1,AMC
+http://s3linkgapp.net:25461/Lista-Gratuita-H252362/Descarga-Desde-PlayStore-GnulaTVLite-A544610/909
+
+#EXTINF:-1,DISCOVERY H&H
+http://s3linkgapp.net:25461/Lista-Gratuita-H252362/Descarga-Desde-PlayStore-GnulaTVLite-A544610/1210
+
+#EXTINF:-1,DIRECTV SPORT
+http://s3linkgapp.net:25461/Lista-Gratuita-H252362/Descarga-Desde-PlayStore-GnulaTVLite-A544610/113
+
+#EXTINF:-1,FOX SPORT
+http://s3linkgapp.net:25461/Lista-Gratuita-H252362/Descarga-Desde-PlayStore-GnulaTVLite-A544610/1
+
+#EXTINF:-1,FOX SPORT 2
+http://s3linkgapp.net:25461/Lista-Gratuita-H252362/Descarga-Desde-PlayStore-GnulaTVLite-A544610/4
+
+#EXTINF:-1,FOX SPORT 3
+http://s3linkgapp.net:25461/Lista-Gratuita-H252362/Descarga-Desde-PlayStore-GnulaTVLite-A544610/7
+
+#EXTINF:-1,ESPN 
+http://s3linkgapp.net:25461/Lista-Gratuita-H252362/Descarga-Desde-PlayStore-GnulaTVLite-A544610/10
+
+#EXTINF:-1,ESPN 2
+http://s3linkgapp.net:25461/Lista-Gratuita-H252362/Descarga-Desde-PlayStore-GnulaTVLite-A544610/13
+
+#EXTINF:-1,ESPN 3
+http://s3linkgapp.net:25461/Lista-Gratuita-H252362/Descarga-Desde-PlayStore-GnulaTVLite-A544610/16
+
+#EXTINF:-1,BEIN Ñ
+http://s3linkgapp.net:25461/Lista-Gratuita-H252362/Descarga-Desde-PlayStore-GnulaTVLite-A544610/129
+
+#EXTINF:-1tvg-logo"https://ia601503.us.archive.org/0/items/logodeapk3/logo%20de%20apk%203.png", DAPSTREAMING EVENTOS
+https://ia601509.us.archive.org/33/items/20200202215840edited/20200202_215840_edited.mp4
